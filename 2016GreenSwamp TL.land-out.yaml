@@ -1,0 +1,130 @@
+minDistance: 5.0 km
+bestDistance:
+- 34.3 km
+- 42.7 km
+- 12.3 km
+- 108.3 km
+- 41.0 km
+landout:
+- 2
+- 0
+- 5
+- 3
+- 1
+lookahead:
+- 514
+- 30
+- 74
+- 1083
+- 1229
+sumOfDifficulty:
+- 3
+- 0
+- 3
+- 3
+- 1
+difficulty:
+- - chunk: 5
+    startChunk: 5.4 km
+    endChunk: 5.5 km
+    endAhead: 56.9 km
+    down: 1
+    downs:
+    - 5.438 km
+    downers:
+    - - '101'
+      - Ken  Kinzie
+    downward: 2
+    rel: 0.33333333
+    frac: 0.33333333
+  - chunk: 208
+    startChunk: 25.7 km
+    endChunk: 25.8 km
+    endAhead: 77.2 km
+    down: 1
+    downs:
+    - 25.779 km
+    downers:
+    - - '105'
+      - Alan Arcos
+    downward: 1
+    rel: 0.16666667
+    frac: 0.5
+- []
+- - chunk: 0
+    startChunk: 5.0 km
+    endChunk: 5.0 km
+    endAhead: 12.4 km
+    down: 4
+    downs:
+    - 4.253 km
+    - 4.284 km
+    - 4.297 km
+    - 4.301 km
+    downers:
+    - - '105'
+      - Alan Arcos
+    - - '101'
+      - Ken  Kinzie
+    - - '104'
+      - Mark Bourbonnais
+    - - '102'
+      - Fausto Arcos
+    downward: 2
+    rel: 0.33333333
+    frac: 0.33333333
+  - chunk: 29
+    startChunk: 7.8 km
+    endChunk: 7.9 km
+    endAhead: 15.3 km
+    down: 1
+    downs:
+    - 7.832 km
+    downers:
+    - - '103'
+      - Mick Howard
+    downward: 1
+    rel: 0.16666667
+    frac: 0.5
+- - chunk: 168
+    startChunk: 21.7 km
+    endChunk: 21.8 km
+    endAhead: 130.1 km
+    down: 2
+    downs:
+    - 21.733 km
+    - 21.750 km
+    downers:
+    - - '105'
+      - Alan Arcos
+    - - '104'
+      - Mark Bourbonnais
+    downward: 2
+    rel: 0.33333333
+    frac: 0.33333333
+  - chunk: 403
+    startChunk: 45.2 km
+    endChunk: 45.3 km
+    endAhead: 153.6 km
+    down: 1
+    downs:
+    - 45.220 km
+    downers:
+    - - '103'
+      - Mick Howard
+    downward: 1
+    rel: 0.16666667
+    frac: 0.5
+- - chunk: 288
+    startChunk: 33.7 km
+    endChunk: 33.8 km
+    endAhead: 156.7 km
+    down: 1
+    downs:
+    - 33.715 km
+    downers:
+    - - '103'
+      - Mick Howard
+    downward: 1
+    rel: 0.5
+    frac: 0.5

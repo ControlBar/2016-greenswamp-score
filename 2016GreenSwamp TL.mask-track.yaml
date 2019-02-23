@@ -1,0 +1,668 @@
+pilotsAtEss:
+- 3
+- 5
+- 0
+- 1
+- 4
+raceTime:
+- openTask: 2016-04-03T18:30:00Z
+  closeTask: 2016-04-04T00:00:00Z
+  firstStart: 2016-04-03T19:23:58Z
+  firstLead: 2016-04-03T19:23:58Z
+  lastArrival: 2016-04-03T20:45:48Z
+  leadAllDown: 102063
+  leadArrival: 4910
+  leadClose: 16562
+  openClose: 19800
+  tickClose: 16562
+- openTask: 2016-04-04T17:30:00Z
+  closeTask: 2016-04-05T00:00:00Z
+  firstStart: 2016-04-04T18:23:23Z
+  firstLead: 2016-04-04T18:23:23Z
+  lastArrival: 2016-04-04T20:55:28Z
+  leadAllDown: 15380
+  leadArrival: 9125
+  leadClose: 20197
+  openClose: 23400
+  tickClose: 20197
+- openTask: 2016-04-05T17:00:00Z
+  closeTask: 2016-04-06T00:00:00Z
+  firstStart: 2016-04-09T18:33:23Z
+  firstLead: 2016-04-09T18:33:23Z
+  lastArrival: null
+  leadAllDown: 7560
+  leadArrival: null
+  leadClose: -326003
+  openClose: 25200
+  tickClose: -326003
+- openTask: 2016-04-06T17:30:00Z
+  closeTask: 2016-04-07T00:00:00Z
+  firstStart: 2016-04-06T18:13:25Z
+  firstLead: 2016-04-06T18:13:25Z
+  lastArrival: 2016-04-06T21:14:09Z
+  leadAllDown: 11515
+  leadArrival: 10844
+  leadClose: 20795
+  openClose: 23400
+  tickClose: 20795
+- openTask: 2016-04-09T18:00:00Z
+  closeTask: 2016-04-10T00:00:00Z
+  firstStart: 2016-04-09T18:33:23Z
+  firstLead: 2016-04-09T18:33:23Z
+  lastArrival: 2016-04-09T19:40:48Z
+  leadAllDown: 7560
+  leadArrival: 4045
+  leadClose: 19597
+  openClose: 21600
+  tickClose: 19597
+ssBestTime:
+- 1.055556 h
+- 2.160278 h
+- null
+- 3.012222 h
+- 1.112222 h
+gsBestTime:
+- 1.055556 h
+- 2.160278 h
+- null
+- 3.012222 h
+- 1.112222 h
+taskDistance:
+- 34.259485 km
+- 42.669368 km
+- 110.550208 km
+- 108.269785 km
+- 40.970438 km
+taskSpeedDistance:
+- 29.659486 km
+- 40.069382 km
+- 105.950238 km
+- 103.670423 km
+- 36.370438 km
+bestDistance:
+- 34.259485 km
+- 42.669368 km
+- 12.284208 km
+- 108.269785 km
+- 40.970438 km
+sumDistance:
+- 109.712425 km
+- 188.346840 km
+- 35.509040 km
+- 179.046140 km
+- 173.607190 km
+leadScaling:
+- 6.3153911e-7
+- 3.460208e-7
+- 4.94907e-8
+- 5.169134e-8
+- 4.1998176e-7
+leadCoefMin:
+- 0.67856163
+- 1.29805017
+- 0
+- 1.86623153
+- 0.61708846
+lead:
+- - - - '103'
+      - Mick Howard
+    - coef: 0.67856163
+      frac: 1
+  - - - '102'
+      - Fausto Arcos
+    - coef: 0.73607621
+      frac: 0.83044048
+  - - - '104'
+      - Mark Bourbonnais
+    - coef: 0.85165081
+      frac: 0.64655907
+  - - - '105'
+      - Alan Arcos
+    - coef: 0.89103644
+      frac: 0.59479462
+  - - - '101'
+      - Ken  Kinzie
+    - coef: 32.5383323
+      frac: 0
+- - - - '105'
+      - Alan Arcos
+    - coef: 1.29805017
+      frac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - coef: 1.37411858
+      frac: 0.83542176
+  - - - '104'
+      - Mark Bourbonnais
+    - coef: 1.3894209
+      frac: 0.81403084
+  - - - '102'
+      - Fausto Arcos
+    - coef: 1.40729666
+      frac: 0.79050459
+  - - - '103'
+      - Mick Howard
+    - coef: 1.46654877
+      frac: 0.72033783
+- - - - '103'
+      - Mick Howard
+    - coef: 0
+      frac: 0
+  - - - '102'
+      - Fausto Arcos
+    - coef: 0
+      frac: 0
+  - - - '104'
+      - Mark Bourbonnais
+    - coef: 0
+      frac: 0
+  - - - '101'
+      - Ken  Kinzie
+    - coef: 0
+      frac: 0
+  - - - '105'
+      - Alan Arcos
+    - coef: 0
+      frac: 0
+- - - - '102'
+      - Fausto Arcos
+    - coef: 1.86623153
+      frac: 1
+  - - - '103'
+      - Mick Howard
+    - coef: 3.17249287
+      frac: 2.941955e-2
+  - - - '105'
+      - Alan Arcos
+    - coef: 3.88969362
+      frac: 0
+  - - - '104'
+      - Mark Bourbonnais
+    - coef: 3.91460038
+      frac: 0
+- - - - '102'
+      - Fausto Arcos
+    - coef: 0.61708846
+      frac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - coef: 0.61776808
+      frac: 0.99092057
+  - - - '105'
+      - Alan Arcos
+    - coef: 0.62054274
+      frac: 0.97315961
+  - - - '104'
+      - Mark Bourbonnais
+    - coef: 0.62600702
+      frac: 0.94948577
+  - - - '103'
+      - Mick Howard
+    - coef: 2.16465975
+      frac: 0
+arrival:
+- - - - '103'
+      - Mick Howard
+    - rank: '1'
+      frac: 1
+  - - - '102'
+      - Fausto Arcos
+    - rank: '2'
+      frac: 0.47
+  - - - '104'
+      - Mark Bourbonnais
+    - rank: '3'
+      frac: 0.25022222
+- - - - '105'
+      - Alan Arcos
+    - rank: '1'
+      frac: 1
+  - - - '103'
+      - Mick Howard
+    - rank: '2'
+      frac: 0.636896
+  - - - '102'
+      - Fausto Arcos
+    - rank: '3'
+      frac: 0.405728
+  - - - '104'
+      - Mark Bourbonnais
+    - rank: '4'
+      frac: 0.276112
+  - - - '101'
+      - Ken  Kinzie
+    - rank: '5'
+      frac: 0.217664
+- []
+- - - - '102'
+      - Fausto Arcos
+    - rank: '1'
+      frac: 1
+- - - - '105'
+      - Alan Arcos
+    - rank: '1'
+      frac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - rank: '2'
+      frac: 0.56792188
+  - - - '104'
+      - Mark Bourbonnais
+    - rank: '3'
+      frac: 0.330125
+  - - - '102'
+      - Fausto Arcos
+    - rank: '4'
+      frac: 0.22726562
+ssSpeed:
+- - - - '102'
+      - Fausto Arcos
+    - time: 1.055556 h
+      frac: 1
+  - - - '103'
+      - Mick Howard
+    - time: 1.101111 h
+      frac: 0.8747242
+  - - - '104'
+      - Mark Bourbonnais
+    - time: 1.336389 h
+      frac: 0.5788158
+- - - - '103'
+      - Mick Howard
+    - time: 2.160278 h
+      frac: 1
+  - - - '105'
+      - Alan Arcos
+    - time: 2.233333 h
+      frac: 0.86481382
+  - - - '102'
+      - Fausto Arcos
+    - time: 2.275278 h
+      frac: 0.81706561
+  - - - '104'
+      - Mark Bourbonnais
+    - time: 2.445000 h
+      frac: 0.66520597
+  - - - '101'
+      - Ken  Kinzie
+    - time: 2.534722 h
+      frac: 0.5981274
+- []
+- - - - '102'
+      - Fausto Arcos
+    - time: 3.012222 h
+      frac: 1
+- - - - '105'
+      - Alan Arcos
+    - time: 1.112222 h
+      frac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - time: 1.113333 h
+      frac: 0.98964601
+  - - - '102'
+      - Fausto Arcos
+    - time: 1.120556 h
+      frac: 0.96032819
+  - - - '104'
+      - Mark Bourbonnais
+    - time: 1.121111 h
+      frac: 0.95858403
+gsSpeed:
+- - - - '102'
+      - Fausto Arcos
+    - time: 1.055556 h
+      frac: 1
+  - - - '103'
+      - Mick Howard
+    - time: 1.101111 h
+      frac: 0.8747242
+  - - - '104'
+      - Mark Bourbonnais
+    - time: 1.336389 h
+      frac: 0.5788158
+- - - - '103'
+      - Mick Howard
+    - time: 2.160278 h
+      frac: 1
+  - - - '105'
+      - Alan Arcos
+    - time: 2.233333 h
+      frac: 0.86481382
+  - - - '102'
+      - Fausto Arcos
+    - time: 2.275278 h
+      frac: 0.81706561
+  - - - '104'
+      - Mark Bourbonnais
+    - time: 2.445000 h
+      frac: 0.66520597
+  - - - '101'
+      - Ken  Kinzie
+    - time: 2.534722 h
+      frac: 0.5981274
+- []
+- - - - '102'
+      - Fausto Arcos
+    - time: 3.012222 h
+      frac: 1
+- - - - '105'
+      - Alan Arcos
+    - time: 1.112222 h
+      frac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - time: 1.113333 h
+      frac: 0.98964601
+  - - - '102'
+      - Fausto Arcos
+    - time: 1.120556 h
+      frac: 0.96032819
+  - - - '104'
+      - Mark Bourbonnais
+    - time: 1.121111 h
+      frac: 0.95858403
+nigh:
+- - - - '105'
+      - Alan Arcos
+    - togo:
+        distance: 8.085440 km
+        flipSum:
+        - 8.085440 km
+        legs:
+        - 8.085440 km
+        legsSum:
+        - 8.085440 km
+        waypoints:
+        - lat: 28.31273333
+          lng: -81.89188333
+        - lat: 28.25635324
+          lng: -81.94402904
+      made: 26.174485 km
+  - - - '101'
+      - Ken  Kinzie
+    - togo:
+        distance: 28.500303 km
+        flipSum:
+        - 28.500303 km
+        - 17.414571 km
+        legs:
+        - 11.085732 km
+        - 17.414571 km
+        legsSum:
+        - 11.085732 km
+        - 28.500303 km
+        waypoints:
+        - lat: 28.47798333
+          lng: -81.84525
+        - lat: 28.37885297
+          lng: -81.8331868
+        - lat: 28.25635324
+          lng: -81.94402904
+      made: 5.759485 km
+- []
+- - - - '103'
+      - Mick Howard
+    - togo:
+        distance: 99.058759 km
+        flipSum:
+        - 99.058759 km
+        - 84.213922 km
+        legs:
+        - 14.844838 km
+        - 84.213922 km
+        legsSum:
+        - 14.844838 km
+        - 99.058759 km
+        waypoints:
+        - lat: 28.33301667
+          lng: -81.83363333
+        - lat: 28.34040221
+          lng: -81.68218773
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 11.491208 km
+  - - - '102'
+      - Fausto Arcos
+    - togo:
+        distance: 98.266367 km
+        flipSum:
+        - 98.266367 km
+        - 84.275189 km
+        legs:
+        - 13.991177 km
+        - 84.275189 km
+        legsSum:
+        - 13.991177 km
+        - 98.266367 km
+        waypoints:
+        - lat: 28.35048333
+          lng: -81.82535
+        - lat: 28.34086308
+          lng: -81.68280086
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 12.284208 km
+  - - - '104'
+      - Mark Bourbonnais
+    - togo:
+        distance: 98.332593 km
+        flipSum:
+        - 98.332593 km
+        - 84.244064 km
+        legs:
+        - 14.088529 km
+        - 84.244064 km
+        legsSum:
+        - 14.088529 km
+        - 98.332593 km
+        waypoints:
+        - lat: 28.34848333
+          lng: -81.82618333
+        - lat: 28.34062735
+          lng: -81.68249943
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 12.217208 km
+  - - - '101'
+      - Ken  Kinzie
+    - togo:
+        distance: 98.317816 km
+        flipSum:
+        - 98.317816 km
+        - 84.244064 km
+        legs:
+        - 14.073752 km
+        - 84.244064 km
+        legsSum:
+        - 14.073752 km
+        - 98.317816 km
+        waypoints:
+        - lat: 28.3487
+          lng: -81.82601667
+        - lat: 28.34062735
+          lng: -81.68249943
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 12.232208 km
+  - - - '105'
+      - Alan Arcos
+    - togo:
+        distance: 98.265506 km
+        flipSum:
+        - 98.265506 km
+        - 84.275189 km
+        legs:
+        - 13.990317 km
+        - 84.275189 km
+        legsSum:
+        - 13.990317 km
+        - 98.265506 km
+        waypoints:
+        - lat: 28.3489
+          lng: -81.82546667
+        - lat: 28.34086308
+          lng: -81.68280086
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 12.284208 km
+- - - - '103'
+      - Mick Howard
+    - togo:
+        distance: 62.788688 km
+        flipSum:
+        - 62.788688 km
+        - 31.094259 km
+        legs:
+        - 31.694429 km
+        - 31.094259 km
+        legsSum:
+        - 31.694429 km
+        - 62.788688 km
+        waypoints:
+        - lat: 28.8799
+          lng: -82.10701667
+        - lat: 29.08553408
+          lng: -82.33265625
+        - lat: 29.34182986
+          lng: -82.46080194
+      made: 45.480785 km
+  - - - '104'
+      - Mark Bourbonnais
+    - togo:
+        distance: 85.759389 km
+        flipSum:
+        - 85.759389 km
+        - 31.289178 km
+        legs:
+        - 54.470211 km
+        - 31.289178 km
+        legsSum:
+        - 54.470211 km
+        - 85.759389 km
+        waypoints:
+        - lat: 28.71471667
+          lng: -81.96396667
+        - lat: 29.0840389
+          lng: -82.33156164
+        - lat: 29.34197209
+          lng: -82.46042891
+      made: 22.510785 km
+  - - - '105'
+      - Alan Arcos
+    - togo:
+        distance: 85.484857 km
+        flipSum:
+        - 85.484857 km
+        - 31.289178 km
+        legs:
+        - 54.195679 km
+        - 31.289178 km
+        legsSum:
+        - 54.195679 km
+        - 85.484857 km
+        waypoints:
+        - lat: 28.71525
+          lng: -81.96756667
+        - lat: 29.0840389
+          lng: -82.33156164
+        - lat: 29.34197209
+          lng: -82.46042891
+      made: 22.784785 km
+- - - - '103'
+      - Mick Howard
+    - togo:
+        distance: 6.244751 km
+        flipSum:
+        - 6.244751 km
+        legs:
+        - 6.244751 km
+        legsSum:
+        - 6.244751 km
+        waypoints:
+        - lat: 28.21783333
+          lng: -81.81635
+        - lat: 28.16472946
+          lng: -81.79561556
+      made: 34.725438 km
+land:
+- - - - '105'
+      - Alan Arcos
+    - togo: 8.480028 km
+      made: 25.779457 km
+  - - - '101'
+      - Ken  Kinzie
+    - togo: 28.821906 km
+      made: 5.437579 km
+- []
+- - - - '103'
+      - Mick Howard
+    - togo: 102.717939 km
+      made: 7.832269 km
+  - - - '102'
+      - Fausto Arcos
+    - togo: 106.249503 km
+      made: 4.300705 km
+  - - - '104'
+      - Mark Bourbonnais
+    - togo: 106.253193 km
+      made: 4.297015 km
+  - - - '101'
+      - Ken  Kinzie
+    - togo: 106.266337 km
+      made: 4.283871 km
+  - - - '105'
+      - Alan Arcos
+    - togo: 106.296727 km
+      made: 4.253481 km
+- - - - '103'
+      - Mick Howard
+    - togo: 63.050157 km
+      made: 45.219628 km
+  - - - '104'
+      - Mark Bourbonnais
+    - togo: 86.519756 km
+      made: 21.750029 km
+  - - - '105'
+      - Alan Arcos
+    - togo: 86.536649 km
+      made: 21.733136 km
+- - - - '103'
+      - Mick Howard
+    - togo: 7.255373 km
+      made: 33.715065 km
+altStopped:
+- - - - '105'
+      - Alan Arcos
+    - -10.000 m
+  - - - '101'
+      - Ken  Kinzie
+    - 0.000 m
+- []
+- - - - '105'
+      - Alan Arcos
+    - -13.000 m
+  - - - '102'
+      - Fausto Arcos
+    - 0.000 m
+  - - - '101'
+      - Ken  Kinzie
+    - 21.000 m
+  - - - '104'
+      - Mark Bourbonnais
+    - -8.000 m
+  - - - '103'
+      - Mick Howard
+    - 2.000 m
+- - - - '105'
+      - Alan Arcos
+    - -40.000 m
+  - - - '104'
+      - Mark Bourbonnais
+    - -30.000 m
+  - - - '103'
+      - Mick Howard
+    - -20.000 m
+- - - - '103'
+      - Mick Howard
+    - 2.000 m
