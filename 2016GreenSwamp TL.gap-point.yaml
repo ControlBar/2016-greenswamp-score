@@ -220,7 +220,7 @@ score:
   - - - '103'
       - Mick Howard
     - place: '2'
-      total: 830
+      total: 829
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -229,7 +229,7 @@ score:
         distance: 351.217
         leading: 0
         arrival: 0
-        time: 478.7
+        time: 478.1
       velocity:
         ss: 2016-04-03T19:23:58Z
         gs: null
@@ -245,7 +245,7 @@ score:
   - - - '104'
       - Mark Bourbonnais
     - place: '3'
-      total: 668
+      total: 666
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -254,7 +254,7 @@ score:
         distance: 351.217
         leading: 0
         arrival: 0
-        time: 316.8
+        time: 314.7
       velocity:
         ss: 2016-04-03T19:25:37Z
         gs: null
@@ -346,7 +346,7 @@ score:
   - - - '105'
       - Alan Arcos
     - place: '2'
-      total: 914
+      total: 902
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -355,7 +355,7 @@ score:
         distance: 361
         leading: 0
         arrival: 0
-        time: 552.6
+        time: 540.8
       velocity:
         ss: 2016-04-04T18:23:51Z
         gs: null
@@ -371,7 +371,7 @@ score:
   - - - '102'
       - Fausto Arcos
     - place: '3'
-      total: 883
+      total: 867
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -380,7 +380,7 @@ score:
         distance: 361
         leading: 0
         arrival: 0
-        time: 522.1
+        time: 506.1
       velocity:
         ss: 2016-04-04T18:29:14Z
         gs: null
@@ -396,7 +396,7 @@ score:
   - - - '104'
       - Mark Bourbonnais
     - place: '4'
-      total: 786
+      total: 757
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -405,7 +405,7 @@ score:
         distance: 361
         leading: 0
         arrival: 0
-        time: 425.1
+        time: 395.8
       velocity:
         ss: 2016-04-04T18:25:02Z
         gs: null
@@ -421,7 +421,7 @@ score:
   - - - '101'
       - Ken  Kinzie
     - place: '5'
-      total: 743
+      total: 708
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -430,7 +430,7 @@ score:
         distance: 361
         leading: 0
         arrival: 0
-        time: 382.2
+        time: 347
       velocity:
         ss: 2016-04-04T18:23:23Z
         gs: null
@@ -705,7 +705,7 @@ score:
         distance: 335.047
         leading: 0
         arrival: 0
-        time: 579.9
+        time: 579.8
       velocity:
         ss: 2016-04-09T18:33:40Z
         gs: null
@@ -721,7 +721,7 @@ score:
   - - - '102'
       - Fausto Arcos
     - place: '3'
-      total: 898
+      total: 897
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -730,7 +730,7 @@ score:
         distance: 335.047
         leading: 0
         arrival: 0
-        time: 562.7
+        time: 562.3
       velocity:
         ss: 2016-04-09T18:33:34Z
         gs: null
@@ -746,7 +746,7 @@ score:
   - - - '104'
       - Mark Bourbonnais
     - place: '4'
-      total: 897
+      total: 896
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -755,7 +755,7 @@ score:
         distance: 335.047
         leading: 0
         arrival: 0
-        time: 561.7
+        time: 561.3
       velocity:
         ss: 2016-04-09T18:33:23Z
         gs: null
@@ -822,7 +822,7 @@ scoreDf:
   - - - '103'
       - Mick Howard
     - place: '2'
-      total: 830
+      total: 829
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -831,7 +831,7 @@ scoreDf:
         distance: 351.217
         leading: 0
         arrival: 0
-        time: 478.7
+        time: 478.1
       velocity:
         ss: 2016-04-03T19:23:58Z
         gs: null
@@ -847,7 +847,7 @@ scoreDf:
   - - - '104'
       - Mark Bourbonnais
     - place: '3'
-      total: 668
+      total: 666
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -856,7 +856,7 @@ scoreDf:
         distance: 351.217
         leading: 0
         arrival: 0
-        time: 316.8
+        time: 314.7
       velocity:
         ss: 2016-04-03T19:25:37Z
         gs: null
@@ -948,7 +948,7 @@ scoreDf:
   - - - '105'
       - Alan Arcos
     - place: '2'
-      total: 914
+      total: 902
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -957,7 +957,7 @@ scoreDf:
         distance: 361
         leading: 0
         arrival: 0
-        time: 552.6
+        time: 540.8
       velocity:
         ss: 2016-04-04T18:23:51Z
         gs: null
@@ -973,7 +973,7 @@ scoreDf:
   - - - '102'
       - Fausto Arcos
     - place: '3'
-      total: 883
+      total: 867
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -982,7 +982,7 @@ scoreDf:
         distance: 361
         leading: 0
         arrival: 0
-        time: 522.1
+        time: 506.1
       velocity:
         ss: 2016-04-04T18:29:14Z
         gs: null
@@ -998,7 +998,7 @@ scoreDf:
   - - - '104'
       - Mark Bourbonnais
     - place: '4'
-      total: 786
+      total: 757
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -1007,7 +1007,7 @@ scoreDf:
         distance: 361
         leading: 0
         arrival: 0
-        time: 425.1
+        time: 395.8
       velocity:
         ss: 2016-04-04T18:25:02Z
         gs: null
@@ -1023,7 +1023,7 @@ scoreDf:
   - - - '101'
       - Ken  Kinzie
     - place: '5'
-      total: 743
+      total: 708
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -1032,7 +1032,7 @@ scoreDf:
         distance: 361
         leading: 0
         arrival: 0
-        time: 382.2
+        time: 347
       velocity:
         ss: 2016-04-04T18:23:23Z
         gs: null
@@ -1307,7 +1307,7 @@ scoreDf:
         distance: 335.047
         leading: 0
         arrival: 0
-        time: 579.9
+        time: 579.8
       velocity:
         ss: 2016-04-09T18:33:40Z
         gs: null
@@ -1323,7 +1323,7 @@ scoreDf:
   - - - '102'
       - Fausto Arcos
     - place: '3'
-      total: 898
+      total: 897
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -1332,7 +1332,7 @@ scoreDf:
         distance: 335.047
         leading: 0
         arrival: 0
-        time: 562.7
+        time: 562.3
       velocity:
         ss: 2016-04-09T18:33:34Z
         gs: null
@@ -1348,7 +1348,7 @@ scoreDf:
   - - - '104'
       - Mark Bourbonnais
     - place: '4'
-      total: 897
+      total: 896
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -1357,7 +1357,7 @@ scoreDf:
         distance: 335.047
         leading: 0
         arrival: 0
-        time: 561.7
+        time: 561.3
       velocity:
         ss: 2016-04-09T18:33:23Z
         gs: null

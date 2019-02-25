@@ -111,15 +111,15 @@ lead:
   - - - '102'
       - Fausto Arcos
     - coef: 0.73607621
-      frac: 0.83044048
+      frac: 0.84105249
   - - - '104'
       - Mark Bourbonnais
     - coef: 0.85165081
-      frac: 0.64655907
+      frac: 0.66867943
   - - - '105'
       - Alan Arcos
     - coef: 0.89103644
-      frac: 0.59479462
+      frac: 0.6201547
   - - - '101'
       - Ken  Kinzie
     - coef: 32.5383323
@@ -131,19 +131,19 @@ lead:
   - - - '101'
       - Ken  Kinzie
     - coef: 1.37411858
-      frac: 0.83542176
+      frac: 0.82810853
   - - - '104'
       - Mark Bourbonnais
     - coef: 1.3894209
-      frac: 0.81403084
+      frac: 0.80576708
   - - - '102'
       - Fausto Arcos
     - coef: 1.40729666
-      frac: 0.79050459
+      frac: 0.78119541
   - - - '103'
       - Mick Howard
     - coef: 1.46654877
-      frac: 0.72033783
+      frac: 0.70791071
 - - - - '103'
       - Mick Howard
     - coef: 0
@@ -171,7 +171,7 @@ lead:
   - - - '103'
       - Mick Howard
     - coef: 3.17249287
-      frac: 2.941955e-2
+      frac: 0
   - - - '105'
       - Alan Arcos
     - coef: 3.88969362
@@ -187,15 +187,15 @@ lead:
   - - - '101'
       - Ken  Kinzie
     - coef: 0.61776808
-      frac: 0.99092057
+      frac: 0.99162246
   - - - '105'
       - Alan Arcos
     - coef: 0.62054274
-      frac: 0.97315961
+      frac: 0.97523452
   - - - '104'
       - Mark Bourbonnais
     - coef: 0.62600702
-      frac: 0.94948577
+      frac: 0.9533908
   - - - '103'
       - Mick Howard
     - coef: 2.16465975
@@ -262,11 +262,11 @@ ssSpeed:
   - - - '103'
       - Mick Howard
     - time: 1.101111 h
-      frac: 0.8747242
+      frac: 0.87359021
   - - - '104'
       - Mark Bourbonnais
     - time: 1.336389 h
-      frac: 0.5788158
+      frac: 0.57500327
 - - - - '103'
       - Mick Howard
     - time: 2.160278 h
@@ -274,19 +274,19 @@ ssSpeed:
   - - - '105'
       - Alan Arcos
     - time: 2.233333 h
-      frac: 0.86481382
+      frac: 0.84629645
   - - - '102'
       - Fausto Arcos
     - time: 2.275278 h
-      frac: 0.81706561
+      frac: 0.79200784
   - - - '104'
       - Mark Bourbonnais
     - time: 2.445000 h
-      frac: 0.66520597
+      frac: 0.61934695
   - - - '101'
       - Ken  Kinzie
     - time: 2.534722 h
-      frac: 0.5981274
+      frac: 0.54308018
 - []
 - - - - '102'
       - Fausto Arcos
@@ -299,15 +299,15 @@ ssSpeed:
   - - - '101'
       - Ken  Kinzie
     - time: 1.113333 h
-      frac: 0.98964601
+      frac: 0.98946083
   - - - '102'
       - Fausto Arcos
     - time: 1.120556 h
-      frac: 0.96032819
+      frac: 0.95961867
   - - - '104'
       - Mark Bourbonnais
     - time: 1.121111 h
-      frac: 0.95858403
+      frac: 0.95784332
 gsSpeed:
 - - - - '102'
       - Fausto Arcos
@@ -316,11 +316,11 @@ gsSpeed:
   - - - '103'
       - Mick Howard
     - time: 1.101111 h
-      frac: 0.8747242
+      frac: 0.87359021
   - - - '104'
       - Mark Bourbonnais
     - time: 1.336389 h
-      frac: 0.5788158
+      frac: 0.57500327
 - - - - '103'
       - Mick Howard
     - time: 2.160278 h
@@ -328,19 +328,19 @@ gsSpeed:
   - - - '105'
       - Alan Arcos
     - time: 2.233333 h
-      frac: 0.86481382
+      frac: 0.84629645
   - - - '102'
       - Fausto Arcos
     - time: 2.275278 h
-      frac: 0.81706561
+      frac: 0.79200784
   - - - '104'
       - Mark Bourbonnais
     - time: 2.445000 h
-      frac: 0.66520597
+      frac: 0.61934695
   - - - '101'
       - Ken  Kinzie
     - time: 2.534722 h
-      frac: 0.5981274
+      frac: 0.54308018
 - []
 - - - - '102'
       - Fausto Arcos
@@ -353,15 +353,15 @@ gsSpeed:
   - - - '101'
       - Ken  Kinzie
     - time: 1.113333 h
-      frac: 0.98964601
+      frac: 0.98946083
   - - - '102'
       - Fausto Arcos
     - time: 1.120556 h
-      frac: 0.96032819
+      frac: 0.95961867
   - - - '104'
       - Mark Bourbonnais
     - time: 1.121111 h
-      frac: 0.95858403
+      frac: 0.95784332
 nigh:
 - - - - '105'
       - Alan Arcos

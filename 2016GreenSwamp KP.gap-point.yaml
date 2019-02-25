@@ -1688,7 +1688,7 @@ score:
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 1021
+      total: 1020
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handcap
@@ -1698,7 +1698,7 @@ score:
         distance: 521.974
         leading: 0
         arrival: 0
-        time: 441.4
+        time: 440.6
       velocity:
         ss: 2016-04-09T18:56:27Z
         gs: null
@@ -1739,7 +1739,7 @@ score:
   - - - '216'
       - John Maloney
     - place: '3'
-      total: 946
+      total: 941
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
@@ -1749,7 +1749,7 @@ score:
         distance: 521.974
         leading: 0
         arrival: 0
-        time: 370
+        time: 365.8
       velocity:
         ss: 2016-04-09T19:22:04Z
         gs: null
@@ -1765,7 +1765,7 @@ score:
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 864
+      total: 858
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -1774,7 +1774,7 @@ score:
         distance: 521.974
         leading: 0
         arrival: 0
-        time: 341.8
+        time: 336.2
       velocity:
         ss: 2016-04-09T18:59:35Z
         gs: null
@@ -3418,7 +3418,7 @@ scoreDf:
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 1021
+      total: 1020
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handcap
@@ -3428,7 +3428,7 @@ scoreDf:
         distance: 521.974
         leading: 0
         arrival: 0
-        time: 441.4
+        time: 440.6
       velocity:
         ss: 2016-04-09T18:56:27Z
         gs: null
@@ -3469,7 +3469,7 @@ scoreDf:
   - - - '216'
       - John Maloney
     - place: '3'
-      total: 946
+      total: 941
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
@@ -3479,7 +3479,7 @@ scoreDf:
         distance: 521.974
         leading: 0
         arrival: 0
-        time: 370
+        time: 365.8
       velocity:
         ss: 2016-04-09T19:22:04Z
         gs: null
@@ -3495,7 +3495,7 @@ scoreDf:
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 864
+      total: 858
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3504,7 +3504,7 @@ scoreDf:
         distance: 521.974
         leading: 0
         arrival: 0
-        time: 341.8
+        time: 336.2
       velocity:
         ss: 2016-04-09T18:59:35Z
         gs: null

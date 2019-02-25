@@ -111,39 +111,39 @@ lead:
   - - - '205'
       - Kelly Myrkle
     - coef: 1.09726578
-      frac: 0.55815007
+      frac: 0.57168399
   - - - '214'
       - Richard Elder
     - coef: 1.11367324
-      frac: 0.5402646
+      frac: 0.55434635
   - - - '201'
       - Niki Longshore
     - coef: 1.1393608
-      frac: 0.51293931
+      frac: 0.52785803
   - - - '212'
       - Greg Sessa
     - coef: 1.14097572
-      frac: 0.51124722
+      frac: 0.52621778
   - - - '204'
       - Owen MB
     - coef: 1.40163157
-      frac: 0.26677917
+      frac: 0.2892378
   - - - '216'
       - John Maloney
     - coef: 1.44854105
-      frac: 0.22721384
+      frac: 0.25088436
   - - - '209'
       - John Blank
     - coef: 1.47623621
-      frac: 0.20432488
+      frac: 0.2286965
   - - - '211'
       - Dan Lukaszewicz
     - coef: 1.48075823
-      frac: 0.20061893
+      frac: 0.22510406
   - - - '207'
       - Alex Skyride
     - coef: 1.70416675
-      frac: 2.686523e-2
+      frac: 5.667246e-2
   - - - '217'
       - Richard Westmoreland
     - coef: 1.84336621
@@ -159,43 +159,43 @@ lead:
   - - - '204'
       - Owen MB
     - coef: 2.46096615
-      frac: 0.8185416
+      frac: 0.79088018
   - - - '202'
       - Nick Jones
     - coef: 2.51477612
-      frac: 0.76702073
+      frac: 0.73150551
   - - - '201'
       - Niki Longshore
     - coef: 2.79927899
-      frac: 0.55352006
+      frac: 0.48545892
   - - - '212'
       - Greg Sessa
     - coef: 2.8245839
-      frac: 0.53717355
+      frac: 0.46662056
   - - - '211'
       - Dan Lukaszewicz
     - coef: 2.85575358
-      frac: 0.51742652
+      frac: 0.4438633
   - - - '214'
       - Richard Elder
     - coef: 2.98179357
-      frac: 0.44132432
+      frac: 0.35616012
   - - - '216'
       - John Maloney
     - coef: 3.01977154
-      frac: 0.41940663
+      frac: 0.33090131
   - - - '207'
       - Alex Skyride
     - coef: 3.12417554
-      frac: 0.36116287
+      frac: 0.26377892
   - - - '217'
       - Richard Westmoreland
     - coef: 3.35141613
-      frac: 0.24266347
+      frac: 0.12721554
   - - - '213'
       - Willie Van Caulart
     - coef: 3.65328761
-      frac: 9.825427e-2
+      frac: 0
   - - - '210'
       - Pete Wall
     - coef: 3.97763363
@@ -255,23 +255,23 @@ lead:
   - - - '212'
       - Greg Sessa
     - coef: 3.83136691
-      frac: 0.50346752
+      frac: 0.39709048
   - - - '203'
       - Andrey Solomykin
     - coef: 4.11045166
-      frac: 0.36519932
+      frac: 0.22919973
   - - - '205'
       - Kelly Myrkle
     - coef: 4.25357062
-      frac: 0.2999561
+      frac: 0.14997882
   - - - '201'
       - Niki Longshore
     - coef: 4.6028659
-      frac: 0.1520507
+      frac: 0
   - - - '202'
       - Nick Jones
     - coef: 4.62237163
-      frac: 0.14418083
+      frac: 0
   - - - '214'
       - Richard Elder
     - coef: 5.09112667
@@ -303,19 +303,19 @@ lead:
   - - - '202'
       - Nick Jones
     - coef: 1.05676144
-      frac: 0.77702565
+      frac: 0.77877167
   - - - '203'
       - Andrey Solomykin
     - coef: 1.06492375
-      frac: 0.7653777
+      frac: 0.76721493
   - - - '205'
       - Kelly Myrkle
     - coef: 1.76405218
-      frac: 0.11719823
+      frac: 0.12411109
   - - - '216'
       - John Maloney
     - coef: 1.784201
-      frac: 0.10262066
+      frac: 0.10964767
   - - - '217'
       - Richard Westmoreland
     - coef: 1.9518588
@@ -381,15 +381,15 @@ ssSpeed:
   - - - '201'
       - Niki Longshore
     - time: 1.335556 h
-      frac: 0.96428408
+      frac: 0.96255595
   - - - '216'
       - John Maloney
     - time: 1.424444 h
-      frac: 0.80836447
+      frac: 0.79909214
   - - - '203'
       - Andrey Solomykin
     - time: 1.474722 h
-      frac: 0.74664646
+      frac: 0.73438788
 gsSpeed:
 - - - - '203'
       - Andrey Solomykin
@@ -408,15 +408,15 @@ gsSpeed:
   - - - '201'
       - Niki Longshore
     - time: 1.335556 h
-      frac: 0.96428408
+      frac: 0.96255595
   - - - '216'
       - John Maloney
     - time: 1.424444 h
-      frac: 0.80836447
+      frac: 0.79909214
   - - - '203'
       - Andrey Solomykin
     - time: 1.474722 h
-      frac: 0.74664646
+      frac: 0.73438788
 nigh:
 - - - - '202'
       - Nick Jones
