@@ -103,7 +103,7 @@ leadCoefMin:
 - 0
 - 3.20499119
 - 0.9539267
-lead:
+leadRank:
 - - - - '203'
       - Andrey Solomykin
     - coef: 0.82973068
@@ -336,7 +336,7 @@ lead:
       - Soraya Rios
     - coef: 2.85869408
       frac: 0
-arrival:
+arrivalRank:
 - - - - '203'
       - Andrey Solomykin
     - rank: '1'
@@ -363,6 +363,247 @@ arrival:
       - Kelly Myrkle
     - rank: '4'
       frac: 0.22726562
+reachRank:
+- - - - '202'
+      - Nick Jones
+    - frac: 0.78099496
+      reach: 26.756485 km
+  - - - '205'
+      - Kelly Myrkle
+    - frac: 0.58858109
+      reach: 20.164485 km
+  - - - '201'
+      - Niki Longshore
+    - frac: 0.50828216
+      reach: 17.413485 km
+  - - - '214'
+      - Richard Elder
+    - frac: 0.50466272
+      reach: 17.289485 km
+  - - - '216'
+      - John Maloney
+    - frac: 0.45661763
+      reach: 15.643485 km
+  - - - '209'
+      - John Blank
+    - frac: 0.36735768
+      reach: 12.585485 km
+  - - - '212'
+      - Greg Sessa
+    - frac: 0.34727565
+      reach: 11.897485 km
+  - - - '204'
+      - Owen MB
+    - frac: 0.2710048
+      reach: 9.284485 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - frac: 0.26896157
+      reach: 9.214485 km
+  - - - '217'
+      - Richard Westmoreland
+    - frac: 0.26160595
+      reach: 8.962485 km
+  - - - '207'
+      - Alex Skyride
+    - frac: 0.21519544
+      reach: 7.372485 km
+  - - - '208'
+      - Soraya Rios
+    - frac: 0.130956
+      reach: 4.486485 km
+  - - - '213'
+      - Willie Van Caulart
+    - frac: 0.10903506
+      reach: 3.735485 km
+  - - - '210'
+      - Pete Wall
+    - frac: 4.534467e-2
+      reach: 1.553485 km
+  - - - '206'
+      - Michael Duffy
+    - frac: 8.3145e-4
+      reach: 0.028485 km
+- - - - '214'
+      - Richard Elder
+    - frac: 0.86170407
+      reach: 36.768368 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - frac: 0.60015813
+      reach: 25.608368 km
+  - - - '205'
+      - Kelly Myrkle
+    - frac: 0.57784704
+      reach: 24.656368 km
+  - - - '204'
+      - Owen MB
+    - frac: 0.53341235
+      reach: 22.760368 km
+  - - - '202'
+      - Nick Jones
+    - frac: 0.53228742
+      reach: 22.712368 km
+  - - - '212'
+      - Greg Sessa
+    - frac: 0.52912356
+      reach: 22.577368 km
+  - - - '203'
+      - Andrey Solomykin
+    - frac: 0.51557754
+      reach: 21.999368 km
+  - - - '207'
+      - Alex Skyride
+    - frac: 0.47034603
+      reach: 20.069368 km
+  - - - '216'
+      - John Maloney
+    - frac: 0.44456642
+      reach: 18.969368 km
+  - - - '217'
+      - Richard Westmoreland
+    - frac: 0.43702002
+      reach: 18.647368 km
+  - - - '210'
+      - Pete Wall
+    - frac: 0.4345358
+      reach: 18.541368 km
+  - - - '213'
+      - Willie Van Caulart
+    - frac: 0.29708357
+      reach: 12.676368 km
+  - - - '215'
+      - Burke Schnedl
+    - frac: 0.15789707
+      reach: 6.737368 km
+  - - - '208'
+      - Soraya Rios
+    - frac: 0.154077
+      reach: 6.574368 km
+  - - - '209'
+      - John Blank
+    - frac: 0.14313238
+      reach: 6.107368 km
+  - - - '206'
+      - Michael Duffy
+    - frac: 2.2765e-2
+      reach: 0.971368 km
+- - - - '205'
+      - Kelly Myrkle
+    - frac: 1
+      reach: 12.746208 km
+  - - - '203'
+      - Andrey Solomykin
+    - frac: 0.91636728
+      reach: 11.680208 km
+  - - - '201'
+      - Niki Longshore
+    - frac: 0.90954172
+      reach: 11.593208 km
+  - - - '212'
+      - Greg Sessa
+    - frac: 0.89949952
+      reach: 11.465208 km
+  - - - '217'
+      - Richard Westmoreland
+    - frac: 0.88482849
+      reach: 11.278208 km
+  - - - '216'
+      - John Maloney
+    - frac: 0.8474056
+      reach: 10.801208 km
+  - - - '210'
+      - Pete Wall
+    - frac: 0.81202252
+      reach: 10.350208 km
+  - - - '208'
+      - Soraya Rios
+    - frac: 0.61031548
+      reach: 7.779208 km
+- - - - '212'
+      - Greg Sessa
+    - frac: 1
+      reach: 85.226785 km
+  - - - '205'
+      - Kelly Myrkle
+    - frac: 0.84348817
+      reach: 71.887785 km
+  - - - '208'
+      - Soraya Rios
+    - frac: 0.5623207
+      reach: 47.924785 km
+  - - - '203'
+      - Andrey Solomykin
+    - frac: 0.53093385
+      reach: 45.249785 km
+  - - - '214'
+      - Richard Elder
+    - frac: 0.43172795
+      reach: 36.794785 km
+  - - - '202'
+      - Nick Jones
+    - frac: 0.41672093
+      reach: 35.515785 km
+  - - - '201'
+      - Niki Longshore
+    - frac: 0.32064785
+      reach: 27.327785 km
+  - - - '213'
+      - Willie Van Caulart
+    - frac: 0.22820038
+      reach: 19.448785 km
+  - - - '210'
+      - Pete Wall
+    - frac: 0.22046807
+      reach: 18.789785 km
+  - - - '206'
+      - Michael Duffy
+    - frac: 0.13997695
+      reach: 11.929785 km
+  - - - '216'
+      - John Maloney
+    - frac: 0.10189033
+      reach: 8.683785 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - frac: 6.86848e-2
+      reach: 5.853785 km
+  - - - '217'
+      - Richard Westmoreland
+    - frac: 3.194753e-2
+      reach: 2.722785 km
+  - - - '204'
+      - Owen MB
+    - frac: 1.332662e-2
+      reach: 1.135785 km
+  - - - '207'
+      - Alex Skyride
+    - frac: 9.25513e-3
+      reach: 0.788785 km
+- - - - '202'
+      - Nick Jones
+    - frac: 0.8764475
+      reach: 35.908438 km
+  - - - '212'
+      - Greg Sessa
+    - frac: 0.83739495
+      reach: 34.308438 km
+  - - - '217'
+      - Richard Westmoreland
+    - frac: 0.70149209
+      reach: 28.740438 km
+  - - - '210'
+      - Pete Wall
+    - frac: 0.32470822
+      reach: 13.303438 km
+  - - - '206'
+      - Michael Duffy
+    - frac: 0.2695465
+      reach: 11.043438 km
+  - - - '208'
+      - Soraya Rios
+    - frac: 0.23312999
+      reach: 9.551438 km
 ssSpeed:
 - - - - '203'
       - Andrey Solomykin
