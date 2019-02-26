@@ -364,7 +364,11 @@ arrivalRank:
     - rank: '4'
       frac: 0.22726562
 reachRank:
-- - - - '202'
+- - - - '203'
+      - Andrey Solomykin
+    - frac: 1
+      reach: 34.259485 km
+  - - - '202'
       - Nick Jones
     - frac: 0.78099496
       reach: 26.756485 km
@@ -424,7 +428,11 @@ reachRank:
       - Michael Duffy
     - frac: 8.3145e-4
       reach: 0.028485 km
-- - - - '214'
+- - - - '201'
+      - Niki Longshore
+    - frac: 1
+      reach: 42.669368 km
+  - - - '214'
       - Richard Elder
     - frac: 0.86170407
       reach: 36.768368 km
@@ -580,7 +588,23 @@ reachRank:
       - Alex Skyride
     - frac: 9.25513e-3
       reach: 0.788785 km
-- - - - '202'
+- - - - '201'
+      - Niki Longshore
+    - frac: 1
+      reach: 40.970438 km
+  - - - '203'
+      - Andrey Solomykin
+    - frac: 1
+      reach: 40.970438 km
+  - - - '216'
+      - John Maloney
+    - frac: 1
+      reach: 40.970438 km
+  - - - '205'
+      - Kelly Myrkle
+    - frac: 1
+      reach: 40.970438 km
+  - - - '202'
       - Nick Jones
     - frac: 0.8764475
       reach: 35.908438 km
