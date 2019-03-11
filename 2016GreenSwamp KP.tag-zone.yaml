@@ -321,75 +321,122 @@ timing:
       - Niki Longshore
   lastLanding: 2016-04-04T21:15:50Z
 - zonesSum:
-  - 8
-  - 8
-  - 0
-  - 0
+  - 13
+  - 12
+  - 6
+  - 2
   zonesFirst:
-  - 2016-04-09T18:20:58Z
-  - 2016-04-09T18:56:27Z
-  - null
-  - null
+  - 2016-04-05T17:13:01Z
+  - 2016-04-05T17:47:54Z
+  - 2016-04-05T18:44:15Z
+  - 2016-04-05T21:36:48Z
   zonesLast:
-  - 2016-04-09T19:44:29Z
-  - 2016-04-09T19:58:56Z
-  - null
-  - null
+  - 2016-04-05T18:39:06Z
+  - 2016-04-05T18:58:09Z
+  - 2016-04-05T19:32:04Z
+  - 2016-04-05T22:26:39Z
   zonesRankTime:
-  - - 2016-04-09T18:20:58Z
-    - 2016-04-09T18:40:17Z
-    - 2016-04-09T18:49:13Z
-    - 2016-04-09T18:51:07Z
-    - 2016-04-09T19:02:09Z
-    - 2016-04-09T19:09:18Z
-    - 2016-04-09T19:36:17Z
-    - 2016-04-09T19:44:29Z
-  - - 2016-04-09T18:56:27Z
-    - 2016-04-09T18:59:35Z
-    - 2016-04-09T19:22:04Z
-    - 2016-04-09T19:23:20Z
-    - 2016-04-09T19:30:39Z
-    - 2016-04-09T19:37:29Z
-    - 2016-04-09T19:57:02Z
-    - 2016-04-09T19:58:56Z
-  - []
-  - []
+  - - 2016-04-05T17:13:01Z
+    - 2016-04-05T17:14:31Z
+    - 2016-04-05T17:20:03Z
+    - 2016-04-05T17:22:16Z
+    - 2016-04-05T17:26:53Z
+    - 2016-04-05T17:27:41Z
+    - 2016-04-05T17:53:40Z
+    - 2016-04-05T18:01:44Z
+    - 2016-04-05T18:05:26Z
+    - 2016-04-05T18:09:40Z
+    - 2016-04-05T18:24:11Z
+    - 2016-04-05T18:29:25Z
+    - 2016-04-05T18:39:06Z
+  - - 2016-04-05T17:47:54Z
+    - 2016-04-05T17:48:13Z
+    - 2016-04-05T17:48:15Z
+    - 2016-04-05T17:48:42Z
+    - 2016-04-05T17:53:29Z
+    - 2016-04-05T18:34:06Z
+    - 2016-04-05T18:34:08Z
+    - 2016-04-05T18:34:59Z
+    - 2016-04-05T18:35:00Z
+    - 2016-04-05T18:44:01Z
+    - 2016-04-05T18:51:33Z
+    - 2016-04-05T18:58:09Z
+  - - 2016-04-05T18:44:15Z
+    - 2016-04-05T18:44:54Z
+    - 2016-04-05T18:47:56Z
+    - 2016-04-05T18:51:49Z
+    - 2016-04-05T19:14:13Z
+    - 2016-04-05T19:32:04Z
+  - - 2016-04-05T21:36:48Z
+    - 2016-04-05T22:26:39Z
   zonesRankPilot:
-  - - - '203'
-      - Andrey Solomykin
+  - - - '215'
+      - Burke Schnedl
+    - - '213'
+      - Willie Van Caulart
     - - '201'
       - Niki Longshore
-    - - '216'
-      - John Maloney
-    - - '217'
-      - Richard Westmoreland
-    - - '205'
-      - Kelly Myrkle
-    - - '212'
-      - Greg Sessa
-    - - '210'
-      - Pete Wall
     - - '208'
       - Soraya Rios
-  - - - '201'
-      - Niki Longshore
+    - - '210'
+      - Pete Wall
+    - - '216'
+      - John Maloney
     - - '203'
       - Andrey Solomykin
-    - - '216'
-      - John Maloney
-    - - '217'
-      - Richard Westmoreland
     - - '205'
       - Kelly Myrkle
     - - '212'
       - Greg Sessa
+    - - '211'
+      - Dan Lukaszewicz
+    - - '204'
+      - Owen MB
+    - - '217'
+      - Richard Westmoreland
+    - - '207'
+      - Alex Skyride
+  - - - '201'
+      - Niki Longshore
     - - '210'
       - Pete Wall
     - - '208'
       - Soraya Rios
-  - []
-  - []
-  lastLanding: 2016-04-09T21:06:14Z
+    - - '215'
+      - Burke Schnedl
+    - - '216'
+      - John Maloney
+    - - '212'
+      - Greg Sessa
+    - - '211'
+      - Dan Lukaszewicz
+    - - '205'
+      - Kelly Myrkle
+    - - '203'
+      - Andrey Solomykin
+    - - '204'
+      - Owen MB
+    - - '217'
+      - Richard Westmoreland
+    - - '207'
+      - Alex Skyride
+  - - - '201'
+      - Niki Longshore
+    - - '216'
+      - John Maloney
+    - - '215'
+      - Burke Schnedl
+    - - '210'
+      - Pete Wall
+    - - '203'
+      - Andrey Solomykin
+    - - '205'
+      - Kelly Myrkle
+  - - - '201'
+      - Niki Longshore
+    - - '205'
+      - Kelly Myrkle
+  lastLanding: 2016-04-05T22:28:14Z
 - zonesSum:
   - 15
   - 12
@@ -1152,37 +1199,73 @@ tagging:
       - null
 - - - - '207'
       - Alex Skyride
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2016-04-05T18:39:06Z
+        lat: 28.53631667
+        lng: -81.8454
+      - fix: 391
+        time: 2016-04-05T18:58:09Z
+        lat: 28.50048333
+        lng: -81.81173333
+      - null
+      - null
   - - - '203'
       - Andrey Solomykin
     - zonesTag:
-      - fix: 229
-        time: 2016-04-09T18:20:58Z
-        lat: 28.53633333
-        lng: -81.84545
-      - fix: 2416
-        time: 2016-04-09T18:59:35Z
-        lat: 28.48838333
-        lng: -81.84675
-      - null
+      - fix: 1839
+        time: 2016-04-05T17:53:40Z
+        lat: 28.53653333
+        lng: -81.84605
+      - fix: 4319
+        time: 2016-04-05T18:35:00Z
+        lat: 28.4899
+        lng: -81.83373333
+      - fix: 6672
+        time: 2016-04-05T19:14:13Z
+        lat: 28.35485
+        lng: -81.68175
       - null
   - - - '215'
       - Burke Schnedl
-    - null
+    - zonesTag:
+      - fix: 37
+        time: 2016-04-05T17:13:01Z
+        lat: 28.53626667
+        lng: -81.84525
+      - fix: 2178
+        time: 2016-04-05T17:48:42Z
+        lat: 28.49101667
+        lng: -81.82951667
+      - fix: 5732
+        time: 2016-04-05T18:47:56Z
+        lat: 28.34631667
+        lng: -81.686
+      - null
   - - - '211'
       - Dan Lukaszewicz
-    - null
+    - zonesTag:
+      - fix: 43
+        time: 2016-04-05T18:09:40Z
+        lat: 28.53631667
+        lng: -81.84536667
+      - fix: 777
+        time: 2016-04-05T18:34:08Z
+        lat: 28.49056667
+        lng: -81.8313
+      - null
+      - null
   - - - '212'
       - Greg Sessa
     - zonesTag:
-      - fix: 13
-        time: 2016-04-09T19:09:18Z
-        lat: 28.53633333
-        lng: -81.84566667
-      - fix: 565
-        time: 2016-04-09T19:37:29Z
-        lat: 28.48956667
-        lng: -81.83505
+      - fix: 9
+        time: 2016-04-05T18:05:26Z
+        lat: 28.53626667
+        lng: -81.84575
+      - fix: 572
+        time: 2016-04-05T18:34:06Z
+        lat: 28.49021667
+        lng: -81.83248333
       - null
       - null
   - - - '209'
@@ -1191,29 +1274,38 @@ tagging:
   - - - '216'
       - John Maloney
     - zonesTag:
-      - fix: 125
-        time: 2016-04-09T18:49:13Z
-        lat: 28.5366
-        lng: -81.84643333
-      - fix: 2046
-        time: 2016-04-09T19:22:04Z
-        lat: 28.48851667
-        lng: -81.84191667
-      - null
+      - fix: 187
+        time: 2016-04-05T17:27:41Z
+        lat: 28.53655
+        lng: -81.8463
+      - fix: 1704
+        time: 2016-04-05T17:53:29Z
+        lat: 28.48836667
+        lng: -81.84621667
+      - fix: 4714
+        time: 2016-04-05T18:44:54Z
+        lat: 28.3483
+        lng: -81.68593333
       - null
   - - - '205'
       - Kelly Myrkle
     - zonesTag:
-      - fix: 13
-        time: 2016-04-09T19:02:09Z
-        lat: 28.53621667
-        lng: -81.84566667
-      - fix: 355
-        time: 2016-04-09T19:30:39Z
-        lat: 28.48848333
-        lng: -81.84696667
-      - null
-      - null
+      - fix: 15
+        time: 2016-04-05T18:01:44Z
+        lat: 28.53603333
+        lng: -81.84506667
+      - fix: 414
+        time: 2016-04-05T18:34:59Z
+        lat: 28.4911
+        lng: -81.8305
+      - fix: 1099
+        time: 2016-04-05T19:32:04Z
+        lat: 28.34203333
+        lng: -81.6834
+      - fix: 3194
+        time: 2016-04-05T22:26:39Z
+        lat: 27.59433333
+        lng: -81.52418333
   - - - '206'
       - Michael Duffy
     - null
@@ -1224,30 +1316,49 @@ tagging:
       - Niki Longshore
     - zonesTag:
       - fix: 13
-        time: 2016-04-09T18:40:17Z
-        lat: 28.5363
-        lng: -81.84558333
-      - fix: 108
-        time: 2016-04-09T18:56:27Z
-        lat: 28.48881667
-        lng: -81.84173333
-      - null
-      - null
+        time: 2016-04-05T17:20:03Z
+        lat: 28.53606667
+        lng: -81.8453
+      - fix: 176
+        time: 2016-04-05T17:47:54Z
+        lat: 28.49116667
+        lng: -81.8299
+      - fix: 505
+        time: 2016-04-05T18:44:15Z
+        lat: 28.35188333
+        lng: -81.68468333
+      - fix: 1525
+        time: 2016-04-05T21:36:48Z
+        lat: 27.59371667
+        lng: -81.53026667
   - - - '204'
       - Owen MB
-    - null
+    - zonesTag:
+      - fix: 15
+        time: 2016-04-05T18:24:11Z
+        lat: 28.53608333
+        lng: -81.84686667
+      - fix: 253
+        time: 2016-04-05T18:44:01Z
+        lat: 28.49503333
+        lng: -81.82005
+      - null
+      - null
   - - - '210'
       - Pete Wall
     - zonesTag:
       - fix: 16
-        time: 2016-04-09T19:36:17Z
-        lat: 28.53605
-        lng: -81.84585
-      - fix: 265
-        time: 2016-04-09T19:57:02Z
-        lat: 28.49016667
-        lng: -81.8323
-      - null
+        time: 2016-04-05T17:26:53Z
+        lat: 28.53611667
+        lng: -81.8456
+      - fix: 272
+        time: 2016-04-05T17:48:13Z
+        lat: 28.49025
+        lng: -81.83405
+      - fix: 1037
+        time: 2016-04-05T18:51:49Z
+        lat: 28.35646667
+        lng: -81.67548333
       - null
   - - - '214'
       - Richard Elder
@@ -1255,32 +1366,39 @@ tagging:
   - - - '217'
       - Richard Westmoreland
     - zonesTag:
-      - fix: 13
-        time: 2016-04-09T18:51:07Z
-        lat: 28.53605
-        lng: -81.8453
-      - fix: 202
-        time: 2016-04-09T19:23:20Z
-        lat: 28.48873333
-        lng: -81.8427
+      - fix: 4
+        time: 2016-04-05T18:29:25Z
+        lat: 28.53601667
+        lng: -81.847
+      - fix: 134
+        time: 2016-04-05T18:51:33Z
+        lat: 28.48841667
+        lng: -81.84591667
       - null
       - null
   - - - '208'
       - Soraya Rios
     - zonesTag:
-      - fix: 11
-        time: 2016-04-09T19:44:29Z
-        lat: 28.53581667
-        lng: -81.84716667
-      - fix: 96
-        time: 2016-04-09T19:58:56Z
-        lat: 28.489
-        lng: -81.83956667
+      - fix: 9
+        time: 2016-04-05T17:22:16Z
+        lat: 28.53641667
+        lng: -81.8467
+      - fix: 161
+        time: 2016-04-05T17:48:15Z
+        lat: 28.48933333
+        lng: -81.83596667
       - null
       - null
   - - - '213'
       - Willie Van Caulart
-    - null
+    - zonesTag:
+      - fix: 3
+        time: 2016-04-05T17:14:31Z
+        lat: 28.53288333
+        lng: -81.84636667
+      - null
+      - null
+      - null
 - - - - '207'
       - Alex Skyride
     - zonesTag:

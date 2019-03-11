@@ -1,7 +1,7 @@
 pilotsAtEss:
 - 1
 - 1
-- 0
+- 2
 - 0
 - 4
 raceTime:
@@ -27,14 +27,14 @@ raceTime:
   tickClose: 22158
 - openTask: 2016-04-05T17:00:00Z
   closeTask: 2016-04-06T00:00:00Z
-  firstStart: 2016-04-09T18:56:27Z
-  firstLead: 2016-04-09T18:56:27Z
-  lastArrival: null
-  leadAllDown: 7787
-  leadArrival: null
-  leadClose: -327387
+  firstStart: 2016-04-05T17:47:54Z
+  firstLead: 2016-04-05T17:47:54Z
+  lastArrival: 2016-04-05T22:26:39Z
+  leadAllDown: 16820
+  leadArrival: 16725
+  leadClose: 22326
   openClose: 25200
-  tickClose: -327387
+  tickClose: 22326
 - openTask: 2016-04-06T17:30:00Z
   closeTask: 2016-04-07T00:00:00Z
   firstStart: 2016-04-06T17:54:02Z
@@ -58,13 +58,13 @@ raceTime:
 ssBestTime:
 - 0.996111 h
 - 2.766667 h
-- null
+- 3.815000 h
 - null
 - 1.327778 h
 gsBestTime:
 - 0.996111 h
 - 2.766667 h
-- null
+- 3.815000 h
 - null
 - 1.327778 h
 taskDistance:
@@ -82,13 +82,13 @@ taskSpeedDistance:
 bestDistance:
 - 34.259485 km
 - 42.669368 km
-- 12.746208 km
+- 110.550208 km
 - 85.226785 km
 - 40.970438 km
 sumDistance:
 - 130.843820 km
 - 248.074888 km
-- 47.693664 km
+- 594.187496 km
 - 354.633420 km
 - 246.737380 km
 leadScaling:
@@ -100,7 +100,7 @@ leadScaling:
 leadCoefMin:
 - 0.82973068
 - 2.34265656
-- 0
+- 2.54299536
 - 3.20499119
 - 0.9539267
 leadRank:
@@ -216,37 +216,53 @@ leadRank:
       - Soraya Rios
     - coef: 5.04961387
       frac: 0
-- - - - '217'
-      - Richard Westmoreland
-    - coef: 0
+- - - - '201'
+      - Niki Longshore
+    - coef: 2.54299536
+      frac: 1
+  - - - '215'
+      - Burke Schnedl
+    - coef: 2.6792563
+      frac: 0.77334952
+  - - - '216'
+      - John Maloney
+    - coef: 2.6850703
+      frac: 0.76694735
+  - - - '203'
+      - Andrey Solomykin
+    - coef: 3.67358053
+      frac: 7.108083e-2
+  - - - '205'
+      - Kelly Myrkle
+    - coef: 3.85529305
       frac: 0
   - - - '210'
       - Pete Wall
-    - coef: 0
+    - coef: 4.26675835
+      frac: 0
+  - - - '204'
+      - Owen MB
+    - coef: 6.48231646
+      frac: 0
+  - - - '207'
+      - Alex Skyride
+    - coef: 6.74029491
       frac: 0
   - - - '212'
       - Greg Sessa
-    - coef: 0
+    - coef: 7.06792514
+      frac: 0
+  - - - '211'
+      - Dan Lukaszewicz
+    - coef: 7.10881222
       frac: 0
   - - - '208'
       - Soraya Rios
-    - coef: 0
+    - coef: 7.82510739
       frac: 0
-  - - - '205'
-      - Kelly Myrkle
-    - coef: 0
-      frac: 0
-  - - - '201'
-      - Niki Longshore
-    - coef: 0
-      frac: 0
-  - - - '203'
-      - Andrey Solomykin
-    - coef: 0
-      frac: 0
-  - - - '216'
-      - John Maloney
-    - coef: 0
+  - - - '217'
+      - Richard Westmoreland
+    - coef: 7.83335818
       frac: 0
 - - - - '208'
       - Soraya Rios
@@ -345,7 +361,14 @@ arrivalRank:
       - Niki Longshore
     - rank: '1'
       frac: 1
-- []
+- - - - '201'
+      - Niki Longshore
+    - rank: '1'
+      frac: 1
+  - - - '205'
+      - Kelly Myrkle
+    - rank: '2'
+      frac: 0.330125
 - []
 - - - - '201'
       - Niki Longshore
@@ -496,38 +519,58 @@ reachRank:
       - Michael Duffy
     - frac: 2.2765e-2
       reach: 0.971368 km
-- - - - '205'
+- - - - '201'
+      - Niki Longshore
+    - frac: 1
+      reach: 110.550208 km
+  - - - '205'
       - Kelly Myrkle
     - frac: 1
-      reach: 12.746208 km
+      reach: 110.550208 km
   - - - '203'
       - Andrey Solomykin
-    - frac: 0.91636728
-      reach: 11.680208 km
-  - - - '201'
-      - Niki Longshore
-    - frac: 0.90954172
-      reach: 11.593208 km
-  - - - '212'
-      - Greg Sessa
-    - frac: 0.89949952
-      reach: 11.465208 km
-  - - - '217'
-      - Richard Westmoreland
-    - frac: 0.88482849
-      reach: 11.278208 km
+    - frac: 0.98932612
+      reach: 109.370208 km
+  - - - '215'
+      - Burke Schnedl
+    - frac: 0.80865708
+      reach: 89.397208 km
   - - - '216'
       - John Maloney
-    - frac: 0.8474056
-      reach: 10.801208 km
+    - frac: 0.80126677
+      reach: 88.580208 km
   - - - '210'
       - Pete Wall
-    - frac: 0.81202252
-      reach: 10.350208 km
+    - frac: 0.40969808
+      reach: 45.292208 km
+  - - - '204'
+      - Owen MB
+    - frac: 0.21972105
+      reach: 24.290208 km
+  - - - '207'
+      - Alex Skyride
+    - frac: 0.20412633
+      reach: 22.566208 km
+  - - - '212'
+      - Greg Sessa
+    - frac: 0.15034081
+      reach: 16.620208 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - frac: 0.14804321
+      reach: 16.366208 km
+  - - - '217'
+      - Richard Westmoreland
+    - frac: 0.10248021
+      reach: 11.329208 km
   - - - '208'
       - Soraya Rios
-    - frac: 0.61031548
-      reach: 7.779208 km
+    - frac: 8.390041e-2
+      reach: 9.275208 km
+  - - - '213'
+      - Willie Van Caulart
+    - frac: 4.07243e-3
+      reach: 0.450208 km
 - - - - '212'
       - Greg Sessa
     - frac: 1
@@ -637,7 +680,14 @@ ssSpeed:
       - Niki Longshore
     - time: 2.766667 h
       frac: 1
-- []
+- - - - '201'
+      - Niki Longshore
+    - time: 3.815000 h
+      frac: 1
+  - - - '205'
+      - Kelly Myrkle
+    - time: 3.861111 h
+      frac: 0.89713018
 - []
 - - - - '205'
       - Kelly Myrkle
@@ -664,7 +714,14 @@ gsSpeed:
       - Niki Longshore
     - time: 2.766667 h
       frac: 1
-- []
+- - - - '201'
+      - Niki Longshore
+    - time: 3.815000 h
+      frac: 1
+  - - - '205'
+      - Kelly Myrkle
+    - time: 3.861111 h
+      frac: 0.89713018
 - []
 - - - - '205'
       - Kelly Myrkle
@@ -1359,174 +1416,217 @@ nigh:
         - lat: 28.53454352
           lng: -81.85040708
       made: 6.737368 km
-- - - - '217'
-      - Richard Westmoreland
-    - togo:
-        distance: 99.272490 km
-        flipSum:
-        - 99.272490 km
-        - 84.079576 km
-        legs:
-        - 15.192914 km
-        - 84.079576 km
-        legsSum:
-        - 15.192914 km
-        - 99.272490 km
-        waypoints:
-        - lat: 28.28183333
-          lng: -81.82121667
-        - lat: 28.33944697
-          lng: -81.68049226
-        - lat: 27.5954458
-          lng: -81.52766581
-      made: 11.278208 km
-  - - - '210'
-      - Pete Wall
-    - togo:
-        distance: 100.199882 km
-        flipSum:
-        - 100.199882 km
-        - 84.443808 km
-        legs:
-        - 15.756073 km
-        - 84.443808 km
-        legsSum:
-        - 15.756073 km
-        - 100.199882 km
-        waypoints:
-        - lat: 28.41153333
-          lng: -81.82458333
-        - lat: 28.34218742
-          lng: -81.68413806
-        - lat: 27.5954458
-          lng: -81.52766581
-      made: 10.350208 km
-  - - - '212'
-      - Greg Sessa
-    - togo:
-        distance: 99.085055 km
-        flipSum:
-        - 99.085055 km
-        - 84.213922 km
-        legs:
-        - 14.871133 km
-        - 84.213922 km
-        legsSum:
-        - 14.871133 km
-        - 99.085055 km
-        waypoints:
-        - lat: 28.33743333
-          lng: -81.8341
-        - lat: 28.34040221
-          lng: -81.68218773
-        - lat: 27.5954458
-          lng: -81.52766581
-      made: 11.465208 km
-  - - - '208'
-      - Soraya Rios
-    - togo:
-        distance: 102.771424 km
-        flipSum:
-        - 102.771424 km
-        - 84.516324 km
-        legs:
-        - 18.255100 km
-        - 84.516324 km
-        legsSum:
-        - 18.255100 km
-        - 102.771424 km
-        waypoints:
-        - lat: 28.44481667
-          lng: -81.83078333
-        - lat: 28.34277744
-          lng: -81.68458605
-        - lat: 27.5954458
-          lng: -81.52766581
-      made: 7.779208 km
-  - - - '205'
-      - Kelly Myrkle
-    - togo:
-        distance: 97.804419 km
-        flipSum:
-        - 97.804419 km
-        - 84.156778 km
-        legs:
-        - 13.647641 km
-        - 84.156778 km
-        legsSum:
-        - 13.647641 km
-        - 97.804419 km
-        waypoints:
-        - lat: 28.31026667
-          lng: -81.81681667
-        - lat: 28.33998508
-          lng: -81.6815354
-        - lat: 27.5954458
-          lng: -81.52766581
-      made: 12.746208 km
-  - - - '201'
-      - Niki Longshore
-    - togo:
-        distance: 98.957256 km
-        flipSum:
-        - 98.957256 km
-        - 84.307250 km
-        legs:
-        - 14.650006 km
-        - 84.307250 km
-        legsSum:
-        - 14.650006 km
-        - 98.957256 km
-        waypoints:
-        - lat: 28.36361667
-          lng: -81.8306
-        - lat: 28.34110905
-          lng: -81.68309153
-        - lat: 27.5954458
-          lng: -81.52766581
-      made: 11.593208 km
-  - - - '203'
+- - - - '203'
       - Andrey Solomykin
     - togo:
-        distance: 98.870122 km
+        distance: 1.179821 km
         flipSum:
-        - 98.870122 km
-        - 84.244064 km
+        - 1.179821 km
         legs:
-        - 14.626058 km
-        - 84.244064 km
+        - 1.179821 km
         legsSum:
-        - 14.626058 km
-        - 98.870122 km
+        - 1.179821 km
         waypoints:
-        - lat: 28.3389
-          lng: -81.83193333
-        - lat: 28.34062735
-          lng: -81.68249943
-        - lat: 27.5954458
-          lng: -81.52766581
-      made: 11.680208 km
+        - lat: 27.59606667
+          lng: -81.54221667
+        - lat: 27.59301713
+          lng: -81.53074955
+      made: 109.370208 km
   - - - '216'
       - John Maloney
     - togo:
-        distance: 99.749368 km
+        distance: 21.970151 km
         flipSum:
-        - 99.749368 km
-        - 84.184811 km
+        - 21.970151 km
         legs:
-        - 15.564556 km
-        - 84.184811 km
+        - 21.970151 km
         legsSum:
-        - 15.564556 km
-        - 99.749368 km
+        - 21.970151 km
         waypoints:
-        - lat: 28.32161667
-          lng: -81.83948333
-        - lat: 28.34018801
-          lng: -81.68186622
+        - lat: 27.78403333
+          lng: -81.5943
+        - lat: 27.59533832
+          lng: -81.52813054
+      made: 88.580208 km
+  - - - '215'
+      - Burke Schnedl
+    - togo:
+        distance: 21.153060 km
+        flipSum:
+        - 21.153060 km
+        legs:
+        - 21.153060 km
+        legsSum:
+        - 21.153060 km
+        waypoints:
+        - lat: 27.77486667
+          lng: -81.59918333
+        - lat: 27.59529181
+          lng: -81.52828188
+      made: 89.397208 km
+  - - - '210'
+      - Pete Wall
+    - togo:
+        distance: 65.257901 km
+        flipSum:
+        - 65.257901 km
+        legs:
+        - 65.257901 km
+        legsSum:
+        - 65.257901 km
+        waypoints:
+        - lat: 28.17446667
+          lng: -81.63596667
+        - lat: 27.59547076
+          lng: -81.52750813
+      made: 45.292208 km
+  - - - '204'
+      - Owen MB
+    - togo:
+        distance: 86.259734 km
+        flipSum:
+        - 86.259734 km
+        - 83.918654 km
+        legs:
+        - 2.341080 km
+        - 83.918654 km
+        legsSum:
+        - 2.341080 km
+        - 86.259734 km
+        waypoints:
+        - lat: 28.35923333
+          lng: -81.68135
+        - lat: 28.33852447
+          lng: -81.67703707
+        - lat: 27.59547076
+          lng: -81.52750813
+      made: 24.290208 km
+  - - - '207'
+      - Alex Skyride
+    - togo:
+        distance: 87.984202 km
+        flipSum:
+        - 87.984202 km
+        - 84.104118 km
+        legs:
+        - 3.880083 km
+        - 84.104118 km
+        legsSum:
+        - 3.880083 km
+        - 87.984202 km
+        waypoints:
+        - lat: 28.32631667
+          lng: -81.7175
+        - lat: 28.33961428
+          lng: -81.68084789
         - lat: 27.5954458
           lng: -81.52766581
-      made: 10.801208 km
+      made: 22.566208 km
+  - - - '212'
+      - Greg Sessa
+    - togo:
+        distance: 93.930380 km
+        flipSum:
+        - 93.930380 km
+        - 84.591066 km
+        legs:
+        - 9.339313 km
+        - 84.591066 km
+        legsSum:
+        - 9.339313 km
+        - 93.930380 km
+        waypoints:
+        - lat: 28.40521667
+          lng: -81.7496
+        - lat: 28.34339658
+          lng: -81.68498006
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 16.620208 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - togo:
+        distance: 94.183543 km
+        flipSum:
+        - 94.183543 km
+        - 84.591066 km
+        legs:
+        - 9.592477 km
+        - 84.591066 km
+        legsSum:
+        - 9.592477 km
+        - 94.183543 km
+        waypoints:
+        - lat: 28.40576667
+          lng: -81.75271667
+        - lat: 28.34339658
+          lng: -81.68498006
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 16.366208 km
+  - - - '217'
+      - Richard Westmoreland
+    - togo:
+        distance: 99.220780 km
+        flipSum:
+        - 99.220780 km
+        - 84.629126 km
+        legs:
+        - 14.591654 km
+        - 84.629126 km
+        legsSum:
+        - 14.591654 km
+        - 99.220780 km
+        waypoints:
+        - lat: 28.44483333
+          lng: -81.78023333
+        - lat: 28.34371588
+          lng: -81.68515605
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 11.329208 km
+  - - - '208'
+      - Soraya Rios
+    - togo:
+        distance: 101.275401 km
+        flipSum:
+        - 101.275401 km
+        - 84.591066 km
+        legs:
+        - 16.684335 km
+        - 84.591066 km
+        legsSum:
+        - 16.684335 km
+        - 101.275401 km
+        waypoints:
+        - lat: 28.45528333
+          lng: -81.79863333
+        - lat: 28.34339658
+          lng: -81.68498006
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 9.275208 km
+  - - - '213'
+      - Willie Van Caulart
+    - togo:
+        distance: 110.100115 km
+        flipSum:
+        - 110.100115 km
+        - 84.629126 km
+        legs:
+        - 25.470989 km
+        - 84.629126 km
+        legsSum:
+        - 25.470989 km
+        - 110.100115 km
+        waypoints:
+        - lat: 28.52498333
+          lng: -81.84441667
+        - lat: 28.34371588
+          lng: -81.68515605
+        - lat: 27.5954458
+          lng: -81.52766581
+      made: 0.450208 km
 - - - - '212'
       - Greg Sessa
     - togo:
@@ -2078,22 +2178,46 @@ land:
       - Burke Schnedl
     - togo: 53.010410 km
       made: -10.341042 km
-- - - - '217'
-      - Richard Westmoreland
-    - togo: 99.957456 km
-      made: 10.592752 km
+- - - - '203'
+      - Andrey Solomykin
+    - togo: 1.179821 km
+      made: 109.370387 km
+  - - - '216'
+      - John Maloney
+    - togo: 22.179989 km
+      made: 88.370219 km
+  - - - '215'
+      - Burke Schnedl
+    - togo: 22.360847 km
+      made: 88.189361 km
   - - - '210'
       - Pete Wall
-    - togo: 100.343785 km
-      made: 10.206423 km
+    - togo: 65.639341 km
+      made: 44.910867 km
+  - - - '204'
+      - Owen MB
+    - togo: 86.456068 km
+      made: 24.094140 km
+  - - - '207'
+      - Alex Skyride
+    - togo: 87.984202 km
+      made: 22.566006 km
   - - - '212'
       - Greg Sessa
-    - togo: 102.710515 km
-      made: 7.839693 km
+    - togo: 94.726629 km
+      made: 15.823579 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - togo: 94.839263 km
+      made: 15.710945 km
+  - - - '217'
+      - Richard Westmoreland
+    - togo: 99.553472 km
+      made: 10.996736 km
   - - - '208'
       - Soraya Rios
-    - togo: 103.435921 km
-      made: 7.114287 km
+    - togo: 101.541353 km
+      made: 9.008855 km
   - - - '209'
       - John Blank
     - togo: 105.550063 km
@@ -2110,22 +2234,10 @@ land:
       - Richard Elder
     - togo: 105.550063 km
       made: 5.000145 km
-  - - - '205'
-      - Kelly Myrkle
-    - togo: 106.261959 km
-      made: 4.288249 km
-  - - - '201'
-      - Niki Longshore
-    - togo: 106.274596 km
-      made: 4.275612 km
-  - - - '203'
-      - Andrey Solomykin
-    - togo: 106.344514 km
-      made: 4.205694 km
-  - - - '216'
-      - John Maloney
-    - togo: 106.861764 km
-      made: 3.688444 km
+  - - - '213'
+      - Willie Van Caulart
+    - togo: 111.004382 km
+      made: -0.454174 km
 - - - - '212'
       - Greg Sessa
     - togo: 23.145817 km
@@ -2316,30 +2428,39 @@ altStopped:
   - - - '213'
       - Willie Van Caulart
     - -7.000 m
-- - - - '203'
+- - - - '207'
+      - Alex Skyride
+    - -9.000 m
+  - - - '203'
       - Andrey Solomykin
-    - 9.000 m
+    - 10.000 m
+  - - - '215'
+      - Burke Schnedl
+    - 28.000 m
+  - - - '211'
+      - Dan Lukaszewicz
+    - -11.000 m
   - - - '212'
       - Greg Sessa
-    - -4.000 m
+    - -13.000 m
   - - - '216'
       - John Maloney
-    - -2.000 m
-  - - - '205'
-      - Kelly Myrkle
-    - 1.000 m
-  - - - '201'
-      - Niki Longshore
-    - 7.000 m
+    - -10.000 m
+  - - - '204'
+      - Owen MB
+    - -8.000 m
   - - - '210'
       - Pete Wall
-    - -8.000 m
+    - -5.000 m
   - - - '217'
       - Richard Westmoreland
-    - 22.000 m
+    - 12.000 m
   - - - '208'
       - Soraya Rios
-    - -10.000 m
+    - -22.000 m
+  - - - '213'
+      - Willie Van Caulart
+    - -19.000 m
 - - - - '207'
       - Alex Skyride
     - -14.000 m

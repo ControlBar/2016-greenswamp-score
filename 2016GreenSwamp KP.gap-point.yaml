@@ -37,22 +37,22 @@ validityWorking:
     bestDistance: 42.7 km
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: null
-    gsBestTime: null
+    ssBestTime: 3.815000 h
+    gsBestTime: 3.815000 h
     nominalDistance: 30.0 km
-    bestDistance: 12.7 km
+    bestDistance: 110.6 km
   launch:
     nominalLaunch: 1
     flying: 17
     present: 17
   distance:
-    sum: 47.7 km
+    sum: 594.2 km
     flying: 17
-    area: 15
+    area: 23.0550208
     nominalGoal: 0.2
     nominalDistance: 30.0 km
     minimumDistance: 5.0 km
-    bestDistance: 12.7 km
+    bestDistance: 110.6 km
 - time:
     nominalTime: 1.500000 h
     ssBestTime: null
@@ -98,10 +98,10 @@ validity:
   launch: 1
   distance: 0.89707366
   task: 0.89707366
-- time: 0.62255665
+- time: 1
   launch: 1
-  distance: 0.18703398
-  task: 0.11643925
+  distance: 1
+  task: 1
 - time: 1
   launch: 1
   distance: 1
@@ -143,22 +143,22 @@ allocation:
     arrival: 0
     time: 172.4
   taskPoints: 897
-- goalRatio: 0
+- goalRatio: 0.11764706
   weight:
-    reach: 0.45
-    effort: 0.45
-    distance: 0.9
+    reach: 0.36343558
+    effort: 0.36343558
+    distance: 0.72687116
     leading: 0
     arrival: 0
-    time: 0.1
+    time: 0.27312884
   points:
-    reach: 52.398
-    effort: 52.398
-    distance: 104.795
+    reach: 363.436
+    effort: 363.436
+    distance: 726.871
     leading: 0
     arrival: 0
-    time: 11.6
-  taskPoints: 116
+    time: 273.1
+  taskPoints: 1000
 - goalRatio: 0
   weight:
     reach: 0.45
@@ -1031,174 +1031,72 @@ score:
       reachDistance: 0.971 km
       landedDistance: -0.574 km
       stoppedAlt: -16.000 m
-- - - - '217'
-      - Richard Westmoreland
+- - - - '201'
+      - Niki Longshore
     - place: '1'
-      total: 99
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 46.363
-        effort: 52.398
-        distance: 98.761
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T19:23:20Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 11.278 km
-      landedDistance: 10.593 km
-      stoppedAlt: 22.000 m
-  - - - '210'
-      - Pete Wall
-    - place: '2'
-      total: 97
+      total: 1060
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 42.548
-        effort: 49.123
-        distance: 91.671
+        reach: 363.436
+        effort: 363.436
+        distance: 726.871
         leading: 0
         arrival: 0
-        time: 0
+        time: 273.1
       velocity:
-        ss: 2016-04-09T19:57:02Z
+        ss: 2016-04-05T17:47:54Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 10.350 km
-      landedDistance: 10.206 km
-      stoppedAlt: -8.000 m
-  - - - '212'
-      - Greg Sessa
-    - place: '3'
-      total: 90
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 47.132
-        effort: 42.573
-        distance: 89.705
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T19:37:29Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 11.465 km
-      landedDistance: 7.840 km
-      stoppedAlt: -4.000 m
-  - - - '208'
-      - Soraya Rios
-    - place: '4'
-      total: 69
-      penalties:
-      - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
-      breakdown:
-        reach: 31.979
-        effort: 32.749
-        distance: 64.728
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T19:58:56Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 7.779 km
-      landedDistance: 7.114 km
-      stoppedAlt: -10.000 m
+        es: 2016-04-05T21:36:48Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.815000 h
+        gsElapsed: 3.815000 h
+        ssVelocity: 27.77 km / h
+        gsVelocity: 27.77 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
-    - place: '5'
-      total: 65
+    - place: '2'
+      total: 972
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 52.398
-        effort: 13.099
-        distance: 65.497
+        reach: 363.436
+        effort: 363.436
+        distance: 726.871
         leading: 0
         arrival: 0
-        time: 0
+        time: 245
       velocity:
-        ss: 2016-04-09T19:30:39Z
+        ss: 2016-04-05T18:34:59Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.746 km
-      landedDistance: 4.288 km
-      stoppedAlt: 1.000 m
-  - - - '201'
-      - Niki Longshore
-    - place: '6'
-      total: 64
-      penalties:
-      - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
-      breakdown:
-        reach: 47.658
-        effort: 13.099
-        distance: 60.757
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T18:56:27Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 11.593 km
-      landedDistance: 4.276 km
-      stoppedAlt: 7.000 m
+        es: 2016-04-05T22:26:39Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.861111 h
+        gsElapsed: 3.861111 h
+        ssVelocity: 27.44 km / h
+        gsVelocity: 27.44 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
-    - place: 7=
-      total: 61
+    - place: '3'
+      total: 723
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 48.016
-        effort: 13.099
-        distance: 61.115
+        reach: 359.556
+        effort: 363.436
+        distance: 722.992
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T18:59:35Z
+        ss: 2016-04-05T18:35:00Z
         gs: null
         es: null
         ssDistance: null
@@ -1206,25 +1104,25 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 11.680 km
-      landedDistance: 4.206 km
-      stoppedAlt: 9.000 m
+      reachDistance: 109.370 km
+      landedDistance: 109.370 km
+      stoppedAlt: 10.000 m
   - - - '216'
       - John Maloney
-    - place: 7=
-      total: 61
+    - place: '4'
+      total: 685
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 44.402
-        effort: 13.099
-        distance: 57.501
+        reach: 291.209
+        effort: 355.176
+        distance: 646.385
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:22:04Z
+        ss: 2016-04-05T17:53:29Z
         gs: null
         es: null
         ssDistance: null
@@ -1232,20 +1130,222 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 10.801 km
-      landedDistance: 3.688 km
-      stoppedAlt: -2.000 m
-  - - - '209'
-      - John Blank
-    - place: 9=
-      total: 46
+      reachDistance: 88.580 km
+      landedDistance: 88.370 km
+      stoppedAlt: -10.000 m
+  - - - '215'
+      - Burke Schnedl
+    - place: '5'
+      total: 633
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 293.895
+        effort: 338.656
+        distance: 632.551
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T17:48:42Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 89.397 km
+      landedDistance: 88.189 km
+      stoppedAlt: 28.000 m
+  - - - '210'
+      - Pete Wall
+    - place: '6'
+      total: 491
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 20.555
-        effort: 22.924
-        distance: 43.479
+        reach: 148.899
+        effort: 313.876
+        distance: 462.775
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T17:48:13Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 45.292 km
+      landedDistance: 44.911 km
+      stoppedAlt: -5.000 m
+  - - - '204'
+      - Owen MB
+    - place: '7'
+      total: 385
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 79.854
+        effort: 305.616
+        distance: 385.471
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:44:01Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 24.290 km
+      landedDistance: 24.094 km
+      stoppedAlt: -8.000 m
+  - - - '207'
+      - Alex Skyride
+    - place: '8'
+      total: 363
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 74.187
+        effort: 289.096
+        distance: 363.283
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:58:09Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 22.566 km
+      landedDistance: 22.566 km
+      stoppedAlt: -9.000 m
+  - - - '212'
+      - Greg Sessa
+    - place: '9'
+      total: 327
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 54.639
+        effort: 272.577
+        distance: 327.216
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:34:06Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 16.620 km
+      landedDistance: 15.824 km
+      stoppedAlt: -13.000 m
+  - - - '211'
+      - Dan Lukaszewicz
+    - place: '10'
+      total: 302
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 53.804
+        effort: 247.797
+        distance: 301.601
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:34:08Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 16.366 km
+      landedDistance: 15.711 km
+      stoppedAlt: -11.000 m
+  - - - '217'
+      - Richard Westmoreland
+    - place: '11'
+      total: 252
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 37.245
+        effort: 214.757
+        distance: 252.002
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:51:33Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 11.329 km
+      landedDistance: 10.997 km
+      stoppedAlt: 12.000 m
+  - - - '208'
+      - Soraya Rios
+    - place: '12'
+      total: 216
+      penalties:
+      - penalty-fraction: -6.0e-2
+      penaltyReason: Handicap
+      breakdown:
+        reach: 30.492
+        effort: 173.458
+        distance: 203.95
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T17:48:15Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 9.275 km
+      landedDistance: 9.009 km
+      stoppedAlt: -22.000 m
+  - - - '209'
+      - John Blank
+    - place: 13=
+      total: 149
+      penalties:
+      - penalty-fraction: -6.0e-2
+      penaltyReason: Handicap
+      breakdown:
+        reach: 16.438
+        effort: 123.898
+        distance: 140.337
         leading: 0
         arrival: 0
         time: 0
@@ -1255,15 +1355,15 @@ score:
       stoppedAlt: null
   - - - '206'
       - Michael Duffy
-    - place: 9=
-      total: 46
+    - place: 13=
+      total: 149
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 20.555
-        effort: 22.924
-        distance: 43.479
+        reach: 16.438
+        effort: 123.898
+        distance: 140.337
         leading: 0
         arrival: 0
         time: 0
@@ -1273,14 +1373,14 @@ score:
       stoppedAlt: null
   - - - '202'
       - Nick Jones
-    - place: 11=
-      total: 43
+    - place: 15=
+      total: 140
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 20.555
-        effort: 22.924
-        distance: 43.479
+        reach: 16.438
+        effort: 123.898
+        distance: 140.337
         leading: 0
         arrival: 0
         time: 0
@@ -1290,14 +1390,14 @@ score:
       stoppedAlt: null
   - - - '214'
       - Richard Elder
-    - place: 11=
-      total: 43
+    - place: 15=
+      total: 140
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 20.555
-        effort: 22.924
-        distance: 43.479
+        reach: 16.438
+        effort: 123.898
+        distance: 140.337
         leading: 0
         arrival: 0
         time: 0
@@ -1305,6 +1405,31 @@ score:
       reachDistance: 5.000 km
       landedDistance: 5.000 km
       stoppedAlt: null
+  - - - '213'
+      - Willie Van Caulart
+    - place: '17'
+      total: 83
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 16.438
+        effort: 66.079
+        distance: 82.517
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 0.450 km
+      landedDistance: -0.454 km
+      stoppedAlt: -19.000 m
 - - - - '212'
       - Greg Sessa
     - place: '1'
@@ -2831,174 +2956,72 @@ scoreDf:
       reachDistance: 0.971 km
       landedDistance: -0.574 km
       stoppedAlt: -16.000 m
-- - - - '217'
-      - Richard Westmoreland
+- - - - '201'
+      - Niki Longshore
     - place: '1'
-      total: 99
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 46.363
-        effort: 52.398
-        distance: 98.761
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T19:23:20Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 11.278 km
-      landedDistance: 10.593 km
-      stoppedAlt: 22.000 m
-  - - - '210'
-      - Pete Wall
-    - place: '2'
-      total: 97
+      total: 1060
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 42.548
-        effort: 49.123
-        distance: 91.671
+        reach: 363.436
+        effort: 363.436
+        distance: 726.871
         leading: 0
         arrival: 0
-        time: 0
+        time: 273.1
       velocity:
-        ss: 2016-04-09T19:57:02Z
+        ss: 2016-04-05T17:47:54Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 10.350 km
-      landedDistance: 10.206 km
-      stoppedAlt: -8.000 m
-  - - - '212'
-      - Greg Sessa
-    - place: '3'
-      total: 90
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 47.132
-        effort: 42.573
-        distance: 89.705
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T19:37:29Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 11.465 km
-      landedDistance: 7.840 km
-      stoppedAlt: -4.000 m
-  - - - '208'
-      - Soraya Rios
-    - place: '4'
-      total: 69
-      penalties:
-      - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
-      breakdown:
-        reach: 31.979
-        effort: 32.749
-        distance: 64.728
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T19:58:56Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 7.779 km
-      landedDistance: 7.114 km
-      stoppedAlt: -10.000 m
+        es: 2016-04-05T21:36:48Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.815000 h
+        gsElapsed: 3.815000 h
+        ssVelocity: 27.77 km / h
+        gsVelocity: 27.77 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
-    - place: '5'
-      total: 65
+    - place: '2'
+      total: 972
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 52.398
-        effort: 13.099
-        distance: 65.497
+        reach: 363.436
+        effort: 363.436
+        distance: 726.871
         leading: 0
         arrival: 0
-        time: 0
+        time: 245
       velocity:
-        ss: 2016-04-09T19:30:39Z
+        ss: 2016-04-05T18:34:59Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.746 km
-      landedDistance: 4.288 km
-      stoppedAlt: 1.000 m
-  - - - '201'
-      - Niki Longshore
-    - place: '6'
-      total: 64
-      penalties:
-      - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
-      breakdown:
-        reach: 47.658
-        effort: 13.099
-        distance: 60.757
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T18:56:27Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 11.593 km
-      landedDistance: 4.276 km
-      stoppedAlt: 7.000 m
+        es: 2016-04-05T22:26:39Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.861111 h
+        gsElapsed: 3.861111 h
+        ssVelocity: 27.44 km / h
+        gsVelocity: 27.44 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
-    - place: 7=
-      total: 61
+    - place: '3'
+      total: 723
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 48.016
-        effort: 13.099
-        distance: 61.115
+        reach: 359.556
+        effort: 363.436
+        distance: 722.992
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T18:59:35Z
+        ss: 2016-04-05T18:35:00Z
         gs: null
         es: null
         ssDistance: null
@@ -3006,25 +3029,25 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 11.680 km
-      landedDistance: 4.206 km
-      stoppedAlt: 9.000 m
+      reachDistance: 109.370 km
+      landedDistance: 109.370 km
+      stoppedAlt: 10.000 m
   - - - '216'
       - John Maloney
-    - place: 7=
-      total: 61
+    - place: '4'
+      total: 685
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 44.402
-        effort: 13.099
-        distance: 57.501
+        reach: 291.209
+        effort: 355.176
+        distance: 646.385
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:22:04Z
+        ss: 2016-04-05T17:53:29Z
         gs: null
         es: null
         ssDistance: null
@@ -3032,9 +3055,236 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 10.801 km
-      landedDistance: 3.688 km
-      stoppedAlt: -2.000 m
+      reachDistance: 88.580 km
+      landedDistance: 88.370 km
+      stoppedAlt: -10.000 m
+  - - - '215'
+      - Burke Schnedl
+    - place: '5'
+      total: 633
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 293.895
+        effort: 338.656
+        distance: 632.551
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T17:48:42Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 89.397 km
+      landedDistance: 88.189 km
+      stoppedAlt: 28.000 m
+  - - - '210'
+      - Pete Wall
+    - place: '6'
+      total: 491
+      penalties:
+      - penalty-fraction: -6.0e-2
+      penaltyReason: Handicap
+      breakdown:
+        reach: 148.899
+        effort: 313.876
+        distance: 462.775
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T17:48:13Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 45.292 km
+      landedDistance: 44.911 km
+      stoppedAlt: -5.000 m
+  - - - '204'
+      - Owen MB
+    - place: '7'
+      total: 385
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 79.854
+        effort: 305.616
+        distance: 385.471
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:44:01Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 24.290 km
+      landedDistance: 24.094 km
+      stoppedAlt: -8.000 m
+  - - - '207'
+      - Alex Skyride
+    - place: '8'
+      total: 363
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 74.187
+        effort: 289.096
+        distance: 363.283
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:58:09Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 22.566 km
+      landedDistance: 22.566 km
+      stoppedAlt: -9.000 m
+  - - - '212'
+      - Greg Sessa
+    - place: '9'
+      total: 327
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 54.639
+        effort: 272.577
+        distance: 327.216
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:34:06Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 16.620 km
+      landedDistance: 15.824 km
+      stoppedAlt: -13.000 m
+  - - - '211'
+      - Dan Lukaszewicz
+    - place: '10'
+      total: 302
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 53.804
+        effort: 247.797
+        distance: 301.601
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:34:08Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 16.366 km
+      landedDistance: 15.711 km
+      stoppedAlt: -11.000 m
+  - - - '217'
+      - Richard Westmoreland
+    - place: '11'
+      total: 252
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 37.245
+        effort: 214.757
+        distance: 252.002
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T18:51:33Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 11.329 km
+      landedDistance: 10.997 km
+      stoppedAlt: 12.000 m
+  - - - '208'
+      - Soraya Rios
+    - place: '12'
+      total: 216
+      penalties:
+      - penalty-fraction: -6.0e-2
+      penaltyReason: Handicap
+      breakdown:
+        reach: 30.492
+        effort: 173.458
+        distance: 203.95
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-04-05T17:48:15Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 9.275 km
+      landedDistance: 9.009 km
+      stoppedAlt: -22.000 m
+  - - - '213'
+      - Willie Van Caulart
+    - place: '13'
+      total: 83
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 16.438
+        effort: 66.079
+        distance: 82.517
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 0.450 km
+      landedDistance: -0.454 km
+      stoppedAlt: -19.000 m
 - - - - '212'
       - Greg Sessa
     - place: '1'
@@ -3676,14 +3926,14 @@ scoreDfNoTrack:
 - - - - '209'
       - John Blank
     - place: 1=
-      total: 46
+      total: 149
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 20.555
-        effort: 22.924
-        distance: 43.479
+        reach: 16.438
+        effort: 123.898
+        distance: 140.337
         leading: 0
         arrival: 0
         time: 0
@@ -3694,14 +3944,14 @@ scoreDfNoTrack:
   - - - '206'
       - Michael Duffy
     - place: 1=
-      total: 46
+      total: 149
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 20.555
-        effort: 22.924
-        distance: 43.479
+        reach: 16.438
+        effort: 123.898
+        distance: 140.337
         leading: 0
         arrival: 0
         time: 0
@@ -3712,13 +3962,13 @@ scoreDfNoTrack:
   - - - '202'
       - Nick Jones
     - place: 3=
-      total: 43
+      total: 140
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 20.555
-        effort: 22.924
-        distance: 43.479
+        reach: 16.438
+        effort: 123.898
+        distance: 140.337
         leading: 0
         arrival: 0
         time: 0
@@ -3729,13 +3979,13 @@ scoreDfNoTrack:
   - - - '214'
       - Richard Elder
     - place: 3=
-      total: 43
+      total: 140
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 20.555
-        effort: 22.924
-        distance: 43.479
+        reach: 16.438
+        effort: 123.898
+        distance: 140.337
         leading: 0
         arrival: 0
         time: 0

@@ -1,0 +1,326 @@
+score:
+- - - - '103'
+      - Mick Howard
+    - place: '2'
+      total: 828
+      distance: 350.8
+      leading: 0
+      arrival: 0
+      time: 476.7
+      ss: 2016-04-03T19:24:02Z
+      es: 2016-04-03T20:30:02Z
+      ssElapsed: 1.100000 h
+      distanceMade: 34.242000 km
+      distanceFrac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - place: '5'
+      total: 93
+      distance: 92.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-04-03T18:52:12Z
+      es: null
+      ssElapsed: null
+      distanceMade: 5.707000 km
+      distanceFrac: 0.16666666666666666
+  - - - '105'
+      - Alan Arcos
+    - place: '4'
+      total: 371
+      distance: 309.2
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-04-03T19:31:49Z
+      es: null
+      ssElapsed: null
+      distanceMade: 26.113000 km
+      distanceFrac: 0.7626014835582033
+  - - - '102'
+      - Fausto Arcos
+    - place: '1'
+      total: 897
+      distance: 350.8
+      leading: 0
+      arrival: 0
+      time: 546.6
+      ss: 2016-04-03T19:27:15Z
+      es: 2016-04-03T20:30:26Z
+      ssElapsed: 1.053056 h
+      distanceMade: 34.242000 km
+      distanceFrac: 1
+  - - - '104'
+      - Mark Bourbonnais
+    - place: '3'
+      total: 668
+      distance: 350.8
+      leading: 0
+      arrival: 0
+      time: 317.1
+      ss: 2016-04-03T19:25:50Z
+      es: 2016-04-03T20:45:46Z
+      ssElapsed: 1.332222 h
+      distanceMade: 34.242000 km
+      distanceFrac: 1
+- - - - '103'
+      - Mick Howard
+    - place: '1'
+      total: 1000
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 639
+      ss: 2016-04-04T18:33:32Z
+      es: 2016-04-04T20:43:06Z
+      ssElapsed: 2.159444 h
+      distanceMade: 42.669000 km
+      distanceFrac: 1.0000000000000002
+  - - - '101'
+      - Ken  Kinzie
+    - place: '5'
+      total: 743
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 382.2
+      ss: 2016-04-04T18:23:25Z
+      es: 2016-04-04T20:55:27Z
+      ssElapsed: 2.533889 h
+      distanceMade: 42.669000 km
+      distanceFrac: 1.0000000000000002
+  - - - '105'
+      - Alan Arcos
+    - place: '2'
+      total: 916
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 554.6
+      ss: 2016-04-04T18:24:01Z
+      es: 2016-04-04T20:37:49Z
+      ssElapsed: 2.230000 h
+      distanceMade: 42.669000 km
+      distanceFrac: 1.0000000000000002
+  - - - '102'
+      - Fausto Arcos
+    - place: '3'
+      total: 884
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 523.2
+      ss: 2016-04-04T18:29:22Z
+      es: 2016-04-04T20:45:44Z
+      ssElapsed: 2.272778 h
+      distanceMade: 42.669000 km
+      distanceFrac: 1.0000000000000002
+  - - - '104'
+      - Mark Bourbonnais
+    - place: '4'
+      total: 787
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 425.5
+      ss: 2016-04-04T18:25:06Z
+      es: 2016-04-04T20:51:42Z
+      ssElapsed: 2.443333 h
+      distanceMade: 42.669000 km
+      distanceFrac: 1.0000000000000002
+- - - - '102'
+      - Fausto Arcos
+    - place: '1'
+      total: 1000
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 639
+      ss: 2016-04-05T18:28:53Z
+      es: 2016-04-05T21:09:57Z
+      ssElapsed: 2.684444 h
+      distanceMade: 110.547000 km
+      distanceFrac: 1
+  - - - '105'
+      - Alan Arcos
+    - place: '4'
+      total: 767
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 406
+      ss: 2016-04-05T18:05:51Z
+      es: 2016-04-05T21:08:34Z
+      ssElapsed: 3.045278 h
+      distanceMade: 110.547000 km
+      distanceFrac: 1
+  - - - '104'
+      - Mark Bourbonnais
+    - place: '3'
+      total: 784
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 422.7
+      ss: 2016-04-05T18:33:43Z
+      es: 2016-04-05T21:34:09Z
+      ssElapsed: 3.007222 h
+      distanceMade: 110.547000 km
+      distanceFrac: 1
+  - - - '103'
+      - Mick Howard
+    - place: '2'
+      total: 798
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 436.8
+      ss: 2016-04-05T18:10:04Z
+      es: 2016-04-05T21:08:38Z
+      ssElapsed: 2.976111 h
+      distanceMade: 110.547000 km
+      distanceFrac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - place: '5'
+      total: 460
+      distance: 361
+      leading: 0
+      arrival: 0
+      time: 99
+      ss: 2016-04-05T17:56:39Z
+      es: 2016-04-05T21:54:05Z
+      ssElapsed: 3.957222 h
+      distanceMade: 110.547000 km
+      distanceFrac: 1
+- - - - '103'
+      - Mick Howard
+    - place: '2'
+      total: 448
+      distance: 447.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-04-06T18:38:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 45.467000 km
+      distanceFrac: 0.4199564036724364
+  - - - '104'
+      - Mark Bourbonnais
+    - place: '4'
+      total: 308
+      distance: 307.8
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-04-06T18:15:22Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.497000 km
+      distanceFrac: 0.20779376720300002
+  - - - '105'
+      - Alan Arcos
+    - place: '3'
+      total: 310
+      distance: 310.1
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-04-06T18:15:08Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.772000 km
+      distanceFrac: 0.21033380747418398
+  - - - '102'
+      - Fausto Arcos
+    - place: '1'
+      total: 1000
+      distance: 630.8
+      leading: 0
+      arrival: 0
+      time: 369.2
+      ss: 2016-04-06T18:13:28Z
+      es: 2016-04-06T21:14:08Z
+      ssElapsed: 3.011111 h
+      distanceMade: 108.266000 km
+      distanceFrac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - place: '5'
+      total: 137
+      distance: 137.3
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-04-06T18:03:13Z
+      es: null
+      ssElapsed: null
+      distanceMade: 8.742000 km
+      distanceFrac: 8.074557109341807e-2
+- - - - '103'
+      - Mick Howard
+    - place: '5'
+      total: 309
+      distance: 308.7
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-04-09T19:21:50Z
+      es: null
+      ssElapsed: null
+      distanceMade: 34.622000 km
+      distanceFrac: 0.8460072329195583
+  - - - '105'
+      - Alan Arcos
+    - place: '1'
+      total: 920
+      distance: 334.5
+      leading: 0
+      arrival: 0
+      time: 585
+      ss: 2016-04-09T18:33:41Z
+      es: 2016-04-09T19:40:10Z
+      ssElapsed: 1.108056 h
+      distanceMade: 40.924000 km
+      distanceFrac: 1
+  - - - '104'
+      - Mark Bourbonnais
+    - place: '3'
+      total: 901
+      distance: 334.5
+      leading: 0
+      arrival: 0
+      time: 566.1
+      ss: 2016-04-09T18:33:46Z
+      es: 2016-04-09T19:40:37Z
+      ssElapsed: 1.114167 h
+      distanceMade: 40.924000 km
+      distanceFrac: 1
+  - - - '102'
+      - Fausto Arcos
+    - place: '4'
+      total: 892
+      distance: 334.5
+      leading: 0
+      arrival: 0
+      time: 557.8
+      ss: 2016-04-09T18:33:39Z
+      es: 2016-04-09T19:40:46Z
+      ssElapsed: 1.118611 h
+      distanceMade: 40.924000 km
+      distanceFrac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - place: '2'
+      total: 906
+      distance: 334.5
+      leading: 0
+      arrival: 0
+      time: 571
+      ss: 2016-04-09T18:33:44Z
+      es: 2016-04-09T19:40:27Z
+      ssElapsed: 1.111944 h
+      distanceMade: 40.924000 km
+      distanceFrac: 1

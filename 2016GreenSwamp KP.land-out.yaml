@@ -2,25 +2,25 @@ minDistance: 5.0 km
 bestDistance:
 - 34.3 km
 - 42.7 km
-- 12.7 km
+- 110.6 km
 - 85.2 km
 - 41.0 km
 landout:
 - 15
 - 16
-- 12
+- 15
 - 15
 - 9
 lookahead:
 - 69
 - 80
-- 32
+- 221
 - 170
 - 137
 sumOfDifficulty:
 - 34
 - 43
-- 16
+- 44
 - 41
 - 16
 difficulty:
@@ -340,29 +340,20 @@ difficulty:
 - - chunk: 0
     startChunk: 5.0 km
     endChunk: 5.0 km
-    endAhead: 8.2 km
-    down: 4
+    endAhead: 27.1 km
+    down: 1
     downs:
-    - 3.688 km
-    - 4.206 km
-    - 4.276 km
-    - 4.288 km
+    - -0.454 km
     downers:
-    - - '216'
-      - John Maloney
-    - - '203'
-      - Andrey Solomykin
-    - - '201'
-      - Niki Longshore
-    - - '205'
-      - Kelly Myrkle
-    downward: 4
-    rel: 0.125
-    frac: 0.125
+    - - '213'
+      - Willie Van Caulart
+    downward: 8
+    rel: 9.090909e-2
+    frac: 9.090909e-2
   - chunk: 1
     startChunk: 5.0 km
     endChunk: 5.1 km
-    endAhead: 8.3 km
+    endAhead: 27.2 km
     down: 4
     downs:
     - 5.000 km
@@ -378,60 +369,138 @@ difficulty:
       - Michael Duffy
     - - '209'
       - John Blank
-    downward: 3
-    rel: 9.375e-2
-    frac: 0.21875
-  - chunk: 22
-    startChunk: 7.1 km
-    endChunk: 7.2 km
-    endAhead: 10.4 km
+    downward: 7
+    rel: 7.954545e-2
+    frac: 0.17045455
+  - chunk: 41
+    startChunk: 9.0 km
+    endChunk: 9.1 km
+    endAhead: 31.2 km
     down: 1
     downs:
-    - 7.114 km
+    - 9.009 km
     downers:
     - - '208'
       - Soraya Rios
-    downward: 3
-    rel: 9.375e-2
-    frac: 0.3125
-  - chunk: 29
-    startChunk: 7.8 km
-    endChunk: 7.9 km
-    endAhead: 11.1 km
+    downward: 6
+    rel: 6.818182e-2
+    frac: 0.23863636
+  - chunk: 60
+    startChunk: 10.9 km
+    endChunk: 11.0 km
+    endAhead: 33.1 km
     down: 1
     downs:
-    - 7.840 km
+    - 10.997 km
+    downers:
+    - - '217'
+      - Richard Westmoreland
+    downward: 5
+    rel: 5.681818e-2
+    frac: 0.29545455
+  - chunk: 108
+    startChunk: 15.7 km
+    endChunk: 15.8 km
+    endAhead: 37.9 km
+    down: 1
+    downs:
+    - 15.711 km
+    downers:
+    - - '211'
+      - Dan Lukaszewicz
+    downward: 4
+    rel: 4.545455e-2
+    frac: 0.34090909
+  - chunk: 109
+    startChunk: 15.8 km
+    endChunk: 15.9 km
+    endAhead: 38.0 km
+    down: 1
+    downs:
+    - 15.824 km
     downers:
     - - '212'
       - Greg Sessa
     downward: 3
-    rel: 9.375e-2
-    frac: 0.40625
-  - chunk: 53
-    startChunk: 10.2 km
-    endChunk: 10.3 km
-    endAhead: 13.5 km
+    rel: 3.409091e-2
+    frac: 0.375
+  - chunk: 176
+    startChunk: 22.5 km
+    endChunk: 22.6 km
+    endAhead: 44.7 km
     down: 1
     downs:
-    - 10.206 km
+    - 22.566 km
+    downers:
+    - - '207'
+      - Alex Skyride
+    downward: 2
+    rel: 2.272727e-2
+    frac: 0.39772727
+  - chunk: 191
+    startChunk: 24.0 km
+    endChunk: 24.1 km
+    endAhead: 46.2 km
+    down: 1
+    downs:
+    - 24.094 km
+    downers:
+    - - '204'
+      - Owen MB
+    downward: 2
+    rel: 2.272727e-2
+    frac: 0.42045455
+  - chunk: 400
+    startChunk: 44.9 km
+    endChunk: 45.0 km
+    endAhead: 67.1 km
+    down: 1
+    downs:
+    - 44.911 km
     downers:
     - - '210'
       - Pete Wall
-    downward: 2
-    rel: 6.25e-2
-    frac: 0.46875
-  - chunk: 56
-    startChunk: 10.5 km
-    endChunk: 10.6 km
-    endAhead: 13.8 km
+    downward: 1
+    rel: 1.136364e-2
+    frac: 0.43181818
+  - chunk: 832
+    startChunk: 88.1 km
+    endChunk: 88.2 km
+    endAhead: 110.3 km
     down: 1
     downs:
-    - 10.593 km
+    - 88.189 km
     downers:
-    - - '217'
-      - Richard Westmoreland
+    - - '215'
+      - Burke Schnedl
+    downward: 3
+    rel: 3.409091e-2
+    frac: 0.46590909
+  - chunk: 834
+    startChunk: 88.3 km
+    endChunk: 88.4 km
+    endAhead: 110.5 km
+    down: 1
+    downs:
+    - 88.370 km
+    downers:
+    - - '216'
+      - John Maloney
+    downward: 2
+    rel: 2.272727e-2
+    frac: 0.48863636
+  - chunk: 1044
+    startChunk: 109.3 km
+    endChunk: 109.4 km
+    endAhead: 131.5 km
+    down: 1
+    downs:
+    - 109.370 km
+    downers:
+    - - '203'
+      - Andrey Solomykin
     downward: 1
-    rel: 3.125e-2
+    rel: 1.136364e-2
     frac: 0.5
 - - chunk: 0
     startChunk: 5.0 km

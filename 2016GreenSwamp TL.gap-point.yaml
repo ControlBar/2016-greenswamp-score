@@ -37,22 +37,22 @@ validityWorking:
     bestDistance: 42.7 km
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: null
-    gsBestTime: null
+    ssBestTime: 2.685833 h
+    gsBestTime: 2.685833 h
     nominalDistance: 30.0 km
-    bestDistance: 12.3 km
+    bestDistance: 110.6 km
   launch:
     nominalLaunch: 1
     flying: 5
     present: 5
   distance:
-    sum: 35.5 km
+    sum: 527.8 km
     flying: 5
-    area: 15
+    area: 23.0550208
     nominalGoal: 0.2
     nominalDistance: 30.0 km
     minimumDistance: 5.0 km
-    bestDistance: 12.3 km
+    bestDistance: 110.6 km
 - time:
     nominalTime: 1.500000 h
     ssBestTime: 3.012222 h
@@ -98,10 +98,10 @@ validity:
   launch: 1
   distance: 1
   task: 1
-- time: 0.60099408
+- time: 1
   launch: 1
-  distance: 0.47345387
-  task: 0.28454297
+  distance: 1
+  task: 1
 - time: 1
   launch: 1
   distance: 1
@@ -143,22 +143,22 @@ allocation:
     arrival: 0
     time: 639
   taskPoints: 1000
-- goalRatio: 0
+- goalRatio: 1
   weight:
-    reach: 0.45
-    effort: 0.45
-    distance: 0.9
+    reach: 0.1805
+    effort: 0.1805
+    distance: 0.361
     leading: 0
     arrival: 0
-    time: 0.1
+    time: 0.639
   points:
-    reach: 128.044
-    effort: 128.044
-    distance: 256.089
+    reach: 180.5
+    effort: 180.5
+    distance: 361
     leading: 0
     arrival: 0
-    time: 28.5
-  taskPoints: 285
+    time: 639
+  taskPoints: 1000
 - goalRatio: 0.2
   weight:
     reach: 0.315412
@@ -443,131 +443,131 @@ score:
       reachDistance: 42.669 km
       landedDistance: 42.669 km
       stoppedAlt: null
-- - - - '103'
-      - Mick Howard
-    - place: '1'
-      total: 248
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 119.779
-        effort: 128.044
-        distance: 247.823
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T19:21:47Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 11.491 km
-      landedDistance: 7.832 km
-      stoppedAlt: 2.000 m
-  - - - '105'
-      - Alan Arcos
-    - place: 2=
-      total: 213
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 128.044
-        effort: 85.363
-        distance: 213.407
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T18:33:28Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.284 km
-      landedDistance: 4.253 km
-      stoppedAlt: -13.000 m
-  - - - '102'
+- - - - '102'
       - Fausto Arcos
-    - place: 2=
-      total: 213
+    - place: '1'
+      total: 1000
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 128.044
-        effort: 85.363
-        distance: 213.407
+        reach: 180.5
+        effort: 180.5
+        distance: 361
         leading: 0
         arrival: 0
-        time: 0
+        time: 639
       velocity:
-        ss: 2016-04-09T18:33:34Z
+        ss: 2016-04-05T18:28:49Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.284 km
-      landedDistance: 4.301 km
-      stoppedAlt: 0.000 m
-  - - - '101'
-      - Ken  Kinzie
-    - place: 2=
-      total: 213
+        es: 2016-04-05T21:09:58Z
+        ssDistance: 105.950 km
+        ssElapsed: 2.685833 h
+        gsElapsed: 2.685833 h
+        ssVelocity: 39.45 km / h
+        gsVelocity: 39.45 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
+  - - - '103'
+      - Mick Howard
+    - place: '2'
+      total: 762
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 127.502
-        effort: 85.363
-        distance: 212.865
+        reach: 180.5
+        effort: 180.5
+        distance: 361
         leading: 0
         arrival: 0
-        time: 0
+        time: 400.6
       velocity:
-        ss: 2016-04-09T18:33:40Z
+        ss: 2016-04-05T18:10:00Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.232 km
-      landedDistance: 4.284 km
-      stoppedAlt: 21.000 m
+        es: 2016-04-05T21:08:39Z
+        ssDistance: 105.950 km
+        ssElapsed: 2.977500 h
+        gsElapsed: 2.977500 h
+        ssVelocity: 35.58 km / h
+        gsVelocity: 35.58 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
   - - - '104'
       - Mark Bourbonnais
-    - place: 2=
-      total: 213
+    - place: '3'
+      total: 744
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 127.346
-        effort: 85.363
-        distance: 212.709
+        reach: 180.5
+        effort: 180.5
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 382.9
+      velocity:
+        ss: 2016-04-05T18:33:32Z
+        gs: null
+        es: 2016-04-05T21:34:10Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.010556 h
+        gsElapsed: 3.010556 h
+        ssVelocity: 35.19 km / h
+        gsVelocity: 35.19 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
+  - - - '105'
+      - Alan Arcos
+    - place: '4'
+      total: 724
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 180.5
+        effort: 180.5
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 362.9
+      velocity:
+        ss: 2016-04-05T18:05:37Z
+        gs: null
+        es: 2016-04-05T21:08:35Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.049444 h
+        gsElapsed: 3.049444 h
+        ssVelocity: 34.74 km / h
+        gsVelocity: 34.74 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
+  - - - '101'
+      - Ken  Kinzie
+    - place: '5'
+      total: 361
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 180.5
+        effort: 180.5
+        distance: 361
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T18:33:23Z
+        ss: 2016-04-05T17:55:07Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.217 km
-      landedDistance: 4.297 km
-      stoppedAlt: -8.000 m
+        es: 2016-04-05T21:54:07Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.983333 h
+        gsElapsed: 3.983333 h
+        ssVelocity: 26.60 km / h
+        gsVelocity: 26.60 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
 - - - - '102'
       - Fausto Arcos
     - place: '1'
@@ -1045,131 +1045,131 @@ scoreDf:
       reachDistance: 42.669 km
       landedDistance: 42.669 km
       stoppedAlt: null
-- - - - '103'
-      - Mick Howard
-    - place: '1'
-      total: 248
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 119.779
-        effort: 128.044
-        distance: 247.823
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T19:21:47Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 11.491 km
-      landedDistance: 7.832 km
-      stoppedAlt: 2.000 m
-  - - - '105'
-      - Alan Arcos
-    - place: 2=
-      total: 213
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 128.044
-        effort: 85.363
-        distance: 213.407
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-04-09T18:33:28Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.284 km
-      landedDistance: 4.253 km
-      stoppedAlt: -13.000 m
-  - - - '102'
+- - - - '102'
       - Fausto Arcos
-    - place: 2=
-      total: 213
+    - place: '1'
+      total: 1000
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 128.044
-        effort: 85.363
-        distance: 213.407
+        reach: 180.5
+        effort: 180.5
+        distance: 361
         leading: 0
         arrival: 0
-        time: 0
+        time: 639
       velocity:
-        ss: 2016-04-09T18:33:34Z
+        ss: 2016-04-05T18:28:49Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.284 km
-      landedDistance: 4.301 km
-      stoppedAlt: 0.000 m
-  - - - '101'
-      - Ken  Kinzie
-    - place: 2=
-      total: 213
+        es: 2016-04-05T21:09:58Z
+        ssDistance: 105.950 km
+        ssElapsed: 2.685833 h
+        gsElapsed: 2.685833 h
+        ssVelocity: 39.45 km / h
+        gsVelocity: 39.45 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
+  - - - '103'
+      - Mick Howard
+    - place: '2'
+      total: 762
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 127.502
-        effort: 85.363
-        distance: 212.865
+        reach: 180.5
+        effort: 180.5
+        distance: 361
         leading: 0
         arrival: 0
-        time: 0
+        time: 400.6
       velocity:
-        ss: 2016-04-09T18:33:40Z
+        ss: 2016-04-05T18:10:00Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.232 km
-      landedDistance: 4.284 km
-      stoppedAlt: 21.000 m
+        es: 2016-04-05T21:08:39Z
+        ssDistance: 105.950 km
+        ssElapsed: 2.977500 h
+        gsElapsed: 2.977500 h
+        ssVelocity: 35.58 km / h
+        gsVelocity: 35.58 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
   - - - '104'
       - Mark Bourbonnais
-    - place: 2=
-      total: 213
+    - place: '3'
+      total: 744
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 127.346
-        effort: 85.363
-        distance: 212.709
+        reach: 180.5
+        effort: 180.5
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 382.9
+      velocity:
+        ss: 2016-04-05T18:33:32Z
+        gs: null
+        es: 2016-04-05T21:34:10Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.010556 h
+        gsElapsed: 3.010556 h
+        ssVelocity: 35.19 km / h
+        gsVelocity: 35.19 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
+  - - - '105'
+      - Alan Arcos
+    - place: '4'
+      total: 724
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 180.5
+        effort: 180.5
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 362.9
+      velocity:
+        ss: 2016-04-05T18:05:37Z
+        gs: null
+        es: 2016-04-05T21:08:35Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.049444 h
+        gsElapsed: 3.049444 h
+        ssVelocity: 34.74 km / h
+        gsVelocity: 34.74 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
+  - - - '101'
+      - Ken  Kinzie
+    - place: '5'
+      total: 361
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 180.5
+        effort: 180.5
+        distance: 361
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T18:33:23Z
+        ss: 2016-04-05T17:55:07Z
         gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 12.217 km
-      landedDistance: 4.297 km
-      stoppedAlt: -8.000 m
+        es: 2016-04-05T21:54:07Z
+        ssDistance: 105.950 km
+        ssElapsed: 3.983333 h
+        gsElapsed: 3.983333 h
+        ssVelocity: 26.60 km / h
+        gsVelocity: 26.60 km / h
+      reachDistance: 110.550 km
+      landedDistance: 110.550 km
+      stoppedAlt: null
 - - - - '102'
       - Fausto Arcos
     - place: '1'

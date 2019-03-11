@@ -251,129 +251,129 @@ flying:
       - 2016-04-04T20:53:02Z
 - - - - '105'
       - Alan Arcos
-    - loggedFixes: 1070
+    - loggedFixes: 1560
       flyingFixes:
       - 0
-      - 986
+      - 1465
       scoredFixes:
       - 0
-      - 986
-      loggedSeconds: 7029
+      - 1465
+      loggedSeconds: 12838
       flyingSeconds:
       - 0
-      - 6946
+      - 12744
       scoredSeconds:
       - 0
-      - 6946
+      - 12744
       loggedTimes:
-      - 2016-04-09T17:50:08Z
-      - 2016-04-09T19:47:17Z
+      - 2016-04-05T17:39:59Z
+      - 2016-04-05T21:13:57Z
       flyingTimes:
-      - 2016-04-09T17:50:08Z
-      - 2016-04-09T19:45:54Z
+      - 2016-04-05T17:39:59Z
+      - 2016-04-05T21:12:23Z
       scoredTimes:
-      - 2016-04-09T17:50:08Z
-      - 2016-04-09T19:45:54Z
+      - 2016-04-05T17:39:59Z
+      - 2016-04-05T21:12:23Z
   - - - '102'
       - Fausto Arcos
-    - loggedFixes: 598
+    - loggedFixes: 1412
       flyingFixes:
-      - 0
-      - 597
+      - 8
+      - 1315
       scoredFixes:
-      - 0
-      - 597
-      loggedSeconds: 6108
+      - 8
+      - 1315
+      loggedSeconds: 11130
       flyingSeconds:
-      - 0
-      - 6108
+      - 240
+      - 11034
       scoredSeconds:
-      - 0
-      - 6108
+      - 240
+      - 11034
       loggedTimes:
-      - 2016-04-09T18:04:31Z
-      - 2016-04-09T19:46:19Z
+      - 2016-04-05T18:10:18Z
+      - 2016-04-05T21:15:48Z
       flyingTimes:
-      - 2016-04-09T18:04:31Z
-      - 2016-04-09T19:46:19Z
+      - 2016-04-05T18:14:18Z
+      - 2016-04-05T21:14:12Z
       scoredTimes:
-      - 2016-04-09T18:04:31Z
-      - 2016-04-09T19:46:19Z
+      - 2016-04-05T18:14:18Z
+      - 2016-04-05T21:14:12Z
   - - - '101'
       - Ken  Kinzie
-    - loggedFixes: 4276
+    - loggedFixes: 6395
       flyingFixes:
-      - 0
-      - 4273
+      - 25
+      - 6393
       scoredFixes:
-      - 0
-      - 4273
-      loggedSeconds: 6401
+      - 25
+      - 6393
+      loggedSeconds: 22675
       flyingSeconds:
-      - 0
-      - 6391
+      - 5371
+      - 22518
       scoredSeconds:
-      - 0
-      - 6391
+      - 5371
+      - 22518
       loggedTimes:
-      - 2016-04-09T18:01:32Z
-      - 2016-04-09T19:48:13Z
+      - 2016-04-05T15:54:02Z
+      - 2016-04-05T22:11:57Z
       flyingTimes:
-      - 2016-04-09T18:01:32Z
-      - 2016-04-09T19:48:03Z
+      - 2016-04-05T17:23:33Z
+      - 2016-04-05T22:09:20Z
       scoredTimes:
-      - 2016-04-09T18:01:32Z
-      - 2016-04-09T19:48:03Z
+      - 2016-04-05T17:23:33Z
+      - 2016-04-05T22:09:20Z
   - - - '104'
       - Mark Bourbonnais
-    - loggedFixes: 1115
+    - loggedFixes: 1381
       flyingFixes:
       - 2
-      - 1114
+      - 1313
       scoredFixes:
       - 2
-      - 1114
-      loggedSeconds: 6180
+      - 1313
+      loggedSeconds: 12346
       flyingSeconds:
-      - 61
-      - 6180
+      - 62
+      - 12279
       scoredSeconds:
-      - 61
-      - 6180
+      - 62
+      - 12279
       loggedTimes:
-      - 2016-04-09T18:07:34Z
-      - 2016-04-09T19:50:34Z
+      - 2016-04-05T18:11:43Z
+      - 2016-04-05T21:37:29Z
       flyingTimes:
-      - 2016-04-09T18:08:35Z
-      - 2016-04-09T19:50:34Z
+      - 2016-04-05T18:12:45Z
+      - 2016-04-05T21:36:22Z
       scoredTimes:
-      - 2016-04-09T18:08:35Z
-      - 2016-04-09T19:50:34Z
+      - 2016-04-05T18:12:45Z
+      - 2016-04-05T21:36:22Z
   - - - '103'
       - Mick Howard
-    - loggedFixes: 3069
+    - loggedFixes: 6640
       flyingFixes:
-      - 10
-      - 3067
+      - 0
+      - 6563
       scoredFixes:
-      - 10
-      - 3067
-      loggedSeconds: 6556
+      - 0
+      - 6563
+      loggedSeconds: 13198
       flyingSeconds:
-      - 306
-      - 6554
+      - 0
+      - 13122
       scoredSeconds:
-      - 306
-      - 6554
+      - 0
+      - 13122
       loggedTimes:
-      - 2016-04-09T18:50:09Z
-      - 2016-04-09T20:39:25Z
+      - 2016-04-05T17:34:41Z
+      - 2016-04-05T21:14:39Z
       flyingTimes:
-      - 2016-04-09T18:55:15Z
-      - 2016-04-09T20:39:23Z
+      - 2016-04-05T17:34:41Z
+      - 2016-04-05T21:13:23Z
       scoredTimes:
-      - 2016-04-09T18:55:15Z
-      - 2016-04-09T20:39:23Z
+      - 2016-04-05T17:34:41Z
+      - 2016-04-05T21:13:23Z
 - - - - '105'
       - Alan Arcos
     - loggedFixes: 339
@@ -5633,594 +5633,826 @@ crossing:
       - Alan Arcos
     - zonesCrossSelected:
       - crossingPair:
+        - fix: 13
+          time: 2016-04-05T17:44:57Z
+          lat: 28.53556667
+          lng: -81.8463
         - fix: 14
-          time: 2016-04-09T17:55:28Z
-          lat: 28.53598333
-          lng: -81.84706667
-        - fix: 15
-          time: 2016-04-09T17:55:38Z
-          lat: 28.53698333
-          lng: -81.8473
+          time: 2016-04-05T17:45:07Z
+          lat: 28.53663333
+          lng: -81.84568333
         inZone:
         - true
         - false
       - crossingPair:
-        - fix: 242
-          time: 2016-04-09T18:33:28Z
-          lat: 28.48896667
-          lng: -81.84006667
-        - fix: 243
-          time: 2016-04-09T18:33:38Z
-          lat: 28.4885
-          lng: -81.84136667
+        - fix: 137
+          time: 2016-04-05T18:05:37Z
+          lat: 28.48921667
+          lng: -81.83693333
+        - fix: 138
+          time: 2016-04-05T18:05:47Z
+          lat: 28.4888
+          lng: -81.83805
         inZone:
         - true
         - false
-      - null
-      - null
+      - crossingPair:
+        - fix: 413
+          time: 2016-04-05T18:51:38Z
+          lat: 28.3386
+          lng: -81.67771667
+        - fix: 414
+          time: 2016-04-05T18:51:39Z
+          lat: 28.33865
+          lng: -81.67761667
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1236
+          time: 2016-04-05T21:08:32Z
+          lat: 27.59615
+          lng: -81.52735
+        - fix: 1237
+          time: 2016-04-05T21:08:35Z
+          lat: 27.59536667
+          lng: -81.52735
+        inZone:
+        - false
+        - true
       zonesCrossNominees:
       - - crossingPair:
+          - fix: 13
+            time: 2016-04-05T17:44:57Z
+            lat: 28.53556667
+            lng: -81.8463
           - fix: 14
-            time: 2016-04-09T17:55:28Z
-            lat: 28.53598333
-            lng: -81.84706667
-          - fix: 15
-            time: 2016-04-09T17:55:38Z
-            lat: 28.53698333
-            lng: -81.8473
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 47
-            time: 2016-04-09T18:00:58Z
-            lat: 28.53606667
-            lng: -81.84443333
-          - fix: 48
-            time: 2016-04-09T18:01:08Z
-            lat: 28.53566667
-            lng: -81.84503333
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 56
-            time: 2016-04-09T18:02:28Z
-            lat: 28.53138333
-            lng: -81.84475
-          - fix: 57
-            time: 2016-04-09T18:02:38Z
-            lat: 28.53068333
-            lng: -81.8435
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 120
-            time: 2016-04-09T18:13:08Z
-            lat: 28.5297
-            lng: -81.84428333
-          - fix: 121
-            time: 2016-04-09T18:13:18Z
-            lat: 28.53056667
-            lng: -81.8445
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 138
-            time: 2016-04-09T18:16:08Z
-            lat: 28.53031667
-            lng: -81.84836667
-          - fix: 139
-            time: 2016-04-09T18:16:18Z
-            lat: 28.53031667
-            lng: -81.84946667
+            time: 2016-04-05T17:45:07Z
+            lat: 28.53663333
+            lng: -81.84568333
           inZone:
           - true
           - false
       - - crossingPair:
-          - fix: 240
-            time: 2016-04-09T18:33:08Z
-            lat: 28.48863333
-            lng: -81.84113333
-          - fix: 241
-            time: 2016-04-09T18:33:18Z
-            lat: 28.4883
-            lng: -81.84013333
+          - fix: 137
+            time: 2016-04-05T18:05:37Z
+            lat: 28.48921667
+            lng: -81.83693333
+          - fix: 138
+            time: 2016-04-05T18:05:47Z
+            lat: 28.4888
+            lng: -81.83805
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 413
+            time: 2016-04-05T18:51:38Z
+            lat: 28.3386
+            lng: -81.67771667
+          - fix: 414
+            time: 2016-04-05T18:51:39Z
+            lat: 28.33865
+            lng: -81.67761667
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 416
+            time: 2016-04-05T18:51:50Z
+            lat: 28.33853333
+            lng: -81.6762
+          - fix: 417
+            time: 2016-04-05T18:52:00Z
+            lat: 28.33705
+            lng: -81.67516667
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1236
+            time: 2016-04-05T21:08:32Z
+            lat: 27.59615
+            lng: -81.52735
+          - fix: 1237
+            time: 2016-04-05T21:08:35Z
+            lat: 27.59536667
+            lng: -81.52735
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1290
+            time: 2016-04-05T21:09:28Z
+            lat: 27.58953333
+            lng: -81.5299
+          - fix: 1291
+            time: 2016-04-05T21:09:29Z
+            lat: 27.58958333
+            lng: -81.53003333
           inZone:
           - true
           - false
         - crossingPair:
-          - fix: 241
-            time: 2016-04-09T18:33:18Z
-            lat: 28.4883
-            lng: -81.84013333
-          - fix: 242
-            time: 2016-04-09T18:33:28Z
-            lat: 28.48896667
-            lng: -81.84006667
+          - fix: 1323
+            time: 2016-04-05T21:10:01Z
+            lat: 27.59091667
+            lng: -81.5308
+          - fix: 1324
+            time: 2016-04-05T21:10:02Z
+            lat: 27.59083333
+            lng: -81.5307
           inZone:
           - false
           - true
-        - crossingPair:
-          - fix: 242
-            time: 2016-04-09T18:33:28Z
-            lat: 28.48896667
-            lng: -81.84006667
-          - fix: 243
-            time: 2016-04-09T18:33:38Z
-            lat: 28.4885
-            lng: -81.84136667
-          inZone:
-          - true
-          - false
-      - []
-      - []
   - - - '102'
       - Fausto Arcos
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 13
-          time: 2016-04-09T18:09:23Z
-          lat: 28.53566667
-          lng: -81.84565
-        - fix: 14
-          time: 2016-04-09T18:09:33Z
-          lat: 28.5369
-          lng: -81.84515
+        - fix: 10
+          time: 2016-04-05T18:14:58Z
+          lat: 28.53641667
+          lng: -81.84583333
+        - fix: 11
+          time: 2016-04-05T18:15:08Z
+          lat: 28.53733333
+          lng: -81.84503333
         inZone:
         - true
         - false
       - crossingPair:
-        - fix: 158
-          time: 2016-04-09T18:33:34Z
-          lat: 28.48891667
-          lng: -81.84121667
-        - fix: 159
-          time: 2016-04-09T18:33:44Z
-          lat: 28.48741667
-          lng: -81.84163333
+        - fix: 93
+          time: 2016-04-05T18:28:49Z
+          lat: 28.4944
+          lng: -81.8218
+        - fix: 94
+          time: 2016-04-05T18:28:59Z
+          lat: 28.49301667
+          lng: -81.82091667
         inZone:
         - true
         - false
-      - null
-      - null
+      - crossingPair:
+        - fix: 274
+          time: 2016-04-05T18:58:59Z
+          lat: 28.35238333
+          lng: -81.6859
+        - fix: 275
+          time: 2016-04-05T18:59:07Z
+          lat: 28.35148333
+          lng: -81.6849
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1060
+          time: 2016-04-05T21:09:51Z
+          lat: 27.5964
+          lng: -81.52878333
+        - fix: 1061
+          time: 2016-04-05T21:09:58Z
+          lat: 27.59506667
+          lng: -81.52868333
+        inZone:
+        - false
+        - true
       zonesCrossNominees:
       - - crossingPair:
-          - fix: 13
-            time: 2016-04-09T18:09:23Z
-            lat: 28.53566667
-            lng: -81.84565
-          - fix: 14
-            time: 2016-04-09T18:09:33Z
-            lat: 28.5369
-            lng: -81.84515
+          - fix: 10
+            time: 2016-04-05T18:14:58Z
+            lat: 28.53641667
+            lng: -81.84583333
+          - fix: 11
+            time: 2016-04-05T18:15:08Z
+            lat: 28.53733333
+            lng: -81.84503333
           inZone:
           - true
           - false
         - crossingPair:
-          - fix: 29
-            time: 2016-04-09T18:12:04Z
-            lat: 28.53758333
-            lng: -81.84826667
-          - fix: 30
-            time: 2016-04-09T18:12:14Z
-            lat: 28.53601667
-            lng: -81.84768333
+          - fix: 20
+            time: 2016-04-05T18:16:38Z
+            lat: 28.53738333
+            lng: -81.84573333
+          - fix: 21
+            time: 2016-04-05T18:16:48Z
+            lat: 28.53616667
+            lng: -81.84706667
           inZone:
           - false
           - true
         - crossingPair:
-          - fix: 53
-            time: 2016-04-09T18:16:04Z
-            lat: 28.5305
-            lng: -81.8442
-          - fix: 54
-            time: 2016-04-09T18:16:14Z
-            lat: 28.53043333
-            lng: -81.8431
+          - fix: 40
+            time: 2016-04-05T18:19:58Z
+            lat: 28.53038333
+            lng: -81.84416667
+          - fix: 41
+            time: 2016-04-05T18:20:08Z
+            lat: 28.52936667
+            lng: -81.84468333
           inZone:
           - true
           - false
       - - crossingPair:
-          - fix: 155
-            time: 2016-04-09T18:33:04Z
-            lat: 28.48898333
-            lng: -81.84125
-          - fix: 156
-            time: 2016-04-09T18:33:14Z
-            lat: 28.48828333
-            lng: -81.84003333
+          - fix: 93
+            time: 2016-04-05T18:28:49Z
+            lat: 28.4944
+            lng: -81.8218
+          - fix: 94
+            time: 2016-04-05T18:28:59Z
+            lat: 28.49301667
+            lng: -81.82091667
           inZone:
           - true
           - false
+      - - crossingPair:
+          - fix: 274
+            time: 2016-04-05T18:58:59Z
+            lat: 28.35238333
+            lng: -81.6859
+          - fix: 275
+            time: 2016-04-05T18:59:07Z
+            lat: 28.35148333
+            lng: -81.6849
+          inZone:
+          - false
+          - true
         - crossingPair:
-          - fix: 156
-            time: 2016-04-09T18:33:14Z
-            lat: 28.48828333
-            lng: -81.84003333
-          - fix: 157
-            time: 2016-04-09T18:33:24Z
-            lat: 28.4891
-            lng: -81.83985
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 158
-            time: 2016-04-09T18:33:34Z
-            lat: 28.48891667
-            lng: -81.84121667
-          - fix: 159
-            time: 2016-04-09T18:33:44Z
-            lat: 28.48741667
-            lng: -81.84163333
+          - fix: 283
+            time: 2016-04-05T19:00:18Z
+            lat: 28.33985
+            lng: -81.67755
+          - fix: 284
+            time: 2016-04-05T19:00:28Z
+            lat: 28.33811667
+            lng: -81.67678333
           inZone:
           - true
           - false
-      - []
-      - []
+      - - crossingPair:
+          - fix: 1060
+            time: 2016-04-05T21:09:51Z
+            lat: 27.5964
+            lng: -81.52878333
+          - fix: 1061
+            time: 2016-04-05T21:09:58Z
+            lat: 27.59506667
+            lng: -81.52868333
+          inZone:
+          - false
+          - true
   - - - '101'
       - Ken  Kinzie
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 17
-          time: 2016-04-09T18:02:57Z
-          lat: 28.53631667
-          lng: -81.84586667
-        - fix: 18
-          time: 2016-04-09T18:03:02Z
-          lat: 28.53691667
-          lng: -81.8458
-        inZone:
-        - true
-        - false
-      - crossingPair:
-        - fix: 1360
-          time: 2016-04-09T18:33:40Z
-          lat: 28.48861667
-          lng: -81.84113333
-        - fix: 1361
-          time: 2016-04-09T18:33:41Z
-          lat: 28.4885
-          lng: -81.84125
-        inZone:
-        - true
-        - false
-      - null
-      - null
-      zonesCrossNominees:
-      - - crossingPair:
-          - fix: 17
-            time: 2016-04-09T18:02:57Z
-            lat: 28.53631667
-            lng: -81.84586667
-          - fix: 18
-            time: 2016-04-09T18:03:02Z
-            lat: 28.53691667
-            lng: -81.8458
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 323
-            time: 2016-04-09T18:11:57Z
-            lat: 28.5364
-            lng: -81.84855
-          - fix: 324
-            time: 2016-04-09T18:11:58Z
-            lat: 28.53623333
-            lng: -81.84846667
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 356
-            time: 2016-04-09T18:12:40Z
-            lat: 28.5361
-            lng: -81.84818333
-          - fix: 357
-            time: 2016-04-09T18:12:53Z
-            lat: 28.53666667
-            lng: -81.84941667
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 360
-            time: 2016-04-09T18:13:08Z
-            lat: 28.53503333
-            lng: -81.8504
-          - fix: 361
-            time: 2016-04-09T18:13:13Z
-            lat: 28.53448333
-            lng: -81.84966667
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 442
-            time: 2016-04-09T18:15:39Z
-            lat: 28.53048333
-            lng: -81.84391667
-          - fix: 443
-            time: 2016-04-09T18:15:40Z
-            lat: 28.53061667
-            lng: -81.84365
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 448
-            time: 2016-04-09T18:15:45Z
-            lat: 28.53116667
-            lng: -81.84318333
-          - fix: 449
-            time: 2016-04-09T18:15:46Z
-            lat: 28.53128333
-            lng: -81.84321667
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 459
-            time: 2016-04-09T18:15:59Z
-            lat: 28.53043333
-            lng: -81.84401667
-          - fix: 460
-            time: 2016-04-09T18:16:00Z
-            lat: 28.53031667
-            lng: -81.84388333
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 473
-            time: 2016-04-09T18:16:13Z
-            lat: 28.53081667
-            lng: -81.8434
-          - fix: 474
-            time: 2016-04-09T18:16:14Z
-            lat: 28.53078333
-            lng: -81.84358333
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 475
-            time: 2016-04-09T18:16:15Z
-            lat: 28.53053333
-            lng: -81.84385
-          - fix: 476
-            time: 2016-04-09T18:16:16Z
-            lat: 28.53033333
-            lng: -81.84395
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 1336
-            time: 2016-04-09T18:33:14Z
-            lat: 28.48866667
-            lng: -81.84123333
-          - fix: 1337
-            time: 2016-04-09T18:33:15Z
-            lat: 28.4885
-            lng: -81.84121667
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1352
-            time: 2016-04-09T18:33:31Z
-            lat: 28.48865
-            lng: -81.84011667
-          - fix: 1353
-            time: 2016-04-09T18:33:32Z
-            lat: 28.48871667
-            lng: -81.84016667
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1360
-            time: 2016-04-09T18:33:40Z
-            lat: 28.48861667
-            lng: -81.84113333
-          - fix: 1361
-            time: 2016-04-09T18:33:41Z
-            lat: 28.4885
-            lng: -81.84125
-          inZone:
-          - true
-          - false
-      - []
-      - []
-  - - - '104'
-      - Mark Bourbonnais
-    - zonesCrossSelected:
-      - crossingPair:
-        - fix: 14
-          time: 2016-04-09T18:12:47Z
-          lat: 28.53635
-          lng: -81.84715
-        - fix: 15
-          time: 2016-04-09T18:12:57Z
-          lat: 28.53731667
-          lng: -81.8476
-        inZone:
-        - true
-        - false
-      - crossingPair:
-        - fix: 135
-          time: 2016-04-09T18:33:23Z
-          lat: 28.48866667
-          lng: -81.8412
-        - fix: 136
-          time: 2016-04-09T18:33:33Z
-          lat: 28.48798333
-          lng: -81.84025
-        inZone:
-        - true
-        - false
-      - null
-      - null
-      zonesCrossNominees:
-      - - crossingPair:
-          - fix: 14
-            time: 2016-04-09T18:12:47Z
-            lat: 28.53635
-            lng: -81.84715
-          - fix: 15
-            time: 2016-04-09T18:12:57Z
-            lat: 28.53731667
-            lng: -81.8476
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 28
-            time: 2016-04-09T18:15:10Z
-            lat: 28.53648333
-            lng: -81.85081667
-          - fix: 29
-            time: 2016-04-09T18:15:20Z
-            lat: 28.5347
-            lng: -81.84956667
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 38
-            time: 2016-04-09T18:16:52Z
-            lat: 28.53015
-            lng: -81.84545
-          - fix: 39
-            time: 2016-04-09T18:17:02Z
-            lat: 28.52938333
-            lng: -81.8459
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 39
-            time: 2016-04-09T18:17:02Z
-            lat: 28.52938333
-            lng: -81.8459
-          - fix: 40
-            time: 2016-04-09T18:17:12Z
-            lat: 28.52978333
-            lng: -81.84593333
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 40
-            time: 2016-04-09T18:17:12Z
-            lat: 28.52978333
-            lng: -81.84593333
-          - fix: 41
-            time: 2016-04-09T18:17:23Z
-            lat: 28.52885
-            lng: -81.84603333
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 135
-            time: 2016-04-09T18:33:23Z
-            lat: 28.48866667
-            lng: -81.8412
-          - fix: 136
-            time: 2016-04-09T18:33:33Z
-            lat: 28.48798333
-            lng: -81.84025
-          inZone:
-          - true
-          - false
-      - []
-      - []
-  - - - '103'
-      - Mick Howard
-    - zonesCrossSelected:
-      - crossingPair:
-        - fix: 15
-          time: 2016-04-09T18:55:25Z
+        - fix: 71
+          time: 2016-04-05T17:35:28Z
           lat: 28.53638333
-          lng: -81.84545
-        - fix: 16
-          time: 2016-04-09T18:55:27Z
-          lat: 28.53666667
-          lng: -81.84533333
+          lng: -81.84551667
+        - fix: 72
+          time: 2016-04-05T17:35:29Z
+          lat: 28.53648333
+          lng: -81.84546667
         inZone:
         - true
         - false
       - crossingPair:
-        - fix: 789
-          time: 2016-04-09T19:21:47Z
-          lat: 28.48865
-          lng: -81.84136667
-        - fix: 790
-          time: 2016-04-09T19:21:49Z
-          lat: 28.48833333
-          lng: -81.84148333
+        - fix: 564
+          time: 2016-04-05T17:55:07Z
+          lat: 28.4884
+          lng: -81.84968333
+        - fix: 565
+          time: 2016-04-05T17:55:11Z
+          lat: 28.48793333
+          lng: -81.8491
         inZone:
         - true
         - false
-      - null
-      - null
+      - crossingPair:
+        - fix: 2130
+          time: 2016-04-05T18:58:41Z
+          lat: 28.33865
+          lng: -81.67355
+        - fix: 2131
+          time: 2016-04-05T18:58:42Z
+          lat: 28.33875
+          lng: -81.6735
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 6351
+          time: 2016-04-05T21:54:04Z
+          lat: 27.5953
+          lng: -81.5287
+        - fix: 6352
+          time: 2016-04-05T21:54:07Z
+          lat: 27.59513333
+          lng: -81.52825
+        inZone:
+        - false
+        - true
       zonesCrossNominees:
       - - crossingPair:
-          - fix: 15
-            time: 2016-04-09T18:55:25Z
+          - fix: 71
+            time: 2016-04-05T17:35:28Z
             lat: 28.53638333
-            lng: -81.84545
-          - fix: 16
-            time: 2016-04-09T18:55:27Z
-            lat: 28.53666667
-            lng: -81.84533333
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 318
-            time: 2016-04-09T19:05:45Z
-            lat: 28.531
-            lng: -81.85011667
-          - fix: 319
-            time: 2016-04-09T19:05:47Z
-            lat: 28.53108333
-            lng: -81.84983333
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 345
-            time: 2016-04-09T19:06:40Z
-            lat: 28.52955
-            lng: -81.84573333
-          - fix: 346
-            time: 2016-04-09T19:06:42Z
-            lat: 28.5294
+            lng: -81.84551667
+          - fix: 72
+            time: 2016-04-05T17:35:29Z
+            lat: 28.53648333
             lng: -81.84546667
           inZone:
           - true
           - false
       - - crossingPair:
-          - fix: 789
-            time: 2016-04-09T19:21:47Z
-            lat: 28.48865
-            lng: -81.84136667
-          - fix: 790
-            time: 2016-04-09T19:21:49Z
-            lat: 28.48833333
-            lng: -81.84148333
+          - fix: 471
+            time: 2016-04-05T17:51:10Z
+            lat: 28.4887
+            lng: -81.84198333
+          - fix: 472
+            time: 2016-04-05T17:51:12Z
+            lat: 28.48838333
+            lng: -81.84188333
           inZone:
           - true
           - false
-      - []
-      - []
+        - crossingPair:
+          - fix: 504
+            time: 2016-04-05T17:52:36Z
+            lat: 28.48845
+            lng: -81.8412
+          - fix: 505
+            time: 2016-04-05T17:52:39Z
+            lat: 28.48855
+            lng: -81.84148333
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 564
+            time: 2016-04-05T17:55:07Z
+            lat: 28.4884
+            lng: -81.84968333
+          - fix: 565
+            time: 2016-04-05T17:55:11Z
+            lat: 28.48793333
+            lng: -81.8491
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2130
+            time: 2016-04-05T18:58:41Z
+            lat: 28.33865
+            lng: -81.67355
+          - fix: 2131
+            time: 2016-04-05T18:58:42Z
+            lat: 28.33875
+            lng: -81.6735
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2146
+            time: 2016-04-05T18:59:09Z
+            lat: 28.33928333
+            lng: -81.67238333
+          - fix: 2147
+            time: 2016-04-05T18:59:12Z
+            lat: 28.33881667
+            lng: -81.67231667
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 6351
+            time: 2016-04-05T21:54:04Z
+            lat: 27.5953
+            lng: -81.5287
+          - fix: 6352
+            time: 2016-04-05T21:54:07Z
+            lat: 27.59513333
+            lng: -81.52825
+          inZone:
+          - false
+          - true
+  - - - '104'
+      - Mark Bourbonnais
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 11
+          time: 2016-04-05T18:16:10Z
+          lat: 28.53545
+          lng: -81.84621667
+        - fix: 12
+          time: 2016-04-05T18:16:20Z
+          lat: 28.5367
+          lng: -81.84565
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 113
+          time: 2016-04-05T18:33:32Z
+          lat: 28.49216667
+          lng: -81.8306
+        - fix: 114
+          time: 2016-04-05T18:33:42Z
+          lat: 28.49083333
+          lng: -81.82936667
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 292
+          time: 2016-04-05T19:04:07Z
+          lat: 28.35023333
+          lng: -81.6858
+        - fix: 293
+          time: 2016-04-05T19:04:09Z
+          lat: 28.35006667
+          lng: -81.6855
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1181
+          time: 2016-04-05T21:33:59Z
+          lat: 27.59755
+          lng: -81.5271
+        - fix: 1182
+          time: 2016-04-05T21:34:10Z
+          lat: 27.59523333
+          lng: -81.52791667
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 11
+            time: 2016-04-05T18:16:10Z
+            lat: 28.53545
+            lng: -81.84621667
+          - fix: 12
+            time: 2016-04-05T18:16:20Z
+            lat: 28.5367
+            lng: -81.84565
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 32
+            time: 2016-04-05T18:19:44Z
+            lat: 28.53656667
+            lng: -81.84773333
+          - fix: 33
+            time: 2016-04-05T18:19:54Z
+            lat: 28.53556667
+            lng: -81.84736667
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 44
+            time: 2016-04-05T18:21:47Z
+            lat: 28.52981667
+            lng: -81.84548333
+          - fix: 45
+            time: 2016-04-05T18:21:57Z
+            lat: 28.52923333
+            lng: -81.84625
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 113
+            time: 2016-04-05T18:33:32Z
+            lat: 28.49216667
+            lng: -81.8306
+          - fix: 114
+            time: 2016-04-05T18:33:42Z
+            lat: 28.49083333
+            lng: -81.82936667
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 292
+            time: 2016-04-05T19:04:07Z
+            lat: 28.35023333
+            lng: -81.6858
+          - fix: 293
+            time: 2016-04-05T19:04:09Z
+            lat: 28.35006667
+            lng: -81.6855
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 300
+            time: 2016-04-05T19:05:11Z
+            lat: 28.34003333
+            lng: -81.6806
+          - fix: 301
+            time: 2016-04-05T19:05:22Z
+            lat: 28.33841667
+            lng: -81.67946667
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1181
+            time: 2016-04-05T21:33:59Z
+            lat: 27.59755
+            lng: -81.5271
+          - fix: 1182
+            time: 2016-04-05T21:34:10Z
+            lat: 27.59523333
+            lng: -81.52791667
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1225
+            time: 2016-04-05T21:34:53Z
+            lat: 27.58968333
+            lng: -81.52991667
+          - fix: 1226
+            time: 2016-04-05T21:34:54Z
+            lat: 27.5896
+            lng: -81.5301
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1270
+            time: 2016-04-05T21:35:38Z
+            lat: 27.59266667
+            lng: -81.53091667
+          - fix: 1271
+            time: 2016-04-05T21:35:39Z
+            lat: 27.59268333
+            lng: -81.53081667
+          inZone:
+          - false
+          - true
+  - - - '103'
+      - Mick Howard
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 14
+          time: 2016-04-05T17:39:22Z
+          lat: 28.53616667
+          lng: -81.84508333
+        - fix: 15
+          time: 2016-04-05T17:39:24Z
+          lat: 28.53636667
+          lng: -81.84493333
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 931
+          time: 2016-04-05T18:10:00Z
+          lat: 28.48948333
+          lng: -81.83668333
+        - fix: 932
+          time: 2016-04-05T18:10:02Z
+          lat: 28.48913333
+          lng: -81.83655
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 2065
+          time: 2016-04-05T18:47:53Z
+          lat: 28.35305
+          lng: -81.68445
+        - fix: 2066
+          time: 2016-04-05T18:47:55Z
+          lat: 28.35276667
+          lng: -81.68416667
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 6280
+          time: 2016-04-05T21:08:38Z
+          lat: 27.59558333
+          lng: -81.52583333
+        - fix: 6281
+          time: 2016-04-05T21:08:39Z
+          lat: 27.59535
+          lng: -81.52581667
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 14
+            time: 2016-04-05T17:39:22Z
+            lat: 28.53616667
+            lng: -81.84508333
+          - fix: 15
+            time: 2016-04-05T17:39:24Z
+            lat: 28.53636667
+            lng: -81.84493333
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 196
+            time: 2016-04-05T17:45:27Z
+            lat: 28.53568333
+            lng: -81.84946667
+          - fix: 197
+            time: 2016-04-05T17:45:29Z
+            lat: 28.53535
+            lng: -81.84946667
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 225
+            time: 2016-04-05T17:46:25Z
+            lat: 28.52966667
+            lng: -81.84563333
+          - fix: 226
+            time: 2016-04-05T17:46:27Z
+            lat: 28.5296
+            lng: -81.84533333
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 246
+            time: 2016-04-05T17:47:07Z
+            lat: 28.53155
+            lng: -81.84285
+          - fix: 247
+            time: 2016-04-05T17:47:09Z
+            lat: 28.53156667
+            lng: -81.8431
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 249
+            time: 2016-04-05T17:47:13Z
+            lat: 28.53115
+            lng: -81.8435
+          - fix: 250
+            time: 2016-04-05T17:47:15Z
+            lat: 28.53083333
+            lng: -81.8434
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 793
+            time: 2016-04-05T18:05:24Z
+            lat: 28.4893
+            lng: -81.83613333
+          - fix: 794
+            time: 2016-04-05T18:05:26Z
+            lat: 28.48903333
+            lng: -81.836
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 800
+            time: 2016-04-05T18:05:38Z
+            lat: 28.4894
+            lng: -81.8352
+          - fix: 801
+            time: 2016-04-05T18:05:40Z
+            lat: 28.48946667
+            lng: -81.83545
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 802
+            time: 2016-04-05T18:05:42Z
+            lat: 28.48938333
+            lng: -81.8357
+          - fix: 803
+            time: 2016-04-05T18:05:44Z
+            lat: 28.48918333
+            lng: -81.83586667
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 918
+            time: 2016-04-05T18:09:34Z
+            lat: 28.48898333
+            lng: -81.83763333
+          - fix: 919
+            time: 2016-04-05T18:09:36Z
+            lat: 28.48918333
+            lng: -81.83776667
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 931
+            time: 2016-04-05T18:10:00Z
+            lat: 28.48948333
+            lng: -81.83668333
+          - fix: 932
+            time: 2016-04-05T18:10:02Z
+            lat: 28.48913333
+            lng: -81.83655
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2065
+            time: 2016-04-05T18:47:53Z
+            lat: 28.35305
+            lng: -81.68445
+          - fix: 2066
+            time: 2016-04-05T18:47:55Z
+            lat: 28.35276667
+            lng: -81.68416667
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2120
+            time: 2016-04-05T18:49:41Z
+            lat: 28.33925
+            lng: -81.67216667
+          - fix: 2121
+            time: 2016-04-05T18:49:43Z
+            lat: 28.33908333
+            lng: -81.67186667
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 6280
+            time: 2016-04-05T21:08:38Z
+            lat: 27.59558333
+            lng: -81.52583333
+          - fix: 6281
+            time: 2016-04-05T21:08:39Z
+            lat: 27.59535
+            lng: -81.52581667
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 6314
+            time: 2016-04-05T21:09:14Z
+            lat: 27.59068333
+            lng: -81.52306667
+          - fix: 6315
+            time: 2016-04-05T21:09:15Z
+            lat: 27.59068333
+            lng: -81.52296667
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 6386
+            time: 2016-04-05T21:10:26Z
+            lat: 27.58835
+            lng: -81.52601667
+          - fix: 6387
+            time: 2016-04-05T21:10:27Z
+            lat: 27.58841667
+            lng: -81.5261
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 6472
+            time: 2016-04-05T21:11:52Z
+            lat: 27.59541667
+            lng: -81.52726667
+          - fix: 6473
+            time: 2016-04-05T21:11:53Z
+            lat: 27.59551667
+            lng: -81.52728333
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 6497
+            time: 2016-04-05T21:12:17Z
+            lat: 27.5941
+            lng: -81.53011667
+          - fix: 6498
+            time: 2016-04-05T21:12:18Z
+            lat: 27.59391667
+            lng: -81.53016667
+          inZone:
+          - false
+          - true
 - - - - '105'
       - Alan Arcos
     - zonesCrossSelected:
