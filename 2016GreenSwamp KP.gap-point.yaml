@@ -1,8 +1,8 @@
 validityWorking:
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: 0.996111 h
-    gsBestTime: 0.996111 h
+    ssBestTime: 0.995829 h
+    gsBestTime: 0.995829 h
     nominalDistance: 30.0 km
     bestDistance: 34.3 km
   launch:
@@ -19,8 +19,8 @@ validityWorking:
     bestDistance: 34.3 km
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: 2.766667 h
-    gsBestTime: 2.766667 h
+    ssBestTime: 2.766294 h
+    gsBestTime: 2.766294 h
     nominalDistance: 30.0 km
     bestDistance: 42.7 km
   launch:
@@ -37,8 +37,8 @@ validityWorking:
     bestDistance: 42.7 km
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: 3.815000 h
-    gsBestTime: 3.815000 h
+    ssBestTime: 3.813963 h
+    gsBestTime: 3.813963 h
     nominalDistance: 30.0 km
     bestDistance: 110.6 km
   launch:
@@ -73,8 +73,8 @@ validityWorking:
     bestDistance: 85.2 km
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: 1.327778 h
-    gsBestTime: 1.327778 h
+    ssBestTime: 1.327311 h
+    gsBestTime: 1.327311 h
     nominalDistance: 30.0 km
     bestDistance: 41.0 km
   launch:
@@ -90,10 +90,10 @@ validityWorking:
     minimumDistance: 5.0 km
     bestDistance: 41.0 km
 validity:
-- time: 0.87141124
+- time: 0.87127393
   launch: 1
   distance: 0.4989447
-  task: 0.43478602
+  task: 0.43471751
 - time: 1
   launch: 1
   distance: 0.89707366
@@ -106,10 +106,10 @@ validity:
   launch: 1
   distance: 1
   task: 1
-- time: 0.97973583
+- time: 0.97965106
   launch: 1
   distance: 1
-  task: 0.97973583
+  task: 0.97965106
 allocation:
 - goalRatio: 5.882353e-2
   weight:
@@ -120,9 +120,9 @@ allocation:
     arrival: 0
     time: 0.19213332
   points:
-    reach: 175.625
-    effort: 175.625
-    distance: 351.249
+    reach: 175.597
+    effort: 175.597
+    distance: 351.194
     leading: 0
     arrival: 0
     time: 83.5
@@ -184,12 +184,12 @@ allocation:
     arrival: 0
     time: 0.46722986
   points:
-    reach: 260.987
-    effort: 260.987
-    distance: 521.974
+    reach: 260.964
+    effort: 260.964
+    distance: 521.929
     leading: 0
     arrival: 0
-    time: 457.8
+    time: 457.7
   taskPoints: 980
 score:
 - - - - '203'
@@ -199,19 +199,19 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 175.625
-        effort: 175.625
-        distance: 351.249
+        reach: 175.597
+        effort: 175.597
+        distance: 351.194
         leading: 0
         arrival: 0
         time: 83.5
       velocity:
-        ss: 2016-04-03T19:36:35Z
+        ss: 2016-04-03T19:36:35.083203967649Z
         gs: null
-        es: 2016-04-03T20:36:21Z
+        es: 2016-04-03T20:36:20.067004939074Z
         ssDistance: 29.659 km
-        ssElapsed: 0.996111 h
-        gsElapsed: 0.996111 h
+        ssElapsed: 0.995829 h
+        gsElapsed: 0.995829 h
         ssVelocity: 29.78 km / h
         gsVelocity: 29.78 km / h
       reachDistance: 34.259 km
@@ -224,14 +224,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 137.162
-        effort: 175.625
-        distance: 312.786
+        reach: 137.14
+        effort: 175.597
+        distance: 312.737
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:13:54Z
+        ss: 2016-04-03T20:13:54.555078065981Z
         gs: null
         es: null
         ssDistance: null
@@ -249,14 +249,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 103.369
-        effort: 170.459
-        distance: 273.828
+        reach: 103.353
+        effort: 170.432
+        distance: 273.785
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:36:35Z
+        ss: 2016-04-03T19:36:35.64220809802Z
         gs: null
         es: null
         ssDistance: null
@@ -275,14 +275,14 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 89.267
-        effort: 160.128
-        distance: 249.395
+        reach: 89.253
+        effort: 160.103
+        distance: 249.356
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:37:41Z
+        ss: 2016-04-03T19:37:47.36512906103Z
         gs: null
         es: null
         ssDistance: null
@@ -300,14 +300,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 88.631
-        effort: 160.128
-        distance: 248.759
+        reach: 88.617
+        effort: 160.103
+        distance: 248.72
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:37:28Z
+        ss: 2016-04-03T19:37:28.808483686415Z
         gs: null
         es: null
         ssDistance: null
@@ -326,14 +326,14 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 80.193
-        effort: 149.797
-        distance: 229.991
+        reach: 80.181
+        effort: 149.774
+        distance: 229.954
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:02:12Z
+        ss: 2016-04-03T20:02:12.233126215933Z
         gs: null
         es: null
         ssDistance: null
@@ -352,14 +352,14 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 64.517
-        effort: 134.301
-        distance: 198.818
+        reach: 64.507
+        effort: 134.28
+        distance: 198.787
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:01:38Z
+        ss: 2016-04-03T20:01:45.02248965533Z
         gs: null
         es: null
         ssDistance: null
@@ -377,14 +377,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 60.99
-        effort: 118.805
-        distance: 179.795
+        reach: 60.981
+        effort: 118.786
+        distance: 179.767
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:24:35Z
+        ss: 2016-04-03T19:24:35.11612073783Z
         gs: null
         es: null
         ssDistance: null
@@ -403,14 +403,14 @@ score:
       - penalty-fraction: -0.29
       penaltyReason: Handicap
       breakdown:
-        reach: 45.944
-        effort: 77.481
-        distance: 123.426
+        reach: 45.937
+        effort: 77.469
+        distance: 123.406
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:09:43Z
+        ss: 2016-04-03T20:09:44.02994996518Z
         gs: null
         es: null
         ssDistance: null
@@ -428,14 +428,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 47.236
-        effort: 98.143
-        distance: 145.379
+        reach: 47.229
+        effort: 98.128
+        distance: 145.356
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:47:59Z
+        ss: 2016-04-03T19:48:00.839299816968Z
         gs: null
         es: null
         ssDistance: null
@@ -453,14 +453,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 47.595
-        effort: 77.481
-        distance: 125.077
+        reach: 47.588
+        effort: 77.469
+        distance: 125.057
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:37:25Z
+        ss: 2016-04-03T19:37:26.06551484356Z
         gs: null
         es: null
         ssDistance: null
@@ -478,14 +478,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 37.794
-        effort: 51.654
-        distance: 89.448
+        reach: 37.788
+        effort: 51.646
+        distance: 89.434
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:11:14Z
+        ss: 2016-04-03T20:11:16.997089195688Z
         gs: null
         es: null
         ssDistance: null
@@ -504,9 +504,9 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 25.632
-        effort: 25.827
-        distance: 51.459
+        reach: 25.627
+        effort: 25.823
+        distance: 51.451
         leading: 0
         arrival: 0
         time: 0
@@ -530,9 +530,9 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 25.632
-        effort: 25.827
-        distance: 51.459
+        reach: 25.627
+        effort: 25.823
+        distance: 51.451
         leading: 0
         arrival: 0
         time: 0
@@ -556,9 +556,9 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 25.632
-        effort: 25.827
-        distance: 51.459
+        reach: 25.627
+        effort: 25.823
+        distance: 51.451
         leading: 0
         arrival: 0
         time: 0
@@ -581,9 +581,9 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 25.632
-        effort: 25.827
-        distance: 51.459
+        reach: 25.627
+        effort: 25.823
+        distance: 51.451
         leading: 0
         arrival: 0
         time: 0
@@ -614,12 +614,12 @@ score:
         arrival: 0
         time: 172.4
       velocity:
-        ss: 2016-04-04T18:21:41Z
+        ss: 2016-04-04T18:21:42.0487244034Z
         gs: null
-        es: 2016-04-04T21:07:41Z
+        es: 2016-04-04T21:07:40.70728573328Z
         ssDistance: 40.069 km
-        ssElapsed: 2.766667 h
-        gsElapsed: 2.766667 h
+        ssElapsed: 2.766294 h
+        gsElapsed: 2.766294 h
         ssVelocity: 14.48 km / h
         gsVelocity: 14.48 km / h
       reachDistance: 42.669 km
@@ -639,7 +639,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:25:21Z
+        ss: 2016-04-04T18:25:21.543220454545Z
         gs: null
         es: null
         ssDistance: null
@@ -664,7 +664,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:05:22Z
+        ss: 2016-04-04T18:05:23.097273049392Z
         gs: null
         es: null
         ssDistance: null
@@ -689,7 +689,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T17:52:06Z
+        ss: 2016-04-04T17:52:06.54074217357Z
         gs: null
         es: null
         ssDistance: null
@@ -714,7 +714,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T17:50:42Z
+        ss: 2016-04-04T17:50:42.356439763826Z
         gs: null
         es: null
         ssDistance: null
@@ -739,7 +739,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:21:51Z
+        ss: 2016-04-04T18:21:52.115607155547Z
         gs: null
         es: null
         ssDistance: null
@@ -764,7 +764,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T19:37:25Z
+        ss: 2016-04-04T19:37:25.052499798291Z
         gs: null
         es: null
         ssDistance: null
@@ -790,7 +790,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:21:59Z
+        ss: 2016-04-04T18:22:03.67424695004Z
         gs: null
         es: null
         ssDistance: null
@@ -815,7 +815,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:04:38Z
+        ss: 2016-04-04T18:04:40.30408593867Z
         gs: null
         es: null
         ssDistance: null
@@ -840,7 +840,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:02:14Z
+        ss: 2016-04-04T18:02:15.220636621439Z
         gs: null
         es: null
         ssDistance: null
@@ -866,7 +866,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:24:26Z
+        ss: 2016-04-04T18:24:26.549285571128Z
         gs: null
         es: null
         ssDistance: null
@@ -892,7 +892,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:30:30Z
+        ss: 2016-04-04T18:30:31.179953375835Z
         gs: null
         es: null
         ssDistance: null
@@ -917,7 +917,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:04:53Z
+        ss: 2016-04-04T18:04:54.91429369843Z
         gs: null
         es: null
         ssDistance: null
@@ -943,7 +943,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:15:45Z
+        ss: 2016-04-04T18:15:50.05447254259Z
         gs: null
         es: null
         ssDistance: null
@@ -969,7 +969,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:42:20Z
+        ss: 2016-04-04T18:42:23.77579741252Z
         gs: null
         es: null
         ssDistance: null
@@ -994,7 +994,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:05:12Z
+        ss: 2016-04-04T18:05:12.613987879274Z
         gs: null
         es: null
         ssDistance: null
@@ -1046,21 +1046,21 @@ score:
         arrival: 0
         time: 273.1
       velocity:
-        ss: 2016-04-05T17:47:54Z
+        ss: 2016-04-05T17:47:56.68278962448Z
         gs: null
-        es: 2016-04-05T21:36:48Z
+        es: 2016-04-05T21:36:46.951348311464Z
         ssDistance: 105.950 km
-        ssElapsed: 3.815000 h
-        gsElapsed: 3.815000 h
-        ssVelocity: 27.77 km / h
-        gsVelocity: 27.77 km / h
+        ssElapsed: 3.813963 h
+        gsElapsed: 3.813963 h
+        ssVelocity: 27.78 km / h
+        gsVelocity: 27.78 km / h
       reachDistance: 110.550 km
       landedDistance: 110.550 km
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 972
+      total: 978
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -1069,16 +1069,16 @@ score:
         distance: 726.871
         leading: 0
         arrival: 0
-        time: 245
+        time: 250.7
       velocity:
-        ss: 2016-04-05T18:34:59Z
+        ss: 2016-04-05T18:35:01.83730614369Z
         gs: null
-        es: 2016-04-05T22:26:39Z
+        es: 2016-04-05T22:26:37.72281145832Z
         ssDistance: 105.950 km
-        ssElapsed: 3.861111 h
-        gsElapsed: 3.861111 h
-        ssVelocity: 27.44 km / h
-        gsVelocity: 27.44 km / h
+        ssElapsed: 3.859968 h
+        gsElapsed: 3.859968 h
+        ssVelocity: 27.45 km / h
+        gsVelocity: 27.45 km / h
       reachDistance: 110.550 km
       landedDistance: 110.550 km
       stoppedAlt: null
@@ -1096,7 +1096,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:35:00Z
+        ss: 2016-04-05T18:35:00.913922816535Z
         gs: null
         es: null
         ssDistance: null
@@ -1122,7 +1122,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T17:53:29Z
+        ss: 2016-04-05T17:53:29.752605522481Z
         gs: null
         es: null
         ssDistance: null
@@ -1147,7 +1147,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T17:48:42Z
+        ss: 2016-04-05T17:48:42.986523380154Z
         gs: null
         es: null
         ssDistance: null
@@ -1173,7 +1173,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T17:48:13Z
+        ss: 2016-04-05T17:48:17.44261864842Z
         gs: null
         es: null
         ssDistance: null
@@ -1198,7 +1198,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:44:01Z
+        ss: 2016-04-05T18:44:01.91982531959Z
         gs: null
         es: null
         ssDistance: null
@@ -1223,7 +1223,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:58:09Z
+        ss: 2016-04-05T18:58:09.009558760299Z
         gs: null
         es: null
         ssDistance: null
@@ -1248,7 +1248,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:34:06Z
+        ss: 2016-04-05T18:34:07.157482245852Z
         gs: null
         es: null
         ssDistance: null
@@ -1273,7 +1273,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:34:08Z
+        ss: 2016-04-05T18:34:09.277536268728Z
         gs: null
         es: null
         ssDistance: null
@@ -1298,7 +1298,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:51:33Z
+        ss: 2016-04-05T18:51:33.79557475212Z
         gs: null
         es: null
         ssDistance: null
@@ -1324,7 +1324,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T17:48:15Z
+        ss: 2016-04-05T17:48:18.135701076948Z
         gs: null
         es: null
         ssDistance: null
@@ -1444,7 +1444,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:38:32Z
+        ss: 2016-04-06T18:38:34.902341293994Z
         gs: null
         es: null
         ssDistance: null
@@ -1469,7 +1469,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T19:03:08Z
+        ss: 2016-04-06T19:03:10.802019723675Z
         gs: null
         es: null
         ssDistance: null
@@ -1495,7 +1495,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T17:54:43Z
+        ss: 2016-04-06T17:54:53.120167002121Z
         gs: null
         es: null
         ssDistance: null
@@ -1520,7 +1520,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:33:59Z
+        ss: 2016-04-06T18:33:59.655951667684Z
         gs: null
         es: null
         ssDistance: null
@@ -1545,7 +1545,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T19:20:14Z
+        ss: 2016-04-06T19:20:14.445024780599Z
         gs: null
         es: null
         ssDistance: null
@@ -1570,7 +1570,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:27:43Z
+        ss: 2016-04-06T18:27:43.515399702689Z
         gs: null
         es: null
         ssDistance: null
@@ -1596,7 +1596,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T17:56:00Z
+        ss: 2016-04-06T17:56:03.07636712801Z
         gs: null
         es: null
         ssDistance: null
@@ -1621,7 +1621,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T19:20:45Z
+        ss: 2016-04-06T19:20:48.485795540235Z
         gs: null
         es: null
         ssDistance: null
@@ -1647,7 +1647,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T17:54:02Z
+        ss: 2016-04-06T17:54:05.844704203495Z
         gs: null
         es: null
         ssDistance: null
@@ -1673,7 +1673,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T17:54:21Z
+        ss: 2016-04-06T17:54:23.160009453575Z
         gs: null
         es: null
         ssDistance: null
@@ -1699,7 +1699,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:03:31Z
+        ss: 2016-04-06T18:03:31.645464072106Z
         gs: null
         es: null
         ssDistance: null
@@ -1724,7 +1724,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:40:07Z
+        ss: 2016-04-06T18:40:08.843431897536Z
         gs: null
         es: null
         ssDistance: null
@@ -1813,26 +1813,26 @@ score:
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 1020
+      total: 1022
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handcap
       breakdown:
-        reach: 260.987
-        effort: 260.987
-        distance: 521.974
+        reach: 260.964
+        effort: 260.964
+        distance: 521.929
         leading: 0
         arrival: 0
-        time: 440.6
+        time: 442.4
       velocity:
-        ss: 2016-04-09T18:56:27Z
+        ss: 2016-04-09T18:56:28.90437261601Z
         gs: null
-        es: 2016-04-09T20:16:35Z
+        es: 2016-04-09T20:16:32.586848304832Z
         ssDistance: 36.370 km
-        ssElapsed: 1.335556 h
-        gsElapsed: 1.335556 h
-        ssVelocity: 27.23 km / h
-        gsVelocity: 27.23 km / h
+        ssElapsed: 1.334356 h
+        gsElapsed: 1.334356 h
+        ssVelocity: 27.26 km / h
+        gsVelocity: 27.26 km / h
       reachDistance: 40.970 km
       landedDistance: 40.970 km
       stoppedAlt: null
@@ -1843,72 +1843,72 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 260.987
-        effort: 260.987
-        distance: 521.974
+        reach: 260.964
+        effort: 260.964
+        distance: 521.929
         leading: 0
         arrival: 0
-        time: 457.8
+        time: 457.7
       velocity:
-        ss: 2016-04-09T19:30:39Z
+        ss: 2016-04-09T19:30:40.097688638285Z
         gs: null
-        es: 2016-04-09T20:50:19Z
+        es: 2016-04-09T20:50:18.418932994945Z
         ssDistance: 36.370 km
-        ssElapsed: 1.327778 h
-        gsElapsed: 1.327778 h
-        ssVelocity: 27.39 km / h
-        gsVelocity: 27.39 km / h
+        ssElapsed: 1.327311 h
+        gsElapsed: 1.327311 h
+        ssVelocity: 27.40 km / h
+        gsVelocity: 27.40 km / h
       reachDistance: 40.970 km
       landedDistance: 40.970 km
       stoppedAlt: null
   - - - '216'
       - John Maloney
     - place: '3'
-      total: 941
+      total: 945
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 260.987
-        effort: 260.987
-        distance: 521.974
+        reach: 260.964
+        effort: 260.964
+        distance: 521.929
         leading: 0
         arrival: 0
-        time: 365.8
+        time: 369.9
       velocity:
-        ss: 2016-04-09T19:22:04Z
+        ss: 2016-04-09T19:22:04.212935700092Z
         gs: null
-        es: 2016-04-09T20:47:32Z
+        es: 2016-04-09T20:47:31.08083968729Z
         ssDistance: 36.370 km
-        ssElapsed: 1.424444 h
-        gsElapsed: 1.424444 h
-        ssVelocity: 25.53 km / h
-        gsVelocity: 25.53 km / h
+        ssElapsed: 1.424130 h
+        gsElapsed: 1.424130 h
+        ssVelocity: 25.54 km / h
+        gsVelocity: 25.54 km / h
       reachDistance: 40.970 km
       landedDistance: 40.970 km
       stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 858
+      total: 864
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 260.987
-        effort: 260.987
-        distance: 521.974
+        reach: 260.964
+        effort: 260.964
+        distance: 521.929
         leading: 0
         arrival: 0
-        time: 336.2
+        time: 341.6
       velocity:
-        ss: 2016-04-09T18:59:35Z
+        ss: 2016-04-09T18:59:35.629891667344Z
         gs: null
-        es: 2016-04-09T20:28:04Z
+        es: 2016-04-09T20:28:03.965392340784Z
         ssDistance: 36.370 km
-        ssElapsed: 1.474722 h
-        gsElapsed: 1.474722 h
-        ssVelocity: 24.66 km / h
-        gsVelocity: 24.66 km / h
+        ssElapsed: 1.474538 h
+        gsElapsed: 1.474538 h
+        ssVelocity: 24.67 km / h
+        gsVelocity: 24.67 km / h
       reachDistance: 40.970 km
       landedDistance: 40.970 km
       stoppedAlt: null
@@ -1919,14 +1919,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 228.741
-        effort: 260.987
-        distance: 489.728
+        reach: 228.722
+        effort: 260.964
+        distance: 489.686
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T18:50:44Z
+        ss: 2016-04-09T18:50:44.643743619854Z
         gs: null
         es: null
         ssDistance: null
@@ -1944,14 +1944,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 218.549
-        effort: 244.675
-        distance: 463.225
+        reach: 218.53
+        effort: 244.654
+        distance: 463.184
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:37:29Z
+        ss: 2016-04-09T19:37:29.468442243359Z
         gs: null
         es: null
         ssDistance: null
@@ -1969,14 +1969,14 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 183.08
-        effort: 212.052
-        distance: 395.132
+        reach: 183.064
+        effort: 212.034
+        distance: 395.098
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:23:20Z
+        ss: 2016-04-09T19:23:21.72633661669Z
         gs: null
         es: null
         ssDistance: null
@@ -1995,14 +1995,14 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 84.745
-        effort: 163.117
-        distance: 247.861
+        reach: 84.737
+        effort: 163.103
+        distance: 247.84
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:57:02Z
+        ss: 2016-04-09T19:57:02.43630342695Z
         gs: null
         es: null
         ssDistance: null
@@ -2021,14 +2021,14 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 70.348
-        effort: 146.805
-        distance: 217.153
+        reach: 70.342
+        effort: 146.792
+        distance: 217.135
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:56:12Z
+        ss: 2016-04-09T19:56:15.65982034871Z
         gs: null
         es: null
         ssDistance: null
@@ -2047,14 +2047,14 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 60.844
-        effort: 114.182
-        distance: 175.026
+        reach: 60.839
+        effort: 114.172
+        distance: 175.011
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:58:56Z
+        ss: 2016-04-09T19:58:57.85571330268Z
         gs: null
         es: null
         ssDistance: null
@@ -2072,9 +2072,9 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.887
-        effort: 65.247
-        distance: 97.134
+        reach: 31.884
+        effort: 65.241
+        distance: 97.125
         leading: 0
         arrival: 0
         time: 0
@@ -2089,9 +2089,9 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.887
-        effort: 65.247
-        distance: 97.134
+        reach: 31.884
+        effort: 65.241
+        distance: 97.125
         leading: 0
         arrival: 0
         time: 0
@@ -2106,9 +2106,9 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.887
-        effort: 65.247
-        distance: 97.134
+        reach: 31.884
+        effort: 65.241
+        distance: 97.125
         leading: 0
         arrival: 0
         time: 0
@@ -2124,19 +2124,19 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 175.625
-        effort: 175.625
-        distance: 351.249
+        reach: 175.597
+        effort: 175.597
+        distance: 351.194
         leading: 0
         arrival: 0
         time: 83.5
       velocity:
-        ss: 2016-04-03T19:36:35Z
+        ss: 2016-04-03T19:36:35.083203967649Z
         gs: null
-        es: 2016-04-03T20:36:21Z
+        es: 2016-04-03T20:36:20.067004939074Z
         ssDistance: 29.659 km
-        ssElapsed: 0.996111 h
-        gsElapsed: 0.996111 h
+        ssElapsed: 0.995829 h
+        gsElapsed: 0.995829 h
         ssVelocity: 29.78 km / h
         gsVelocity: 29.78 km / h
       reachDistance: 34.259 km
@@ -2149,14 +2149,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 137.162
-        effort: 175.625
-        distance: 312.786
+        reach: 137.14
+        effort: 175.597
+        distance: 312.737
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:13:54Z
+        ss: 2016-04-03T20:13:54.555078065981Z
         gs: null
         es: null
         ssDistance: null
@@ -2174,14 +2174,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 103.369
-        effort: 170.459
-        distance: 273.828
+        reach: 103.353
+        effort: 170.432
+        distance: 273.785
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:36:35Z
+        ss: 2016-04-03T19:36:35.64220809802Z
         gs: null
         es: null
         ssDistance: null
@@ -2200,14 +2200,14 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 89.267
-        effort: 160.128
-        distance: 249.395
+        reach: 89.253
+        effort: 160.103
+        distance: 249.356
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:37:41Z
+        ss: 2016-04-03T19:37:47.36512906103Z
         gs: null
         es: null
         ssDistance: null
@@ -2225,14 +2225,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 88.631
-        effort: 160.128
-        distance: 248.759
+        reach: 88.617
+        effort: 160.103
+        distance: 248.72
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:37:28Z
+        ss: 2016-04-03T19:37:28.808483686415Z
         gs: null
         es: null
         ssDistance: null
@@ -2251,14 +2251,14 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 80.193
-        effort: 149.797
-        distance: 229.991
+        reach: 80.181
+        effort: 149.774
+        distance: 229.954
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:02:12Z
+        ss: 2016-04-03T20:02:12.233126215933Z
         gs: null
         es: null
         ssDistance: null
@@ -2277,14 +2277,14 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 64.517
-        effort: 134.301
-        distance: 198.818
+        reach: 64.507
+        effort: 134.28
+        distance: 198.787
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:01:38Z
+        ss: 2016-04-03T20:01:45.02248965533Z
         gs: null
         es: null
         ssDistance: null
@@ -2302,14 +2302,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 60.99
-        effort: 118.805
-        distance: 179.795
+        reach: 60.981
+        effort: 118.786
+        distance: 179.767
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:24:35Z
+        ss: 2016-04-03T19:24:35.11612073783Z
         gs: null
         es: null
         ssDistance: null
@@ -2328,14 +2328,14 @@ scoreDf:
       - penalty-fraction: -0.29
       penaltyReason: Handicap
       breakdown:
-        reach: 45.944
-        effort: 77.481
-        distance: 123.426
+        reach: 45.937
+        effort: 77.469
+        distance: 123.406
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:09:43Z
+        ss: 2016-04-03T20:09:44.02994996518Z
         gs: null
         es: null
         ssDistance: null
@@ -2353,14 +2353,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 47.236
-        effort: 98.143
-        distance: 145.379
+        reach: 47.229
+        effort: 98.128
+        distance: 145.356
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:47:59Z
+        ss: 2016-04-03T19:48:00.839299816968Z
         gs: null
         es: null
         ssDistance: null
@@ -2378,14 +2378,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 47.595
-        effort: 77.481
-        distance: 125.077
+        reach: 47.588
+        effort: 77.469
+        distance: 125.057
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T19:37:25Z
+        ss: 2016-04-03T19:37:26.06551484356Z
         gs: null
         es: null
         ssDistance: null
@@ -2403,14 +2403,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 37.794
-        effort: 51.654
-        distance: 89.448
+        reach: 37.788
+        effort: 51.646
+        distance: 89.434
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T20:11:14Z
+        ss: 2016-04-03T20:11:16.997089195688Z
         gs: null
         es: null
         ssDistance: null
@@ -2429,9 +2429,9 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 25.632
-        effort: 25.827
-        distance: 51.459
+        reach: 25.627
+        effort: 25.823
+        distance: 51.451
         leading: 0
         arrival: 0
         time: 0
@@ -2455,9 +2455,9 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 25.632
-        effort: 25.827
-        distance: 51.459
+        reach: 25.627
+        effort: 25.823
+        distance: 51.451
         leading: 0
         arrival: 0
         time: 0
@@ -2481,9 +2481,9 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 25.632
-        effort: 25.827
-        distance: 51.459
+        reach: 25.627
+        effort: 25.823
+        distance: 51.451
         leading: 0
         arrival: 0
         time: 0
@@ -2506,9 +2506,9 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 25.632
-        effort: 25.827
-        distance: 51.459
+        reach: 25.627
+        effort: 25.823
+        distance: 51.451
         leading: 0
         arrival: 0
         time: 0
@@ -2539,12 +2539,12 @@ scoreDf:
         arrival: 0
         time: 172.4
       velocity:
-        ss: 2016-04-04T18:21:41Z
+        ss: 2016-04-04T18:21:42.0487244034Z
         gs: null
-        es: 2016-04-04T21:07:41Z
+        es: 2016-04-04T21:07:40.70728573328Z
         ssDistance: 40.069 km
-        ssElapsed: 2.766667 h
-        gsElapsed: 2.766667 h
+        ssElapsed: 2.766294 h
+        gsElapsed: 2.766294 h
         ssVelocity: 14.48 km / h
         gsVelocity: 14.48 km / h
       reachDistance: 42.669 km
@@ -2564,7 +2564,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:25:21Z
+        ss: 2016-04-04T18:25:21.543220454545Z
         gs: null
         es: null
         ssDistance: null
@@ -2589,7 +2589,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:05:22Z
+        ss: 2016-04-04T18:05:23.097273049392Z
         gs: null
         es: null
         ssDistance: null
@@ -2614,7 +2614,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T17:52:06Z
+        ss: 2016-04-04T17:52:06.54074217357Z
         gs: null
         es: null
         ssDistance: null
@@ -2639,7 +2639,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T17:50:42Z
+        ss: 2016-04-04T17:50:42.356439763826Z
         gs: null
         es: null
         ssDistance: null
@@ -2664,7 +2664,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:21:51Z
+        ss: 2016-04-04T18:21:52.115607155547Z
         gs: null
         es: null
         ssDistance: null
@@ -2689,7 +2689,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T19:37:25Z
+        ss: 2016-04-04T19:37:25.052499798291Z
         gs: null
         es: null
         ssDistance: null
@@ -2715,7 +2715,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:21:59Z
+        ss: 2016-04-04T18:22:03.67424695004Z
         gs: null
         es: null
         ssDistance: null
@@ -2740,7 +2740,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:04:38Z
+        ss: 2016-04-04T18:04:40.30408593867Z
         gs: null
         es: null
         ssDistance: null
@@ -2765,7 +2765,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:02:14Z
+        ss: 2016-04-04T18:02:15.220636621439Z
         gs: null
         es: null
         ssDistance: null
@@ -2791,7 +2791,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:24:26Z
+        ss: 2016-04-04T18:24:26.549285571128Z
         gs: null
         es: null
         ssDistance: null
@@ -2817,7 +2817,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:30:30Z
+        ss: 2016-04-04T18:30:31.179953375835Z
         gs: null
         es: null
         ssDistance: null
@@ -2842,7 +2842,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:04:53Z
+        ss: 2016-04-04T18:04:54.91429369843Z
         gs: null
         es: null
         ssDistance: null
@@ -2868,7 +2868,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:15:45Z
+        ss: 2016-04-04T18:15:50.05447254259Z
         gs: null
         es: null
         ssDistance: null
@@ -2894,7 +2894,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:42:20Z
+        ss: 2016-04-04T18:42:23.77579741252Z
         gs: null
         es: null
         ssDistance: null
@@ -2919,7 +2919,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-04T18:05:12Z
+        ss: 2016-04-04T18:05:12.613987879274Z
         gs: null
         es: null
         ssDistance: null
@@ -2971,21 +2971,21 @@ scoreDf:
         arrival: 0
         time: 273.1
       velocity:
-        ss: 2016-04-05T17:47:54Z
+        ss: 2016-04-05T17:47:56.68278962448Z
         gs: null
-        es: 2016-04-05T21:36:48Z
+        es: 2016-04-05T21:36:46.951348311464Z
         ssDistance: 105.950 km
-        ssElapsed: 3.815000 h
-        gsElapsed: 3.815000 h
-        ssVelocity: 27.77 km / h
-        gsVelocity: 27.77 km / h
+        ssElapsed: 3.813963 h
+        gsElapsed: 3.813963 h
+        ssVelocity: 27.78 km / h
+        gsVelocity: 27.78 km / h
       reachDistance: 110.550 km
       landedDistance: 110.550 km
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 972
+      total: 978
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -2994,16 +2994,16 @@ scoreDf:
         distance: 726.871
         leading: 0
         arrival: 0
-        time: 245
+        time: 250.7
       velocity:
-        ss: 2016-04-05T18:34:59Z
+        ss: 2016-04-05T18:35:01.83730614369Z
         gs: null
-        es: 2016-04-05T22:26:39Z
+        es: 2016-04-05T22:26:37.72281145832Z
         ssDistance: 105.950 km
-        ssElapsed: 3.861111 h
-        gsElapsed: 3.861111 h
-        ssVelocity: 27.44 km / h
-        gsVelocity: 27.44 km / h
+        ssElapsed: 3.859968 h
+        gsElapsed: 3.859968 h
+        ssVelocity: 27.45 km / h
+        gsVelocity: 27.45 km / h
       reachDistance: 110.550 km
       landedDistance: 110.550 km
       stoppedAlt: null
@@ -3021,7 +3021,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:35:00Z
+        ss: 2016-04-05T18:35:00.913922816535Z
         gs: null
         es: null
         ssDistance: null
@@ -3047,7 +3047,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T17:53:29Z
+        ss: 2016-04-05T17:53:29.752605522481Z
         gs: null
         es: null
         ssDistance: null
@@ -3072,7 +3072,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T17:48:42Z
+        ss: 2016-04-05T17:48:42.986523380154Z
         gs: null
         es: null
         ssDistance: null
@@ -3098,7 +3098,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T17:48:13Z
+        ss: 2016-04-05T17:48:17.44261864842Z
         gs: null
         es: null
         ssDistance: null
@@ -3123,7 +3123,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:44:01Z
+        ss: 2016-04-05T18:44:01.91982531959Z
         gs: null
         es: null
         ssDistance: null
@@ -3148,7 +3148,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:58:09Z
+        ss: 2016-04-05T18:58:09.009558760299Z
         gs: null
         es: null
         ssDistance: null
@@ -3173,7 +3173,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:34:06Z
+        ss: 2016-04-05T18:34:07.157482245852Z
         gs: null
         es: null
         ssDistance: null
@@ -3198,7 +3198,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:34:08Z
+        ss: 2016-04-05T18:34:09.277536268728Z
         gs: null
         es: null
         ssDistance: null
@@ -3223,7 +3223,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T18:51:33Z
+        ss: 2016-04-05T18:51:33.79557475212Z
         gs: null
         es: null
         ssDistance: null
@@ -3249,7 +3249,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-05T17:48:15Z
+        ss: 2016-04-05T17:48:18.135701076948Z
         gs: null
         es: null
         ssDistance: null
@@ -3299,7 +3299,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:38:32Z
+        ss: 2016-04-06T18:38:34.902341293994Z
         gs: null
         es: null
         ssDistance: null
@@ -3324,7 +3324,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T19:03:08Z
+        ss: 2016-04-06T19:03:10.802019723675Z
         gs: null
         es: null
         ssDistance: null
@@ -3350,7 +3350,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T17:54:43Z
+        ss: 2016-04-06T17:54:53.120167002121Z
         gs: null
         es: null
         ssDistance: null
@@ -3375,7 +3375,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:33:59Z
+        ss: 2016-04-06T18:33:59.655951667684Z
         gs: null
         es: null
         ssDistance: null
@@ -3400,7 +3400,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T19:20:14Z
+        ss: 2016-04-06T19:20:14.445024780599Z
         gs: null
         es: null
         ssDistance: null
@@ -3425,7 +3425,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:27:43Z
+        ss: 2016-04-06T18:27:43.515399702689Z
         gs: null
         es: null
         ssDistance: null
@@ -3451,7 +3451,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T17:56:00Z
+        ss: 2016-04-06T17:56:03.07636712801Z
         gs: null
         es: null
         ssDistance: null
@@ -3476,7 +3476,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T19:20:45Z
+        ss: 2016-04-06T19:20:48.485795540235Z
         gs: null
         es: null
         ssDistance: null
@@ -3502,7 +3502,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T17:54:02Z
+        ss: 2016-04-06T17:54:05.844704203495Z
         gs: null
         es: null
         ssDistance: null
@@ -3528,7 +3528,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T17:54:21Z
+        ss: 2016-04-06T17:54:23.160009453575Z
         gs: null
         es: null
         ssDistance: null
@@ -3554,7 +3554,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:03:31Z
+        ss: 2016-04-06T18:03:31.645464072106Z
         gs: null
         es: null
         ssDistance: null
@@ -3579,7 +3579,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-06T18:40:07Z
+        ss: 2016-04-06T18:40:08.843431897536Z
         gs: null
         es: null
         ssDistance: null
@@ -3668,26 +3668,26 @@ scoreDf:
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 1020
+      total: 1022
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handcap
       breakdown:
-        reach: 260.987
-        effort: 260.987
-        distance: 521.974
+        reach: 260.964
+        effort: 260.964
+        distance: 521.929
         leading: 0
         arrival: 0
-        time: 440.6
+        time: 442.4
       velocity:
-        ss: 2016-04-09T18:56:27Z
+        ss: 2016-04-09T18:56:28.90437261601Z
         gs: null
-        es: 2016-04-09T20:16:35Z
+        es: 2016-04-09T20:16:32.586848304832Z
         ssDistance: 36.370 km
-        ssElapsed: 1.335556 h
-        gsElapsed: 1.335556 h
-        ssVelocity: 27.23 km / h
-        gsVelocity: 27.23 km / h
+        ssElapsed: 1.334356 h
+        gsElapsed: 1.334356 h
+        ssVelocity: 27.26 km / h
+        gsVelocity: 27.26 km / h
       reachDistance: 40.970 km
       landedDistance: 40.970 km
       stoppedAlt: null
@@ -3698,72 +3698,72 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 260.987
-        effort: 260.987
-        distance: 521.974
+        reach: 260.964
+        effort: 260.964
+        distance: 521.929
         leading: 0
         arrival: 0
-        time: 457.8
+        time: 457.7
       velocity:
-        ss: 2016-04-09T19:30:39Z
+        ss: 2016-04-09T19:30:40.097688638285Z
         gs: null
-        es: 2016-04-09T20:50:19Z
+        es: 2016-04-09T20:50:18.418932994945Z
         ssDistance: 36.370 km
-        ssElapsed: 1.327778 h
-        gsElapsed: 1.327778 h
-        ssVelocity: 27.39 km / h
-        gsVelocity: 27.39 km / h
+        ssElapsed: 1.327311 h
+        gsElapsed: 1.327311 h
+        ssVelocity: 27.40 km / h
+        gsVelocity: 27.40 km / h
       reachDistance: 40.970 km
       landedDistance: 40.970 km
       stoppedAlt: null
   - - - '216'
       - John Maloney
     - place: '3'
-      total: 941
+      total: 945
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 260.987
-        effort: 260.987
-        distance: 521.974
+        reach: 260.964
+        effort: 260.964
+        distance: 521.929
         leading: 0
         arrival: 0
-        time: 365.8
+        time: 369.9
       velocity:
-        ss: 2016-04-09T19:22:04Z
+        ss: 2016-04-09T19:22:04.212935700092Z
         gs: null
-        es: 2016-04-09T20:47:32Z
+        es: 2016-04-09T20:47:31.08083968729Z
         ssDistance: 36.370 km
-        ssElapsed: 1.424444 h
-        gsElapsed: 1.424444 h
-        ssVelocity: 25.53 km / h
-        gsVelocity: 25.53 km / h
+        ssElapsed: 1.424130 h
+        gsElapsed: 1.424130 h
+        ssVelocity: 25.54 km / h
+        gsVelocity: 25.54 km / h
       reachDistance: 40.970 km
       landedDistance: 40.970 km
       stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 858
+      total: 864
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 260.987
-        effort: 260.987
-        distance: 521.974
+        reach: 260.964
+        effort: 260.964
+        distance: 521.929
         leading: 0
         arrival: 0
-        time: 336.2
+        time: 341.6
       velocity:
-        ss: 2016-04-09T18:59:35Z
+        ss: 2016-04-09T18:59:35.629891667344Z
         gs: null
-        es: 2016-04-09T20:28:04Z
+        es: 2016-04-09T20:28:03.965392340784Z
         ssDistance: 36.370 km
-        ssElapsed: 1.474722 h
-        gsElapsed: 1.474722 h
-        ssVelocity: 24.66 km / h
-        gsVelocity: 24.66 km / h
+        ssElapsed: 1.474538 h
+        gsElapsed: 1.474538 h
+        ssVelocity: 24.67 km / h
+        gsVelocity: 24.67 km / h
       reachDistance: 40.970 km
       landedDistance: 40.970 km
       stoppedAlt: null
@@ -3774,14 +3774,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 228.741
-        effort: 260.987
-        distance: 489.728
+        reach: 228.722
+        effort: 260.964
+        distance: 489.686
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T18:50:44Z
+        ss: 2016-04-09T18:50:44.643743619854Z
         gs: null
         es: null
         ssDistance: null
@@ -3799,14 +3799,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 218.549
-        effort: 244.675
-        distance: 463.225
+        reach: 218.53
+        effort: 244.654
+        distance: 463.184
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:37:29Z
+        ss: 2016-04-09T19:37:29.468442243359Z
         gs: null
         es: null
         ssDistance: null
@@ -3824,14 +3824,14 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 183.08
-        effort: 212.052
-        distance: 395.132
+        reach: 183.064
+        effort: 212.034
+        distance: 395.098
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:23:20Z
+        ss: 2016-04-09T19:23:21.72633661669Z
         gs: null
         es: null
         ssDistance: null
@@ -3850,14 +3850,14 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 84.745
-        effort: 163.117
-        distance: 247.861
+        reach: 84.737
+        effort: 163.103
+        distance: 247.84
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:57:02Z
+        ss: 2016-04-09T19:57:02.43630342695Z
         gs: null
         es: null
         ssDistance: null
@@ -3876,14 +3876,14 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 70.348
-        effort: 146.805
-        distance: 217.153
+        reach: 70.342
+        effort: 146.792
+        distance: 217.135
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:56:12Z
+        ss: 2016-04-09T19:56:15.65982034871Z
         gs: null
         es: null
         ssDistance: null
@@ -3902,14 +3902,14 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        reach: 60.844
-        effort: 114.182
-        distance: 175.026
+        reach: 60.839
+        effort: 114.172
+        distance: 175.011
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-09T19:58:56Z
+        ss: 2016-04-09T19:58:57.85571330268Z
         gs: null
         es: null
         ssDistance: null
@@ -4001,9 +4001,9 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.887
-        effort: 65.247
-        distance: 97.134
+        reach: 31.884
+        effort: 65.241
+        distance: 97.125
         leading: 0
         arrival: 0
         time: 0
@@ -4018,9 +4018,9 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.887
-        effort: 65.247
-        distance: 97.134
+        reach: 31.884
+        effort: 65.241
+        distance: 97.125
         leading: 0
         arrival: 0
         time: 0
@@ -4035,9 +4035,9 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.887
-        effort: 65.247
-        distance: 97.134
+        reach: 31.884
+        effort: 65.241
+        distance: 97.125
         leading: 0
         arrival: 0
         time: 0

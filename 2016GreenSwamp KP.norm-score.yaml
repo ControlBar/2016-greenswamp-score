@@ -1,44 +1,11 @@
+bestTime:
+- 0.995000 h
+- 2.765833 h
+- 3.813333 h
+- null
+- 1.326944 h
 score:
-- - - - '202'
-      - Nick Jones
-    - place: '2'
-      total: 336
-      distance: 335.8
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T20:13:57Z
-      es: null
-      ssElapsed: null
-      distanceMade: 26.697000 km
-      distanceFrac: 0.7796565621166988
-  - - - '201'
-      - Niki Longshore
-    - place: '4'
-      total: 283
-      distance: 266.6
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T19:37:51Z
-      es: null
-      ssElapsed: null
-      distanceMade: 17.354000 km
-      distanceFrac: 0.5068045090824134
-  - - - '204'
-      - Owen MB
-    - place: '11'
-      total: 154
-      distance: 154.4
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T19:37:30Z
-      es: null
-      ssElapsed: null
-      distanceMade: 9.233000 km
-      distanceFrac: 0.26963962385374685
-  - - - '203'
+- - - - '203'
       - Andrey Solomykin
     - place: '1'
       total: 467
@@ -46,141 +13,32 @@ score:
       leading: 0
       arrival: 0
       time: 89.8
-      ss: 2016-04-03T19:36:39Z
-      es: 2016-04-03T20:36:21Z
-      ssElapsed: 0.995000 h
       distanceMade: 34.242000 km
       distanceFrac: 1
-  - - - '209'
-      - John Blank
-    - place: '8'
-      total: 215
-      distance: 203.3
+      ss: 2016-04-03T19:36:39Z
+      es: 2016-04-03T20:36:21Z
+      timeElapsed: 0.995000 h
+      timeFrac: 1
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '202'
+      - Nick Jones
+    - place: '2'
+      total: 336
+      distance: 335.8
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-03T20:01:48Z
+      distanceMade: 26.697000 km
+      distanceFrac: 0.7796565621166988
+      ss: 2016-04-03T20:13:57Z
       es: null
-      ssElapsed: null
-      distanceMade: 12.534000 km
-      distanceFrac: 0.3660417031715437
-  - - - '212'
-      - Greg Sessa
-    - place: '9'
-      total: 193
-      distance: 192.8
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T19:24:37Z
-      es: null
-      ssElapsed: null
-      distanceMade: 11.843000 km
-      distanceFrac: 0.3458618071374336
-  - - - '210'
-      - Pete Wall
-    - place: '14'
-      total: 94
-      distance: 88.7
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: null
-      es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 0.14601950820629636
-  - - - '211'
-      - Dan Lukaszewicz
-    - place: '12'
-      total: 153
-      distance: 153.4
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T19:48:03Z
-      es: null
-      ssElapsed: null
-      distanceMade: 9.163000 km
-      distanceFrac: 0.2675953507388587
-  - - - '214'
-      - Richard Elder
-    - place: '5'
-      total: 266
-      distance: 265.5
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T19:37:49Z
-      es: null
-      ssElapsed: null
-      distanceMade: 17.229000 km
-      distanceFrac: 0.503154021377256
-  - - - '216'
-      - John Maloney
-    - place: '6'
-      total: 262
-      distance: 247.1
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T20:02:15Z
-      es: null
-      ssElapsed: null
-      distanceMade: 15.597000 km
-      distanceFrac: 0.45549325389872086
-  - - - '215'
-      - Burke Schnedl
-    - place: '7'
-      total: 245
-      distance: 245.1
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T19:37:13Z
-      es: null
-      ssElapsed: null
-      distanceMade: 15.431000 km
-      distanceFrac: 0.45064540622627186
-  - - - '213'
-      - Willie Van Caulart
-    - place: '17'
-      total: 89
-      distance: 88.7
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: null
-      es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 0.14601950820629636
-  - - - '206'
-      - Michael Duffy
-    - place: '14'
-      total: 94
-      distance: 88.7
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: null
-      es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 0.14601950820629636
-  - - - '207'
-      - Alex Skyride
-    - place: '13'
-      total: 126
-      distance: 125.6
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-03T20:11:20Z
-      es: null
-      ssElapsed: null
-      distanceMade: 7.321000 km
-      distanceFrac: 0.21380176391565914
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '205'
       - Kelly Myrkle
     - place: '3'
@@ -189,11 +47,100 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-03T19:36:37Z
-      es: null
-      ssElapsed: null
       distanceMade: 20.104000 km
       distanceFrac: 0.5871152385958764
+      ss: 2016-04-03T19:36:37Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '201'
+      - Niki Longshore
+    - place: '4'
+      total: 283
+      distance: 266.6
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 17.354000 km
+      distanceFrac: 0.5068045090824134
+      ss: 2016-04-03T19:37:51Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '214'
+      - Richard Elder
+    - place: '5'
+      total: 266
+      distance: 265.5
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 17.229000 km
+      distanceFrac: 0.503154021377256
+      ss: 2016-04-03T19:37:49Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '216'
+      - John Maloney
+    - place: '6'
+      total: 262
+      distance: 247.1
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 15.597000 km
+      distanceFrac: 0.45549325389872086
+      ss: 2016-04-03T20:02:15Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '215'
+      - Burke Schnedl
+    - place: '7'
+      total: 245
+      distance: 245.1
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 15.431000 km
+      distanceFrac: 0.45064540622627186
+      ss: 2016-04-03T19:37:13Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '209'
+      - John Blank
+    - place: '8'
+      total: 215
+      distance: 203.3
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 12.534000 km
+      distanceFrac: 0.3660417031715437
+      ss: 2016-04-03T20:01:48Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '217'
       - Richard Westmoreland
     - place: '9'
@@ -202,11 +149,83 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-03T20:10:03Z
-      es: null
-      ssElapsed: null
       distanceMade: 8.911000 km
       distanceFrac: 0.2602359675252614
+      ss: 2016-04-03T20:10:03Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '212'
+      - Greg Sessa
+    - place: '9'
+      total: 193
+      distance: 192.8
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 11.843000 km
+      distanceFrac: 0.3458618071374336
+      ss: 2016-04-03T19:24:37Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '204'
+      - Owen MB
+    - place: '11'
+      total: 154
+      distance: 154.4
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 9.233000 km
+      distanceFrac: 0.26963962385374685
+      ss: 2016-04-03T19:37:30Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '211'
+      - Dan Lukaszewicz
+    - place: '12'
+      total: 153
+      distance: 153.4
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 9.163000 km
+      distanceFrac: 0.2675953507388587
+      ss: 2016-04-03T19:48:03Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '207'
+      - Alex Skyride
+    - place: '13'
+      total: 126
+      distance: 125.6
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 7.321000 km
+      distanceFrac: 0.21380176391565914
+      ss: 2016-04-03T20:11:20Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '208'
       - Soraya Rios
     - place: '14'
@@ -215,116 +234,67 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: null
-      es: null
-      ssElapsed: null
       distanceMade: 5.000000 km
       distanceFrac: 0.14601950820629636
-- - - - '207'
-      - Alex Skyride
-    - place: '10'
-      total: 450
-      distance: 449.6
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-04T18:02:17Z
-      es: null
-      ssElapsed: null
-      distanceMade: 20.064000 km
-      distanceFrac: 0.47022428460943544
-  - - - '203'
-      - Andrey Solomykin
-    - place: '9'
-      total: 500
-      distance: 500.4
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-04T19:37:27Z
-      es: null
-      ssElapsed: null
-      distanceMade: 21.994000 km
-      distanceFrac: 0.5154561859898287
-  - - - '211'
-      - Dan Lukaszewicz
-    - place: '3'
-      total: 556
-      distance: 555.5
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-04T18:05:24Z
-      es: null
-      ssElapsed: null
-      distanceMade: 25.602000 km
-      distanceFrac: 0.6000140617309991
-  - - - '212'
-      - Greg Sessa
-    - place: '8'
-      total: 514
-      distance: 513.8
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-04T18:21:53Z
-      es: null
-      ssElapsed: null
-      distanceMade: 22.572000 km
-      distanceFrac: 0.5290023201856149
-  - - - '209'
-      - John Blank
-    - place: '16'
-      total: 135
-      distance: 127
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-04T18:15:50Z
-      es: null
-      ssElapsed: null
-      distanceMade: 6.091000 km
-      distanceFrac: 0.1427500058590546
-  - - - '205'
-      - Kelly Myrkle
-    - place: '4'
-      total: 545
-      distance: 544.6
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-04T18:04:40Z
-      es: null
-      ssElapsed: null
-      distanceMade: 24.651000 km
-      distanceFrac: 0.5777262180974478
-  - - - '206'
-      - Michael Duffy
-    - place: '17'
-      total: 111
-      distance: 104.9
-      leading: 0
-      arrival: 0
-      time: 0
       ss: null
       es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 0.1171810916590499
-  - - - '202'
-      - Nick Jones
-    - place: '6'
-      total: 517
-      distance: 516.5
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '206'
+      - Michael Duffy
+    - place: '14'
+      total: 94
+      distance: 88.7
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-04T17:50:44Z
+      distanceMade: 5.000000 km
+      distanceFrac: 0.14601950820629636
+      ss: null
       es: null
-      ssElapsed: null
-      distanceMade: 22.707000 km
-      distanceFrac: 0.5321662096604092
-  - - - '201'
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '210'
+      - Pete Wall
+    - place: '14'
+      total: 94
+      distance: 88.7
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 0.14601950820629636
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '213'
+      - Willie Van Caulart
+    - place: '17'
+      total: 89
+      distance: 88.7
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 0.14601950820629636
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+- - - - '201'
       - Niki Longshore
     - place: '1'
       total: 951
@@ -332,24 +302,15 @@ score:
       leading: 0
       arrival: 0
       time: 172.3
-      ss: 2016-04-04T18:21:43Z
-      es: 2016-04-04T21:07:40Z
-      ssElapsed: 2.765833 h
       distanceMade: 42.669000 km
       distanceFrac: 1.0000000000000002
-  - - - '204'
-      - Owen MB
-    - place: '6'
-      total: 517
-      distance: 517.3
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-04T17:52:07Z
-      es: null
-      ssElapsed: null
-      distanceMade: 22.756000 km
-      distanceFrac: 0.5333145843586679
+      ss: 2016-04-04T18:21:43Z
+      es: 2016-04-04T21:07:40Z
+      timeElapsed: 2.765833 h
+      timeFrac: 1
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '214'
       - Richard Elder
     - place: '2'
@@ -358,11 +319,49 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-04T18:25:23Z
-      es: null
-      ssElapsed: null
       distanceMade: 36.767000 km
       distanceFrac: 0.8616794394056575
+      ss: 2016-04-04T18:25:23Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '211'
+      - Dan Lukaszewicz
+    - place: '3'
+      total: 556
+      distance: 555.5
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 25.602000 km
+      distanceFrac: 0.6000140617309991
+      ss: 2016-04-04T18:05:24Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '205'
+      - Kelly Myrkle
+    - place: '4'
+      total: 545
+      distance: 544.6
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 24.651000 km
+      distanceFrac: 0.5777262180974478
+      ss: 2016-04-04T18:04:40Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '217'
       - Richard Westmoreland
     - place: '5'
@@ -371,37 +370,100 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-04T18:22:04Z
-      es: null
-      ssElapsed: null
       distanceMade: 18.643000 km
       distanceFrac: 0.4369214183599334
-  - - - '208'
-      - Soraya Rios
-    - place: '14'
-      total: 143
-      distance: 135
+      ss: 2016-04-04T18:22:04Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '204'
+      - Owen MB
+    - place: '6'
+      total: 517
+      distance: 517.3
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-04T18:42:25Z
+      distanceMade: 22.756000 km
+      distanceFrac: 0.5333145843586679
+      ss: 2016-04-04T17:52:07Z
       es: null
-      ssElapsed: null
-      distanceMade: 6.556000 km
-      distanceFrac: 0.15364784738334622
-  - - - '213'
-      - Willie Van Caulart
-    - place: '13'
-      total: 226
-      distance: 225.5
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '202'
+      - Nick Jones
+    - place: '6'
+      total: 517
+      distance: 516.5
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-04T18:04:55Z
+      distanceMade: 22.707000 km
+      distanceFrac: 0.5321662096604092
+      ss: 2016-04-04T17:50:44Z
       es: null
-      ssElapsed: null
-      distanceMade: 12.670000 km
-      distanceFrac: 0.2969368862640324
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '212'
+      - Greg Sessa
+    - place: '8'
+      total: 514
+      distance: 513.8
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 22.572000 km
+      distanceFrac: 0.5290023201856149
+      ss: 2016-04-04T18:21:53Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '203'
+      - Andrey Solomykin
+    - place: '9'
+      total: 500
+      distance: 500.4
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 21.994000 km
+      distanceFrac: 0.5154561859898287
+      ss: 2016-04-04T19:37:27Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '207'
+      - Alex Skyride
+    - place: '10'
+      total: 450
+      distance: 449.6
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 20.064000 km
+      distanceFrac: 0.47022428460943544
+      ss: 2016-04-04T18:02:17Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '216'
       - John Maloney
     - place: '11'
@@ -410,11 +472,15 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-04T18:24:28Z
-      es: null
-      ssElapsed: null
       distanceMade: 18.965000 km
       distanceFrac: 0.44446788066277626
+      ss: 2016-04-04T18:24:28Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '210'
       - Pete Wall
     - place: '12'
@@ -423,11 +489,49 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-04T18:30:32Z
-      es: null
-      ssElapsed: null
       distanceMade: 18.536000 km
       distanceFrac: 0.4344137429984298
+      ss: 2016-04-04T18:30:32Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '213'
+      - Willie Van Caulart
+    - place: '13'
+      total: 226
+      distance: 225.5
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 12.670000 km
+      distanceFrac: 0.2969368862640324
+      ss: 2016-04-04T18:04:55Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '208'
+      - Soraya Rios
+    - place: '14'
+      total: 143
+      distance: 135
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 6.556000 km
+      distanceFrac: 0.15364784738334622
+      ss: 2016-04-04T18:42:25Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '215'
       - Burke Schnedl
     - place: '15'
@@ -436,168 +540,50 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-04T18:05:14Z
-      es: null
-      ssElapsed: null
       distanceMade: 6.719000 km
       distanceFrac: 0.15746795097143124
-- - - - '203'
-      - Andrey Solomykin
-    - place: '3'
-      total: 723
-      distance: 723
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T18:35:04Z
+      ss: 2016-04-04T18:05:14Z
       es: null
-      ssElapsed: null
-      distanceMade: 109.373000 km
-      distanceFrac: 0.9893800826797652
-  - - - '212'
-      - Greg Sessa
-    - place: '9'
-      total: 243
-      distance: 243.3
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T18:34:10Z
-      es: null
-      ssElapsed: null
-      distanceMade: 16.614000 km
-      distanceFrac: 0.15028901734104047
-  - - - '211'
-      - Dan Lukaszewicz
-    - place: '10'
-      total: 241
-      distance: 241.2
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T18:34:12Z
-      es: null
-      ssElapsed: null
-      distanceMade: 16.361000 km
-      distanceFrac: 0.14800039802075135
-  - - - '216'
-      - John Maloney
-    - place: '4'
-      total: 655
-      distance: 617.9
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T17:53:33Z
-      es: null
-      ssElapsed: null
-      distanceMade: 88.576000 km
-      distanceFrac: 0.8012519561815338
-  - - - '215'
-      - Burke Schnedl
-    - place: '5'
-      total: 623
-      distance: 623.2
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T17:48:46Z
-      es: null
-      ssElapsed: null
-      distanceMade: 89.393000 km
-      distanceFrac: 0.8086424778600957
-  - - - '213'
-      - Willie Van Caulart
-    - place: '15'
-      total: 108
-      distance: 108
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: null
-      es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 4.522963083575312e-2
-  - - - '207'
-      - Alex Skyride
-    - place: '8'
-      total: 283
-      distance: 283.2
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T18:58:12Z
-      es: null
-      ssElapsed: null
-      distanceMade: 22.559000 km
-      distanceFrac: 0.20406704840475093
-  - - - '217'
-      - Richard Westmoreland
-    - place: '11'
-      total: 190
-      distance: 190.2
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T18:51:36Z
-      es: null
-      ssElapsed: null
-      distanceMade: 11.324000 km
-      distanceFrac: 0.10243606791681366
-  - - - '208'
-      - Soraya Rios
-    - place: '12'
-      total: 176
-      distance: 165.9
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T17:48:32Z
-      es: null
-      ssElapsed: null
-      distanceMade: 9.269000 km
-      distanceFrac: 8.384668964331914e-2
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '209'
       - John Blank
-    - place: '13'
-      total: 114
-      distance: 108
+    - place: '16'
+      total: 135
+      distance: 127
       leading: 0
       arrival: 0
       time: 0
-      ss: null
+      distanceMade: 6.091000 km
+      distanceFrac: 0.1427500058590546
+      ss: 2016-04-04T18:15:50Z
       es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 4.522963083575312e-2
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '206'
       - Michael Duffy
-    - place: '13'
-      total: 114
-      distance: 108
+    - place: '17'
+      total: 111
+      distance: 104.9
       leading: 0
       arrival: 0
       time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 0.1171810916590499
       ss: null
       es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 4.522963083575312e-2
-  - - - '210'
-      - Pete Wall
-    - place: '6'
-      total: 423
-      distance: 398.6
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T17:48:20Z
-      es: null
-      ssElapsed: null
-      distanceMade: 45.288000 km
-      distanceFrac: 0.4096719042579175
-  - - - '201'
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+- - - - '201'
       - Niki Longshore
     - place: '1'
       total: 1060
@@ -605,24 +591,15 @@ score:
       leading: 0
       arrival: 0
       time: 273.1
-      ss: 2016-04-05T17:47:59Z
-      es: 2016-04-05T21:36:47Z
-      ssElapsed: 3.813333 h
       distanceMade: 110.547000 km
       distanceFrac: 1
-  - - - '204'
-      - Owen MB
-    - place: '7'
-      total: 294
-      distance: 293.7
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-05T18:44:17Z
-      es: null
-      ssElapsed: null
-      distanceMade: 24.288000 km
-      distanceFrac: 0.21970745474775435
+      ss: 2016-04-05T17:47:59Z
+      es: 2016-04-05T21:36:47Z
+      timeElapsed: 3.813333 h
+      timeFrac: 1
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '205'
       - Kelly Myrkle
     - place: '2'
@@ -631,24 +608,219 @@ score:
       leading: 0
       arrival: 0
       time: 250.7
-      ss: 2016-04-05T18:35:04Z
-      es: 2016-04-05T22:26:37Z
-      ssElapsed: 3.859167 h
       distanceMade: 110.547000 km
       distanceFrac: 1
-  - - - '214'
-      - Richard Elder
-    - place: '15'
-      total: 108
+      ss: 2016-04-05T18:35:04Z
+      es: 2016-04-05T22:26:37Z
+      timeElapsed: 3.859167 h
+      timeFrac: 0.91802413
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '203'
+      - Andrey Solomykin
+    - place: '3'
+      total: 723
+      distance: 723
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 109.373000 km
+      distanceFrac: 0.9893800826797652
+      ss: 2016-04-05T18:35:04Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '216'
+      - John Maloney
+    - place: '4'
+      total: 655
+      distance: 617.9
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 88.576000 km
+      distanceFrac: 0.8012519561815338
+      ss: 2016-04-05T17:53:33Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '215'
+      - Burke Schnedl
+    - place: '5'
+      total: 623
+      distance: 623.2
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 89.393000 km
+      distanceFrac: 0.8086424778600957
+      ss: 2016-04-05T17:48:46Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '210'
+      - Pete Wall
+    - place: '6'
+      total: 423
+      distance: 398.6
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 45.288000 km
+      distanceFrac: 0.4096719042579175
+      ss: 2016-04-05T17:48:20Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '204'
+      - Owen MB
+    - place: '7'
+      total: 294
+      distance: 293.7
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 24.288000 km
+      distanceFrac: 0.21970745474775435
+      ss: 2016-04-05T18:44:17Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '207'
+      - Alex Skyride
+    - place: '8'
+      total: 283
+      distance: 283.2
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 22.559000 km
+      distanceFrac: 0.20406704840475093
+      ss: 2016-04-05T18:58:12Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '212'
+      - Greg Sessa
+    - place: '9'
+      total: 243
+      distance: 243.3
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 16.614000 km
+      distanceFrac: 0.15028901734104047
+      ss: 2016-04-05T18:34:10Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '211'
+      - Dan Lukaszewicz
+    - place: '10'
+      total: 241
+      distance: 241.2
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 16.361000 km
+      distanceFrac: 0.14800039802075135
+      ss: 2016-04-05T18:34:12Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '217'
+      - Richard Westmoreland
+    - place: '11'
+      total: 190
+      distance: 190.2
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 11.324000 km
+      distanceFrac: 0.10243606791681366
+      ss: 2016-04-05T18:51:36Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '208'
+      - Soraya Rios
+    - place: '12'
+      total: 176
+      distance: 165.9
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 9.269000 km
+      distanceFrac: 8.384668964331914e-2
+      ss: 2016-04-05T17:48:32Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '206'
+      - Michael Duffy
+    - place: '13'
+      total: 114
       distance: 108
       leading: 0
       arrival: 0
       time: 0
-      ss: null
-      es: null
-      ssElapsed: null
       distanceMade: 5.000000 km
       distanceFrac: 4.522963083575312e-2
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '209'
+      - John Blank
+    - place: '13'
+      total: 114
+      distance: 108
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 4.522963083575312e-2
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '202'
       - Nick Jones
     - place: '15'
@@ -657,141 +829,66 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: null
-      es: null
-      ssElapsed: null
       distanceMade: 5.000000 km
       distanceFrac: 4.522963083575312e-2
-- - - - '201'
-      - Niki Longshore
-    - place: '8'
-      total: 399
-      distance: 376.8
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T17:56:05Z
-      es: null
-      ssElapsed: null
-      distanceMade: 27.318000 km
-      distanceFrac: 0.25232298228437366
-  - - - '204'
-      - Owen MB
-    - place: '14'
-      total: 103
-      distance: 103.3
-      leading: 0
-      arrival: 0
-      time: 0
       ss: null
       es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 4.618255038516247e-2
-  - - - '203'
-      - Andrey Solomykin
-    - place: '5'
-      total: 591
-      distance: 591.2
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T18:34:02Z
-      es: null
-      ssElapsed: null
-      distanceMade: 45.235000 km
-      distanceFrac: 0.4178135333345649
-  - - - '210'
-      - Pete Wall
-    - place: '9'
-      total: 296
-      distance: 279.2
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T17:54:07Z
-      es: null
-      ssElapsed: null
-      distanceMade: 18.779000 km
-      distanceFrac: 0.1734524227365932
-  - - - '216'
-      - John Maloney
-    - place: '12'
-      total: 166
-      distance: 157
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T18:03:34Z
-      es: null
-      ssElapsed: null
-      distanceMade: 8.672000 km
-      distanceFrac: 8.009901538802579e-2
-  - - - '206'
-      - Michael Duffy
-    - place: '11'
-      total: 209
-      distance: 197.3
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T17:54:26Z
-      es: null
-      ssElapsed: null
-      distanceMade: 11.921000 km
-      distanceFrac: 0.11010843662830436
-  - - - '217'
-      - Richard Westmoreland
-    - place: '14'
-      total: 103
-      distance: 103.3
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: null
-      es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 4.618255038516247e-2
-  - - - '208'
-      - Soraya Rios
-    - place: '4'
-      total: 654
-      distance: 617.3
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T17:54:55Z
-      es: null
-      ssElapsed: null
-      distanceMade: 47.918000 km
-      distanceFrac: 0.4425950898712431
-  - - - '213'
-      - Willie Van Caulart
-    - place: '10'
-      total: 286
-      distance: 285.5
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T19:20:50Z
-      es: null
-      ssElapsed: null
-      distanceMade: 19.438000 km
-      distanceFrac: 0.17953928287735763
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '214'
       - Richard Elder
-    - place: '6'
-      total: 494
-      distance: 493.7
+    - place: '15'
+      total: 108
+      distance: 108
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-06T19:20:17Z
+      distanceMade: 5.000000 km
+      distanceFrac: 4.522963083575312e-2
+      ss: null
       es: null
-      ssElapsed: null
-      distanceMade: 36.782000 km
-      distanceFrac: 0.3397373136534092
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '213'
+      - Willie Van Caulart
+    - place: '15'
+      total: 108
+      distance: 108
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 4.522963083575312e-2
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+- - - - '212'
+      - Greg Sessa
+    - place: '1'
+      total: 900
+      distance: 900
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 85.218000 km
+      distanceFrac: 0.7871169157445551
+      ss: 2016-04-06T18:39:03Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '205'
       - Kelly Myrkle
     - place: '2'
@@ -800,63 +897,15 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-06T19:03:24Z
-      es: null
-      ssElapsed: null
       distanceMade: 71.883000 km
       distanceFrac: 0.6639480538673268
-  - - - '212'
-      - Greg Sessa
-    - place: '1'
-      total: 900
-      distance: 900
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T18:39:03Z
+      ss: 2016-04-06T19:03:24Z
       es: null
-      ssElapsed: null
-      distanceMade: 85.218000 km
-      distanceFrac: 0.7871169157445551
-  - - - '211'
-      - Dan Lukaszewicz
-    - place: '13'
-      total: 117
-      distance: 117
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T18:40:25Z
-      es: null
-      ssElapsed: null
-      distanceMade: 5.843000 km
-      distanceFrac: 5.396892838010086e-2
-  - - - '207'
-      - Alex Skyride
-    - place: '14'
-      total: 103
-      distance: 103.3
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: null
-      es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 4.618255038516247e-2
-  - - - '202'
-      - Nick Jones
-    - place: '7'
-      total: 479
-      distance: 478.6
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-06T18:27:46Z
-      es: null
-      ssElapsed: null
-      distanceMade: 35.505000 km
-      distanceFrac: 0.3279422902850387
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '215'
       - Burke Schnedl
     - place: '3'
@@ -865,25 +914,237 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-06T18:54:18Z
-      es: null
-      ssElapsed: null
       distanceMade: 54.401000 km
       distanceFrac: 0.5024753847006447
-- - - - '211'
-      - Dan Lukaszewicz
-    - place: '11'
-      total: 121
-      distance: 120.7
+      ss: 2016-04-06T18:54:18Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '208'
+      - Soraya Rios
+    - place: '4'
+      total: 654
+      distance: 617.3
       leading: 0
       arrival: 0
       time: 0
+      distanceMade: 47.918000 km
+      distanceFrac: 0.4425950898712431
+      ss: 2016-04-06T17:54:55Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '203'
+      - Andrey Solomykin
+    - place: '5'
+      total: 591
+      distance: 591.2
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 45.235000 km
+      distanceFrac: 0.4178135333345649
+      ss: 2016-04-06T18:34:02Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '214'
+      - Richard Elder
+    - place: '6'
+      total: 494
+      distance: 493.7
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 36.782000 km
+      distanceFrac: 0.3397373136534092
+      ss: 2016-04-06T19:20:17Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '202'
+      - Nick Jones
+    - place: '7'
+      total: 479
+      distance: 478.6
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 35.505000 km
+      distanceFrac: 0.3279422902850387
+      ss: 2016-04-06T18:27:46Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '201'
+      - Niki Longshore
+    - place: '8'
+      total: 399
+      distance: 376.8
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 27.318000 km
+      distanceFrac: 0.25232298228437366
+      ss: 2016-04-06T17:56:05Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '210'
+      - Pete Wall
+    - place: '9'
+      total: 296
+      distance: 279.2
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 18.779000 km
+      distanceFrac: 0.1734524227365932
+      ss: 2016-04-06T17:54:07Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '213'
+      - Willie Van Caulart
+    - place: '10'
+      total: 286
+      distance: 285.5
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 19.438000 km
+      distanceFrac: 0.17953928287735763
+      ss: 2016-04-06T19:20:50Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '206'
+      - Michael Duffy
+    - place: '11'
+      total: 209
+      distance: 197.3
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 11.921000 km
+      distanceFrac: 0.11010843662830436
+      ss: 2016-04-06T17:54:26Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '216'
+      - John Maloney
+    - place: '12'
+      total: 166
+      distance: 157
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 8.672000 km
+      distanceFrac: 8.009901538802579e-2
+      ss: 2016-04-06T18:03:34Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '211'
+      - Dan Lukaszewicz
+    - place: '13'
+      total: 117
+      distance: 117
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.843000 km
+      distanceFrac: 5.396892838010086e-2
+      ss: 2016-04-06T18:40:25Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '207'
+      - Alex Skyride
+    - place: '14'
+      total: 103
+      distance: 103.3
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 4.618255038516247e-2
       ss: null
       es: null
-      ssElapsed: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '217'
+      - Richard Westmoreland
+    - place: '14'
+      total: 103
+      distance: 103.3
+      leading: 0
+      arrival: 0
+      time: 0
       distanceMade: 5.000000 km
-      distanceFrac: 0.12217769523995699
-  - - - '201'
+      distanceFrac: 4.618255038516247e-2
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '204'
+      - Owen MB
+    - place: '14'
+      total: 103
+      distance: 103.3
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 4.618255038516247e-2
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+- - - - '201'
       - Niki Longshore
     - place: '1'
       total: 1022
@@ -891,89 +1152,15 @@ score:
       leading: 0
       arrival: 0
       time: 442.5
+      distanceMade: 40.924000 km
+      distanceFrac: 1
       ss: 2016-04-09T18:56:31Z
       es: 2016-04-09T20:16:33Z
-      ssElapsed: 1.333889 h
-      distanceMade: 40.924000 km
-      distanceFrac: 1
-  - - - '217'
-      - Richard Westmoreland
-    - place: '7'
-      total: 407
-      distance: 407.1
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-09T19:23:23Z
-      es: null
-      ssElapsed: null
-      distanceMade: 28.678000 km
-      distanceFrac: 0.7007623888182973
-  - - - '216'
-      - John Maloney
-    - place: '3'
-      total: 945
-      distance: 521.9
-      leading: 0
-      arrival: 0
-      time: 370
-      ss: 2016-04-09T19:22:07Z
-      es: 2016-04-09T20:47:32Z
-      ssElapsed: 1.423611 h
-      distanceMade: 40.924000 km
-      distanceFrac: 1
-  - - - '203'
-      - Andrey Solomykin
-    - place: '4'
-      total: 864
-      distance: 521.9
-      leading: 0
-      arrival: 0
-      time: 341.6
-      ss: 2016-04-09T18:59:37Z
-      es: 2016-04-09T20:28:04Z
-      ssElapsed: 1.474167 h
-      distanceMade: 40.924000 km
-      distanceFrac: 1
-  - - - '212'
-      - Greg Sessa
-    - place: '6'
-      total: 474
-      distance: 474.4
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-09T19:37:31Z
-      es: null
-      ssElapsed: null
-      distanceMade: 34.204000 km
-      distanceFrac: 0.8357931775974978
-  - - - '202'
-      - Nick Jones
-    - place: '5'
-      total: 489
-      distance: 489.3
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-09T18:50:47Z
-      es: null
-      ssElapsed: null
-      distanceMade: 35.806000 km
-      distanceFrac: 0.87493891115238
-  - - - '210'
-      - Pete Wall
-    - place: '8'
-      total: 241
-      distance: 226.9
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: 2016-04-09T19:57:05Z
-      es: null
-      ssElapsed: null
-      distanceMade: 13.241000 km
-      distanceFrac: 0.3235509725344541
+      timeElapsed: 1.333889 h
+      timeFrac: 0.96687615
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '205'
       - Kelly Myrkle
     - place: '2'
@@ -982,11 +1169,117 @@ score:
       leading: 0
       arrival: 0
       time: 457.7
-      ss: 2016-04-09T19:30:42Z
-      es: 2016-04-09T20:50:19Z
-      ssElapsed: 1.326944 h
       distanceMade: 40.924000 km
       distanceFrac: 1
+      ss: 2016-04-09T19:30:42Z
+      es: 2016-04-09T20:50:19Z
+      timeElapsed: 1.326944 h
+      timeFrac: 1
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '216'
+      - John Maloney
+    - place: '3'
+      total: 945
+      distance: 521.9
+      leading: 0
+      arrival: 0
+      time: 370
+      distanceMade: 40.924000 km
+      distanceFrac: 1
+      ss: 2016-04-09T19:22:07Z
+      es: 2016-04-09T20:47:32Z
+      timeElapsed: 1.423611 h
+      timeFrac: 0.80832436
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '203'
+      - Andrey Solomykin
+    - place: '4'
+      total: 864
+      distance: 521.9
+      leading: 0
+      arrival: 0
+      time: 341.6
+      distanceMade: 40.924000 km
+      distanceFrac: 1
+      ss: 2016-04-09T18:59:37Z
+      es: 2016-04-09T20:28:04Z
+      timeElapsed: 1.474167 h
+      timeFrac: 0.74627418
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '202'
+      - Nick Jones
+    - place: '5'
+      total: 489
+      distance: 489.3
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 35.806000 km
+      distanceFrac: 0.87493891115238
+      ss: 2016-04-09T18:50:47Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '212'
+      - Greg Sessa
+    - place: '6'
+      total: 474
+      distance: 474.4
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 34.204000 km
+      distanceFrac: 0.8357931775974978
+      ss: 2016-04-09T19:37:31Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '217'
+      - Richard Westmoreland
+    - place: '7'
+      total: 407
+      distance: 407.1
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 28.678000 km
+      distanceFrac: 0.7007623888182973
+      ss: 2016-04-09T19:23:23Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '210'
+      - Pete Wall
+    - place: '8'
+      total: 241
+      distance: 226.9
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 13.241000 km
+      distanceFrac: 0.3235509725344541
+      ss: 2016-04-09T19:57:05Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '206'
       - Michael Duffy
     - place: '9'
@@ -995,37 +1288,15 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-09T19:56:18Z
-      es: null
-      ssElapsed: null
       distanceMade: 10.981000 km
       distanceFrac: 0.26832665428599356
-  - - - '214'
-      - Richard Elder
-    - place: '11'
-      total: 121
-      distance: 120.7
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: null
+      ss: 2016-04-09T19:56:18Z
       es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 0.12217769523995699
-  - - - '207'
-      - Alex Skyride
-    - place: '11'
-      total: 121
-      distance: 120.7
-      leading: 0
-      arrival: 0
-      time: 0
-      ss: null
-      es: null
-      ssElapsed: null
-      distanceMade: 5.000000 km
-      distanceFrac: 0.12217769523995699
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
   - - - '208'
       - Soraya Rios
     - place: '10'
@@ -1034,8 +1305,63 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      ss: 2016-04-09T19:59:00Z
-      es: null
-      ssElapsed: null
       distanceMade: 9.489000 km
       distanceFrac: 0.2318688300263904
+      ss: 2016-04-09T19:59:00Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '207'
+      - Alex Skyride
+    - place: '11'
+      total: 121
+      distance: 120.7
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 0.12217769523995699
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '214'
+      - Richard Elder
+    - place: '11'
+      total: 121
+      distance: 120.7
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 0.12217769523995699
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+  - - - '211'
+      - Dan Lukaszewicz
+    - place: '11'
+      total: 121
+      distance: 120.7
+      leading: 0
+      arrival: 0
+      time: 0
+      distanceMade: 5.000000 km
+      distanceFrac: 0.12217769523995699
+      ss: null
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
