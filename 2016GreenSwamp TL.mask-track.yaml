@@ -7,66 +7,66 @@ pilotsAtEss:
 raceTime:
 - openTask: 2016-04-03T18:30:00Z
   closeTask: 2016-04-04T00:00:00Z
-  firstStart: 2016-04-03T19:23:58Z
-  firstLead: 2016-04-03T19:23:58Z
-  lastArrival: 2016-04-03T20:45:48Z
-  leadAllDown: 102063
-  leadArrival: 4910
-  leadClose: 16562
+  firstStart: 2016-04-03T18:52:08.882856785356Z
+  firstLead: 2016-04-03T18:52:08.882856785356Z
+  lastArrival: 2016-04-03T20:45:44.822752066185Z
+  leadAllDown: 17572.117
+  leadArrival: 6815.94
+  leadClose: 18471.117
   openClose: 19800
-  tickClose: 16562
+  tickClose: 18471.117
 - openTask: 2016-04-04T17:30:00Z
   closeTask: 2016-04-05T00:00:00Z
-  firstStart: 2016-04-04T18:23:23Z
-  firstLead: 2016-04-04T18:23:23Z
-  lastArrival: 2016-04-04T20:55:28Z
-  leadAllDown: 15380
-  leadArrival: 9125
-  leadClose: 20197
+  firstStart: 2016-04-04T18:23:24.973624886056Z
+  firstLead: 2016-04-04T18:23:24.973624886056Z
+  lastArrival: 2016-04-04T20:55:27.518733308902Z
+  leadAllDown: 15378.026
+  leadArrival: 9122.545
+  leadClose: 20195.026
   openClose: 23400
-  tickClose: 20197
+  tickClose: 20195.026
 - openTask: 2016-04-05T17:00:00Z
   closeTask: 2016-04-06T00:00:00Z
-  firstStart: 2016-04-05T17:55:07Z
-  firstLead: 2016-04-05T17:55:07Z
-  lastArrival: 2016-04-05T21:54:07Z
-  leadAllDown: 15253
-  leadArrival: 14340
-  leadClose: 21893
+  firstStart: 2016-04-05T17:55:07.300829674476Z
+  firstLead: 2016-04-05T17:55:07.300829674476Z
+  lastArrival: 2016-04-05T21:54:05.437721031493Z
+  leadAllDown: 15252.699
+  leadArrival: 14338.137
+  leadClose: 21892.699
   openClose: 25200
-  tickClose: 21893
+  tickClose: 21892.699
 - openTask: 2016-04-06T17:30:00Z
   closeTask: 2016-04-07T00:00:00Z
-  firstStart: 2016-04-06T18:13:25Z
-  firstLead: 2016-04-06T18:13:25Z
-  lastArrival: 2016-04-06T21:14:09Z
-  leadAllDown: 11515
-  leadArrival: 10844
-  leadClose: 20795
+  firstStart: 2016-04-06T18:13:26.97659433628Z
+  firstLead: 2016-04-06T18:13:26.97659433628Z
+  lastArrival: 2016-04-06T21:14:08.710272393072Z
+  leadAllDown: 11513.023
+  leadArrival: 10841.734
+  leadClose: 20793.023
   openClose: 23400
-  tickClose: 20795
+  tickClose: 20793.023
 - openTask: 2016-04-09T18:00:00Z
   closeTask: 2016-04-10T00:00:00Z
-  firstStart: 2016-04-09T18:33:23Z
-  firstLead: 2016-04-09T18:33:23Z
-  lastArrival: 2016-04-09T19:40:48Z
-  leadAllDown: 7560
-  leadArrival: 4045
-  leadClose: 19597
+  firstStart: 2016-04-09T18:33:24.53570465335Z
+  firstLead: 2016-04-09T18:33:24.53570465335Z
+  lastArrival: 2016-04-09T19:40:45.174815998432Z
+  leadAllDown: 7558.464
+  leadArrival: 4040.639
+  leadClose: 19595.464
   openClose: 21600
-  tickClose: 19597
+  tickClose: 19595.464
 ssBestTime:
-- 1.055556 h
-- 2.160278 h
-- 2.685833 h
-- 3.012222 h
-- 1.112222 h
+- 1.053300 h
+- 2.159827 h
+- 2.685105 h
+- 3.011593 h
+- 1.109131 h
 gsBestTime:
-- 1.055556 h
-- 2.160278 h
-- 2.685833 h
-- 3.012222 h
-- 1.112222 h
+- 1.053300 h
+- 2.159827 h
+- 2.685105 h
+- 3.011593 h
+- 1.109131 h
 taskDistance:
 - 34.259485 km
 - 42.669368 km
@@ -91,114 +91,138 @@ sumDistance:
 - 527.751040 km
 - 179.046140 km
 - 173.607190 km
-leadScaling:
-- 6.3153911e-7
-- 3.460208e-7
-- 4.94907e-8
-- 5.169134e-8
-- 4.1998176e-7
+leadAreaToCoef:
+- 0.00000063153911 km^-2 s^-1
+- 0.00000034602080 km^-2 s^-1
+- 0.00000004949070 km^-2 s^-1
+- 0.00000005169134 km^-2 s^-1
+- 0.00000041998176 km^-2 s^-1
 leadCoefMin:
-- 0.67856163
-- 1.29805017
-- 2.37233917
-- 1.86623153
-- 0.61708846
+- 1.96723864
+- 1.47073011
+- 2.58264027
+- 2.03439697
+- 0.78220394
 leadRank:
 - - - - '103'
       - Mick Howard
-    - coef: 0.67856163
+    - area: 3114990.9628 km^2 s
+      coef: 1.96723864
       frac: 1
   - - - '102'
       - Fausto Arcos
-    - coef: 0.73607621
-      frac: 0.84105249
+    - area: 3247366.7068 km^2 s
+      coef: 2.0508391
+      frac: 0.8474121
   - - - '104'
       - Mark Bourbonnais
-    - coef: 0.85165081
-      frac: 0.66867943
+    - area: 3495833.3656 km^2 s
+      coef: 2.20775551
+      frac: 0.69134166
   - - - '105'
       - Alan Arcos
-    - coef: 0.89103644
-      frac: 0.6201547
+    - area: 3584883.4804 km^2 s
+      coef: 2.26399414
+      frac: 0.64493039
   - - - '101'
       - Ken  Kinzie
-    - coef: 32.5383323
+    - area: 5541027.6004 km^2 s
+      coef: 3.49937567
       frac: 0
 - - - - '105'
       - Alan Arcos
-    - coef: 1.29805017
+    - area: 4250409.5229 km^2 s
+      coef: 1.47073011
       frac: 1
   - - - '101'
       - Ken  Kinzie
-    - coef: 1.37411858
-      frac: 0.82810853
+    - area: 4500104.8343 km^2 s
+      coef: 1.55712988
+      frac: 0.82814425
   - - - '104'
       - Mark Bourbonnais
-    - coef: 1.3894209
-      frac: 0.80576708
+    - area: 4548979.8081 km^2 s
+      coef: 1.57404163
+      frac: 0.80639279
   - - - '102'
       - Fausto Arcos
-    - coef: 1.40729666
-      frac: 0.78119541
+    - area: 4604862.0568 km^2 s
+      coef: 1.59337805
+      frac: 0.78293197
   - - - '103'
       - Mick Howard
-    - coef: 1.46654877
-      frac: 0.70791071
+    - area: 4801367.8693 km^2 s
+      coef: 1.66137315
+      frac: 0.70872515
 - - - - '103'
       - Mick Howard
-    - coef: 2.37233917
+    - area: 52184352.2409 km^2 s
+      coef: 2.58264027
       frac: 1
   - - - '105'
       - Alan Arcos
-    - coef: 2.40670147
-      frac: 0.90847803
+    - area: 52936065.8274 km^2 s
+      coef: 2.6198431
+      frac: 0.91877382
   - - - '101'
       - Ken  Kinzie
-    - coef: 2.55528025
-      frac: 0.72095256
+    - area: 56208728.5949 km^2 s
+      coef: 2.78180949
+      frac: 0.75142344
   - - - '102'
       - Fausto Arcos
-    - coef: 2.62886506
-      frac: 0.6504108
+    - area: 57778161.4086 km^2 s
+      coef: 2.85948182
+      frac: 0.69040101
   - - - '104'
       - Mark Bourbonnais
-    - coef: 2.78095606
-      frac: 0.52318701
+    - area: 61071109.8794 km^2 s
+      coef: 3.02245215
+      frac: 0.578475
 - - - - '102'
       - Fausto Arcos
-    - coef: 1.86623153
+    - area: 39356633.9362 km^2 s
+      coef: 2.03439697
       frac: 1
   - - - '103'
       - Mick Howard
-    - coef: 3.17249287
-      frac: 0
+    - area: 66918240.0699 km^2 s
+      coef: 3.45909321
+      frac: 7.6045e-4
   - - - '105'
       - Alan Arcos
-    - coef: 3.88969362
+    - area: 82045932.2040 km^2 s
+      coef: 4.24106382
       frac: 0
   - - - '104'
       - Mark Bourbonnais
-    - coef: 3.91460038
+    - area: 82570647.1185 km^2 s
+      coef: 4.26818703
       frac: 0
 - - - - '102'
       - Fausto Arcos
-    - coef: 0.61708846
+    - area: 1862471.1998 km^2 s
+      coef: 0.78220394
       frac: 1
   - - - '101'
       - Ken  Kinzie
-    - coef: 0.61776808
-      frac: 0.99162246
+    - area: 1864528.0521 km^2 s
+      coef: 0.78306778
+      frac: 0.99015576
   - - - '105'
       - Alan Arcos
-    - coef: 0.62054274
-      frac: 0.97523452
+    - area: 1872907.6849 km^2 s
+      coef: 0.78658707
+      frac: 0.97093191
   - - - '104'
       - Mark Bourbonnais
-    - coef: 0.62600702
-      frac: 0.9533908
+    - area: 1889412.4400 km^2 s
+      coef: 0.79351877
+      frac: 0.94529941
   - - - '103'
       - Mick Howard
-    - coef: 2.16465975
+    - area: 6530964.3952 km^2 s
+      coef: 2.74288594
       frac: 0
 arrivalRank:
 - - - - '103'
@@ -373,149 +397,149 @@ reachRank:
 ssSpeed:
 - - - - '102'
       - Fausto Arcos
-    - time: 1.055556 h
+    - time: 1.053300 h
       frac: 1
   - - - '103'
       - Mick Howard
-    - time: 1.101111 h
-      frac: 0.87359021
+    - time: 1.100453 h
+      frac: 0.87172078
   - - - '104'
       - Mark Bourbonnais
-    - time: 1.336389 h
-      frac: 0.57500327
+    - time: 1.332560 h
+      frac: 0.58009084
 - - - - '103'
       - Mick Howard
-    - time: 2.160278 h
+    - time: 2.159827 h
       frac: 1
   - - - '105'
       - Alan Arcos
-    - time: 2.233333 h
-      frac: 0.84629645
+    - time: 2.230707 h
+      frac: 0.8675024
   - - - '102'
       - Fausto Arcos
-    - time: 2.275278 h
-      frac: 0.79200784
+    - time: 2.272920 h
+      frac: 0.81908047
   - - - '104'
       - Mark Bourbonnais
-    - time: 2.445000 h
-      frac: 0.61934695
+    - time: 2.443816 h
+      frac: 0.66575798
   - - - '101'
       - Ken  Kinzie
-    - time: 2.534722 h
-      frac: 0.54308018
+    - time: 2.534040 h
+      frac: 0.59826475
 - - - - '102'
       - Fausto Arcos
-    - time: 2.685833 h
+    - time: 2.685105 h
       frac: 1
   - - - '103'
       - Mick Howard
-    - time: 2.977500 h
-      frac: 0.6269692
+    - time: 2.976964 h
+      frac: 0.68343542
   - - - '104'
       - Mark Bourbonnais
-    - time: 3.010556 h
-      frac: 0.59929186
+    - time: 3.007738 h
+      frac: 0.6615571
   - - - '105'
       - Alan Arcos
-    - time: 3.049444 h
-      frac: 0.56790598
+    - time: 3.048081 h
+      frac: 0.63390087
   - - - '101'
       - Ken  Kinzie
-    - time: 3.983333 h
-      frac: 0
+    - time: 3.982816 h
+      frac: 0.14401732
 - - - - '102'
       - Fausto Arcos
-    - time: 3.012222 h
+    - time: 3.011593 h
       frac: 1
 - - - - '105'
       - Alan Arcos
-    - time: 1.112222 h
+    - time: 1.109131 h
       frac: 1
   - - - '101'
       - Ken  Kinzie
-    - time: 1.113333 h
-      frac: 0.98946083
+    - time: 1.112699 h
+      frac: 0.97744159
   - - - '102'
       - Fausto Arcos
-    - time: 1.120556 h
-      frac: 0.95961867
+    - time: 1.119066 h
+      frac: 0.95535289
   - - - '104'
       - Mark Bourbonnais
-    - time: 1.121111 h
-      frac: 0.95784332
+    - time: 1.119862 h
+      frac: 0.95299845
 gsSpeed:
 - - - - '102'
       - Fausto Arcos
-    - time: 1.055556 h
+    - time: 1.053300 h
       frac: 1
   - - - '103'
       - Mick Howard
-    - time: 1.101111 h
-      frac: 0.87359021
+    - time: 1.100453 h
+      frac: 0.87172078
   - - - '104'
       - Mark Bourbonnais
-    - time: 1.336389 h
-      frac: 0.57500327
+    - time: 1.332560 h
+      frac: 0.58009084
 - - - - '103'
       - Mick Howard
-    - time: 2.160278 h
+    - time: 2.159827 h
       frac: 1
   - - - '105'
       - Alan Arcos
-    - time: 2.233333 h
-      frac: 0.84629645
+    - time: 2.230707 h
+      frac: 0.8675024
   - - - '102'
       - Fausto Arcos
-    - time: 2.275278 h
-      frac: 0.79200784
+    - time: 2.272920 h
+      frac: 0.81908047
   - - - '104'
       - Mark Bourbonnais
-    - time: 2.445000 h
-      frac: 0.61934695
+    - time: 2.443816 h
+      frac: 0.66575798
   - - - '101'
       - Ken  Kinzie
-    - time: 2.534722 h
-      frac: 0.54308018
+    - time: 2.534040 h
+      frac: 0.59826475
 - - - - '102'
       - Fausto Arcos
-    - time: 2.685833 h
+    - time: 2.685105 h
       frac: 1
   - - - '103'
       - Mick Howard
-    - time: 2.977500 h
-      frac: 0.6269692
+    - time: 2.976964 h
+      frac: 0.68343542
   - - - '104'
       - Mark Bourbonnais
-    - time: 3.010556 h
-      frac: 0.59929186
+    - time: 3.007738 h
+      frac: 0.6615571
   - - - '105'
       - Alan Arcos
-    - time: 3.049444 h
-      frac: 0.56790598
+    - time: 3.048081 h
+      frac: 0.63390087
   - - - '101'
       - Ken  Kinzie
-    - time: 3.983333 h
-      frac: 0
+    - time: 3.982816 h
+      frac: 0.14401732
 - - - - '102'
       - Fausto Arcos
-    - time: 3.012222 h
+    - time: 3.011593 h
       frac: 1
 - - - - '105'
       - Alan Arcos
-    - time: 1.112222 h
+    - time: 1.109131 h
       frac: 1
   - - - '101'
       - Ken  Kinzie
-    - time: 1.113333 h
-      frac: 0.98946083
+    - time: 1.112699 h
+      frac: 0.97744159
   - - - '102'
       - Fausto Arcos
-    - time: 1.120556 h
-      frac: 0.95961867
+    - time: 1.119066 h
+      frac: 0.95535289
   - - - '104'
       - Mark Bourbonnais
-    - time: 1.121111 h
-      frac: 0.95784332
+    - time: 1.119862 h
+      frac: 0.95299845
 nigh:
 - - - - '105'
       - Alan Arcos
