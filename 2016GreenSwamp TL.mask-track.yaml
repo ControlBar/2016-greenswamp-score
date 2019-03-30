@@ -7,14 +7,14 @@ pilotsAtEss:
 raceTime:
 - openTask: 2016-04-03T18:30:00Z
   closeTask: 2016-04-04T00:00:00Z
-  firstStart: 2016-04-03T18:52:08.882856785356Z
-  firstLead: 2016-04-03T18:52:08.882856785356Z
+  firstStart: 2016-04-03T19:23:59.718776775274Z
+  firstLead: 2016-04-03T19:23:59.718776775274Z
   lastArrival: 2016-04-03T20:45:44.822752066185Z
-  leadAllDown: 17572.117
-  leadArrival: 6815.94
-  leadClose: 18471.117
+  leadAllDown: 102061.281
+  leadArrival: 4905.104
+  leadClose: 16560.281
   openClose: 19800
-  tickClose: 18471.117
+  tickClose: 16560.281
 - openTask: 2016-04-04T17:30:00Z
   closeTask: 2016-04-05T00:00:00Z
   firstStart: 2016-04-04T18:23:24.973624886056Z
@@ -98,7 +98,7 @@ leadAreaToCoef:
 - 0.00000005169134 km^-2 s^-1
 - 0.00000041998176 km^-2 s^-1
 leadCoefMin:
-- 1.96723864
+- 0.90440903
 - 1.47073011
 - 2.58264027
 - 2.03439697
@@ -106,28 +106,28 @@ leadCoefMin:
 leadRank:
 - - - - '103'
       - Mick Howard
-    - area: 3114990.9628 km^2 s
-      coef: 1.96723864
+    - area: 1432071.2794 km^2 s
+      coef: 0.90440903
       frac: 1
   - - - '102'
       - Fausto Arcos
-    - area: 3247366.7068 km^2 s
-      coef: 2.0508391
-      frac: 0.8474121
+    - area: 1551265.0835 km^2 s
+      coef: 0.97968458
+      frac: 0.81564808
   - - - '104'
       - Mark Bourbonnais
-    - area: 3495833.3656 km^2 s
-      coef: 2.20775551
-      frac: 0.69134166
+    - area: 1796542.1902 km^2 s
+      coef: 1.13458666
+      frac: 0.61162275
   - - - '105'
       - Alan Arcos
-    - area: 3584883.4804 km^2 s
-      coef: 2.26399414
-      frac: 0.64493039
+    - area: 1876234.2384 km^2 s
+      coef: 1.18491531
+      frac: 0.55689488
   - - - '101'
       - Ken  Kinzie
-    - area: 5541027.6004 km^2 s
-      coef: 3.49937567
+    - area: 68741758.1736 km^2 s
+      coef: 43.41310911
       frac: 0
 - - - - '105'
       - Alan Arcos

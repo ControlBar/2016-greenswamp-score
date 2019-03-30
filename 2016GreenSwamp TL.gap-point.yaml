@@ -307,7 +307,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T18:52:08.882856785356Z
+        ss: 2016-04-04T18:52:08.882856785356Z
         gs: null
         es: null
         ssDistance: null
@@ -909,7 +909,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-04-03T18:52:08.882856785356Z
+        ss: 2016-04-04T18:52:08.882856785356Z
         gs: null
         es: null
         ssDistance: null
