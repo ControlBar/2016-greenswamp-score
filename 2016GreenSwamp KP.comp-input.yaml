@@ -38,19 +38,19 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T47433
       lat: 28.3764
       lng: -81.8233
       radius: 1000.0 m
-      give: 1005.0 m
+      give: null
       alt: 37.000 m
     - zoneName: ROK98
       lat: 28.19247
       lng: -82.00118
       radius: 9000.0 m
-      give: 9045.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -130,31 +130,31 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 3000.0 m
-      give: 2985.0 m
+      give: null
       alt: 37.000 m
     - zoneName: SAWMIL
       lat: 28.48417
       lng: -81.77607
       radius: 1000.0 m
-      give: 1005.0 m
+      give: null
       alt: 37.000 m
     - zoneName: BAYLK
       lat: 28.47802
       lng: -81.90695
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T50469
       lat: 28.58093
       lng: -81.96075
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -244,19 +244,19 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T27192
       lat: 28.3475
       lng: -81.67583
       radius: 1000.0 m
-      give: 1005.0 m
+      give: null
       alt: 37.000 m
     - zoneName: AVONPK
       lat: 27.5919
       lng: -81.52687
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -332,19 +332,19 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: DUNELL
       lat: 29.06043
       lng: -82.37565
       radius: 5000.0 m
-      give: 5025.0 m
+      give: null
       alt: 37.000 m
     - zoneName: WILLIS
       lat: 29.35018
       lng: -82.46477
       radius: 1000.0 m
-      give: 1005.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -416,19 +416,19 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T33DS
       lat: 28.25847
       lng: -81.825
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: GILBRT
       lat: 28.06297
       lng: -81.75307
       radius: 12000.0 m
-      give: 12060.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
