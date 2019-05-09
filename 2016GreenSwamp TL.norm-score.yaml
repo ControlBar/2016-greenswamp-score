@@ -22,6 +22,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '103'
       - Mick Howard
     - place: '2'
@@ -39,6 +40,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
     - place: '3'
@@ -56,6 +58,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '105'
       - Alan Arcos
     - place: '4'
@@ -73,6 +76,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
     - place: '5'
@@ -90,6 +94,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '103'
       - Mick Howard
     - place: '1'
@@ -107,6 +112,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '105'
       - Alan Arcos
     - place: '2'
@@ -124,6 +130,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '102'
       - Fausto Arcos
     - place: '3'
@@ -141,6 +148,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
     - place: '4'
@@ -158,6 +166,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
     - place: '5'
@@ -175,6 +184,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '102'
       - Fausto Arcos
     - place: '1'
@@ -192,6 +202,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '103'
       - Mick Howard
     - place: '2'
@@ -209,6 +220,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
     - place: '3'
@@ -226,6 +238,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '105'
       - Alan Arcos
     - place: '4'
@@ -243,6 +256,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
     - place: '5'
@@ -260,6 +274,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '102'
       - Fausto Arcos
     - place: '1'
@@ -277,6 +292,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '103'
       - Mick Howard
     - place: '2'
@@ -294,6 +310,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '105'
       - Alan Arcos
     - place: '3'
@@ -311,6 +328,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
     - place: '4'
@@ -328,6 +346,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
     - place: '5'
@@ -345,6 +364,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '105'
       - Alan Arcos
     - place: '1'
@@ -362,6 +382,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
     - place: '2'
@@ -379,6 +400,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
     - place: '3'
@@ -396,6 +418,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '102'
       - Fausto Arcos
     - place: '4'
@@ -413,6 +436,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '103'
       - Mick Howard
     - place: '5'
@@ -430,3 +454,4 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
