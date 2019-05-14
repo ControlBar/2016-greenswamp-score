@@ -448,6 +448,30 @@ arrivalRank:
       - Kelly Myrkle
     - rank: '4'
       frac: 0.22726562
+flownMean:
+- 13.143805 km
+- 19.585472 km
+- 50.703821 km
+- 28.634669 km
+- 29.636673 km
+flownStdDev:
+- 8.443387 km
+- 10.322862 km
+- 43.544233 km
+- 25.199131 km
+- 13.321242 km
+reachMean:
+- 12.493844 km
+- 19.347490 km
+- 50.353531 km
+- 27.942119 km
+- 29.636673 km
+reachStdDev:
+- 9.206851 km
+- 10.719156 km
+- 43.958877 km
+- 25.928333 km
+- 13.321242 km
 reachRank:
 - - - - '203'
       - Andrey Solomykin

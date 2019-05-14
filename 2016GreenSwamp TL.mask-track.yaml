@@ -297,6 +297,30 @@ arrivalRank:
       - Fausto Arcos
     - rank: '4'
       frac: 0.22726562
+flownMean:
+- 26.921607 km
+- 42.669314 km
+- 110.550223 km
+- 49.751586 km
+- 39.708473 km
+flownStdDev:
+- 12.370049 km
+- 0.000000 km
+- 0.000000 km
+- 40.469596 km
+- 2.819682 km
+reachMean:
+- 26.921607 km
+- 42.669314 km
+- 110.550223 km
+- 49.751586 km
+- 39.708473 km
+reachStdDev:
+- 12.370049 km
+- 0.000000 km
+- 0.000000 km
+- 40.469596 km
+- 2.819682 km
 reachRank:
 - - - - '103'
       - Mick Howard
