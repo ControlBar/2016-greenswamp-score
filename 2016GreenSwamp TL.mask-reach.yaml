@@ -1,0 +1,248 @@
+bolster:
+- max: 34.257879 km
+  mean: 26.920879 km
+  stdDev: 11.064933 km
+- max: 42.669131 km
+  mean: 42.669131 km
+  stdDev: 0.000000 km
+- max: 110.549326 km
+  mean: 110.549326 km
+  stdDev: 0.000000 km
+- max: 108.268931 km
+  mean: 49.750681 km
+  stdDev: 35.047890 km
+- max: 40.966081 km
+  mean: 39.704081 km
+  stdDev: 2.524000 km
+reach:
+- max: 34.257879 km
+  mean: 26.920879 km
+  stdDev: 11.064933 km
+- max: 42.669131 km
+  mean: 42.669131 km
+  stdDev: 0.000000 km
+- max: 110.549326 km
+  mean: 110.549326 km
+  stdDev: 0.000000 km
+- max: 108.268931 km
+  mean: 49.750681 km
+  stdDev: 35.047890 km
+- max: 40.966081 km
+  mean: 39.704081 km
+  stdDev: 2.524000 km
+reachRank:
+- - - - '103'
+      - Mick Howard
+    - frac: 1
+      reach: 34.257879 km
+  - - - '102'
+      - Fausto Arcos
+    - frac: 1
+      reach: 34.257879 km
+  - - - '104'
+      - Mark Bourbonnais
+    - frac: 1
+      reach: 34.257879 km
+  - - - '105'
+      - Alan Arcos
+    - frac: 0.76256557
+      reach: 26.123879 km
+  - - - '101'
+      - Ken  Kinzie
+    - frac: 0.16658588
+      reach: 5.706879 km
+- - - - '105'
+      - Alan Arcos
+    - frac: 1
+      reach: 42.669131 km
+  - - - '103'
+      - Mick Howard
+    - frac: 1
+      reach: 42.669131 km
+  - - - '102'
+      - Fausto Arcos
+    - frac: 1
+      reach: 42.669131 km
+  - - - '104'
+      - Mark Bourbonnais
+    - frac: 1
+      reach: 42.669131 km
+  - - - '101'
+      - Ken  Kinzie
+    - frac: 1
+      reach: 42.669131 km
+- - - - '105'
+      - Alan Arcos
+    - frac: 1
+      reach: 110.549326 km
+  - - - '103'
+      - Mick Howard
+    - frac: 1
+      reach: 110.549326 km
+  - - - '102'
+      - Fausto Arcos
+    - frac: 1
+      reach: 110.549326 km
+  - - - '104'
+      - Mark Bourbonnais
+    - frac: 1
+      reach: 110.549326 km
+  - - - '101'
+      - Ken  Kinzie
+    - frac: 1
+      reach: 110.549326 km
+- - - - '102'
+      - Fausto Arcos
+    - frac: 1
+      reach: 108.268931 km
+  - - - '103'
+      - Mick Howard
+    - frac: 0.41993516
+      reach: 45.465931 km
+  - - - '105'
+      - Alan Arcos
+    - frac: 0.21031824
+      reach: 22.770931 km
+  - - - '104'
+      - Mark Bourbonnais
+    - frac: 0.2077875
+      reach: 22.496931 km
+- - - - '105'
+      - Alan Arcos
+    - frac: 1
+      reach: 40.966081 km
+  - - - '101'
+      - Ken  Kinzie
+    - frac: 1
+      reach: 40.966081 km
+  - - - '104'
+      - Mark Bourbonnais
+    - frac: 1
+      reach: 40.966081 km
+  - - - '102'
+      - Fausto Arcos
+    - frac: 1
+      reach: 40.966081 km
+  - - - '103'
+      - Mick Howard
+    - frac: 0.84597013
+      reach: 34.656081 km
+nigh:
+- - - - '105'
+      - Alan Arcos
+    - togo:
+        distance: 8.130047 km
+        flipSum:
+        - 8.130047 km
+        legs:
+        - 8.130047 km
+        legsSum:
+        - 8.130047 km
+        waypoints:
+        - lat: 28.31273333
+          lng: -81.89188333
+        - lat: 28.25548034
+          lng: -81.94352327
+      made: 26.123879 km
+  - - - '101'
+      - Ken  Kinzie
+    - togo:
+        distance: 28.549444 km
+        flipSum:
+        - 28.549444 km
+        - 17.471769 km
+        legs:
+        - 11.077675 km
+        - 17.471769 km
+        legsSum:
+        - 11.077675 km
+        - 28.549444 km
+        waypoints:
+        - lat: 28.47798333
+          lng: -81.84525
+        - lat: 28.37893333
+          lng: -81.83310757
+        - lat: 28.25548034
+          lng: -81.94352327
+      made: 5.706879 km
+- []
+- []
+- - - - '103'
+      - Mick Howard
+    - togo:
+        distance: 62.802365 km
+        flipSum:
+        - 62.802365 km
+        - 31.104076 km
+        legs:
+        - 31.698289 km
+        - 31.104076 km
+        legsSum:
+        - 31.698289 km
+        - 62.802365 km
+        waypoints:
+        - lat: 28.8799
+          lng: -82.10701667
+        - lat: 29.08540503
+          lng: -82.33286696
+        - lat: 29.34193404
+          lng: -82.46065246
+      made: 45.465931 km
+  - - - '104'
+      - Mark Bourbonnais
+    - togo:
+        distance: 85.771708 km
+        flipSum:
+        - 85.771708 km
+        - 31.192039 km
+        legs:
+        - 54.579669 km
+        - 31.192039 km
+        legsSum:
+        - 54.579669 km
+        - 85.771708 km
+        waypoints:
+        - lat: 28.71471667
+          lng: -81.96396667
+        - lat: 29.08473356
+          lng: -82.33236382
+        - lat: 29.34193404
+          lng: -82.46065246
+      made: 22.496931 km
+  - - - '105'
+      - Alan Arcos
+    - togo:
+        distance: 85.497143 km
+        flipSum:
+        - 85.497143 km
+        - 31.192039 km
+        legs:
+        - 54.305104 km
+        - 31.192039 km
+        legsSum:
+        - 54.305104 km
+        - 85.497143 km
+        waypoints:
+        - lat: 28.71525
+          lng: -81.96756667
+        - lat: 29.08473356
+          lng: -82.33236382
+        - lat: 29.34193404
+          lng: -82.46065246
+      made: 22.770931 km
+- - - - '103'
+      - Mick Howard
+    - togo:
+        distance: 6.304459 km
+        flipSum:
+        - 6.304459 km
+        legs:
+        - 6.304459 km
+        legsSum:
+        - 6.304459 km
+        waypoints:
+        - lat: 28.21783333
+          lng: -81.81635
+        - lat: 28.16473533
+          lng: -81.79379494
+      made: 34.656081 km

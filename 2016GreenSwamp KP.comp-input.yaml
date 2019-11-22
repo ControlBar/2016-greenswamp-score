@@ -19,7 +19,7 @@ nominal:
   launch: 1
   goal: 0.2
   distance: 30.0 km
-  free: 5.0 km
+  free: 5.000 km
   time: 1.500000 h
 compTweak:
   arrivalWeightScaling: 0
@@ -32,25 +32,29 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 398.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: null
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 37.000 m
     - zoneName: T47433
       lat: 28.3764
       lng: -81.8233
       radius: 1000.0 m
-      give: null
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 37.000 m
     - zoneName: ROK98
       lat: 28.19247
       lng: -82.00118
       radius: 9000.0 m
-      give: null
+      giveIn: 8955.0 m
+      giveOut: 9045.0 m
       alt: 37.000 m
     raceKind:
       prolog:
@@ -88,6 +92,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: 0
     leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals:
   - - - '201'
       - Niki Longshore
@@ -124,37 +131,43 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 398.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 3000.0 m
-      give: null
+      giveIn: 2985.0 m
+      giveOut: 3015.0 m
       alt: 37.000 m
     - zoneName: SAWMIL
       lat: 28.48417
       lng: -81.77607
       radius: 1000.0 m
-      give: null
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 37.000 m
     - zoneName: BAYLK
       lat: 28.47802
       lng: -81.90695
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     - zoneName: T50469
       lat: 28.58093
       lng: -81.96075
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     raceKind:
       prolog:
@@ -202,6 +215,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: 0
     leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals:
   - - - '209'
       - John Blank
@@ -238,25 +254,29 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 398.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: null
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 37.000 m
     - zoneName: T27192
       lat: 28.3475
       lng: -81.67583
       radius: 1000.0 m
-      give: null
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 37.000 m
     - zoneName: AVONPK
       lat: 27.5919
       lng: -81.52687
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     raceKind:
       prolog:
@@ -294,6 +314,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: 0
     leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals:
   - - - '216'
       - John Maloney
@@ -326,25 +349,29 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 398.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: null
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 37.000 m
     - zoneName: DUNELL
       lat: 29.06043
       lng: -82.37565
       radius: 5000.0 m
-      give: null
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 37.000 m
     - zoneName: WILLIS
       lat: 29.35018
       lng: -82.46477
       radius: 1000.0 m
-      give: null
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 37.000 m
     raceKind:
       prolog:
@@ -382,6 +409,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: 0
     leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals:
   - - - '201'
       - Niki Longshore
@@ -410,25 +440,29 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 398.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: null
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 37.000 m
     - zoneName: T33DS
       lat: 28.25847
       lng: -81.825
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 37.000 m
     - zoneName: GILBRT
       lat: 28.06297
       lng: -81.75307
       radius: 12000.0 m
-      give: null
+      giveIn: 11940.0 m
+      giveOut: 12060.0 m
       alt: 37.000 m
     raceKind:
       prolog:
@@ -466,6 +500,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: 0
     leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals:
   - - - '201'
       - Niki Longshore
@@ -752,9 +789,14 @@ pilotGroups:
     - '209'
     - John Blank
     awardedReach:
-      awardedMade: 5.000000 km
-      awardedTask: 110.547000 km
-      awardedFrac: 4.522963083575312e-2
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 110.547000 km
+        awardedFrac: 4.522963083575312e-2
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 110.547000 km
+        awardedFrac: 4.522963083575312e-2
     awardedVelocity:
       ss: null
       es: null
@@ -762,9 +804,14 @@ pilotGroups:
     - '206'
     - Michael Duffy
     awardedReach:
-      awardedMade: 5.000000 km
-      awardedTask: 110.547000 km
-      awardedFrac: 4.522963083575312e-2
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 110.547000 km
+        awardedFrac: 4.522963083575312e-2
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 110.547000 km
+        awardedFrac: 4.522963083575312e-2
     awardedVelocity:
       ss: null
       es: null
@@ -772,9 +819,14 @@ pilotGroups:
     - '202'
     - Nick Jones
     awardedReach:
-      awardedMade: 5.000000 km
-      awardedTask: 110.547000 km
-      awardedFrac: 4.522963083575312e-2
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 110.547000 km
+        awardedFrac: 4.522963083575312e-2
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 110.547000 km
+        awardedFrac: 4.522963083575312e-2
     awardedVelocity:
       ss: null
       es: null
@@ -782,9 +834,14 @@ pilotGroups:
     - '214'
     - Richard Elder
     awardedReach:
-      awardedMade: 5.000000 km
-      awardedTask: 110.547000 km
-      awardedFrac: 4.522963083575312e-2
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 110.547000 km
+        awardedFrac: 4.522963083575312e-2
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 110.547000 km
+        awardedFrac: 4.522963083575312e-2
     awardedVelocity:
       ss: null
       es: null
@@ -808,9 +865,14 @@ pilotGroups:
     - '207'
     - Alex Skyride
     awardedReach:
-      awardedMade: 5.000000 km
-      awardedTask: 40.924000 km
-      awardedFrac: 0.12217769523995699
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 40.924000 km
+        awardedFrac: 0.12217769523995699
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 40.924000 km
+        awardedFrac: 0.12217769523995699
     awardedVelocity:
       ss: null
       es: null
@@ -818,9 +880,14 @@ pilotGroups:
     - '211'
     - Dan Lukaszewicz
     awardedReach:
-      awardedMade: 5.000000 km
-      awardedTask: 40.924000 km
-      awardedFrac: 0.12217769523995699
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 40.924000 km
+        awardedFrac: 0.12217769523995699
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 40.924000 km
+        awardedFrac: 0.12217769523995699
     awardedVelocity:
       ss: null
       es: null
@@ -828,9 +895,14 @@ pilotGroups:
     - '214'
     - Richard Elder
     awardedReach:
-      awardedMade: 5.000000 km
-      awardedTask: 40.924000 km
-      awardedFrac: 0.12217769523995699
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 40.924000 km
+        awardedFrac: 0.12217769523995699
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 40.924000 km
+        awardedFrac: 0.12217769523995699
     awardedVelocity:
       ss: null
       es: null

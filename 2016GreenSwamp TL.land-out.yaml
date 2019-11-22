@@ -1,10 +1,46 @@
-minDistance: 5.0 km
+minDistance: 5.000 km
 bestDistance:
-- 34.3 km
-- 42.7 km
-- 110.6 km
-- 108.3 km
-- 41.0 km
+- 34.257879 km
+- 42.669131 km
+- 110.549326 km
+- 108.268931 km
+- 40.966081 km
+chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 351
+  - 35.1 km
+  sumOf: 312
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 431
+  - 43.1 km
+  sumOf: 0
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1111
+  - 111.1 km
+  sumOf: 0
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1091
+  - 109.1 km
+  sumOf: 889
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 411
+  - 41.1 km
+  sumOf: 337
 landout:
 - 2
 - 0
@@ -17,14 +53,8 @@ lookahead:
 - 30
 - 1083
 - 1229
-sumOfDifficulty:
-- 3
-- 0
-- 0
-- 3
-- 1
 difficulty:
-- - chunk: 4
+- - chunk: 53
     startChunk: 5.3 km
     endChunk: 5.4 km
     endAhead: 56.8 km
@@ -35,62 +65,62 @@ difficulty:
     - - '101'
       - Ken  Kinzie
     downward: 2
-    rel: 0.33333333
-    frac: 0.33333333
-  - chunk: 208
+    rel: 3.20513e-3
+    frac: 0.17307692
+  - chunk: 257
     startChunk: 25.7 km
     endChunk: 25.8 km
     endAhead: 77.2 km
     down: 1
     downs:
-    - 25.732 km
+    - 25.735 km
     downers:
     - - '105'
       - Alan Arcos
     downward: 1
-    rel: 0.16666667
+    rel: 1.60256e-3
     frac: 0.5
 - []
 - []
-- - chunk: 168
+- - chunk: 217
     startChunk: 21.7 km
     endChunk: 21.8 km
     endAhead: 130.1 km
     down: 2
     downs:
-    - 21.721 km
+    - 21.720 km
     - 21.737 km
     downers:
     - - '105'
       - Alan Arcos
     - - '104'
       - Mark Bourbonnais
-    downward: 2
-    rel: 0.33333333
-    frac: 0.33333333
-  - chunk: 403
+    downward: 3
+    rel: 1.68729e-3
+    frac: 0.36782902
+  - chunk: 452
     startChunk: 45.2 km
     endChunk: 45.3 km
     endAhead: 153.6 km
     down: 1
     downs:
-    - 45.206 km
+    - 45.205 km
     downers:
     - - '103'
       - Mick Howard
     downward: 1
-    rel: 0.16666667
+    rel: 5.6243e-4
     frac: 0.5
-- - chunk: 287
+- - chunk: 336
     startChunk: 33.6 km
     endChunk: 33.7 km
     endAhead: 156.6 km
     down: 1
     downs:
-    - 33.654 km
+    - 33.650 km
     downers:
     - - '103'
       - Mick Howard
     downward: 1
-    rel: 0.5
+    rel: 1.48368e-3
     frac: 0.5

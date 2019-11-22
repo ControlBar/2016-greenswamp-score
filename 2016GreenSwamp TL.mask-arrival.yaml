@@ -1,0 +1,79 @@
+pilotsAtEss:
+- 3
+- 5
+- 5
+- 1
+- 4
+arrivalRank:
+- - - - '103'
+      - Mick Howard
+    - rank: '1'
+      frac: 1
+  - - - '102'
+      - Fausto Arcos
+    - rank: '2'
+      frac: 0.47
+  - - - '104'
+      - Mark Bourbonnais
+    - rank: '3'
+      frac: 0.25022222
+- - - - '105'
+      - Alan Arcos
+    - rank: '1'
+      frac: 1
+  - - - '103'
+      - Mick Howard
+    - rank: '2'
+      frac: 0.636896
+  - - - '102'
+      - Fausto Arcos
+    - rank: '3'
+      frac: 0.405728
+  - - - '104'
+      - Mark Bourbonnais
+    - rank: '4'
+      frac: 0.276112
+  - - - '101'
+      - Ken  Kinzie
+    - rank: '5'
+      frac: 0.217664
+- - - - '105'
+      - Alan Arcos
+    - rank: '1'
+      frac: 1
+  - - - '103'
+      - Mick Howard
+    - rank: '2'
+      frac: 0.636896
+  - - - '102'
+      - Fausto Arcos
+    - rank: '3'
+      frac: 0.405728
+  - - - '104'
+      - Mark Bourbonnais
+    - rank: '4'
+      frac: 0.276112
+  - - - '101'
+      - Ken  Kinzie
+    - rank: '5'
+      frac: 0.217664
+- - - - '102'
+      - Fausto Arcos
+    - rank: '1'
+      frac: 1
+- - - - '105'
+      - Alan Arcos
+    - rank: '1'
+      frac: 1
+  - - - '101'
+      - Ken  Kinzie
+    - rank: '2'
+      frac: 0.56792188
+  - - - '104'
+      - Mark Bourbonnais
+    - rank: '3'
+      frac: 0.330125
+  - - - '102'
+      - Fausto Arcos
+    - rank: '4'
+      frac: 0.22726562

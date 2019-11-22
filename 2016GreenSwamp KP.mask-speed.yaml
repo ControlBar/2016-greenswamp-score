@@ -1,0 +1,282 @@
+ssBestTime:
+- 0.995827 h
+- 2.766051 h
+- 3.813552 h
+- null
+- 1.327946 h
+gsBestTime:
+- 0.995827 h
+- 2.766051 h
+- 3.813552 h
+- null
+- 1.327946 h
+taskDistance:
+- 34.257879 km
+- 42.669131 km
+- 110.549326 km
+- 108.268931 km
+- 40.966081 km
+taskSpeedDistance:
+- 29.657879 km
+- 40.069131 km
+- 105.949326 km
+- 103.668931 km
+- 36.366081 km
+ssSpeed:
+- - - - '203'
+      - Andrey Solomykin
+    - time: 0.995827 h
+      frac: 1
+- - - - '201'
+      - Niki Longshore
+    - time: 2.766051 h
+      frac: 1
+- - - - '201'
+      - Niki Longshore
+    - time: 3.813552 h
+      frac: 1
+  - - - '205'
+      - Kelly Myrkle
+    - time: 3.859622 h
+      frac: 0.91774406
+- []
+- - - - '205'
+      - Kelly Myrkle
+    - time: 1.327946 h
+      frac: 1
+  - - - '201'
+      - Niki Longshore
+    - time: 1.334602 h
+      frac: 0.96780821
+  - - - '216'
+      - John Maloney
+    - time: 1.424950 h
+      frac: 0.80792582
+  - - - '203'
+      - Andrey Solomykin
+    - time: 1.474976 h
+      frac: 0.74655829
+gsSpeed:
+- - - - '203'
+      - Andrey Solomykin
+    - time: 0.995827 h
+      frac: 1
+- - - - '201'
+      - Niki Longshore
+    - time: 2.766051 h
+      frac: 1
+- - - - '201'
+      - Niki Longshore
+    - time: 3.813552 h
+      frac: 1
+  - - - '205'
+      - Kelly Myrkle
+    - time: 3.859622 h
+      frac: 0.91774406
+- []
+- - - - '205'
+      - Kelly Myrkle
+    - time: 1.327946 h
+      frac: 1
+  - - - '201'
+      - Niki Longshore
+    - time: 1.334602 h
+      frac: 0.96780821
+  - - - '216'
+      - John Maloney
+    - time: 1.424950 h
+      frac: 0.80792582
+  - - - '203'
+      - Andrey Solomykin
+    - time: 1.474976 h
+      frac: 0.74655829
+altStopped:
+- - - - '207'
+      - Alex Skyride
+    - 5.000 m
+  - - - '211'
+      - Dan Lukaszewicz
+    - 4.000 m
+  - - - '212'
+      - Greg Sessa
+    - 1.000 m
+  - - - '209'
+      - John Blank
+    - 2.000 m
+  - - - '216'
+      - John Maloney
+    - 0.000 m
+  - - - '205'
+      - Kelly Myrkle
+    - 1.000 m
+  - - - '206'
+      - Michael Duffy
+    - -6.000 m
+  - - - '202'
+      - Nick Jones
+    - 28.000 m
+  - - - '201'
+      - Niki Longshore
+    - 5.000 m
+  - - - '204'
+      - Owen MB
+    - 3.000 m
+  - - - '210'
+      - Pete Wall
+    - 4.000 m
+  - - - '214'
+      - Richard Elder
+    - 22.000 m
+  - - - '217'
+      - Richard Westmoreland
+    - 26.000 m
+  - - - '208'
+      - Soraya Rios
+    - 2.000 m
+  - - - '213'
+      - Willie Van Caulart
+    - 5.000 m
+- - - - '207'
+      - Alex Skyride
+    - 1070.000 m
+  - - - '203'
+      - Andrey Solomykin
+    - 9.000 m
+  - - - '215'
+      - Burke Schnedl
+    - 31.000 m
+  - - - '211'
+      - Dan Lukaszewicz
+    - 1.000 m
+  - - - '212'
+      - Greg Sessa
+    - -6.000 m
+  - - - '209'
+      - John Blank
+    - -10.000 m
+  - - - '216'
+      - John Maloney
+    - -9.000 m
+  - - - '205'
+      - Kelly Myrkle
+    - 3.000 m
+  - - - '206'
+      - Michael Duffy
+    - -16.000 m
+  - - - '202'
+      - Nick Jones
+    - 21.000 m
+  - - - '204'
+      - Owen MB
+    - -6.000 m
+  - - - '210'
+      - Pete Wall
+    - 0.000 m
+  - - - '214'
+      - Richard Elder
+    - 25.000 m
+  - - - '217'
+      - Richard Westmoreland
+    - 28.000 m
+  - - - '208'
+      - Soraya Rios
+    - -13.000 m
+  - - - '213'
+      - Willie Van Caulart
+    - -7.000 m
+- - - - '207'
+      - Alex Skyride
+    - -9.000 m
+  - - - '203'
+      - Andrey Solomykin
+    - 10.000 m
+  - - - '215'
+      - Burke Schnedl
+    - 28.000 m
+  - - - '211'
+      - Dan Lukaszewicz
+    - -11.000 m
+  - - - '212'
+      - Greg Sessa
+    - -13.000 m
+  - - - '216'
+      - John Maloney
+    - -10.000 m
+  - - - '204'
+      - Owen MB
+    - -8.000 m
+  - - - '210'
+      - Pete Wall
+    - -5.000 m
+  - - - '217'
+      - Richard Westmoreland
+    - 12.000 m
+  - - - '208'
+      - Soraya Rios
+    - -22.000 m
+  - - - '213'
+      - Willie Van Caulart
+    - -19.000 m
+- - - - '207'
+      - Alex Skyride
+    - -14.000 m
+  - - - '203'
+      - Andrey Solomykin
+    - -22.000 m
+  - - - '211'
+      - Dan Lukaszewicz
+    - -19.000 m
+  - - - '212'
+      - Greg Sessa
+    - -8.000 m
+  - - - '216'
+      - John Maloney
+    - -32.000 m
+  - - - '205'
+      - Kelly Myrkle
+    - -14.000 m
+  - - - '206'
+      - Michael Duffy
+    - -39.000 m
+  - - - '202'
+      - Nick Jones
+    - -7.000 m
+  - - - '201'
+      - Niki Longshore
+    - -24.000 m
+  - - - '204'
+      - Owen MB
+    - -8.000 m
+  - - - '210'
+      - Pete Wall
+    - -26.000 m
+  - - - '214'
+      - Richard Elder
+    - -2.000 m
+  - - - '217'
+      - Richard Westmoreland
+    - -8.000 m
+  - - - '208'
+      - Soraya Rios
+    - -42.000 m
+  - - - '213'
+      - Willie Van Caulart
+    - -19.000 m
+- - - - '212'
+      - Greg Sessa
+    - -4.000 m
+  - - - '206'
+      - Michael Duffy
+    - -19.000 m
+  - - - '202'
+      - Nick Jones
+    - 21.000 m
+  - - - '210'
+      - Pete Wall
+    - -8.000 m
+  - - - '217'
+      - Richard Westmoreland
+    - 22.000 m
+  - - - '208'
+      - Soraya Rios
+    - -10.000 m

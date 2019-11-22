@@ -1,0 +1,5705 @@
+stopWindow:
+- null
+- null
+- null
+- null
+- null
+stopFlying:
+- - - - '207'
+      - Alex Skyride
+    - scoredFixes:
+      - 10
+      - 750
+      scoredSeconds:
+      - 300
+      - 2523
+      scoredTimes:
+      - 2016-04-03T19:40:23Z
+      - 2016-04-03T20:17:26Z
+  - - - '203'
+      - Andrey Solomykin
+    - scoredFixes:
+      - 927
+      - 7544
+      scoredSeconds:
+      - 946
+      - 7712
+      scoredTimes:
+      - 2016-04-03T18:47:16Z
+      - 2016-04-03T20:40:02Z
+  - - - '215'
+      - Burke Schnedl
+    - null
+  - - - '211'
+      - Dan Lukaszewicz
+    - scoredFixes:
+      - 25
+      - 1210
+      scoredSeconds:
+      - 50
+      - 2425
+      scoredTimes:
+      - 2016-04-03T19:22:56Z
+      - 2016-04-03T20:02:31Z
+  - - - '212'
+      - Greg Sessa
+    - scoredFixes:
+      - 5
+      - 845
+      scoredSeconds:
+      - 152
+      - 2867
+      scoredTimes:
+      - 2016-04-03T19:02:14Z
+      - 2016-04-03T19:47:29Z
+  - - - '209'
+      - John Blank
+    - scoredFixes:
+      - 9
+      - 374
+      scoredSeconds:
+      - 276
+      - 3997
+      scoredTimes:
+      - 2016-04-03T19:21:06Z
+      - 2016-04-03T20:23:07Z
+  - - - '216'
+      - John Maloney
+    - scoredFixes:
+      - 0
+      - 3736
+      scoredSeconds:
+      - 0
+      - 3826
+      scoredTimes:
+      - 2016-04-03T19:28:31Z
+      - 2016-04-03T20:32:17Z
+  - - - '205'
+      - Kelly Myrkle
+    - scoredFixes:
+      - 0
+      - 1219
+      scoredSeconds:
+      - 0
+      - 6169
+      scoredTimes:
+      - 2016-04-03T18:39:26Z
+      - 2016-04-03T20:22:15Z
+  - - - '206'
+      - Michael Duffy
+    - scoredFixes:
+      - 2
+      - 94
+      scoredSeconds:
+      - 30
+      - 488
+      scoredTimes:
+      - 2016-04-03T19:41:41Z
+      - 2016-04-03T19:49:19Z
+  - - - '202'
+      - Nick Jones
+    - scoredFixes:
+      - 0
+      - 6534
+      scoredSeconds:
+      - 0
+      - 6534
+      scoredTimes:
+      - 2016-04-03T19:33:42Z
+      - 2016-04-03T21:22:36Z
+  - - - '201'
+      - Niki Longshore
+    - scoredFixes:
+      - 8
+      - 432
+      scoredSeconds:
+      - 240
+      - 4479
+      scoredTimes:
+      - 2016-04-03T19:12:40Z
+      - 2016-04-03T20:23:19Z
+  - - - '204'
+      - Owen MB
+    - scoredFixes:
+      - 9
+      - 779
+      scoredSeconds:
+      - 248
+      - 4098
+      scoredTimes:
+      - 2016-04-03T18:50:45Z
+      - 2016-04-03T19:54:55Z
+  - - - '210'
+      - Pete Wall
+    - scoredFixes:
+      - 6
+      - 260
+      scoredSeconds:
+      - 150
+      - 1434
+      scoredTimes:
+      - 2016-04-03T19:47:03Z
+      - 2016-04-03T20:08:27Z
+  - - - '214'
+      - Richard Elder
+    - scoredFixes:
+      - 0
+      - 4429
+      scoredSeconds:
+      - 0
+      - 4429
+      scoredTimes:
+      - 2016-04-03T19:07:15Z
+      - 2016-04-03T20:21:04Z
+  - - - '217'
+      - Richard Westmoreland
+    - scoredFixes:
+      - 0
+      - 459
+      scoredSeconds:
+      - 0
+      - 4877
+      scoredTimes:
+      - 2016-04-03T19:22:20Z
+      - 2016-04-03T20:43:37Z
+  - - - '208'
+      - Soraya Rios
+    - scoredFixes:
+      - 10
+      - 278
+      scoredSeconds:
+      - 299
+      - 3023
+      scoredTimes:
+      - 2016-04-03T19:17:03Z
+      - 2016-04-03T20:02:27Z
+  - - - '213'
+      - Willie Van Caulart
+    - scoredFixes:
+      - 9
+      - 330
+      scoredSeconds:
+      - 276
+      - 1917
+      scoredTimes:
+      - 2016-04-03T19:05:51Z
+      - 2016-04-03T19:33:12Z
+- - - - '207'
+      - Alex Skyride
+    - scoredFixes:
+      - 4
+      - 2996
+      scoredSeconds:
+      - 120
+      - 9263
+      scoredTimes:
+      - 2016-04-04T17:37:01Z
+      - 2016-04-04T20:09:24Z
+  - - - '203'
+      - Andrey Solomykin
+    - scoredFixes:
+      - 109
+      - 8935
+      scoredSeconds:
+      - 350
+      - 9403
+      scoredTimes:
+      - 2016-04-04T18:06:08Z
+      - 2016-04-04T20:37:01Z
+  - - - '215'
+      - Burke Schnedl
+    - scoredFixes:
+      - 0
+      - 10550
+      scoredSeconds:
+      - 0
+      - 10550
+      scoredTimes:
+      - 2016-04-04T17:50:06Z
+      - 2016-04-04T20:45:56Z
+  - - - '211'
+      - Dan Lukaszewicz
+    - scoredFixes:
+      - 395
+      - 5185
+      scoredSeconds:
+      - 791
+      - 10379
+      scoredTimes:
+      - 2016-04-04T17:53:38Z
+      - 2016-04-04T20:33:26Z
+  - - - '212'
+      - Greg Sessa
+    - scoredFixes:
+      - 0
+      - 2357
+      scoredSeconds:
+      - 0
+      - 7493
+      scoredTimes:
+      - 2016-04-04T17:39:11Z
+      - 2016-04-04T19:44:04Z
+  - - - '209'
+      - John Blank
+    - scoredFixes:
+      - 0
+      - 192
+      scoredSeconds:
+      - 0
+      - 2120
+      scoredTimes:
+      - 2016-04-04T17:51:25Z
+      - 2016-04-04T18:26:45Z
+  - - - '216'
+      - John Maloney
+    - scoredFixes:
+      - 73
+      - 4297
+      scoredSeconds:
+      - 2241
+      - 7395
+      scoredTimes:
+      - 2016-04-04T17:45:13Z
+      - 2016-04-04T19:11:07Z
+  - - - '205'
+      - Kelly Myrkle
+    - scoredFixes:
+      - 0
+      - 2073
+      scoredSeconds:
+      - 0
+      - 10565
+      scoredTimes:
+      - 2016-04-04T17:31:08Z
+      - 2016-04-04T20:27:13Z
+  - - - '206'
+      - Michael Duffy
+    - scoredFixes:
+      - 8
+      - 689
+      scoredSeconds:
+      - 240
+      - 3650
+      scoredTimes:
+      - 2016-04-04T17:54:38Z
+      - 2016-04-04T18:51:28Z
+  - - - '202'
+      - Nick Jones
+    - scoredFixes:
+      - 0
+      - 7784
+      scoredSeconds:
+      - 0
+      - 7784
+      scoredTimes:
+      - 2016-04-04T17:30:03Z
+      - 2016-04-04T19:39:47Z
+  - - - '201'
+      - Niki Longshore
+    - scoredFixes:
+      - 10
+      - 1567
+      scoredSeconds:
+      - 288
+      - 12438
+      scoredTimes:
+      - 2016-04-04T17:52:03Z
+      - 2016-04-04T21:14:33Z
+  - - - '204'
+      - Owen MB
+    - scoredFixes:
+      - 0
+      - 1532
+      scoredSeconds:
+      - 0
+      - 7788
+      scoredTimes:
+      - 2016-04-04T17:27:38Z
+      - 2016-04-04T19:37:26Z
+  - - - '210'
+      - Pete Wall
+    - scoredFixes:
+      - 3
+      - 1707
+      scoredSeconds:
+      - 90
+      - 8673
+      scoredTimes:
+      - 2016-04-04T17:55:02Z
+      - 2016-04-04T20:18:05Z
+  - - - '214'
+      - Richard Elder
+    - scoredFixes:
+      - 0
+      - 12600
+      scoredSeconds:
+      - 0
+      - 12600
+      scoredTimes:
+      - 2016-04-04T17:45:50Z
+      - 2016-04-04T21:15:50Z
+  - - - '217'
+      - Richard Westmoreland
+    - scoredFixes:
+      - 0
+      - 700
+      scoredSeconds:
+      - 0
+      - 7324
+      scoredTimes:
+      - 2016-04-04T17:55:40Z
+      - 2016-04-04T19:57:44Z
+  - - - '208'
+      - Soraya Rios
+    - scoredFixes:
+      - 0
+      - 175
+      scoredSeconds:
+      - 0
+      - 1778
+      scoredTimes:
+      - 2016-04-04T18:26:14Z
+      - 2016-04-04T18:55:52Z
+  - - - '213'
+      - Willie Van Caulart
+    - scoredFixes:
+      - 0
+      - 718
+      scoredSeconds:
+      - 0
+      - 3919
+      scoredTimes:
+      - 2016-04-04T17:40:02Z
+      - 2016-04-04T18:45:21Z
+- - - - '207'
+      - Alex Skyride
+    - scoredFixes:
+      - 0
+      - 1101
+      scoredSeconds:
+      - 0
+      - 3546
+      scoredTimes:
+      - 2016-04-05T18:34:30Z
+      - 2016-04-05T19:33:36Z
+  - - - '203'
+      - Andrey Solomykin
+    - scoredFixes:
+      - 1805
+      - 17093
+      scoredSeconds:
+      - 1805
+      - 17093
+      scoredTimes:
+      - 2016-04-05T17:53:06Z
+      - 2016-04-05T22:07:54Z
+  - - - '215'
+      - Burke Schnedl
+    - scoredFixes:
+      - 0
+      - 13293
+      scoredSeconds:
+      - 0
+      - 13293
+      scoredTimes:
+      - 2016-04-05T17:12:24Z
+      - 2016-04-05T20:53:57Z
+  - - - '211'
+      - Dan Lukaszewicz
+    - scoredFixes:
+      - 25
+      - 1479
+      scoredSeconds:
+      - 50
+      - 2959
+      scoredTimes:
+      - 2016-04-05T18:09:02Z
+      - 2016-04-05T18:57:31Z
+  - - - '212'
+      - Greg Sessa
+    - scoredFixes:
+      - 3
+      - 1098
+      scoredSeconds:
+      - 92
+      - 3637
+      scoredTimes:
+      - 2016-04-05T18:01:52Z
+      - 2016-04-05T19:00:57Z
+  - - - '209'
+      - John Blank
+    - null
+  - - - '216'
+      - John Maloney
+    - scoredFixes:
+      - 148
+      - 12435
+      scoredSeconds:
+      - 4583
+      - 17507
+      scoredTimes:
+      - 2016-04-05T17:21:59Z
+      - 2016-04-05T20:57:23Z
+  - - - '205'
+      - Kelly Myrkle
+    - scoredFixes:
+      - 0
+      - 3214
+      scoredSeconds:
+      - 0
+      - 16278
+      scoredTimes:
+      - 2016-04-05T17:56:56Z
+      - 2016-04-05T22:28:14Z
+  - - - '206'
+      - Michael Duffy
+    - null
+  - - - '202'
+      - Nick Jones
+    - null
+  - - - '201'
+      - Niki Longshore
+    - scoredFixes:
+      - 0
+      - 1805
+      scoredSeconds:
+      - 0
+      - 16003
+      scoredTimes:
+      - 2016-04-05T17:14:45Z
+      - 2016-04-05T21:41:28Z
+  - - - '204'
+      - Owen MB
+    - scoredFixes:
+      - 7
+      - 861
+      scoredSeconds:
+      - 210
+      - 4506
+      scoredTimes:
+      - 2016-04-05T18:23:05Z
+      - 2016-04-05T19:34:41Z
+  - - - '210'
+      - Pete Wall
+    - scoredFixes:
+      - 0
+      - 1407
+      scoredSeconds:
+      - 0
+      - 7206
+      scoredTimes:
+      - 2016-04-05T17:22:07Z
+      - 2016-04-05T19:22:13Z
+  - - - '214'
+      - Richard Elder
+    - null
+  - - - '217'
+      - Richard Westmoreland
+    - scoredFixes:
+      - 0
+      - 364
+      scoredSeconds:
+      - 0
+      - 3803
+      scoredTimes:
+      - 2016-04-05T18:27:13Z
+      - 2016-04-05T19:30:36Z
+  - - - '208'
+      - Soraya Rios
+    - scoredFixes:
+      - 6
+      - 255
+      scoredSeconds:
+      - 184
+      - 2822
+      scoredTimes:
+      - 2016-04-05T17:20:13Z
+      - 2016-04-05T18:04:11Z
+  - - - '213'
+      - Willie Van Caulart
+    - scoredFixes:
+      - 3
+      - 214
+      scoredSeconds:
+      - 92
+      - 1197
+      scoredTimes:
+      - 2016-04-05T17:14:31Z
+      - 2016-04-05T17:32:56Z
+- - - - '207'
+      - Alex Skyride
+    - scoredFixes:
+      - 0
+      - 335
+      scoredSeconds:
+      - 0
+      - 1224
+      scoredTimes:
+      - 2016-04-06T19:12:58Z
+      - 2016-04-06T19:33:22Z
+  - - - '203'
+      - Andrey Solomykin
+    - scoredFixes:
+      - 580
+      - 6914
+      scoredSeconds:
+      - 591
+      - 7046
+      scoredTimes:
+      - 2016-04-06T18:06:29Z
+      - 2016-04-06T19:54:04Z
+  - - - '215'
+      - Burke Schnedl
+    - null
+  - - - '211'
+      - Dan Lukaszewicz
+    - scoredFixes:
+      - 26
+      - 876
+      scoredSeconds:
+      - 52
+      - 1752
+      scoredTimes:
+      - 2016-04-06T18:19:21Z
+      - 2016-04-06T18:47:41Z
+  - - - '212'
+      - Greg Sessa
+    - scoredFixes:
+      - 0
+      - 4036
+      scoredSeconds:
+      - 0
+      - 12464
+      scoredTimes:
+      - 2016-04-06T18:18:20Z
+      - 2016-04-06T21:46:04Z
+  - - - '216'
+      - John Maloney
+    - scoredFixes:
+      - 0
+      - 1732
+      scoredSeconds:
+      - 0
+      - 1777
+      scoredTimes:
+      - 2016-04-06T17:44:39Z
+      - 2016-04-06T18:14:16Z
+  - - - '205'
+      - Kelly Myrkle
+    - scoredFixes:
+      - 0
+      - 1894
+      scoredSeconds:
+      - 0
+      - 9690
+      scoredTimes:
+      - 2016-04-06T18:44:28Z
+      - 2016-04-06T21:25:58Z
+  - - - '206'
+      - Michael Duffy
+    - scoredFixes:
+      - 4
+      - 474
+      scoredSeconds:
+      - 120
+      - 2584
+      scoredTimes:
+      - 2016-04-06T17:33:32Z
+      - 2016-04-06T18:14:36Z
+  - - - '202'
+      - Nick Jones
+    - scoredFixes:
+      - 0
+      - 5825
+      scoredSeconds:
+      - 0
+      - 5825
+      scoredTimes:
+      - 2016-04-06T18:04:39Z
+      - 2016-04-06T19:41:44Z
+  - - - '201'
+      - Niki Longshore
+    - scoredFixes:
+      - 0
+      - 477
+      scoredSeconds:
+      - 0
+      - 5022
+      scoredTimes:
+      - 2016-04-06T17:26:06Z
+      - 2016-04-06T18:49:48Z
+  - - - '204'
+      - Owen MB
+    - scoredFixes:
+      - 9
+      - 122
+      scoredSeconds:
+      - 254
+      - 819
+      scoredTimes:
+      - 2016-04-06T18:51:01Z
+      - 2016-04-06T19:00:26Z
+  - - - '210'
+      - Pete Wall
+    - scoredFixes:
+      - 6
+      - 658
+      scoredSeconds:
+      - 180
+      - 3490
+      scoredTimes:
+      - 2016-04-06T17:38:37Z
+      - 2016-04-06T18:33:47Z
+  - - - '214'
+      - Richard Elder
+    - scoredFixes:
+      - 1686
+      - 5970
+      scoredSeconds:
+      - 1686
+      - 5970
+      scoredTimes:
+      - 2016-04-06T18:57:33Z
+      - 2016-04-06T20:08:57Z
+  - - - '217'
+      - Richard Westmoreland
+    - scoredFixes:
+      - 4
+      - 161
+      scoredSeconds:
+      - 122
+      - 1827
+      scoredTimes:
+      - 2016-04-06T17:43:14Z
+      - 2016-04-06T18:11:39Z
+  - - - '208'
+      - Soraya Rios
+    - scoredFixes:
+      - 4
+      - 571
+      scoredSeconds:
+      - 123
+      - 5979
+      scoredTimes:
+      - 2016-04-06T17:35:48Z
+      - 2016-04-06T19:13:24Z
+  - - - '213'
+      - Willie Van Caulart
+    - scoredFixes:
+      - 4
+      - 624
+      scoredSeconds:
+      - 120
+      - 3429
+      scoredTimes:
+      - 2016-04-06T18:49:28Z
+      - 2016-04-06T19:44:37Z
+- - - - '207'
+      - Alex Skyride
+    - null
+  - - - '203'
+      - Andrey Solomykin
+    - scoredFixes:
+      - 194
+      - 7754
+      scoredSeconds:
+      - 199
+      - 8014
+      scoredTimes:
+      - 2016-04-09T18:20:23Z
+      - 2016-04-09T20:30:38Z
+  - - - '211'
+      - Dan Lukaszewicz
+    - null
+  - - - '212'
+      - Greg Sessa
+    - scoredFixes:
+      - 0
+      - 2147
+      scoredSeconds:
+      - 0
+      - 6839
+      scoredTimes:
+      - 2016-04-09T19:04:01Z
+      - 2016-04-09T20:58:00Z
+  - - - '216'
+      - John Maloney
+    - scoredFixes:
+      - 68
+      - 7098
+      scoredSeconds:
+      - 2112
+      - 10130
+      scoredTimes:
+      - 2016-04-09T18:34:37Z
+      - 2016-04-09T20:48:15Z
+  - - - '205'
+      - Kelly Myrkle
+    - scoredFixes:
+      - 9
+      - 1503
+      scoredSeconds:
+      - 252
+      - 7722
+      scoredTimes:
+      - 2016-04-09T19:01:44Z
+      - 2016-04-09T21:06:14Z
+  - - - '206'
+      - Michael Duffy
+    - scoredFixes:
+      - 4
+      - 409
+      scoredSeconds:
+      - 85
+      - 2110
+      scoredTimes:
+      - 2016-04-09T19:32:47Z
+      - 2016-04-09T20:06:32Z
+  - - - '202'
+      - Nick Jones
+    - scoredFixes:
+      - 0
+      - 7540
+      scoredSeconds:
+      - 0
+      - 7540
+      scoredTimes:
+      - 2016-04-09T18:24:16Z
+      - 2016-04-09T20:29:56Z
+  - - - '201'
+      - Niki Longshore
+    - scoredFixes:
+      - 0
+      - 1177
+      scoredSeconds:
+      - 0
+      - 6726
+      scoredTimes:
+      - 2016-04-09T18:34:38Z
+      - 2016-04-09T20:26:44Z
+  - - - '210'
+      - Pete Wall
+    - scoredFixes:
+      - 9
+      - 462
+      scoredSeconds:
+      - 236
+      - 2501
+      scoredTimes:
+      - 2016-04-09T19:35:42Z
+      - 2016-04-09T20:13:27Z
+  - - - '214'
+      - Richard Elder
+    - null
+  - - - '217'
+      - Richard Westmoreland
+    - scoredFixes:
+      - 9
+      - 677
+      scoredSeconds:
+      - 275
+      - 7101
+      scoredTimes:
+      - 2016-04-09T18:50:40Z
+      - 2016-04-09T20:44:26Z
+  - - - '208'
+      - Soraya Rios
+    - scoredFixes:
+      - 7
+      - 179
+      scoredSeconds:
+      - 198
+      - 1945
+      scoredTimes:
+      - 2016-04-09T19:43:57Z
+      - 2016-04-09T20:13:04Z
+timing:
+- zonesSum:
+  - 16
+  - 12
+  - 5
+  - 1
+  zonesFirst:
+  - 2016-04-03T18:41:22.099235296865Z
+  - 2016-04-03T19:24:36.333573166442Z
+  - 2016-04-03T20:04:24.753887606922Z
+  - 2016-04-03T20:36:22.071142791429Z
+  zonesLast:
+  - 2016-04-03T19:47:53.385443182785Z
+  - 2016-04-03T20:13:56.032894336152Z
+  - 2016-04-03T20:50:56.855408642305Z
+  - 2016-04-03T20:36:22.071142791429Z
+  zonesRankTime:
+  - - 2016-04-03T18:41:22.099235296865Z
+    - 2016-04-03T18:49:39.661583294918Z
+    - 2016-04-03T18:51:14.573587284755Z
+    - 2016-04-03T19:05:12.660149596725Z
+    - 2016-04-03T19:06:26.453723918515Z
+    - 2016-04-03T19:07:51.251871836846Z
+    - 2016-04-03T19:13:44.05122410579Z
+    - 2016-04-03T19:17:27.44453518555Z
+    - 2016-04-03T19:21:40.132837868721Z
+    - 2016-04-03T19:23:27.192198889512Z
+    - 2016-04-03T19:27:44.60602414294Z
+    - 2016-04-03T19:28:59.950637288812Z
+    - 2016-04-03T19:34:11.147295413529Z
+    - 2016-04-03T19:40:38.095846698572Z
+    - 2016-04-03T19:42:16.37218787148Z
+    - 2016-04-03T19:47:53.385443182785Z
+  - - 2016-04-03T19:24:36.333573166442Z
+    - 2016-04-03T19:36:36.960016516585Z
+    - 2016-04-03T19:36:37.093529766631Z
+    - 2016-04-03T19:37:28.401533884435Z
+    - 2016-04-03T19:37:30.714402587429Z
+    - 2016-04-03T19:37:49.21462888645Z
+    - 2016-04-03T19:48:02.789519007022Z
+    - 2016-04-03T20:01:46.97204576284Z
+    - 2016-04-03T20:02:13.684718705233Z
+    - 2016-04-03T20:09:47.94620152319Z
+    - 2016-04-03T20:11:18.608256283535Z
+    - 2016-04-03T20:13:56.032894336152Z
+  - - 2016-04-03T20:04:24.753887606922Z
+    - 2016-04-03T20:14:25.650226065705Z
+    - 2016-04-03T20:15:42.346087024945Z
+    - 2016-04-03T20:17:27.822908344152Z
+    - 2016-04-03T20:50:56.855408642305Z
+  - - 2016-04-03T20:36:22.071142791429Z
+  zonesRankPilot:
+  - - - '205'
+      - Kelly Myrkle
+    - - '203'
+      - Andrey Solomykin
+    - - '204'
+      - Owen MB
+    - - '212'
+      - Greg Sessa
+    - - '213'
+      - Willie Van Caulart
+    - - '214'
+      - Richard Elder
+    - - '201'
+      - Niki Longshore
+    - - '208'
+      - Soraya Rios
+    - - '209'
+      - John Blank
+    - - '211'
+      - Dan Lukaszewicz
+    - - '217'
+      - Richard Westmoreland
+    - - '216'
+      - John Maloney
+    - - '202'
+      - Nick Jones
+    - - '207'
+      - Alex Skyride
+    - - '206'
+      - Michael Duffy
+    - - '210'
+      - Pete Wall
+  - - - '212'
+      - Greg Sessa
+    - - '205'
+      - Kelly Myrkle
+    - - '203'
+      - Andrey Solomykin
+    - - '204'
+      - Owen MB
+    - - '214'
+      - Richard Elder
+    - - '201'
+      - Niki Longshore
+    - - '211'
+      - Dan Lukaszewicz
+    - - '209'
+      - John Blank
+    - - '216'
+      - John Maloney
+    - - '217'
+      - Richard Westmoreland
+    - - '207'
+      - Alex Skyride
+    - - '202'
+      - Nick Jones
+  - - - '203'
+      - Andrey Solomykin
+    - - '205'
+      - Kelly Myrkle
+    - - '214'
+      - Richard Elder
+    - - '201'
+      - Niki Longshore
+    - - '202'
+      - Nick Jones
+  - - - '203'
+      - Andrey Solomykin
+  lastLanding: 2016-04-03T21:22:36Z
+- zonesSum:
+  - 16
+  - 16
+  - 13
+  - 11
+  - 2
+  - 1
+  zonesFirst:
+  - 2016-04-04T17:30:31.860074643704Z
+  - 2016-04-04T17:50:43.261273205752Z
+  - 2016-04-04T18:09:38.361668186933Z
+  - 2016-04-04T18:59:01.60379350841Z
+  - 2016-04-04T20:50:54.997146969526Z
+  - 2016-04-04T21:07:40.773540303608Z
+  zonesLast:
+  - 2016-04-04T18:27:18.01372302007Z
+  - 2016-04-04T19:37:26.177235085996Z
+  - 2016-04-04T19:45:31.16924954534Z
+  - 2016-04-04T20:17:43.034689206814Z
+  - 2016-04-04T21:05:01.329508584256Z
+  - 2016-04-04T21:07:40.773540303608Z
+  zonesRankTime:
+  - - 2016-04-04T17:30:31.860074643704Z
+    - 2016-04-04T17:32:14.202460871225Z
+    - 2016-04-04T17:35:40.57971817949Z
+    - 2016-04-04T17:40:21.246585226217Z
+    - 2016-04-04T17:44:29.137888363844Z
+    - 2016-04-04T17:45:22.29538736845Z
+    - 2016-04-04T17:46:18.198166287499Z
+    - 2016-04-04T17:50:36.51688206508Z
+    - 2016-04-04T17:52:31.82959827672Z
+    - 2016-04-04T17:55:20.990636121715Z
+    - 2016-04-04T17:56:15.8211252211Z
+    - 2016-04-04T17:58:20.505481695395Z
+    - 2016-04-04T18:00:04.894115688232Z
+    - 2016-04-04T18:01:03.23559618217Z
+    - 2016-04-04T18:06:16.434623059701Z
+    - 2016-04-04T18:27:18.01372302007Z
+  - - 2016-04-04T17:50:43.261273205752Z
+    - 2016-04-04T17:52:07.719012445625Z
+    - 2016-04-04T18:02:16.664106550703Z
+    - 2016-04-04T18:04:41.03419946316Z
+    - 2016-04-04T18:04:55.83474761016Z
+    - 2016-04-04T18:05:13.745890422758Z
+    - 2016-04-04T18:05:24.236496919828Z
+    - 2016-04-04T18:15:50.93675660729Z
+    - 2016-04-04T18:21:42.98837936506Z
+    - 2016-04-04T18:21:53.04510305592Z
+    - 2016-04-04T18:22:04.84215920645Z
+    - 2016-04-04T18:24:27.454848566215Z
+    - 2016-04-04T18:25:22.456346543818Z
+    - 2016-04-04T18:30:32.16484997245Z
+    - 2016-04-04T18:42:24.7662745182Z
+    - 2016-04-04T19:37:26.177235085996Z
+  - - 2016-04-04T18:09:38.361668186933Z
+    - 2016-04-04T18:13:29.919583889535Z
+    - 2016-04-04T18:25:43.275400997416Z
+    - 2016-04-04T18:26:00.933454524631Z
+    - 2016-04-04T18:32:09.030402707021Z
+    - 2016-04-04T18:32:24.3994307226Z
+    - 2016-04-04T18:33:50.006779033275Z
+    - 2016-04-04T18:35:29.140109235735Z
+    - 2016-04-04T18:37:02.210281212834Z
+    - 2016-04-04T18:39:16.551849948902Z
+    - 2016-04-04T18:39:53.731389104377Z
+    - 2016-04-04T19:32:46.261772726948Z
+    - 2016-04-04T19:45:31.16924954534Z
+  - - 2016-04-04T18:59:01.60379350841Z
+    - 2016-04-04T19:05:53.251189563575Z
+    - 2016-04-04T19:10:37.514804974104Z
+    - 2016-04-04T19:18:33.362560534348Z
+    - 2016-04-04T19:20:59.645731956717Z
+    - 2016-04-04T19:41:26.309822542912Z
+    - 2016-04-04T19:41:36.92005520288Z
+    - 2016-04-04T19:56:52.750415031848Z
+    - 2016-04-04T20:06:27.938610929155Z
+    - 2016-04-04T20:07:34.356951772112Z
+    - 2016-04-04T20:17:43.034689206814Z
+  - - 2016-04-04T20:50:54.997146969526Z
+    - 2016-04-04T21:05:01.329508584256Z
+  - - 2016-04-04T21:07:40.773540303608Z
+  zonesRankPilot:
+  - - - '202'
+      - Nick Jones
+    - - '204'
+      - Owen MB
+    - - '205'
+      - Kelly Myrkle
+    - - '207'
+      - Alex Skyride
+    - - '212'
+      - Greg Sessa
+    - - '213'
+      - Willie Van Caulart
+    - - '214'
+      - Richard Elder
+    - - '215'
+      - Burke Schnedl
+    - - '201'
+      - Niki Longshore
+    - - '206'
+      - Michael Duffy
+    - - '209'
+      - John Blank
+    - - '210'
+      - Pete Wall
+    - - '216'
+      - John Maloney
+    - - '217'
+      - Richard Westmoreland
+    - - '203'
+      - Andrey Solomykin
+    - - '208'
+      - Soraya Rios
+  - - - '202'
+      - Nick Jones
+    - - '204'
+      - Owen MB
+    - - '207'
+      - Alex Skyride
+    - - '205'
+      - Kelly Myrkle
+    - - '213'
+      - Willie Van Caulart
+    - - '215'
+      - Burke Schnedl
+    - - '211'
+      - Dan Lukaszewicz
+    - - '209'
+      - John Blank
+    - - '201'
+      - Niki Longshore
+    - - '212'
+      - Greg Sessa
+    - - '217'
+      - Richard Westmoreland
+    - - '216'
+      - John Maloney
+    - - '214'
+      - Richard Elder
+    - - '210'
+      - Pete Wall
+    - - '208'
+      - Soraya Rios
+    - - '203'
+      - Andrey Solomykin
+  - - - '204'
+      - Owen MB
+    - - '205'
+      - Kelly Myrkle
+    - - '213'
+      - Willie Van Caulart
+    - - '202'
+      - Nick Jones
+    - - '216'
+      - John Maloney
+    - - '201'
+      - Niki Longshore
+    - - '214'
+      - Richard Elder
+    - - '212'
+      - Greg Sessa
+    - - '211'
+      - Dan Lukaszewicz
+    - - '217'
+      - Richard Westmoreland
+    - - '207'
+      - Alex Skyride
+    - - '210'
+      - Pete Wall
+    - - '203'
+      - Andrey Solomykin
+  - - - '205'
+      - Kelly Myrkle
+    - - '216'
+      - John Maloney
+    - - '204'
+      - Owen MB
+    - - '202'
+      - Nick Jones
+    - - '212'
+      - Greg Sessa
+    - - '211'
+      - Dan Lukaszewicz
+    - - '201'
+      - Niki Longshore
+    - - '217'
+      - Richard Westmoreland
+    - - '214'
+      - Richard Elder
+    - - '207'
+      - Alex Skyride
+    - - '203'
+      - Andrey Solomykin
+  - - - '201'
+      - Niki Longshore
+    - - '214'
+      - Richard Elder
+  - - - '201'
+      - Niki Longshore
+  lastLanding: 2016-04-04T21:15:50Z
+- zonesSum:
+  - 13
+  - 12
+  - 6
+  - 2
+  zonesFirst:
+  - 2016-04-05T17:13:02.027694693438Z
+  - 2016-04-05T17:47:58.35298837829Z
+  - 2016-04-05T18:44:14.67121062041Z
+  - 2016-04-05T21:36:47.139624477824Z
+  zonesLast:
+  - 2016-04-05T18:39:07.001784709896Z
+  - 2016-04-05T18:58:10.571612094198Z
+  - 2016-04-05T19:32:00.418187024055Z
+  - 2016-04-05T22:26:37.831365380065Z
+  zonesRankTime:
+  - - 2016-04-05T17:13:02.027694693438Z
+    - 2016-04-05T17:15:00.221928542696Z
+    - 2016-04-05T17:20:05.966884202821Z
+    - 2016-04-05T17:22:17.59932133339Z
+    - 2016-04-05T17:26:56.709290189075Z
+    - 2016-04-05T17:27:41.609070624934Z
+    - 2016-04-05T17:53:40.380643624926Z
+    - 2016-04-05T18:01:46.619529329105Z
+    - 2016-04-05T18:05:28.029092657366Z
+    - 2016-04-05T18:09:40.88598276109Z
+    - 2016-04-05T18:24:15.52781398906Z
+    - 2016-04-05T18:29:31.31671010021Z
+    - 2016-04-05T18:39:07.001784709896Z
+  - - 2016-04-05T17:47:58.35298837829Z
+    - 2016-04-05T17:48:19.138048918385Z
+    - 2016-04-05T17:48:28.70615325293Z
+    - 2016-04-05T17:48:44.97736171827Z
+    - 2016-04-05T17:53:31.800294834412Z
+    - 2016-04-05T18:34:08.892384506668Z
+    - 2016-04-05T18:34:10.856061922852Z
+    - 2016-04-05T18:35:02.44605904154Z
+    - 2016-04-05T18:35:03.1936812198Z
+    - 2016-04-05T18:44:16.00816069295Z
+    - 2016-04-05T18:51:35.24948487465Z
+    - 2016-04-05T18:58:10.571612094198Z
+  - - 2016-04-05T18:44:14.67121062041Z
+    - 2016-04-05T18:44:53.486422648808Z
+    - 2016-04-05T18:47:56.397846110066Z
+    - 2016-04-05T18:51:48.778868542667Z
+    - 2016-04-05T19:14:13.110712146739Z
+    - 2016-04-05T19:32:00.418187024055Z
+  - - 2016-04-05T21:36:47.139624477824Z
+    - 2016-04-05T22:26:37.831365380065Z
+  zonesRankPilot:
+  - - - '215'
+      - Burke Schnedl
+    - - '213'
+      - Willie Van Caulart
+    - - '201'
+      - Niki Longshore
+    - - '208'
+      - Soraya Rios
+    - - '210'
+      - Pete Wall
+    - - '216'
+      - John Maloney
+    - - '203'
+      - Andrey Solomykin
+    - - '205'
+      - Kelly Myrkle
+    - - '212'
+      - Greg Sessa
+    - - '211'
+      - Dan Lukaszewicz
+    - - '204'
+      - Owen MB
+    - - '217'
+      - Richard Westmoreland
+    - - '207'
+      - Alex Skyride
+  - - - '201'
+      - Niki Longshore
+    - - '210'
+      - Pete Wall
+    - - '208'
+      - Soraya Rios
+    - - '215'
+      - Burke Schnedl
+    - - '216'
+      - John Maloney
+    - - '212'
+      - Greg Sessa
+    - - '211'
+      - Dan Lukaszewicz
+    - - '203'
+      - Andrey Solomykin
+    - - '205'
+      - Kelly Myrkle
+    - - '204'
+      - Owen MB
+    - - '217'
+      - Richard Westmoreland
+    - - '207'
+      - Alex Skyride
+  - - - '201'
+      - Niki Longshore
+    - - '216'
+      - John Maloney
+    - - '215'
+      - Burke Schnedl
+    - - '210'
+      - Pete Wall
+    - - '203'
+      - Andrey Solomykin
+    - - '205'
+      - Kelly Myrkle
+  - - - '201'
+      - Niki Longshore
+    - - '205'
+      - Kelly Myrkle
+  lastLanding: 2016-04-05T22:28:14Z
+- zonesSum:
+  - 15
+  - 12
+  - 1
+  - 0
+  zonesFirst:
+  - 2016-04-06T17:31:52.36857927666Z
+  - 2016-04-06T17:54:07.10545206485Z
+  - 2016-04-06T21:32:26.828171921604Z
+  - null
+  zonesLast:
+  - 2016-04-06T19:17:21.952104531533Z
+  - 2016-04-06T19:20:50.55801141191Z
+  - 2016-04-06T21:32:26.828171921604Z
+  - null
+  zonesRankTime:
+  - - 2016-04-06T17:31:52.36857927666Z
+    - 2016-04-06T17:36:34.726664061415Z
+    - 2016-04-06T17:39:20.961403387729Z
+    - 2016-04-06T17:40:35.704019418035Z
+    - 2016-04-06T17:45:24.036550699577Z
+    - 2016-04-06T17:46:37.38697646089Z
+    - 2016-04-06T18:05:39.831959941201Z
+    - 2016-04-06T18:07:21.747994749132Z
+    - 2016-04-06T18:20:12.413132160836Z
+    - 2016-04-06T18:24:02.151033591545Z
+    - 2016-04-06T18:49:34.609523009215Z
+    - 2016-04-06T18:51:53.82911273209Z
+    - 2016-04-06T18:53:09.76332276794Z
+    - 2016-04-06T18:58:38.240502406309Z
+    - 2016-04-06T19:17:21.952104531533Z
+  - - 2016-04-06T17:54:07.10545206485Z
+    - 2016-04-06T17:54:24.902373725615Z
+    - 2016-04-06T17:54:54.97200634003Z
+    - 2016-04-06T17:56:05.099404729848Z
+    - 2016-04-06T18:03:32.845884604624Z
+    - 2016-04-06T18:27:44.927799663489Z
+    - 2016-04-06T18:34:01.160106119795Z
+    - 2016-04-06T18:38:36.257682210422Z
+    - 2016-04-06T18:40:10.168869773908Z
+    - 2016-04-06T19:03:23.77319770048Z
+    - 2016-04-06T19:20:15.798483416192Z
+    - 2016-04-06T19:20:50.55801141191Z
+  - - 2016-04-06T21:32:26.828171921604Z
+  - []
+  zonesRankPilot:
+  - - - '201'
+      - Niki Longshore
+    - - '206'
+      - Michael Duffy
+    - - '208'
+      - Soraya Rios
+    - - '210'
+      - Pete Wall
+    - - '216'
+      - John Maloney
+    - - '217'
+      - Richard Westmoreland
+    - - '202'
+      - Nick Jones
+    - - '203'
+      - Andrey Solomykin
+    - - '211'
+      - Dan Lukaszewicz
+    - - '212'
+      - Greg Sessa
+    - - '205'
+      - Kelly Myrkle
+    - - '204'
+      - Owen MB
+    - - '213'
+      - Willie Van Caulart
+    - - '214'
+      - Richard Elder
+    - - '207'
+      - Alex Skyride
+  - - - '210'
+      - Pete Wall
+    - - '206'
+      - Michael Duffy
+    - - '208'
+      - Soraya Rios
+    - - '201'
+      - Niki Longshore
+    - - '216'
+      - John Maloney
+    - - '202'
+      - Nick Jones
+    - - '203'
+      - Andrey Solomykin
+    - - '212'
+      - Greg Sessa
+    - - '211'
+      - Dan Lukaszewicz
+    - - '205'
+      - Kelly Myrkle
+    - - '214'
+      - Richard Elder
+    - - '213'
+      - Willie Van Caulart
+  - - - '212'
+      - Greg Sessa
+  - []
+  lastLanding: 2016-04-06T21:46:04Z
+- zonesSum:
+  - 10
+  - 10
+  - 6
+  - 4
+  zonesFirst:
+  - 2016-04-09T18:20:59.05032983228Z
+  - 2016-04-09T18:50:46.06175762644Z
+  - 2016-04-09T19:53:48.28271401942Z
+  - 2016-04-09T20:16:34.826269988864Z
+  zonesLast:
+  - 2016-04-09T19:44:37.42964964344Z
+  - 2016-04-09T19:58:59.39511910757Z
+  - 2016-04-09T20:36:26.569128349425Z
+  - 2016-04-09T20:50:21.97511842701Z
+  zonesRankTime:
+  - - 2016-04-09T18:20:59.05032983228Z
+    - 2016-04-09T18:24:55.613377855355Z
+    - 2016-04-09T18:40:18.76381029231Z
+    - 2016-04-09T18:49:13.179686922742Z
+    - 2016-04-09T18:51:09.897709497848Z
+    - 2016-04-09T19:02:11.327661660695Z
+    - 2016-04-09T19:09:19.160224141803Z
+    - 2016-04-09T19:33:22.709716021435Z
+    - 2016-04-09T19:36:21.47808141273Z
+    - 2016-04-09T19:44:37.42964964344Z
+  - - 2016-04-09T18:50:46.06175762644Z
+    - 2016-04-09T18:56:30.26085776218Z
+    - 2016-04-09T18:59:36.507745574787Z
+    - 2016-04-09T19:22:05.633541576017Z
+    - 2016-04-09T19:23:22.98885270596Z
+    - 2016-04-09T19:30:41.37100422228Z
+    - 2016-04-09T19:37:30.580470849311Z
+    - 2016-04-09T19:56:17.425315544095Z
+    - 2016-04-09T19:57:04.1646864836Z
+    - 2016-04-09T19:58:59.39511910757Z
+  - - 2016-04-09T19:53:48.28271401942Z
+    - 2016-04-09T20:05:36.516962299848Z
+    - 2016-04-09T20:06:25.469125703647Z
+    - 2016-04-09T20:26:31.80253131888Z
+    - 2016-04-09T20:28:46.638935172347Z
+    - 2016-04-09T20:36:26.569128349425Z
+  - - 2016-04-09T20:16:34.826269988864Z
+    - 2016-04-09T20:28:06.421466833337Z
+    - 2016-04-09T20:47:35.455267029734Z
+    - 2016-04-09T20:50:21.97511842701Z
+  zonesRankPilot:
+  - - - '203'
+      - Andrey Solomykin
+    - - '202'
+      - Nick Jones
+    - - '201'
+      - Niki Longshore
+    - - '216'
+      - John Maloney
+    - - '217'
+      - Richard Westmoreland
+    - - '205'
+      - Kelly Myrkle
+    - - '212'
+      - Greg Sessa
+    - - '206'
+      - Michael Duffy
+    - - '210'
+      - Pete Wall
+    - - '208'
+      - Soraya Rios
+  - - - '202'
+      - Nick Jones
+    - - '201'
+      - Niki Longshore
+    - - '203'
+      - Andrey Solomykin
+    - - '216'
+      - John Maloney
+    - - '217'
+      - Richard Westmoreland
+    - - '205'
+      - Kelly Myrkle
+    - - '212'
+      - Greg Sessa
+    - - '206'
+      - Michael Duffy
+    - - '210'
+      - Pete Wall
+    - - '208'
+      - Soraya Rios
+  - - - '201'
+      - Niki Longshore
+    - - '203'
+      - Andrey Solomykin
+    - - '202'
+      - Nick Jones
+    - - '205'
+      - Kelly Myrkle
+    - - '216'
+      - John Maloney
+    - - '212'
+      - Greg Sessa
+  - - - '201'
+      - Niki Longshore
+    - - '203'
+      - Andrey Solomykin
+    - - '216'
+      - John Maloney
+    - - '205'
+      - Kelly Myrkle
+  lastLanding: 2016-04-09T21:06:14Z
+tagging:
+- - - - '207'
+      - Alex Skyride
+    - zonesTag:
+      - inter:
+          fixFrac: 15.031948899524968
+          time: 2016-04-03T19:40:38.095846698572Z
+          lat: 28.53649345
+          lng: -81.84556347
+          alt: 99.19
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-03T19:40:38Z
+            lat: 28.53648333
+            lng: -81.84556667
+            alt: 99
+          - fix: 16
+            time: 2016-04-03T19:40:41Z
+            lat: 28.5368
+            lng: -81.84546667
+            alt: 105
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 627.5360854278457
+          time: 2016-04-03T20:11:18.608256283535Z
+          lat: 28.4882677
+          lng: -81.85153624
+          alt: 442.93
+        cross:
+          crossingPair:
+          - fix: 627
+            time: 2016-04-03T20:11:17Z
+            lat: 28.4885
+            lng: -81.85161667
+            alt: 444
+          - fix: 628
+            time: 2016-04-03T20:11:20Z
+            lat: 28.48806667
+            lng: -81.85146667
+            alt: 442
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '203'
+      - Andrey Solomykin
+    - zonesTag:
+      - inter:
+          fixFrac: 1067.661583294918
+          time: 2016-04-03T18:49:39.661583294918Z
+          lat: 28.53662693
+          lng: -81.84672769
+          alt: 144.63
+        cross:
+          crossingPair:
+          - fix: 1067
+            time: 2016-04-03T18:49:39Z
+            lat: 28.53651667
+            lng: -81.84671667
+            alt: 140
+          - fix: 1068
+            time: 2016-04-03T18:49:40Z
+            lat: 28.53668333
+            lng: -81.84673333
+            alt: 147
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3819.093529766632
+          time: 2016-04-03T19:36:37.093529766631Z
+          lat: 28.48909063
+          lng: -81.85754267
+          alt: 1018.81
+        cross:
+          crossingPair:
+          - fix: 3819
+            time: 2016-04-03T19:36:37Z
+            lat: 28.4891
+            lng: -81.85753333
+            alt: 1019
+          - fix: 3820
+            time: 2016-04-03T19:36:38Z
+            lat: 28.489
+            lng: -81.85763333
+            alt: 1017
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 5445.753887606922
+          time: 2016-04-03T20:04:24.753887606922Z
+          lat: 28.37958692
+          lng: -81.83285821
+          alt: 926.25
+        cross:
+          crossingPair:
+          - fix: 5445
+            time: 2016-04-03T20:04:24Z
+            lat: 28.3797
+            lng: -81.83288333
+            alt: 927
+          - fix: 5446
+            time: 2016-04-03T20:04:25Z
+            lat: 28.37955
+            lng: -81.83285
+            alt: 926
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 7326.07114279143
+          time: 2016-04-03T20:36:22.071142791429Z
+          lat: 28.24969169
+          lng: -81.93621422
+          alt: 315.86
+        cross:
+          crossingPair:
+          - fix: 7326
+            time: 2016-04-03T20:36:22Z
+            lat: 28.2497
+            lng: -81.9362
+            alt: 316
+          - fix: 7327
+            time: 2016-04-03T20:36:23Z
+            lat: 28.24958333
+            lng: -81.9364
+            alt: 314
+          inZone:
+          - false
+          - true
+  - - - '215'
+      - Burke Schnedl
+    - null
+  - - - '211'
+      - Dan Lukaszewicz
+    - zonesTag:
+      - inter:
+          fixFrac: 40.5960994447561
+          time: 2016-04-03T19:23:27.192198889512Z
+          lat: 28.5365955
+          lng: -81.84721313
+          alt: 157.33
+        cross:
+          crossingPair:
+          - fix: 40
+            time: 2016-04-03T19:23:26Z
+            lat: 28.53641667
+            lng: -81.84718333
+            alt: 146
+          - fix: 41
+            time: 2016-04-03T19:23:28Z
+            lat: 28.53671667
+            lng: -81.84723333
+            alt: 165
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 776.8947595035118
+          time: 2016-04-03T19:48:02.789519007022Z
+          lat: 28.48825963
+          lng: -81.84190087
+          alt: 773.11
+        cross:
+          crossingPair:
+          - fix: 776
+            time: 2016-04-03T19:48:01Z
+            lat: 28.48848333
+            lng: -81.84176667
+            alt: 774
+          - fix: 777
+            time: 2016-04-03T19:48:03Z
+            lat: 28.48823333
+            lng: -81.84191667
+            alt: 773
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '212'
+      - Greg Sessa
+    - zonesTag:
+      - inter:
+          fixFrac: 18.220049865575145
+          time: 2016-04-03T19:05:12.660149596725Z
+          lat: 28.53624935
+          lng: -81.84484299
+          alt: 146.86
+        cross:
+          crossingPair:
+          - fix: 18
+            time: 2016-04-03T19:05:12Z
+            lat: 28.53618333
+            lng: -81.84488333
+            alt: 144
+          - fix: 19
+            time: 2016-04-03T19:05:15Z
+            lat: 28.53648333
+            lng: -81.8447
+            alt: 157
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 397.4445243888146
+          time: 2016-04-03T19:24:36.333573166442Z
+          lat: 28.48808884
+          lng: -81.84496667
+          alt: 719.22
+        cross:
+          crossingPair:
+          - fix: 397
+            time: 2016-04-03T19:24:35Z
+            lat: 28.48833333
+            lng: -81.84503333
+            alt: 717
+          - fix: 398
+            time: 2016-04-03T19:24:38Z
+            lat: 28.48778333
+            lng: -81.84488333
+            alt: 722
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '209'
+      - John Blank
+    - zonesTag:
+      - inter:
+          fixFrac: 13.284803442611285
+          time: 2016-04-03T19:21:40.132837868721Z
+          lat: 28.5364155
+          lng: -81.84528576
+          alt: 124.68
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-03T19:21:37Z
+            lat: 28.53605
+            lng: -81.8453
+            alt: 113
+          - fix: 14
+            time: 2016-04-03T19:21:48Z
+            lat: 28.53733333
+            lng: -81.84525
+            alt: 154
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 248.89720457628422
+          time: 2016-04-03T20:01:46.97204576284Z
+          lat: 28.48815155
+          lng: -81.84347692
+          alt: 666.9
+        cross:
+          crossingPair:
+          - fix: 248
+            time: 2016-04-03T20:01:38Z
+            lat: 28.48918333
+            lng: -81.84356667
+            alt: 666
+          - fix: 249
+            time: 2016-04-03T20:01:48Z
+            lat: 28.48803333
+            lng: -81.84346667
+            alt: 667
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '216'
+      - John Maloney
+    - zonesTag:
+      - inter:
+          fixFrac: 27.950637288812512
+          time: 2016-04-03T19:28:59.950637288812Z
+          lat: 28.53662675
+          lng: -81.84659918
+          alt: 143.75
+        cross:
+          crossingPair:
+          - fix: 27
+            time: 2016-04-03T19:28:59Z
+            lat: 28.5365
+            lng: -81.84658333
+            alt: 139
+          - fix: 28
+            time: 2016-04-03T19:29:00Z
+            lat: 28.53663333
+            lng: -81.8466
+            alt: 144
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1974.6847187052338
+          time: 2016-04-03T20:02:13.684718705233Z
+          lat: 28.48815691
+          lng: -81.8433808
+          alt: 931.63
+        cross:
+          crossingPair:
+          - fix: 1974
+            time: 2016-04-03T20:02:13Z
+            lat: 28.48831667
+            lng: -81.84326667
+            alt: 933
+          - fix: 1975
+            time: 2016-04-03T20:02:14Z
+            lat: 28.48808333
+            lng: -81.84343333
+            alt: 931
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '205'
+      - Kelly Myrkle
+    - zonesTag:
+      - inter:
+          fixFrac: 8.419847059373383
+          time: 2016-04-03T18:41:22.099235296865Z
+          lat: 28.53662722
+          lng: -81.84664568
+          alt: 152.6
+        cross:
+          crossingPair:
+          - fix: 8
+            time: 2016-04-03T18:41:20Z
+            lat: 28.53633333
+            lng: -81.84666667
+            alt: 140
+          - fix: 9
+            time: 2016-04-03T18:41:25Z
+            lat: 28.53703333
+            lng: -81.84661667
+            alt: 170
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 671.3920033033179
+          time: 2016-04-03T19:36:36.960016516585Z
+          lat: 28.48865013
+          lng: -81.85490586
+          alt: 787.04
+        cross:
+          crossingPair:
+          - fix: 671
+            time: 2016-04-03T19:36:35Z
+            lat: 28.48898333
+            lng: -81.85486667
+            alt: 789
+          - fix: 672
+            time: 2016-04-03T19:36:40Z
+            lat: 28.48813333
+            lng: -81.85496667
+            alt: 784
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1125.1300452131413
+          time: 2016-04-03T20:14:25.650226065705Z
+          lat: 28.38407347
+          lng: -81.82863064
+          alt: 709.83
+        cross:
+          crossingPair:
+          - fix: 1125
+            time: 2016-04-03T20:14:25Z
+            lat: 28.38416667
+            lng: -81.8287
+            alt: 711
+          - fix: 1126
+            time: 2016-04-03T20:14:30Z
+            lat: 28.38345
+            lng: -81.82816667
+            alt: 702
+          inZone:
+          - false
+          - true
+      - null
+  - - - '206'
+      - Michael Duffy
+    - zonesTag:
+      - inter:
+          fixFrac: 9.4744375742962
+          time: 2016-04-03T19:42:16.37218787148Z
+          lat: 28.53635133
+          lng: -81.84509721
+          alt: 134.54
+        cross:
+          crossingPair:
+          - fix: 9
+            time: 2016-04-03T19:42:14Z
+            lat: 28.53606667
+            lng: -81.8452
+            alt: 126
+          - fix: 10
+            time: 2016-04-03T19:42:19Z
+            lat: 28.53666667
+            lng: -81.84498333
+            alt: 144
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+  - - - '202'
+      - Nick Jones
+    - zonesTag:
+      - inter:
+          fixFrac: 29.147295413529182
+          time: 2016-04-03T19:34:11.147295413529Z
+          lat: 28.53631719
+          lng: -81.84500685
+          alt: 154.44
+        cross:
+          crossingPair:
+          - fix: 29
+            time: 2016-04-03T19:34:11Z
+            lat: 28.5363
+            lng: -81.84501667
+            alt: 154
+          - fix: 30
+            time: 2016-04-03T19:34:12Z
+            lat: 28.53641667
+            lng: -81.84495
+            alt: 157
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2414.032894336153
+          time: 2016-04-03T20:13:56.032894336152Z
+          lat: 28.48819452
+          lng: -81.85056719
+          alt: 715.93
+        cross:
+          crossingPair:
+          - fix: 2414
+            time: 2016-04-03T20:13:56Z
+            lat: 28.4882
+            lng: -81.85056667
+            alt: 716
+          - fix: 2415
+            time: 2016-04-03T20:13:57Z
+            lat: 28.48803333
+            lng: -81.85058333
+            alt: 714
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 4634.8554086423055
+          time: 2016-04-03T20:50:56.855408642305Z
+          lat: 28.38000482
+          lng: -81.83266446
+          alt: 585.29
+        cross:
+          crossingPair:
+          - fix: 4634
+            time: 2016-04-03T20:50:56Z
+            lat: 28.38003333
+            lng: -81.83275
+            alt: 587
+          - fix: 4635
+            time: 2016-04-03T20:50:57Z
+            lat: 28.38
+            lng: -81.83265
+            alt: 585
+          inZone:
+          - false
+          - true
+      - null
+  - - - '201'
+      - Niki Longshore
+    - zonesTag:
+      - inter:
+          fixFrac: 13.50512241057983
+          time: 2016-04-03T19:13:44.05122410579Z
+          lat: 28.53650547
+          lng: -81.84561342
+          alt: 87.06
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-03T19:13:39Z
+            lat: 28.53596667
+            lng: -81.84593333
+            alt: 81
+          - fix: 14
+            time: 2016-04-03T19:13:49Z
+            lat: 28.53703333
+            lng: -81.8453
+            alt: 93
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 157.82146288864556
+          time: 2016-04-03T19:37:49.21462888645Z
+          lat: 28.48897912
+          lng: -81.85694167
+          alt: 962.18
+        cross:
+          crossingPair:
+          - fix: 157
+            time: 2016-04-03T19:37:41Z
+            lat: 28.49003333
+            lng: -81.85713333
+            alt: 963
+          - fix: 158
+            time: 2016-04-03T19:37:51Z
+            lat: 28.48875
+            lng: -81.8569
+            alt: 962
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 395.9557270860389
+          time: 2016-04-03T20:17:27.822908344152Z
+          lat: 28.38223807
+          lng: -81.83107509
+          alt: 506.4
+        cross:
+          crossingPair:
+          - fix: 395
+            time: 2016-04-03T20:17:24Z
+            lat: 28.3827
+            lng: -81.83161667
+            alt: 515
+          - fix: 396
+            time: 2016-04-03T20:17:28Z
+            lat: 28.38221667
+            lng: -81.83105
+            alt: 506
+          inZone:
+          - false
+          - true
+      - null
+  - - - '204'
+      - Owen MB
+    - zonesTag:
+      - inter:
+          fixFrac: 14.914717456951418
+          time: 2016-04-03T18:51:14.573587284755Z
+          lat: 28.53648074
+          lng: -81.84551318
+          alt: 79.64
+        cross:
+          crossingPair:
+          - fix: 14
+            time: 2016-04-03T18:51:10Z
+            lat: 28.53591667
+            lng: -81.84583333
+            alt: 65
+          - fix: 15
+            time: 2016-04-03T18:51:15Z
+            lat: 28.53653333
+            lng: -81.84548333
+            alt: 81
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 569.6803067768876
+          time: 2016-04-03T19:37:28.401533884435Z
+          lat: 28.48867582
+          lng: -81.85508322
+          alt: 961.16
+        cross:
+          crossingPair:
+          - fix: 569
+            time: 2016-04-03T19:37:25Z
+            lat: 28.48905
+            lng: -81.85536667
+            alt: 970
+          - fix: 570
+            time: 2016-04-03T19:37:30Z
+            lat: 28.4885
+            lng: -81.85495
+            alt: 957
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '210'
+      - Pete Wall
+    - zonesTag:
+      - inter:
+          fixFrac: 13.277088636557318
+          time: 2016-04-03T19:47:53.385443182785Z
+          lat: 28.53641625
+          lng: -81.84528816
+          alt: 81.16
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-03T19:47:52Z
+            lat: 28.53625
+            lng: -81.84536667
+            alt: 77
+          - fix: 14
+            time: 2016-04-03T19:47:57Z
+            lat: 28.53685
+            lng: -81.84508333
+            alt: 92
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+  - - - '214'
+      - Richard Elder
+    - zonesTag:
+      - inter:
+          fixFrac: 36.2518718368461
+          time: 2016-04-03T19:07:51.251871836846Z
+          lat: 28.53628766
+          lng: -81.84493321
+          alt: 107.5
+        cross:
+          crossingPair:
+          - fix: 36
+            time: 2016-04-03T19:07:51Z
+            lat: 28.53626667
+            lng: -81.84495
+            alt: 107
+          - fix: 37
+            time: 2016-04-03T19:07:52Z
+            lat: 28.53635
+            lng: -81.84488333
+            alt: 109
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1815.7144025874293
+          time: 2016-04-03T19:37:30.714402587429Z
+          lat: 28.48894284
+          lng: -81.85673808
+          alt: 866.71
+        cross:
+          crossingPair:
+          - fix: 1815
+            time: 2016-04-03T19:37:30Z
+            lat: 28.48905
+            lng: -81.85675
+            alt: 866
+          - fix: 1816
+            time: 2016-04-03T19:37:31Z
+            lat: 28.4889
+            lng: -81.85673333
+            alt: 867
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 4107.3460870249455
+          time: 2016-04-03T20:15:42.346087024945Z
+          lat: 28.38469295
+          lng: -81.82725449
+          alt: 427.31
+        cross:
+          crossingPair:
+          - fix: 4107
+            time: 2016-04-03T20:15:42Z
+            lat: 28.38473333
+            lng: -81.82728333
+            alt: 428
+          - fix: 4108
+            time: 2016-04-03T20:15:43Z
+            lat: 28.38461667
+            lng: -81.8272
+            alt: 426
+          inZone:
+          - false
+          - true
+      - null
+  - - - '217'
+      - Richard Westmoreland
+    - zonesTag:
+      - inter:
+          fixFrac: 13.560602414294028
+          time: 2016-04-03T19:27:44.60602414294Z
+          lat: 28.53632878
+          lng: -81.84503687
+          alt: 160.15
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-03T19:27:39Z
+            lat: 28.5356
+            lng: -81.84546667
+            alt: 131
+          - fix: 14
+            time: 2016-04-03T19:27:49Z
+            lat: 28.5369
+            lng: -81.8447
+            alt: 183
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 260.49462015231984
+          time: 2016-04-03T20:09:47.94620152319Z
+          lat: 28.4881362
+          lng: -81.84957024
+          alt: 719.48
+        cross:
+          crossingPair:
+          - fix: 260
+            time: 2016-04-03T20:09:43Z
+            lat: 28.4884
+            lng: -81.84913333
+            alt: 718
+          - fix: 261
+            time: 2016-04-03T20:09:53Z
+            lat: 28.48786667
+            lng: -81.85001667
+            alt: 721
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '208'
+      - Soraya Rios
+    - zonesTag:
+      - inter:
+          fixFrac: 13.344453518555804
+          time: 2016-04-03T19:17:27.44453518555Z
+          lat: 28.53662705
+          lng: -81.84662296
+          alt: 154.88
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-03T19:17:24Z
+            lat: 28.53613333
+            lng: -81.8466
+            alt: 138
+          - fix: 14
+            time: 2016-04-03T19:17:34Z
+            lat: 28.53756667
+            lng: -81.84666667
+            alt: 187
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+  - - - '213'
+      - Willie Van Caulart
+    - zonesTag:
+      - inter:
+          fixFrac: 15.890744783703784
+          time: 2016-04-03T19:06:26.453723918515Z
+          lat: 28.53662716
+          lng: -81.84670392
+          alt: 142.38
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-03T19:06:22Z
+            lat: 28.53603333
+            lng: -81.8466
+            alt: 121
+          - fix: 16
+            time: 2016-04-03T19:06:27Z
+            lat: 28.5367
+            lng: -81.84671667
+            alt: 145
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+- - - - '207'
+      - Alex Skyride
+    - zonesTag:
+      - inter:
+          fixFrac: 16.415528408739167
+          time: 2016-04-04T17:40:21.246585226217Z
+          lat: 28.53662724
+          lng: -81.84665022
+          alt: 62.99
+        cross:
+          crossingPair:
+          - fix: 16
+            time: 2016-04-04T17:40:20Z
+            lat: 28.53643333
+            lng: -81.84673333
+            alt: 58
+          - fix: 17
+            time: 2016-04-04T17:40:23Z
+            lat: 28.5369
+            lng: -81.84653333
+            alt: 70
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 454.8880355169014
+          time: 2016-04-04T18:02:16.664106550703Z
+          lat: 28.52542812
+          lng: -81.81720572
+          alt: 1255.78
+        cross:
+          crossingPair:
+          - fix: 454
+            time: 2016-04-04T18:02:14Z
+            lat: 28.52578333
+            lng: -81.81738333
+            alt: 1262
+          - fix: 455
+            time: 2016-04-04T18:02:17Z
+            lat: 28.52538333
+            lng: -81.81718333
+            alt: 1255
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1206.7313891043773
+          time: 2016-04-04T18:39:53.731389104377Z
+          lat: 28.47994552
+          lng: -81.78510248
+          alt: 1257.73
+        cross:
+          crossingPair:
+          - fix: 1206
+            time: 2016-04-04T18:39:53Z
+            lat: 28.47993333
+            lng: -81.7852
+            alt: 1257
+          - fix: 1207
+            time: 2016-04-04T18:39:54Z
+            lat: 28.47995
+            lng: -81.78506667
+            alt: 1258
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2958.785650590705
+          time: 2016-04-04T20:07:34.356951772112Z
+          lat: 28.4805381
+          lng: -81.90402736
+          alt: 1218.07
+        cross:
+          crossingPair:
+          - fix: 2958
+            time: 2016-04-04T20:07:32Z
+            lat: 28.48061667
+            lng: -81.9037
+            alt: 1222
+          - fix: 2959
+            time: 2016-04-04T20:07:35Z
+            lat: 28.48051667
+            lng: -81.90411667
+            alt: 1217
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '203'
+      - Andrey Solomykin
+    - zonesTag:
+      - inter:
+          fixFrac: 117.43462305970182
+          time: 2016-04-04T18:06:16.434623059701Z
+          lat: 28.53616955
+          lng: -81.84866884
+          alt: 1264.7
+        cross:
+          crossingPair:
+          - fix: 117
+            time: 2016-04-04T18:06:16Z
+            lat: 28.53613333
+            lng: -81.84868333
+            alt: 1266
+          - fix: 118
+            time: 2016-04-04T18:06:17Z
+            lat: 28.53621667
+            lng: -81.84865
+            alt: 1263
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 5455.1772350859965
+          time: 2016-04-04T19:37:26.177235085996Z
+          lat: 28.51694303
+          lng: -81.82201857
+          alt: 1466.82
+        cross:
+          crossingPair:
+          - fix: 5455
+            time: 2016-04-04T19:37:26Z
+            lat: 28.51696667
+            lng: -81.82203333
+            alt: 1467
+          - fix: 5456
+            time: 2016-04-04T19:37:27Z
+            lat: 28.51683333
+            lng: -81.82195
+            alt: 1466
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 5919.169249545341
+          time: 2016-04-04T19:45:31.16924954534Z
+          lat: 28.48497487
+          lng: -81.78626076
+          alt: 1300.83
+        cross:
+          crossingPair:
+          - fix: 5919
+            time: 2016-04-04T19:45:31Z
+            lat: 28.48498333
+            lng: -81.78628333
+            alt: 1301
+          - fix: 5920
+            time: 2016-04-04T19:45:32Z
+            lat: 28.48493333
+            lng: -81.78615
+            alt: 1300
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 7798.034689206815
+          time: 2016-04-04T20:17:43.034689206814Z
+          lat: 28.47871956
+          lng: -81.90293564
+          alt: 988.9
+        cross:
+          crossingPair:
+          - fix: 7798
+            time: 2016-04-04T20:17:43Z
+            lat: 28.47871667
+            lng: -81.90293333
+            alt: 989
+          - fix: 7799
+            time: 2016-04-04T20:17:44Z
+            lat: 28.4788
+            lng: -81.903
+            alt: 986
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '215'
+      - Burke Schnedl
+    - zonesTag:
+      - inter:
+          fixFrac: 30.51688206508054
+          time: 2016-04-04T17:50:36.51688206508Z
+          lat: 28.53661892
+          lng: -81.84639083
+          alt: 91.52
+        cross:
+          crossingPair:
+          - fix: 30
+            time: 2016-04-04T17:50:36Z
+            lat: 28.53655
+            lng: -81.84641667
+            alt: 91
+          - fix: 31
+            time: 2016-04-04T17:50:37Z
+            lat: 28.53668333
+            lng: -81.84636667
+            alt: 92
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 907.7458904227583
+          time: 2016-04-04T18:05:13.745890422758Z
+          lat: 28.52279209
+          lng: -81.81825873
+          alt: 1285.51
+        cross:
+          crossingPair:
+          - fix: 907
+            time: 2016-04-04T18:05:13Z
+            lat: 28.52286667
+            lng: -81.81833333
+            alt: 1287
+          - fix: 908
+            time: 2016-04-04T18:05:14Z
+            lat: 28.52276667
+            lng: -81.81823333
+            alt: 1285
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+  - - - '211'
+      - Dan Lukaszewicz
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 748.1182484599142
+          time: 2016-04-04T18:05:24.236496919828Z
+          lat: 28.52604105
+          lng: -81.81700967
+          alt: 1289.41
+        cross:
+          crossingPair:
+          - fix: 748
+            time: 2016-04-04T18:05:24Z
+            lat: 28.52606667
+            lng: -81.81703333
+            alt: 1290
+          - fix: 749
+            time: 2016-04-04T18:05:26Z
+            lat: 28.52585
+            lng: -81.81683333
+            alt: 1285
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1695.6051406064175
+          time: 2016-04-04T18:37:02.210281212834Z
+          lat: 28.48377983
+          lng: -81.78629213
+          alt: 1111.37
+        cross:
+          crossingPair:
+          - fix: 1695
+            time: 2016-04-04T18:37:01Z
+            lat: 28.4838
+            lng: -81.78643333
+            alt: 1115
+          - fix: 1696
+            time: 2016-04-04T18:37:03Z
+            lat: 28.48376667
+            lng: -81.7862
+            alt: 1109
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3625.654911271456
+          time: 2016-04-04T19:41:26.309822542912Z
+          lat: 28.47796667
+          lng: -81.90285798
+          alt: 576.38
+        cross:
+          crossingPair:
+          - fix: 3625
+            time: 2016-04-04T19:41:25Z
+            lat: 28.47796667
+            lng: -81.90268333
+            alt: 579
+          - fix: 3626
+            time: 2016-04-04T19:41:27Z
+            lat: 28.47796667
+            lng: -81.90295
+            alt: 575
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '212'
+      - Greg Sessa
+    - zonesTag:
+      - inter:
+          fixFrac: 14.04596278794871
+          time: 2016-04-04T17:44:29.137888363844Z
+          lat: 28.53644635
+          lng: -81.84538774
+          alt: 63.18
+        cross:
+          crossingPair:
+          - fix: 14
+            time: 2016-04-04T17:44:29Z
+            lat: 28.53643333
+            lng: -81.8454
+            alt: 63
+          - fix: 15
+            time: 2016-04-04T17:44:32Z
+            lat: 28.53671667
+            lng: -81.84513333
+            alt: 67
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 745.6817010186409
+          time: 2016-04-04T18:21:53.04510305592Z
+          lat: 28.51466521
+          lng: -81.82417501
+          alt: 1274.59
+        cross:
+          crossingPair:
+          - fix: 745
+            time: 2016-04-04T18:21:51Z
+            lat: 28.51498333
+            lng: -81.8243
+            alt: 1278
+          - fix: 746
+            time: 2016-04-04T18:21:54Z
+            lat: 28.51451667
+            lng: -81.82411667
+            alt: 1273
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1012.1401092357357
+          time: 2016-04-04T18:35:29.140109235735Z
+          lat: 28.47820467
+          lng: -81.78372665
+          alt: 1180
+        cross:
+          crossingPair:
+          - fix: 1012
+            time: 2016-04-04T18:35:29Z
+            lat: 28.4782
+            lng: -81.78375
+            alt: 1180
+          - fix: 1013
+            time: 2016-04-04T18:35:30Z
+            lat: 28.47823333
+            lng: -81.78358333
+            alt: 1180
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1903.8819106522399
+          time: 2016-04-04T19:20:59.645731956717Z
+          lat: 28.47915984
+          lng: -81.90306838
+          alt: 888.06
+        cross:
+          crossingPair:
+          - fix: 1903
+            time: 2016-04-04T19:20:57Z
+            lat: 28.47923333
+            lng: -81.90258333
+            alt: 896
+          - fix: 1904
+            time: 2016-04-04T19:21:00Z
+            lat: 28.47915
+            lng: -81.90313333
+            alt: 887
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '209'
+      - John Blank
+    - zonesTag:
+      - inter:
+          fixFrac: 9.694037507370695
+          time: 2016-04-04T17:56:15.8211252211Z
+          lat: 28.53662628
+          lng: -81.84657313
+          alt: 99.31
+        cross:
+          crossingPair:
+          - fix: 9
+            time: 2016-04-04T17:55:55Z
+            lat: 28.53328333
+            lng: -81.84655
+            alt: 7
+          - fix: 10
+            time: 2016-04-04T17:56:25Z
+            lat: 28.5381
+            lng: -81.84658333
+            alt: 140
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 126.59367566072997
+          time: 2016-04-04T18:15:50.93675660729Z
+          lat: 28.52188755
+          lng: -81.81870324
+          alt: 703.75
+        cross:
+          crossingPair:
+          - fix: 126
+            time: 2016-04-04T18:15:45Z
+            lat: 28.52228333
+            lng: -81.81963333
+            alt: 718
+          - fix: 127
+            time: 2016-04-04T18:15:55Z
+            lat: 28.52161667
+            lng: -81.81806667
+            alt: 694
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+  - - - '216'
+      - John Maloney
+    - zonesTag:
+      - inter:
+          fixFrac: 124.89411568823276
+          time: 2016-04-04T18:00:04.894115688232Z
+          lat: 28.5366051
+          lng: -81.84621588
+          alt: 57.58
+        cross:
+          crossingPair:
+          - fix: 124
+            time: 2016-04-04T18:00:04Z
+            lat: 28.53636667
+            lng: -81.84635
+            alt: 54
+          - fix: 125
+            time: 2016-04-04T18:00:05Z
+            lat: 28.53663333
+            lng: -81.8462
+            alt: 58
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1557.4548485662158
+          time: 2016-04-04T18:24:27.454848566215Z
+          lat: 28.51430451
+          lng: -81.82456361
+          alt: 1380.09
+        cross:
+          crossingPair:
+          - fix: 1557
+            time: 2016-04-04T18:24:27Z
+            lat: 28.51435
+            lng: -81.82461667
+            alt: 1381
+          - fix: 1558
+            time: 2016-04-04T18:24:28Z
+            lat: 28.51425
+            lng: -81.8245
+            alt: 1379
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2009.0304027070213
+          time: 2016-04-04T18:32:09.030402707021Z
+          lat: 28.48546363
+          lng: -81.78619544
+          alt: 1238.94
+        cross:
+          crossingPair:
+          - fix: 2009
+            time: 2016-04-04T18:32:09Z
+            lat: 28.48546667
+            lng: -81.7862
+            alt: 1239
+          - fix: 2010
+            time: 2016-04-04T18:32:10Z
+            lat: 28.48536667
+            lng: -81.78605
+            alt: 1237
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3989.2511895635757
+          time: 2016-04-04T19:05:53.251189563575Z
+          lat: 28.47959574
+          lng: -81.90327101
+          alt: 485.5
+        cross:
+          crossingPair:
+          - fix: 3989
+            time: 2016-04-04T19:05:53Z
+            lat: 28.47961667
+            lng: -81.90323333
+            alt: 486
+          - fix: 3990
+            time: 2016-04-04T19:05:54Z
+            lat: 28.47953333
+            lng: -81.90338333
+            alt: 484
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '205'
+      - Kelly Myrkle
+    - zonesTag:
+      - inter:
+          fixFrac: 14.515943635898573
+          time: 2016-04-04T17:35:40.57971817949Z
+          lat: 28.53658749
+          lng: -81.84727739
+          alt: 107.96
+        cross:
+          crossingPair:
+          - fix: 14
+            time: 2016-04-04T17:35:38Z
+            lat: 28.53618333
+            lng: -81.8472
+            alt: 93
+          - fix: 15
+            time: 2016-04-04T17:35:43Z
+            lat: 28.53696667
+            lng: -81.84735
+            alt: 122
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 362.6068398926322
+          time: 2016-04-04T18:04:41.03419946316Z
+          lat: 28.52562521
+          lng: -81.81714074
+          alt: 1415.68
+        cross:
+          crossingPair:
+          - fix: 362
+            time: 2016-04-04T18:04:38Z
+            lat: 28.52605
+            lng: -81.81766667
+            alt: 1426
+          - fix: 363
+            time: 2016-04-04T18:04:43Z
+            lat: 28.52535
+            lng: -81.8168
+            alt: 1409
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 468.38391677790753
+          time: 2016-04-04T18:13:29.919583889535Z
+          lat: 28.48638989
+          lng: -81.78598528
+          alt: 922.16
+        cross:
+          crossingPair:
+          - fix: 468
+            time: 2016-04-04T18:13:28Z
+            lat: 28.48646667
+            lng: -81.78635
+            alt: 926
+          - fix: 469
+            time: 2016-04-04T18:13:33Z
+            lat: 28.48626667
+            lng: -81.7854
+            alt: 916
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1014.720758701683
+          time: 2016-04-04T18:59:01.60379350841Z
+          lat: 28.48026679
+          lng: -81.9101461
+          alt: 445.79
+        cross:
+          crossingPair:
+          - fix: 1014
+            time: 2016-04-04T18:58:58Z
+            lat: 28.48078333
+            lng: -81.91005
+            alt: 453
+          - fix: 1015
+            time: 2016-04-04T18:59:03Z
+            lat: 28.48006667
+            lng: -81.91018333
+            alt: 443
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '206'
+      - Michael Duffy
+    - zonesTag:
+      - inter:
+          fixFrac: 15.59812722434317
+          time: 2016-04-04T17:55:20.990636121715Z
+          lat: 28.53661869
+          lng: -81.84638707
+          alt: 50.37
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-04T17:55:18Z
+            lat: 28.5362
+            lng: -81.84651667
+            alt: 42
+          - fix: 16
+            time: 2016-04-04T17:55:23Z
+            lat: 28.5369
+            lng: -81.8463
+            alt: 56
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '202'
+      - Nick Jones
+    - zonesTag:
+      - inter:
+          fixFrac: 28.86007464370453
+          time: 2016-04-04T17:30:31.860074643704Z
+          lat: 28.53656934
+          lng: -81.845938
+          alt: 71.72
+        cross:
+          crossingPair:
+          - fix: 28
+            time: 2016-04-04T17:30:31Z
+            lat: 28.53648333
+            lng: -81.84596667
+            alt: 70
+          - fix: 29
+            time: 2016-04-04T17:30:32Z
+            lat: 28.53658333
+            lng: -81.84593333
+            alt: 72
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1240.2612732057523
+          time: 2016-04-04T17:50:43.261273205752Z
+          lat: 28.52153979
+          lng: -81.81888618
+          alt: 1163.78
+        cross:
+          crossingPair:
+          - fix: 1240
+            time: 2016-04-04T17:50:43Z
+            lat: 28.52158333
+            lng: -81.81891667
+            alt: 1163
+          - fix: 1241
+            time: 2016-04-04T17:50:44Z
+            lat: 28.52141667
+            lng: -81.8188
+            alt: 1166
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3357.933454524632
+          time: 2016-04-04T18:26:00.933454524631Z
+          lat: 28.48355444
+          lng: -81.78627776
+          alt: 1077.93
+        cross:
+          crossingPair:
+          - fix: 3357
+            time: 2016-04-04T18:26:00Z
+            lat: 28.48361667
+            lng: -81.78643333
+            alt: 1077
+          - fix: 3358
+            time: 2016-04-04T18:26:01Z
+            lat: 28.48355
+            lng: -81.78626667
+            alt: 1078
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 6510.362560534349
+          time: 2016-04-04T19:18:33.362560534348Z
+          lat: 28.48001209
+          lng: -81.9035423
+          alt: 954.64
+        cross:
+          crossingPair:
+          - fix: 6510
+            time: 2016-04-04T19:18:33Z
+            lat: 28.48
+            lng: -81.9035
+            alt: 955
+          - fix: 6511
+            time: 2016-04-04T19:18:34Z
+            lat: 28.48003333
+            lng: -81.90361667
+            alt: 954
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '201'
+      - Niki Longshore
+    - zonesTag:
+      - inter:
+          fixFrac: 13.68295982767287
+          time: 2016-04-04T17:52:31.82959827672Z
+          lat: 28.53662728
+          lng: -81.84667724
+          alt: 130.59
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-04T17:52:25Z
+            lat: 28.53571667
+            lng: -81.8467
+            alt: 106
+          - fix: 14
+            time: 2016-04-04T17:52:35Z
+            lat: 28.53705
+            lng: -81.84666667
+            alt: 142
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 185.19883793650646
+          time: 2016-04-04T18:21:42.98837936506Z
+          lat: 28.51594121
+          lng: -81.82290799
+          alt: 1397.61
+        cross:
+          crossingPair:
+          - fix: 185
+            time: 2016-04-04T18:21:41Z
+            lat: 28.51615
+            lng: -81.82313333
+            alt: 1400
+          - fix: 186
+            time: 2016-04-04T18:21:51Z
+            lat: 28.5151
+            lng: -81.822
+            alt: 1388
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 247.93994307226004
+          time: 2016-04-04T18:32:24.3994307226Z
+          lat: 28.47913769
+          lng: -81.78454975
+          alt: 1302.72
+        cross:
+          crossingPair:
+          - fix: 247
+            time: 2016-04-04T18:32:15Z
+            lat: 28.47946667
+            lng: -81.78585
+            alt: 1314
+          - fix: 248
+            time: 2016-04-04T18:32:25Z
+            lat: 28.47911667
+            lng: -81.78446667
+            alt: 1302
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 654.8650069003603
+          time: 2016-04-04T19:41:36.92005520288Z
+          lat: 28.47980317
+          lng: -81.90339568
+          alt: 807.16
+        cross:
+          crossingPair:
+          - fix: 654
+            time: 2016-04-04T19:41:30Z
+            lat: 28.47971667
+            lng: -81.9023
+            alt: 821
+          - fix: 655
+            time: 2016-04-04T19:41:38Z
+            lat: 28.47981667
+            lng: -81.90356667
+            alt: 805
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1063.999524494921
+          time: 2016-04-04T20:50:54.997146969526Z
+          lat: 28.57951647
+          lng: -81.95698306
+          alt: 963.01
+        cross:
+          crossingPair:
+          - fix: 1063
+            time: 2016-04-04T20:50:49Z
+            lat: 28.5791
+            lng: -81.95641667
+            alt: 980
+          - fix: 1064
+            time: 2016-04-04T20:50:55Z
+            lat: 28.57951667
+            lng: -81.95698333
+            alt: 963
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1163.9622567172687
+          time: 2016-04-04T21:07:40.773540303608Z
+          lat: 28.53430661
+          lng: -81.85049812
+          alt: 390.75
+        cross:
+          crossingPair:
+          - fix: 1163
+            time: 2016-04-04T21:07:35Z
+            lat: 28.5349
+            lng: -81.85215
+            alt: 410
+          - fix: 1164
+            time: 2016-04-04T21:07:41Z
+            lat: 28.53428333
+            lng: -81.85043333
+            alt: 390
+          inZone:
+          - false
+          - true
+  - - - '204'
+      - Owen MB
+    - zonesTag:
+      - inter:
+          fixFrac: 15.640492174245118
+          time: 2016-04-04T17:32:14.202460871225Z
+          lat: 28.536627
+          lng: -81.8467219
+          alt: 54.69
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-04T17:32:11Z
+            lat: 28.5362
+            lng: -81.84685
+            alt: 47
+          - fix: 16
+            time: 2016-04-04T17:32:16Z
+            lat: 28.53686667
+            lng: -81.84665
+            alt: 59
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 254.34380248912598
+          time: 2016-04-04T17:52:07.719012445625Z
+          lat: 28.52401039
+          lng: -81.81772861
+          alt: 1287.97
+        cross:
+          crossingPair:
+          - fix: 254
+            time: 2016-04-04T17:52:06Z
+            lat: 28.52421667
+            lng: -81.81788333
+            alt: 1289
+          - fix: 255
+            time: 2016-04-04T17:52:11Z
+            lat: 28.52361667
+            lng: -81.81743333
+            alt: 1286
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 465.36166818693346
+          time: 2016-04-04T18:09:38.361668186933Z
+          lat: 28.49020781
+          lng: -81.78365319
+          alt: 988.28
+        cross:
+          crossingPair:
+          - fix: 465
+            time: 2016-04-04T18:09:38Z
+            lat: 28.49025
+            lng: -81.78368333
+            alt: 989
+          - fix: 466
+            time: 2016-04-04T18:09:39Z
+            lat: 28.49013333
+            lng: -81.7836
+            alt: 987
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1204.5148049741042
+          time: 2016-04-04T19:10:37.514804974104Z
+          lat: 28.47918284
+          lng: -81.90307722
+          alt: 900.97
+        cross:
+          crossingPair:
+          - fix: 1204
+            time: 2016-04-04T19:10:37Z
+            lat: 28.4792
+            lng: -81.903
+            alt: 902
+          - fix: 1205
+            time: 2016-04-04T19:10:38Z
+            lat: 28.47916667
+            lng: -81.90315
+            alt: 900
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '210'
+      - Pete Wall
+    - zonesTag:
+      - inter:
+          fixFrac: 15.101096339079861
+          time: 2016-04-04T17:58:20.505481695395Z
+          lat: 28.53643407
+          lng: -81.84534608
+          alt: 64.31
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-04T17:58:20Z
+            lat: 28.53636667
+            lng: -81.8454
+            alt: 63
+          - fix: 16
+            time: 2016-04-04T17:58:25Z
+            lat: 28.53703333
+            lng: -81.84486667
+            alt: 76
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 401.43296999449086
+          time: 2016-04-04T18:30:32.16484997245Z
+          lat: 28.51247527
+          lng: -81.82678009
+          alt: 1339.54
+        cross:
+          crossingPair:
+          - fix: 401
+            time: 2016-04-04T18:30:30Z
+            lat: 28.5128
+            lng: -81.82686667
+            alt: 1343
+          - fix: 402
+            time: 2016-04-04T18:30:35Z
+            lat: 28.51205
+            lng: -81.82666667
+            alt: 1335
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1157.261772726949
+          time: 2016-04-04T19:32:46.261772726948Z
+          lat: 28.48295515
+          lng: -81.78620794
+          alt: 1195.26
+        cross:
+          crossingPair:
+          - fix: 1157
+            time: 2016-04-04T19:32:46Z
+            lat: 28.48293333
+            lng: -81.78621667
+            alt: 1195
+          - fix: 1158
+            time: 2016-04-04T19:32:47Z
+            lat: 28.48301667
+            lng: -81.78618333
+            alt: 1196
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+  - - - '214'
+      - Richard Elder
+    - zonesTag:
+      - inter:
+          fixFrac: 28.198166287499188
+          time: 2016-04-04T17:46:18.198166287499Z
+          lat: 28.53659309
+          lng: -81.84610676
+          alt: 129.99
+        cross:
+          crossingPair:
+          - fix: 28
+            time: 2016-04-04T17:46:18Z
+            lat: 28.53656667
+            lng: -81.84611667
+            alt: 129
+          - fix: 29
+            time: 2016-04-04T17:46:19Z
+            lat: 28.5367
+            lng: -81.84606667
+            alt: 134
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2372.4563465438187
+          time: 2016-04-04T18:25:22.456346543818Z
+          lat: 28.51358916
+          lng: -81.82537862
+          alt: 1369.54
+        cross:
+          crossingPair:
+          - fix: 2372
+            time: 2016-04-04T18:25:22Z
+            lat: 28.51365
+            lng: -81.82541667
+            alt: 1370
+          - fix: 2373
+            time: 2016-04-04T18:25:23Z
+            lat: 28.51351667
+            lng: -81.82533333
+            alt: 1369
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2880.0067790332755
+          time: 2016-04-04T18:33:50.006779033275Z
+          lat: 28.48579932
+          lng: -81.78613254
+          alt: 1087.99
+        cross:
+          crossingPair:
+          - fix: 2880
+            time: 2016-04-04T18:33:50Z
+            lat: 28.4858
+            lng: -81.78613333
+            alt: 1088
+          - fix: 2881
+            time: 2016-04-04T18:33:51Z
+            lat: 28.4857
+            lng: -81.78601667
+            alt: 1087
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 8437.938610929155
+          time: 2016-04-04T20:06:27.938610929155Z
+          lat: 28.47809796
+          lng: -81.90285848
+          alt: 1402.06
+        cross:
+          crossingPair:
+          - fix: 8437
+            time: 2016-04-04T20:06:27Z
+            lat: 28.47806667
+            lng: -81.90273333
+            alt: 1403
+          - fix: 8438
+            time: 2016-04-04T20:06:28Z
+            lat: 28.4781
+            lng: -81.90286667
+            alt: 1402
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 11951.329508584256
+          time: 2016-04-04T21:05:01.329508584256Z
+          lat: 28.58036098
+          lng: -81.95670511
+          alt: 625.01
+        cross:
+          crossingPair:
+          - fix: 11951
+            time: 2016-04-04T21:05:01Z
+            lat: 28.58035
+            lng: -81.95666667
+            alt: 626
+          - fix: 11952
+            time: 2016-04-04T21:05:02Z
+            lat: 28.58038333
+            lng: -81.95678333
+            alt: 623
+          inZone:
+          - false
+          - true
+      - null
+  - - - '217'
+      - Richard Westmoreland
+    - zonesTag:
+      - inter:
+          fixFrac: 13.123559618217527
+          time: 2016-04-04T18:01:03.23559618217Z
+          lat: 28.53660819
+          lng: -81.84709138
+          alt: 136.08
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-04T18:01:02Z
+            lat: 28.53641667
+            lng: -81.84706667
+            alt: 132
+          - fix: 14
+            time: 2016-04-04T18:01:12Z
+            lat: 28.53796667
+            lng: -81.84726667
+            alt: 165
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 136.58421592064502
+          time: 2016-04-04T18:22:04.84215920645Z
+          lat: 28.51568096
+          lng: -81.82315359
+          alt: 1228.07
+        cross:
+          crossingPair:
+          - fix: 136
+            time: 2016-04-04T18:21:59Z
+            lat: 28.51633333
+            lng: -81.82353333
+            alt: 1238
+          - fix: 137
+            time: 2016-04-04T18:22:09Z
+            lat: 28.51521667
+            lng: -81.82288333
+            alt: 1221
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 237.85061664963484
+          time: 2016-04-04T18:39:16.551849948902Z
+          lat: 28.4812776
+          lng: -81.78575802
+          alt: 1221.3
+        cross:
+          crossingPair:
+          - fix: 237
+            time: 2016-04-04T18:39:14Z
+            lat: 28.48115
+            lng: -81.78618333
+            alt: 1223
+          - fix: 238
+            time: 2016-04-04T18:39:17Z
+            lat: 28.4813
+            lng: -81.78568333
+            alt: 1221
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 693.9688018789811
+          time: 2016-04-04T19:56:52.750415031848Z
+          lat: 28.47503284
+          lng: -81.90466979
+          alt: 156.28
+        cross:
+          crossingPair:
+          - fix: 693
+            time: 2016-04-04T19:56:45Z
+            lat: 28.4745
+            lng: -81.90476667
+            alt: 165
+          - fix: 694
+            time: 2016-04-04T19:56:53Z
+            lat: 28.47505
+            lng: -81.90466667
+            alt: 156
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '208'
+      - Soraya Rios
+    - zonesTag:
+      - inter:
+          fixFrac: 6.301372302007691
+          time: 2016-04-04T18:27:18.01372302007Z
+          lat: 28.53478356
+          lng: -81.8502452
+          alt: 429.29
+        cross:
+          crossingPair:
+          - fix: 6
+            time: 2016-04-04T18:27:15Z
+            lat: 28.5351
+            lng: -81.85056667
+            alt: 410
+          - fix: 7
+            time: 2016-04-04T18:27:25Z
+            lat: 28.53405
+            lng: -81.8495
+            alt: 474
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 96.47662745182058
+          time: 2016-04-04T18:42:24.7662745182Z
+          lat: 28.50885187
+          lng: -81.83304488
+          alt: 963.09
+        cross:
+          crossingPair:
+          - fix: 96
+            time: 2016-04-04T18:42:20Z
+            lat: 28.5094
+            lng: -81.83345
+            alt: 965
+          - fix: 97
+            time: 2016-04-04T18:42:30Z
+            lat: 28.50825
+            lng: -81.8326
+            alt: 961
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+  - - - '213'
+      - Willie Van Caulart
+    - zonesTag:
+      - inter:
+          fixFrac: 15.059077473690278
+          time: 2016-04-04T17:45:22.29538736845Z
+          lat: 28.5366237
+          lng: -81.8464872
+          alt: 60.59
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-04T17:45:22Z
+            lat: 28.53658333
+            lng: -81.8465
+            alt: 60
+          - fix: 16
+            time: 2016-04-04T17:45:27Z
+            lat: 28.53726667
+            lng: -81.84628333
+            alt: 70
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 244.5669495220327
+          time: 2016-04-04T18:04:55.83474761016Z
+          lat: 28.51801258
+          lng: -81.82115931
+          alt: 1308.46
+        cross:
+          crossingPair:
+          - fix: 244
+            time: 2016-04-04T18:04:53Z
+            lat: 28.5184
+            lng: -81.82143333
+            alt: 1313
+          - fix: 245
+            time: 2016-04-04T18:04:58Z
+            lat: 28.51771667
+            lng: -81.82095
+            alt: 1305
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 487.8188502493544
+          time: 2016-04-04T18:25:43.275400997416Z
+          lat: 28.48716498
+          lng: -81.78571787
+          alt: 860.82
+        cross:
+          crossingPair:
+          - fix: 487
+            time: 2016-04-04T18:25:40Z
+            lat: 28.48738333
+            lng: -81.7861
+            alt: 860
+          - fix: 488
+            time: 2016-04-04T18:25:44Z
+            lat: 28.48711667
+            lng: -81.78563333
+            alt: 861
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+- - - - '207'
+      - Alex Skyride
+    - zonesTag:
+      - inter:
+          fixFrac: 11.333928236632708
+          time: 2016-04-05T18:39:07.001784709896Z
+          lat: 28.53643354
+          lng: -81.84534434
+          alt: 65.34
+        cross:
+          crossingPair:
+          - fix: 11
+            time: 2016-04-05T18:39:06Z
+            lat: 28.53631667
+            lng: -81.8454
+            alt: 63
+          - fix: 12
+            time: 2016-04-05T18:39:09Z
+            lat: 28.53666667
+            lng: -81.84523333
+            alt: 70
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 392.5238706980661
+          time: 2016-04-05T18:58:10.571612094198Z
+          lat: 28.50027377
+          lng: -81.81161111
+          alt: 962.05
+        cross:
+          crossingPair:
+          - fix: 392
+            time: 2016-04-05T18:58:09Z
+            lat: 28.50048333
+            lng: -81.81173333
+            alt: 961
+          - fix: 393
+            time: 2016-04-05T18:58:12Z
+            lat: 28.50008333
+            lng: -81.8115
+            alt: 963
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '203'
+      - Andrey Solomykin
+    - zonesTag:
+      - inter:
+          fixFrac: 1839.3806436249265
+          time: 2016-04-05T17:53:40.380643624926Z
+          lat: 28.53658408
+          lng: -81.84603731
+          alt: 103.52
+        cross:
+          crossingPair:
+          - fix: 1839
+            time: 2016-04-05T17:53:40Z
+            lat: 28.53653333
+            lng: -81.84605
+            alt: 102
+          - fix: 1840
+            time: 2016-04-05T17:53:41Z
+            lat: 28.53666667
+            lng: -81.84601667
+            alt: 106
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 4321.446059041541
+          time: 2016-04-05T18:35:02.44605904154Z
+          lat: 28.4895813
+          lng: -81.83348871
+          alt: 1696
+        cross:
+          crossingPair:
+          - fix: 4321
+            time: 2016-04-05T18:35:02Z
+            lat: 28.48963333
+            lng: -81.83353333
+            alt: 1696
+          - fix: 4322
+            time: 2016-04-05T18:35:03Z
+            lat: 28.48951667
+            lng: -81.83343333
+            alt: 1696
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 6672.110712146739
+          time: 2016-04-05T19:14:13.110712146739Z
+          lat: 28.35483155
+          lng: -81.68174816
+          alt: 1293
+        cross:
+          crossingPair:
+          - fix: 6672
+            time: 2016-04-05T19:14:13Z
+            lat: 28.35485
+            lng: -81.68175
+            alt: 1293
+          - fix: 6673
+            time: 2016-04-05T19:14:14Z
+            lat: 28.35468333
+            lng: -81.68173333
+            alt: 1293
+          inZone:
+          - false
+          - true
+      - null
+  - - - '215'
+      - Burke Schnedl
+    - zonesTag:
+      - inter:
+          fixFrac: 38.02769469343852
+          time: 2016-04-05T17:13:02.027694693438Z
+          lat: 28.53636944
+          lng: -81.84514769
+          alt: 99
+        cross:
+          crossingPair:
+          - fix: 38
+            time: 2016-04-05T17:13:02Z
+            lat: 28.53636667
+            lng: -81.84515
+            alt: 99
+          - fix: 39
+            time: 2016-04-05T17:13:03Z
+            lat: 28.53646667
+            lng: -81.84506667
+            alt: 99
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2180.9773617182705
+          time: 2016-04-05T17:48:44.97736171827Z
+          lat: 28.4908019
+          lng: -81.82908634
+          alt: 1269.02
+        cross:
+          crossingPair:
+          - fix: 2180
+            time: 2016-04-05T17:48:44Z
+            lat: 28.49088333
+            lng: -81.82921667
+            alt: 1270
+          - fix: 2181
+            time: 2016-04-05T17:48:45Z
+            lat: 28.4908
+            lng: -81.82908333
+            alt: 1269
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 5732.397846110067
+          time: 2016-04-05T18:47:56.397846110066Z
+          lat: 28.34627689
+          lng: -81.68595358
+          alt: 1347.2
+        cross:
+          crossingPair:
+          - fix: 5732
+            time: 2016-04-05T18:47:56Z
+            lat: 28.34631667
+            lng: -81.686
+            alt: 1348
+          - fix: 5733
+            time: 2016-04-05T18:47:57Z
+            lat: 28.34621667
+            lng: -81.68588333
+            alt: 1346
+          inZone:
+          - false
+          - true
+      - null
+  - - - '211'
+      - Dan Lukaszewicz
+    - zonesTag:
+      - inter:
+          fixFrac: 44.44299138054556
+          time: 2016-04-05T18:09:40.88598276109Z
+          lat: 28.53642003
+          lng: -81.84530022
+          alt: 74.1
+        cross:
+          crossingPair:
+          - fix: 44
+            time: 2016-04-05T18:09:40Z
+            lat: 28.53631667
+            lng: -81.84536667
+            alt: 71
+          - fix: 45
+            time: 2016-04-05T18:09:42Z
+            lat: 28.53655
+            lng: -81.84521667
+            alt: 78
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 779.4280309614264
+          time: 2016-04-05T18:34:10.856061922852Z
+          lat: 28.49023347
+          lng: -81.83096678
+          alt: 1685.57
+        cross:
+          crossingPair:
+          - fix: 779
+            time: 2016-04-05T18:34:10Z
+            lat: 28.49033333
+            lng: -81.83106667
+            alt: 1686
+          - fix: 780
+            time: 2016-04-05T18:34:12Z
+            lat: 28.4901
+            lng: -81.83083333
+            alt: 1685
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '212'
+      - Greg Sessa
+    - zonesTag:
+      - inter:
+          fixFrac: 10.676364219122506
+          time: 2016-04-05T18:05:28.029092657366Z
+          lat: 28.53652594
+          lng: -81.84570491
+          alt: 116.76
+        cross:
+          crossingPair:
+          - fix: 10
+            time: 2016-04-05T18:05:26Z
+            lat: 28.53626667
+            lng: -81.84575
+            alt: 110
+          - fix: 11
+            time: 2016-04-05T18:05:29Z
+            lat: 28.53665
+            lng: -81.84568333
+            alt: 120
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 573.7230961266673
+          time: 2016-04-05T18:34:08.892384506668Z
+          lat: 28.48989127
+          lng: -81.83223026
+          alt: 1583.83
+        cross:
+          crossingPair:
+          - fix: 573
+            time: 2016-04-05T18:34:06Z
+            lat: 28.49021667
+            lng: -81.83248333
+            alt: 1586
+          - fix: 574
+            time: 2016-04-05T18:34:10Z
+            lat: 28.48976667
+            lng: -81.83213333
+            alt: 1583
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '209'
+      - John Blank
+    - null
+  - - - '216'
+      - John Maloney
+    - zonesTag:
+      - inter:
+          fixFrac: 188.6090706249346
+          time: 2016-04-05T17:27:41.609070624934Z
+          lat: 28.53661091
+          lng: -81.8462797
+          alt: 83.61
+        cross:
+          crossingPair:
+          - fix: 188
+            time: 2016-04-05T17:27:41Z
+            lat: 28.53655
+            lng: -81.8463
+            alt: 83
+          - fix: 189
+            time: 2016-04-05T17:27:42Z
+            lat: 28.53665
+            lng: -81.84626667
+            alt: 84
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1707.8002948344122
+          time: 2016-04-05T17:53:31.800294834412Z
+          lat: 28.48806998
+          lng: -81.84582995
+          alt: 1333.4
+        cross:
+          crossingPair:
+          - fix: 1707
+            time: 2016-04-05T17:53:31Z
+            lat: 28.48815
+            lng: -81.84595
+            alt: 1335
+          - fix: 1708
+            time: 2016-04-05T17:53:32Z
+            lat: 28.48805
+            lng: -81.8458
+            alt: 1333
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 4714.486422648808
+          time: 2016-04-05T18:44:53.486422648808Z
+          lat: 28.34835992
+          lng: -81.68600181
+          alt: 1130.03
+        cross:
+          crossingPair:
+          - fix: 4714
+            time: 2016-04-05T18:44:53Z
+            lat: 28.34841667
+            lng: -81.68606667
+            alt: 1131
+          - fix: 4715
+            time: 2016-04-05T18:44:54Z
+            lat: 28.3483
+            lng: -81.68593333
+            alt: 1129
+          inZone:
+          - false
+          - true
+      - null
+  - - - '205'
+      - Kelly Myrkle
+    - zonesTag:
+      - inter:
+          fixFrac: 16.523905865821305
+          time: 2016-04-05T18:01:46.619529329105Z
+          lat: 28.53627782
+          lng: -81.8449095
+          alt: 85.91
+        cross:
+          crossingPair:
+          - fix: 16
+            time: 2016-04-05T18:01:44Z
+            lat: 28.53603333
+            lng: -81.84506667
+            alt: 77
+          - fix: 17
+            time: 2016-04-05T18:01:49Z
+            lat: 28.5365
+            lng: -81.84476667
+            alt: 94
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 415.83873624396
+          time: 2016-04-05T18:35:03.1936812198Z
+          lat: 28.49056881
+          lng: -81.82982901
+          alt: 1702.77
+        cross:
+          crossingPair:
+          - fix: 415
+            time: 2016-04-05T18:34:59Z
+            lat: 28.4911
+            lng: -81.8305
+            alt: 1712
+          - fix: 416
+            time: 2016-04-05T18:35:04Z
+            lat: 28.49046667
+            lng: -81.8297
+            alt: 1701
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1099.2836374048113
+          time: 2016-04-05T19:32:00.418187024055Z
+          lat: 28.34168709
+          lng: -81.68362685
+          alt: 1026.01
+        cross:
+          crossingPair:
+          - fix: 1099
+            time: 2016-04-05T19:31:59Z
+            lat: 28.34155
+            lng: -81.68371667
+            alt: 1028
+          - fix: 1100
+            time: 2016-04-05T19:32:04Z
+            lat: 28.34203333
+            lng: -81.6834
+            alt: 1021
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3194.766273076014
+          time: 2016-04-05T22:26:37.831365380065Z
+          lat: 27.59452421
+          lng: -81.52409373
+          alt: 52.1
+        cross:
+          crossingPair:
+          - fix: 3194
+            time: 2016-04-05T22:26:34Z
+            lat: 27.59515
+            lng: -81.5238
+            alt: 59
+          - fix: 3195
+            time: 2016-04-05T22:26:39Z
+            lat: 27.59433333
+            lng: -81.52418333
+            alt: 50
+          inZone:
+          - false
+          - true
+  - - - '206'
+      - Michael Duffy
+    - null
+  - - - '202'
+      - Nick Jones
+    - null
+  - - - '201'
+      - Niki Longshore
+    - zonesTag:
+      - inter:
+          fixFrac: 14.269716745711753
+          time: 2016-04-05T17:20:05.966884202821Z
+          lat: 28.53634987
+          lng: -81.84509322
+          alt: 115.95
+        cross:
+          crossingPair:
+          - fix: 14
+            time: 2016-04-05T17:20:03Z
+            lat: 28.53606667
+            lng: -81.8453
+            alt: 103
+          - fix: 15
+            time: 2016-04-05T17:20:14Z
+            lat: 28.53711667
+            lng: -81.84453333
+            alt: 151
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 177.43529883782966
+          time: 2016-04-05T17:47:58.35298837829Z
+          lat: 28.49074588
+          lng: -81.82926156
+          alt: 1235.65
+        cross:
+          crossingPair:
+          - fix: 177
+            time: 2016-04-05T17:47:54Z
+            lat: 28.49116667
+            lng: -81.8299
+            alt: 1240
+          - fix: 178
+            time: 2016-04-05T17:48:04Z
+            lat: 28.4902
+            lng: -81.82843333
+            alt: 1230
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 505.96712106204177
+          time: 2016-04-05T18:44:14.67121062041Z
+          lat: 28.3519184
+          lng: -81.68473045
+          alt: 1394.62
+        cross:
+          crossingPair:
+          - fix: 505
+            time: 2016-04-05T18:44:05Z
+            lat: 28.35295
+            lng: -81.68611667
+            alt: 1413
+          - fix: 506
+            time: 2016-04-05T18:44:15Z
+            lat: 28.35188333
+            lng: -81.68468333
+            alt: 1394
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1525.8924530597285
+          time: 2016-04-05T21:36:47.139624477824Z
+          lat: 27.59382242
+          lng: -81.53030072
+          alt: 363.78
+        cross:
+          crossingPair:
+          - fix: 1525
+            time: 2016-04-05T21:36:40Z
+            lat: 27.5947
+            lng: -81.53058333
+            alt: 362
+          - fix: 1526
+            time: 2016-04-05T21:36:48Z
+            lat: 27.59371667
+            lng: -81.53026667
+            alt: 364
+          inZone:
+          - false
+          - true
+  - - - '204'
+      - Owen MB
+    - zonesTag:
+      - inter:
+          fixFrac: 15.90556279781212
+          time: 2016-04-05T18:24:15.52781398906Z
+          lat: 28.53662667
+          lng: -81.84674592
+          alt: 78.21
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-05T18:24:11Z
+            lat: 28.53608333
+            lng: -81.84686667
+            alt: 61
+          - fix: 16
+            time: 2016-04-05T18:24:16Z
+            lat: 28.53668333
+            lng: -81.84673333
+            alt: 80
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 256.0016321385903
+          time: 2016-04-05T18:44:16.00816069295Z
+          lat: 28.49491575
+          lng: -81.81951741
+          alt: 1300.02
+        cross:
+          crossingPair:
+          - fix: 256
+            time: 2016-04-05T18:44:16Z
+            lat: 28.49491667
+            lng: -81.81951667
+            alt: 1300
+          - fix: 257
+            time: 2016-04-05T18:44:21Z
+            lat: 28.49435
+            lng: -81.81996667
+            alt: 1310
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '210'
+      - Pete Wall
+    - zonesTag:
+      - inter:
+          fixFrac: 16.74185803781503
+          time: 2016-04-05T17:26:56.709290189075Z
+          lat: 28.53645051
+          lng: -81.84540217
+          alt: 119.84
+        cross:
+          crossingPair:
+          - fix: 16
+            time: 2016-04-05T17:26:53Z
+            lat: 28.53611667
+            lng: -81.8456
+            alt: 105
+          - fix: 17
+            time: 2016-04-05T17:26:58Z
+            lat: 28.53656667
+            lng: -81.84533333
+            alt: 125
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 273.2276097836777
+          time: 2016-04-05T17:48:19.138048918385Z
+          lat: 28.48965815
+          lng: -81.83316493
+          alt: 961.72
+        cross:
+          crossingPair:
+          - fix: 273
+            time: 2016-04-05T17:48:18Z
+            lat: 28.48978333
+            lng: -81.83331667
+            alt: 964
+          - fix: 274
+            time: 2016-04-05T17:48:23Z
+            lat: 28.48923333
+            lng: -81.83265
+            alt: 954
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1036.7788685426674
+          time: 2016-04-05T18:51:48.778868542667Z
+          lat: 28.35648878
+          lng: -81.67550913
+          alt: 739.44
+        cross:
+          crossingPair:
+          - fix: 1036
+            time: 2016-04-05T18:51:48Z
+            lat: 28.35656667
+            lng: -81.6756
+            alt: 741
+          - fix: 1037
+            time: 2016-04-05T18:51:49Z
+            lat: 28.35646667
+            lng: -81.67548333
+            alt: 739
+          inZone:
+          - false
+          - true
+      - null
+  - - - '214'
+      - Richard Elder
+    - null
+  - - - '217'
+      - Richard Westmoreland
+    - zonesTag:
+      - inter:
+          fixFrac: 5.631671010021258
+          time: 2016-04-05T18:29:31.31671010021Z
+          lat: 28.53662728
+          lng: -81.84666311
+          alt: 108.58
+        cross:
+          crossingPair:
+          - fix: 5
+            time: 2016-04-05T18:29:25Z
+            lat: 28.53601667
+            lng: -81.847
+            alt: 101
+          - fix: 6
+            time: 2016-04-05T18:29:35Z
+            lat: 28.53698333
+            lng: -81.84646667
+            alt: 113
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 135.22494848746553
+          time: 2016-04-05T18:51:35.24948487465Z
+          lat: 28.488068
+          lng: -81.84598043
+          alt: 1350.33
+        cross:
+          crossingPair:
+          - fix: 135
+            time: 2016-04-05T18:51:33Z
+            lat: 28.48841667
+            lng: -81.84591667
+            alt: 1351
+          - fix: 136
+            time: 2016-04-05T18:51:43Z
+            lat: 28.48686667
+            lng: -81.8462
+            alt: 1348
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '208'
+      - Soraya Rios
+    - zonesTag:
+      - inter:
+          fixFrac: 10.159932133339634
+          time: 2016-04-05T17:22:17.59932133339Z
+          lat: 28.53662725
+          lng: -81.84668934
+          alt: 61.68
+        cross:
+          crossingPair:
+          - fix: 10
+            time: 2016-04-05T17:22:16Z
+            lat: 28.53641667
+            lng: -81.8467
+            alt: 58
+          - fix: 11
+            time: 2016-04-05T17:22:26Z
+            lat: 28.53773333
+            lng: -81.84663333
+            alt: 81
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 163.2706153252934
+          time: 2016-04-05T17:48:28.70615325293Z
+          lat: 28.48935942
+          lng: -81.83447526
+          alt: 811.69
+        cross:
+          crossingPair:
+          - fix: 163
+            time: 2016-04-05T17:48:26Z
+            lat: 28.4894
+            lng: -81.8348
+            alt: 819
+          - fix: 164
+            time: 2016-04-05T17:48:36Z
+            lat: 28.48925
+            lng: -81.8336
+            alt: 792
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '213'
+      - Willie Van Caulart
+    - zonesTag:
+      - inter:
+          fixFrac: 3.9426428562160956
+          time: 2016-04-05T17:15:00.221928542696Z
+          lat: 28.53655964
+          lng: -81.84587964
+          alt: 86.26
+        cross:
+          crossingPair:
+          - fix: 3
+            time: 2016-04-05T17:14:31Z
+            lat: 28.53288333
+            lng: -81.84636667
+            alt: -8
+          - fix: 4
+            time: 2016-04-05T17:15:02Z
+            lat: 28.53678333
+            lng: -81.84585
+            alt: 92
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+- - - - '207'
+      - Alex Skyride
+    - zonesTag:
+      - inter:
+          fixFrac: 15.65070151051174
+          time: 2016-04-06T19:17:21.952104531533Z
+          lat: 28.53206188
+          lng: -81.84272648
+          alt: 139.11
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-06T19:17:20Z
+            lat: 28.53186667
+            lng: -81.8429
+            alt: 130
+          - fix: 16
+            time: 2016-04-06T19:17:23Z
+            lat: 28.53216667
+            lng: -81.84263333
+            alt: 144
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+  - - - '203'
+      - Andrey Solomykin
+    - zonesTag:
+      - inter:
+          fixFrac: 631.7479947491321
+          time: 2016-04-06T18:07:21.747994749132Z
+          lat: 28.53287087
+          lng: -81.8425794
+          alt: 165.74
+        cross:
+          crossingPair:
+          - fix: 631
+            time: 2016-04-06T18:07:21Z
+            lat: 28.53288333
+            lng: -81.84266667
+            alt: 162
+          - fix: 632
+            time: 2016-04-06T18:07:22Z
+            lat: 28.53286667
+            lng: -81.84255
+            alt: 167
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2194.1601061197957
+          time: 2016-04-06T18:34:01.160106119795Z
+          lat: 28.57006067
+          lng: -81.87571002
+          alt: 1309.36
+        cross:
+          crossingPair:
+          - fix: 2194
+            time: 2016-04-06T18:34:01Z
+            lat: 28.57005
+            lng: -81.87568333
+            alt: 1310
+          - fix: 2195
+            time: 2016-04-06T18:34:02Z
+            lat: 28.57011667
+            lng: -81.87585
+            alt: 1306
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '215'
+      - Burke Schnedl
+    - null
+  - - - '211'
+      - Dan Lukaszewicz
+    - zonesTag:
+      - inter:
+          fixFrac: 51.706566080418426
+          time: 2016-04-06T18:20:12.413132160836Z
+          lat: 28.53461975
+          lng: -81.84299691
+          alt: 80.83
+        cross:
+          crossingPair:
+          - fix: 51
+            time: 2016-04-06T18:20:11Z
+            lat: 28.53446667
+            lng: -81.84315
+            alt: 78
+          - fix: 52
+            time: 2016-04-06T18:20:13Z
+            lat: 28.53468333
+            lng: -81.84293333
+            alt: 82
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 650.5844348869549
+          time: 2016-04-06T18:40:10.168869773908Z
+          lat: 28.56127512
+          lng: -81.88650044
+          alt: 647.75
+        cross:
+          crossingPair:
+          - fix: 650
+            time: 2016-04-06T18:40:09Z
+            lat: 28.56121667
+            lng: -81.88626667
+            alt: 646
+          - fix: 651
+            time: 2016-04-06T18:40:11Z
+            lat: 28.56131667
+            lng: -81.88666667
+            alt: 649
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '212'
+      - Greg Sessa
+    - zonesTag:
+      - inter:
+          fixFrac: 22.050344530515613
+          time: 2016-04-06T18:24:02.151033591545Z
+          lat: 28.53226499
+          lng: -81.84266907
+          alt: 187.3
+        cross:
+          crossingPair:
+          - fix: 22
+            time: 2016-04-06T18:24:02Z
+            lat: 28.53226667
+            lng: -81.84268333
+            alt: 187
+          - fix: 23
+            time: 2016-04-06T18:24:05Z
+            lat: 28.53223333
+            lng: -81.8424
+            alt: 193
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 307.41922740347474
+          time: 2016-04-06T18:38:36.257682210422Z
+          lat: 28.56719405
+          lng: -81.8799537
+          alt: 1097.58
+        cross:
+          crossingPair:
+          - fix: 307
+            time: 2016-04-06T18:38:35Z
+            lat: 28.56703333
+            lng: -81.8798
+            alt: 1098
+          - fix: 308
+            time: 2016-04-06T18:38:38Z
+            lat: 28.56741667
+            lng: -81.88016667
+            alt: 1097
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3763.8281719216047
+          time: 2016-04-06T21:32:26.828171921604Z
+          lat: 29.05623803
+          lng: -82.32443281
+          alt: 1110.69
+        cross:
+          crossingPair:
+          - fix: 3763
+            time: 2016-04-06T21:32:26Z
+            lat: 29.0561
+            lng: -82.32435
+            alt: 1114
+          - fix: 3764
+            time: 2016-04-06T21:32:27Z
+            lat: 29.05626667
+            lng: -82.32445
+            alt: 1110
+          inZone:
+          - false
+          - true
+      - null
+  - - - '216'
+      - John Maloney
+    - zonesTag:
+      - inter:
+          fixFrac: 44.03655069957781
+          time: 2016-04-06T17:45:24.036550699577Z
+          lat: 28.53178211
+          lng: -81.84282968
+          alt: 138.15
+        cross:
+          crossingPair:
+          - fix: 44
+            time: 2016-04-06T17:45:24Z
+            lat: 28.53178333
+            lng: -81.84283333
+            alt: 138
+          - fix: 45
+            time: 2016-04-06T17:45:25Z
+            lat: 28.53175
+            lng: -81.84273333
+            alt: 142
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1104.8458846046246
+          time: 2016-04-06T18:03:32.845884604624Z
+          lat: 28.56862945
+          lng: -81.87794356
+          alt: 574.77
+        cross:
+          crossingPair:
+          - fix: 1104
+            time: 2016-04-06T18:03:32Z
+            lat: 28.56851667
+            lng: -81.87781667
+            alt: 579
+          - fix: 1105
+            time: 2016-04-06T18:03:33Z
+            lat: 28.56865
+            lng: -81.87796667
+            alt: 574
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '205'
+      - Kelly Myrkle
+    - zonesTag:
+      - inter:
+          fixFrac: 17.32190460184301
+          time: 2016-04-06T18:49:34.609523009215Z
+          lat: 28.53081895
+          lng: -81.84344019
+          alt: 113.15
+        cross:
+          crossingPair:
+          - fix: 17
+            time: 2016-04-06T18:49:33Z
+            lat: 28.53088333
+            lng: -81.84363333
+            alt: 108
+          - fix: 18
+            time: 2016-04-06T18:49:38Z
+            lat: 28.53068333
+            lng: -81.84303333
+            alt: 124
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 183.1546395400963
+          time: 2016-04-06T19:03:23.77319770048Z
+          lat: 28.57195052
+          lng: -81.8723079
+          alt: 852.31
+        cross:
+          crossingPair:
+          - fix: 183
+            time: 2016-04-06T19:03:23Z
+            lat: 28.57185
+            lng: -81.87226667
+            alt: 852
+          - fix: 184
+            time: 2016-04-06T19:03:28Z
+            lat: 28.5725
+            lng: -81.87253333
+            alt: 854
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '206'
+      - Michael Duffy
+    - zonesTag:
+      - inter:
+          fixFrac: 17.745332812283824
+          time: 2016-04-06T17:36:34.726664061415Z
+          lat: 28.53469451
+          lng: -81.84304007
+          alt: 94.2
+        cross:
+          crossingPair:
+          - fix: 17
+            time: 2016-04-06T17:36:31Z
+            lat: 28.53448333
+            lng: -81.84345
+            alt: 86
+          - fix: 18
+            time: 2016-04-06T17:36:36Z
+            lat: 28.53476667
+            lng: -81.8429
+            alt: 97
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 231.78047474512314
+          time: 2016-04-06T17:54:24.902373725615Z
+          lat: 28.56824145
+          lng: -81.87850771
+          alt: 1113.98
+        cross:
+          crossingPair:
+          - fix: 231
+            time: 2016-04-06T17:54:21Z
+            lat: 28.56803333
+            lng: -81.87788333
+            alt: 1121
+          - fix: 232
+            time: 2016-04-06T17:54:26Z
+            lat: 28.5683
+            lng: -81.87868333
+            alt: 1112
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '202'
+      - Nick Jones
+    - zonesTag:
+      - inter:
+          fixFrac: 60.8319599412015
+          time: 2016-04-06T18:05:39.831959941201Z
+          lat: 28.53265812
+          lng: -81.84259733
+          alt: 101.66
+        cross:
+          crossingPair:
+          - fix: 60
+            time: 2016-04-06T18:05:39Z
+            lat: 28.53253333
+            lng: -81.84266667
+            alt: 100
+          - fix: 61
+            time: 2016-04-06T18:05:40Z
+            lat: 28.53268333
+            lng: -81.84258333
+            alt: 102
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1385.9277996634894
+          time: 2016-04-06T18:27:44.927799663489Z
+          lat: 28.56779278
+          lng: -81.87914037
+          alt: 500.14
+        cross:
+          crossingPair:
+          - fix: 1385
+            time: 2016-04-06T18:27:44Z
+            lat: 28.5677
+            lng: -81.87901667
+            alt: 502
+          - fix: 1386
+            time: 2016-04-06T18:27:45Z
+            lat: 28.5678
+            lng: -81.87915
+            alt: 500
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '201'
+      - Niki Longshore
+    - zonesTag:
+      - inter:
+          fixFrac: 15.036857927666489
+          time: 2016-04-06T17:31:52.36857927666Z
+          lat: 28.5360837
+          lng: -81.84450569
+          alt: 128.88
+        cross:
+          crossingPair:
+          - fix: 15
+            time: 2016-04-06T17:31:52Z
+            lat: 28.53603333
+            lng: -81.84453333
+            alt: 128
+          - fix: 16
+            time: 2016-04-06T17:32:02Z
+            lat: 28.5374
+            lng: -81.84378333
+            alt: 152
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 157.46358224816868
+          time: 2016-04-06T17:56:05.099404729848Z
+          lat: 28.56301062
+          lng: -81.88482142
+          alt: 1233.26
+        cross:
+          crossingPair:
+          - fix: 157
+            time: 2016-04-06T17:56:00Z
+            lat: 28.56293333
+            lng: -81.88403333
+            alt: 1243
+          - fix: 158
+            time: 2016-04-06T17:56:11Z
+            lat: 28.5631
+            lng: -81.88573333
+            alt: 1222
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '204'
+      - Owen MB
+    - zonesTag:
+      - inter:
+          fixFrac: 19.565822546418136
+          time: 2016-04-06T18:51:53.82911273209Z
+          lat: 28.53243968
+          lng: -81.84263091
+          alt: 149.05
+        cross:
+          crossingPair:
+          - fix: 19
+            time: 2016-04-06T18:51:51Z
+            lat: 28.5326
+            lng: -81.84286667
+            alt: 140
+          - fix: 20
+            time: 2016-04-06T18:51:56Z
+            lat: 28.53231667
+            lng: -81.84245
+            alt: 156
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+  - - - '210'
+      - Pete Wall
+    - zonesTag:
+      - inter:
+          fixFrac: 19.740803883607295
+          time: 2016-04-06T17:40:35.704019418035Z
+          lat: 28.53144259
+          lng: -81.84299565
+          alt: 115.08
+        cross:
+          crossingPair:
+          - fix: 19
+            time: 2016-04-06T17:40:32Z
+            lat: 28.53151667
+            lng: -81.84331667
+            alt: 101
+          - fix: 20
+            time: 2016-04-06T17:40:37Z
+            lat: 28.53141667
+            lng: -81.84288333
+            alt: 120
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 182.0210904129708
+          time: 2016-04-06T17:54:07.10545206485Z
+          lat: 28.56905055
+          lng: -81.87731231
+          alt: 1161.77
+        cross:
+          crossingPair:
+          - fix: 182
+            time: 2016-04-06T17:54:07Z
+            lat: 28.56903333
+            lng: -81.8773
+            alt: 1162
+          - fix: 183
+            time: 2016-04-06T17:54:12Z
+            lat: 28.56985
+            lng: -81.87788333
+            alt: 1151
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '214'
+      - Richard Elder
+    - zonesTag:
+      - inter:
+          fixFrac: 1751.2405024063091
+          time: 2016-04-06T18:58:38.240502406309Z
+          lat: 28.53244473
+          lng: -81.84262996
+          alt: 169.96
+        cross:
+          crossingPair:
+          - fix: 1751
+            time: 2016-04-06T18:58:38Z
+            lat: 28.53241667
+            lng: -81.84265
+            alt: 169
+          - fix: 1752
+            time: 2016-04-06T18:58:39Z
+            lat: 28.53253333
+            lng: -81.84256667
+            alt: 173
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3048.798483416193
+          time: 2016-04-06T19:20:15.798483416192Z
+          lat: 28.56155647
+          lng: -81.88623979
+          alt: 1378.4
+        cross:
+          crossingPair:
+          - fix: 3048
+            time: 2016-04-06T19:20:15Z
+            lat: 28.56145
+            lng: -81.88613333
+            alt: 1380
+          - fix: 3049
+            time: 2016-04-06T19:20:16Z
+            lat: 28.56158333
+            lng: -81.88626667
+            alt: 1378
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '217'
+      - Richard Westmoreland
+    - zonesTag:
+      - inter:
+          fixFrac: 14.238697646089644
+          time: 2016-04-06T17:46:37.38697646089Z
+          lat: 28.5356859
+          lng: -81.84390829
+          alt: 101.44
+        cross:
+          crossingPair:
+          - fix: 14
+            time: 2016-04-06T17:46:35Z
+            lat: 28.5353
+            lng: -81.84408333
+            alt: 95
+          - fix: 15
+            time: 2016-04-06T17:46:45Z
+            lat: 28.53691667
+            lng: -81.84335
+            alt: 122
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+  - - - '208'
+      - Soraya Rios
+    - zonesTag:
+      - inter:
+          fixFrac: 12.723763944339503
+          time: 2016-04-06T17:39:20.961403387729Z
+          lat: 28.53218876
+          lng: -81.84268894
+          alt: 199.61
+        cross:
+          crossingPair:
+          - fix: 12
+            time: 2016-04-06T17:39:13Z
+            lat: 28.53268333
+            lng: -81.84353333
+            alt: 175
+          - fix: 13
+            time: 2016-04-06T17:39:24Z
+            lat: 28.532
+            lng: -81.84236667
+            alt: 209
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 104.09720063400326
+          time: 2016-04-06T17:54:54.97200634003Z
+          lat: 28.56890021
+          lng: -81.87754002
+          alt: 1158.32
+        cross:
+          crossingPair:
+          - fix: 104
+            time: 2016-04-06T17:54:54Z
+            lat: 28.56885
+            lng: -81.87736667
+            alt: 1159
+          - fix: 105
+            time: 2016-04-06T17:55:04Z
+            lat: 28.56936667
+            lng: -81.87915
+            alt: 1152
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '213'
+      - Willie Van Caulart
+    - zonesTag:
+      - inter:
+          fixFrac: 18.152664553588423
+          time: 2016-04-06T18:53:09.76332276794Z
+          lat: 28.53256641
+          lng: -81.84260954
+          alt: 132.68
+        cross:
+          crossingPair:
+          - fix: 18
+            time: 2016-04-06T18:53:09Z
+            lat: 28.53253333
+            lng: -81.84268333
+            alt: 131
+          - fix: 19
+            time: 2016-04-06T18:53:14Z
+            lat: 28.53275
+            lng: -81.8422
+            alt: 142
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 343.1116022823826
+          time: 2016-04-06T19:20:50.55801141191Z
+          lat: 28.56481146
+          lng: -81.88288339
+          alt: 1012.45
+        cross:
+          crossingPair:
+          - fix: 343
+            time: 2016-04-06T19:20:50Z
+            lat: 28.56473333
+            lng: -81.88286667
+            alt: 1012
+          - fix: 344
+            time: 2016-04-06T19:20:55Z
+            lat: 28.56543333
+            lng: -81.88301667
+            alt: 1016
+          inZone:
+          - true
+          - false
+      - null
+      - null
+- - - - '207'
+      - Alex Skyride
+    - null
+  - - - '203'
+      - Andrey Solomykin
+    - zonesTag:
+      - inter:
+          fixFrac: 230.05032983228065
+          time: 2016-04-09T18:20:59.05032983228Z
+          lat: 28.5364392
+          lng: -81.84536332
+          alt: 88.2
+        cross:
+          crossingPair:
+          - fix: 230
+            time: 2016-04-09T18:20:59Z
+            lat: 28.53643333
+            lng: -81.84536667
+            alt: 88
+          - fix: 231
+            time: 2016-04-09T18:21:00Z
+            lat: 28.53655
+            lng: -81.8453
+            alt: 92
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2417.507745574787
+          time: 2016-04-09T18:59:36.507745574787Z
+          lat: 28.48806408
+          lng: -81.84680873
+          alt: 1030.98
+        cross:
+          crossingPair:
+          - fix: 2417
+            time: 2016-04-09T18:59:36Z
+            lat: 28.48823333
+            lng: -81.84678333
+            alt: 1032
+          - fix: 2418
+            time: 2016-04-09T18:59:37Z
+            lat: 28.4879
+            lng: -81.84683333
+            alt: 1030
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 6283.516962299849
+          time: 2016-04-09T20:05:36.516962299848Z
+          lat: 28.26174774
+          lng: -81.82331723
+          alt: 748.48
+        cross:
+          crossingPair:
+          - fix: 6283
+            time: 2016-04-09T20:05:36Z
+            lat: 28.26181667
+            lng: -81.8233
+            alt: 749
+          - fix: 6284
+            time: 2016-04-09T20:05:37Z
+            lat: 28.26168333
+            lng: -81.82333333
+            alt: 748
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 7605.421466833338
+          time: 2016-04-09T20:28:06.421466833337Z
+          lat: 28.16461571
+          lng: -81.79417713
+          alt: 255.58
+        cross:
+          crossingPair:
+          - fix: 7605
+            time: 2016-04-09T20:28:06Z
+            lat: 28.1647
+            lng: -81.79423333
+            alt: 256
+          - fix: 7606
+            time: 2016-04-09T20:28:07Z
+            lat: 28.1645
+            lng: -81.7941
+            alt: 255
+          inZone:
+          - false
+          - true
+  - - - '211'
+      - Dan Lukaszewicz
+    - null
+  - - - '212'
+      - Greg Sessa
+    - zonesTag:
+      - inter:
+          fixFrac: 14.386741380601428
+          time: 2016-04-09T19:09:19.160224141803Z
+          lat: 28.53650736
+          lng: -81.84562155
+          alt: 93.03
+        cross:
+          crossingPair:
+          - fix: 14
+            time: 2016-04-09T19:09:18Z
+            lat: 28.53633333
+            lng: -81.84566667
+            alt: 88
+          - fix: 15
+            time: 2016-04-09T19:09:21Z
+            lat: 28.53678333
+            lng: -81.84555
+            alt: 101
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 566.5268236164374
+          time: 2016-04-09T19:37:30.580470849311Z
+          lat: 28.48922423
+          lng: -81.83512024
+          alt: 1028.84
+        cross:
+          crossingPair:
+          - fix: 566
+            time: 2016-04-09T19:37:29Z
+            lat: 28.48956667
+            lng: -81.83505
+            alt: 1032
+          - fix: 567
+            time: 2016-04-09T19:37:32Z
+            lat: 28.48891667
+            lng: -81.83518333
+            alt: 1026
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1721.8563761164758
+          time: 2016-04-09T20:36:26.569128349425Z
+          lat: 28.26085258
+          lng: -81.82805984
+          alt: 621.72
+        cross:
+          crossingPair:
+          - fix: 1721
+            time: 2016-04-09T20:36:24Z
+            lat: 28.26106667
+            lng: -81.82841667
+            alt: 626
+          - fix: 1722
+            time: 2016-04-09T20:36:27Z
+            lat: 28.26081667
+            lng: -81.828
+            alt: 621
+          inZone:
+          - false
+          - true
+      - null
+  - - - '216'
+      - John Maloney
+    - zonesTag:
+      - inter:
+          fixFrac: 125.17968692274287
+          time: 2016-04-09T18:49:13.179686922742Z
+          lat: 28.53662096
+          lng: -81.84642734
+          alt: 76.72
+        cross:
+          crossingPair:
+          - fix: 125
+            time: 2016-04-09T18:49:13Z
+            lat: 28.5366
+            lng: -81.84643333
+            alt: 76
+          - fix: 126
+            time: 2016-04-09T18:49:14Z
+            lat: 28.53671667
+            lng: -81.8464
+            alt: 80
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 2047.6335415760177
+          time: 2016-04-09T19:22:05.633541576017Z
+          lat: 28.48826108
+          lng: -81.84188333
+          alt: 785.47
+        cross:
+          crossingPair:
+          - fix: 2047
+            time: 2016-04-09T19:22:05Z
+            lat: 28.48836667
+            lng: -81.84188333
+            alt: 788
+          - fix: 2048
+            time: 2016-04-09T19:22:06Z
+            lat: 28.4882
+            lng: -81.84188333
+            alt: 784
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 5954.638935172348
+          time: 2016-04-09T20:28:46.638935172347Z
+          lat: 28.26193286
+          lng: -81.82610602
+          alt: 626.44
+        cross:
+          crossingPair:
+          - fix: 5954
+            time: 2016-04-09T20:28:46Z
+            lat: 28.26205
+            lng: -81.82611667
+            alt: 629
+          - fix: 5955
+            time: 2016-04-09T20:28:47Z
+            lat: 28.26186667
+            lng: -81.8261
+            alt: 625
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 7059.455267029734
+          time: 2016-04-09T20:47:35.455267029734Z
+          lat: 28.16217116
+          lng: -81.80124537
+          alt: 50.54
+        cross:
+          crossingPair:
+          - fix: 7059
+            time: 2016-04-09T20:47:35Z
+            lat: 28.16221667
+            lng: -81.80128333
+            alt: 51
+          - fix: 7060
+            time: 2016-04-09T20:47:36Z
+            lat: 28.16211667
+            lng: -81.8012
+            alt: 50
+          inZone:
+          - false
+          - true
+  - - - '205'
+      - Kelly Myrkle
+    - zonesTag:
+      - inter:
+          fixFrac: 14.46553233213994
+          time: 2016-04-09T19:02:11.327661660695Z
+          lat: 28.53648823
+          lng: -81.84554253
+          alt: 137.57
+        cross:
+          crossingPair:
+          - fix: 14
+            time: 2016-04-09T19:02:09Z
+            lat: 28.53621667
+            lng: -81.84566667
+            alt: 125
+          - fix: 15
+            time: 2016-04-09T19:02:14Z
+            lat: 28.5368
+            lng: -81.8454
+            alt: 152
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 356.47420084445673
+          time: 2016-04-09T19:30:41.37100422228Z
+          lat: 28.48806445
+          lng: -81.84691926
+          alt: 860.73
+        cross:
+          crossingPair:
+          - fix: 356
+            time: 2016-04-09T19:30:39Z
+            lat: 28.48848333
+            lng: -81.84696667
+            alt: 865
+          - fix: 357
+            time: 2016-04-09T19:30:44Z
+            lat: 28.4876
+            lng: -81.84686667
+            alt: 856
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1026.5605062637762
+          time: 2016-04-09T20:26:31.80253131888Z
+          lat: 28.26120032
+          lng: -81.82765913
+          alt: 659.24
+        cross:
+          crossingPair:
+          - fix: 1026
+            time: 2016-04-09T20:26:29Z
+            lat: 28.26158333
+            lng: -81.82788333
+            alt: 657
+          - fix: 1027
+            time: 2016-04-09T20:26:34Z
+            lat: 28.2609
+            lng: -81.82748333
+            alt: 661
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1312.595023685403
+          time: 2016-04-09T20:50:21.97511842701Z
+          lat: 28.16025056
+          lng: -81.80604056
+          alt: 355.6
+        cross:
+          crossingPair:
+          - fix: 1312
+            time: 2016-04-09T20:50:19Z
+            lat: 28.16071667
+            lng: -81.8061
+            alt: 355
+          - fix: 1313
+            time: 2016-04-09T20:50:24Z
+            lat: 28.15993333
+            lng: -81.806
+            alt: 356
+          inZone:
+          - false
+          - true
+  - - - '206'
+      - Michael Duffy
+    - zonesTag:
+      - inter:
+          fixFrac: 11.1419432042874
+          time: 2016-04-09T19:33:22.709716021435Z
+          lat: 28.53658764
+          lng: -81.84727623
+          alt: 107.7
+        cross:
+          crossingPair:
+          - fix: 11
+            time: 2016-04-09T19:33:22Z
+            lat: 28.53651667
+            lng: -81.84728333
+            alt: 105
+          - fix: 12
+            time: 2016-04-09T19:33:27Z
+            lat: 28.53701667
+            lng: -81.84723333
+            alt: 124
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 286.08506310881967
+          time: 2016-04-09T19:56:17.425315544095Z
+          lat: 28.48892662
+          lng: -81.83669435
+          alt: 1115.83
+        cross:
+          crossingPair:
+          - fix: 286
+            time: 2016-04-09T19:56:17Z
+            lat: 28.48898333
+            lng: -81.8367
+            alt: 1116
+          - fix: 287
+            time: 2016-04-09T19:56:22Z
+            lat: 28.48831667
+            lng: -81.83663333
+            alt: 1114
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '202'
+      - Nick Jones
+    - zonesTag:
+      - inter:
+          fixFrac: 39.613377855355544
+          time: 2016-04-09T18:24:55.613377855355Z
+          lat: 28.53655489
+          lng: -81.84585266
+          alt: 133.61
+        cross:
+          crossingPair:
+          - fix: 39
+            time: 2016-04-09T18:24:55Z
+            lat: 28.53648333
+            lng: -81.84588333
+            alt: 133
+          - fix: 40
+            time: 2016-04-09T18:24:56Z
+            lat: 28.5366
+            lng: -81.84583333
+            alt: 134
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1590.06175762644
+          time: 2016-04-09T18:50:46.06175762644Z
+          lat: 28.48842304
+          lng: -81.84021566
+          alt: 475.06
+        cross:
+          crossingPair:
+          - fix: 1590
+            time: 2016-04-09T18:50:46Z
+            lat: 28.48843333
+            lng: -81.84021667
+            alt: 475
+          - fix: 1591
+            time: 2016-04-09T18:50:47Z
+            lat: 28.48826667
+            lng: -81.8402
+            alt: 476
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 6129.4691257036475
+          time: 2016-04-09T20:06:25.469125703647Z
+          lat: 28.26173642
+          lng: -81.82671091
+          alt: 496.53
+        cross:
+          crossingPair:
+          - fix: 6129
+            time: 2016-04-09T20:06:25Z
+            lat: 28.26178333
+            lng: -81.82675
+            alt: 497
+          - fix: 6130
+            time: 2016-04-09T20:06:26Z
+            lat: 28.26168333
+            lng: -81.82666667
+            alt: 496
+          inZone:
+          - false
+          - true
+      - null
+  - - - '201'
+      - Niki Longshore
+    - zonesTag:
+      - inter:
+          fixFrac: 13.17638102923159
+          time: 2016-04-09T18:40:18.76381029231Z
+          lat: 28.53648814
+          lng: -81.84554217
+          alt: 149.82
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-09T18:40:17Z
+            lat: 28.5363
+            lng: -81.84558333
+            alt: 144
+          - fix: 14
+            time: 2016-04-09T18:40:27Z
+            lat: 28.53736667
+            lng: -81.84535
+            alt: 177
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 108.32608577621869
+          time: 2016-04-09T18:56:30.26085776218Z
+          lat: 28.48827319
+          lng: -81.84173879
+          alt: 891.85
+        cross:
+          crossingPair:
+          - fix: 108
+            time: 2016-04-09T18:56:27Z
+            lat: 28.48881667
+            lng: -81.84173333
+            alt: 900
+          - fix: 109
+            time: 2016-04-09T18:56:37Z
+            lat: 28.48715
+            lng: -81.84175
+            alt: 875
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 444.82067850485527
+          time: 2016-04-09T19:53:48.28271401942Z
+          lat: 28.26172299
+          lng: -81.82674357
+          alt: 842.03
+        cross:
+          crossingPair:
+          - fix: 444
+            time: 2016-04-09T19:53:45Z
+            lat: 28.26213333
+            lng: -81.82686667
+            alt: 833
+          - fix: 445
+            time: 2016-04-09T19:53:49Z
+            lat: 28.26163333
+            lng: -81.82671667
+            alt: 844
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 579.9782837486085
+          time: 2016-04-09T20:16:34.826269988864Z
+          lat: 28.15967641
+          lng: -81.80737494
+          alt: 707.09
+        cross:
+          crossingPair:
+          - fix: 579
+            time: 2016-04-09T20:16:27Z
+            lat: 28.16161667
+            lng: -81.80775
+            alt: 711
+          - fix: 580
+            time: 2016-04-09T20:16:35Z
+            lat: 28.15963333
+            lng: -81.80736667
+            alt: 707
+          inZone:
+          - false
+          - true
+  - - - '210'
+      - Pete Wall
+    - zonesTag:
+      - inter:
+          fixFrac: 16.89561628254684
+          time: 2016-04-09T19:36:21.47808141273Z
+          lat: 28.53649781
+          lng: -81.84558132
+          alt: 75.85
+        cross:
+          crossingPair:
+          - fix: 16
+            time: 2016-04-09T19:36:17Z
+            lat: 28.53605
+            lng: -81.84585
+            alt: 66
+          - fix: 17
+            time: 2016-04-09T19:36:22Z
+            lat: 28.53655
+            lng: -81.84555
+            alt: 77
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 265.43293729672
+          time: 2016-04-09T19:57:04.1646864836Z
+          lat: 28.48995021
+          lng: -81.83200416
+          alt: 1278.1
+        cross:
+          crossingPair:
+          - fix: 265
+            time: 2016-04-09T19:57:02Z
+            lat: 28.49016667
+            lng: -81.8323
+            alt: 1282
+          - fix: 266
+            time: 2016-04-09T19:57:07Z
+            lat: 28.48966667
+            lng: -81.83161667
+            alt: 1273
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '214'
+      - Richard Elder
+    - null
+  - - - '217'
+      - Richard Westmoreland
+    - zonesTag:
+      - inter:
+          fixFrac: 13.263428136168653
+          time: 2016-04-09T18:51:09.897709497848Z
+          lat: 28.53637051
+          lng: -81.84515073
+          alt: 100.59
+        cross:
+          crossingPair:
+          - fix: 13
+            time: 2016-04-09T18:51:07Z
+            lat: 28.53605
+            lng: -81.8453
+            alt: 94
+          - fix: 14
+            time: 2016-04-09T18:51:18Z
+            lat: 28.53726667
+            lng: -81.84473333
+            alt: 119
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 202.29888527059697
+          time: 2016-04-09T19:23:22.98885270596Z
+          lat: 28.4882053
+          lng: -81.84261532
+          alt: 592.84
+        cross:
+          crossingPair:
+          - fix: 202
+            time: 2016-04-09T19:23:20Z
+            lat: 28.48873333
+            lng: -81.8427
+            alt: 603
+          - fix: 203
+            time: 2016-04-09T19:23:30Z
+            lat: 28.48696667
+            lng: -81.84241667
+            alt: 569
+          inZone:
+          - true
+          - false
+      - null
+      - null
+  - - - '208'
+      - Soraya Rios
+    - zonesTag:
+      - inter:
+          fixFrac: 11.842964964344084
+          time: 2016-04-09T19:44:37.42964964344Z
+          lat: 28.53657534
+          lng: -81.84736336
+          alt: 143.13
+        cross:
+          crossingPair:
+          - fix: 11
+            time: 2016-04-09T19:44:29Z
+            lat: 28.53581667
+            lng: -81.84716667
+            alt: 117
+          - fix: 12
+            time: 2016-04-09T19:44:39Z
+            lat: 28.53671667
+            lng: -81.8474
+            alt: 148
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 96.33951191075772
+          time: 2016-04-09T19:58:59.39511910757Z
+          lat: 28.48850205
+          lng: -81.83954404
+          alt: 799.55
+        cross:
+          crossingPair:
+          - fix: 96
+            time: 2016-04-09T19:58:56Z
+            lat: 28.489
+            lng: -81.83956667
+            alt: 806
+          - fix: 97
+            time: 2016-04-09T19:59:06Z
+            lat: 28.48753333
+            lng: -81.8395
+            alt: 787
+          inZone:
+          - true
+          - false
+      - null
+      - null

@@ -1,0 +1,287 @@
+bestEffort:
+- 34.257879 km
+- 42.669131 km
+- 110.549326 km
+- 85.219931 km
+- 40.966081 km
+land:
+- - - - '202'
+      - Nick Jones
+    - togo: 7.997239 km
+      made: 26.260640 km
+  - - - '205'
+      - Kelly Myrkle
+    - togo: 14.779949 km
+      made: 19.477930 km
+  - - - '214'
+      - Richard Elder
+    - togo: 17.221147 km
+      made: 17.036732 km
+  - - - '201'
+      - Niki Longshore
+    - togo: 17.230985 km
+      made: 17.026894 km
+  - - - '216'
+      - John Maloney
+    - togo: 18.958183 km
+      made: 15.299696 km
+  - - - '209'
+      - John Blank
+    - togo: 21.871113 km
+      made: 12.386766 km
+  - - - '212'
+      - Greg Sessa
+    - togo: 23.348887 km
+      made: 10.908992 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - togo: 25.529774 km
+      made: 8.728105 km
+  - - - '204'
+      - Owen MB
+    - togo: 25.627696 km
+      made: 8.630183 km
+  - - - '217'
+      - Richard Westmoreland
+    - togo: 25.629135 km
+      made: 8.628744 km
+  - - - '207'
+      - Alex Skyride
+    - togo: 27.206140 km
+      made: 7.051739 km
+  - - - '208'
+      - Soraya Rios
+    - togo: 30.727784 km
+      made: 3.530095 km
+  - - - '213'
+      - Willie Van Caulart
+    - togo: 30.878190 km
+      made: 3.379689 km
+  - - - '210'
+      - Pete Wall
+    - togo: 33.957535 km
+      made: 0.300344 km
+  - - - '206'
+      - Michael Duffy
+    - togo: 34.758825 km
+      made: -0.500946 km
+- - - - '214'
+      - Richard Elder
+    - togo: 6.112872 km
+      made: 36.556259 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - togo: 17.066966 km
+      made: 25.602165 km
+  - - - '202'
+      - Nick Jones
+    - togo: 20.079779 km
+      made: 22.589352 km
+  - - - '212'
+      - Greg Sessa
+    - togo: 20.136115 km
+      made: 22.533016 km
+  - - - '204'
+      - Owen MB
+    - togo: 20.167564 km
+      made: 22.501567 km
+  - - - '203'
+      - Andrey Solomykin
+    - togo: 21.582925 km
+      made: 21.086206 km
+  - - - '207'
+      - Alex Skyride
+    - togo: 22.605728 km
+      made: 20.063403 km
+  - - - '205'
+      - Kelly Myrkle
+    - togo: 23.453867 km
+      made: 19.215264 km
+  - - - '217'
+      - Richard Westmoreland
+    - togo: 24.041442 km
+      made: 18.627689 km
+  - - - '216'
+      - John Maloney
+    - togo: 24.062220 km
+      made: 18.606911 km
+  - - - '210'
+      - Pete Wall
+    - togo: 24.276197 km
+      made: 18.392934 km
+  - - - '213'
+      - Willie Van Caulart
+    - togo: 30.602258 km
+      made: 12.066873 km
+  - - - '209'
+      - John Blank
+    - togo: 36.584924 km
+      made: 6.084207 km
+  - - - '208'
+      - Soraya Rios
+    - togo: 36.587590 km
+      made: 6.081541 km
+  - - - '206'
+      - Michael Duffy
+    - togo: 43.259821 km
+      made: -0.590690 km
+  - - - '215'
+      - Burke Schnedl
+    - togo: 53.027834 km
+      made: -10.358703 km
+- - - - '203'
+      - Andrey Solomykin
+    - togo: 1.181751 km
+      made: 109.367575 km
+  - - - '216'
+      - John Maloney
+    - togo: 22.181935 km
+      made: 88.367391 km
+  - - - '215'
+      - Burke Schnedl
+    - togo: 22.362805 km
+      made: 88.186521 km
+  - - - '210'
+      - Pete Wall
+    - togo: 65.641333 km
+      made: 44.907993 km
+  - - - '204'
+      - Owen MB
+    - togo: 86.458001 km
+      made: 24.091325 km
+  - - - '207'
+      - Alex Skyride
+    - togo: 87.993829 km
+      made: 22.555497 km
+  - - - '212'
+      - Greg Sessa
+    - togo: 94.731495 km
+      made: 15.817831 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - togo: 94.844124 km
+      made: 15.705202 km
+  - - - '217'
+      - Richard Westmoreland
+    - togo: 99.557806 km
+      made: 10.991520 km
+  - - - '208'
+      - Soraya Rios
+    - togo: 101.545980 km
+      made: 9.003346 km
+  - - - '209'
+      - John Blank
+    - togo: 105.549221 km
+      made: 5.000105 km
+  - - - '206'
+      - Michael Duffy
+    - togo: 105.549221 km
+      made: 5.000105 km
+  - - - '202'
+      - Nick Jones
+    - togo: 105.549221 km
+      made: 5.000105 km
+  - - - '214'
+      - Richard Elder
+    - togo: 105.549221 km
+      made: 5.000105 km
+  - - - '213'
+      - Willie Van Caulart
+    - togo: 111.008522 km
+      made: -0.459196 km
+- - - - '212'
+      - Greg Sessa
+    - togo: 23.150817 km
+      made: 85.118114 km
+  - - - '205'
+      - Kelly Myrkle
+    - togo: 38.214892 km
+      made: 70.054039 km
+  - - - '208'
+      - Soraya Rios
+    - togo: 60.544344 km
+      made: 47.724587 km
+  - - - '203'
+      - Andrey Solomykin
+    - togo: 63.221903 km
+      made: 45.047028 km
+  - - - '214'
+      - Richard Elder
+    - togo: 71.869732 km
+      made: 36.399199 km
+  - - - '202'
+      - Nick Jones
+    - togo: 73.007561 km
+      made: 35.261370 km
+  - - - '201'
+      - Niki Longshore
+    - togo: 81.191345 km
+      made: 27.077586 km
+  - - - '213'
+      - Willie Van Caulart
+    - togo: 89.148209 km
+      made: 19.120722 km
+  - - - '210'
+      - Pete Wall
+    - togo: 90.259719 km
+      made: 18.009212 km
+  - - - '206'
+      - Michael Duffy
+    - togo: 97.067024 km
+      made: 11.201907 km
+  - - - '216'
+      - John Maloney
+    - togo: 100.135325 km
+      made: 8.133606 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - togo: 102.797765 km
+      made: 5.471166 km
+  - - - '204'
+      - Owen MB
+    - togo: 107.443465 km
+      made: 0.825466 km
+  - - - '207'
+      - Alex Skyride
+    - togo: 108.607641 km
+      made: -0.338710 km
+  - - - '217'
+      - Richard Westmoreland
+    - togo: 108.611865 km
+      made: -0.342934 km
+- - - - '202'
+      - Nick Jones
+    - togo: 5.452685 km
+      made: 35.513396 km
+  - - - '212'
+      - Greg Sessa
+    - togo: 7.324008 km
+      made: 33.642073 km
+  - - - '217'
+      - Richard Westmoreland
+    - togo: 12.806882 km
+      made: 28.159199 km
+  - - - '210'
+      - Pete Wall
+    - togo: 28.027045 km
+      made: 12.939036 km
+  - - - '206'
+      - Michael Duffy
+    - togo: 30.250249 km
+      made: 10.715832 km
+  - - - '208'
+      - Soraya Rios
+    - togo: 32.257524 km
+      made: 8.708557 km
+  - - - '207'
+      - Alex Skyride
+    - togo: 35.960940 km
+      made: 5.005141 km
+  - - - '211'
+      - Dan Lukaszewicz
+    - togo: 35.960940 km
+      made: 5.005141 km
+  - - - '214'
+      - Richard Elder
+    - togo: 35.960940 km
+      made: 5.005141 km

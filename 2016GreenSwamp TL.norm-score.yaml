@@ -4,454 +4,874 @@ bestTime:
 - 2.684444 h
 - 3.011111 h
 - 1.108056 h
+validity:
+- distance: 1
+  time: 0.89744341
+  launch: 1
+  stop: 1
+  task: 0.89744341
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 0.91947778
+  launch: 1
+  stop: 1
+  task: 0.91947778
+validityWorkingDistance:
+- area: 15.4242
+  flying: 5
+  minimumDistance: 5.000 km
+  nominalDistance: 30.0 km
+  nominalGoal: 0.2
+  reachMax:
+    extra: 34.242000 km
+    flown: 34.242000 km
+  sum: 109.5 km
+- area: 16.2669
+  flying: 5
+  minimumDistance: 5.000 km
+  nominalDistance: 30.0 km
+  nominalGoal: 0.2
+  reachMax:
+    extra: 42.669000 km
+    flown: 42.669000 km
+  sum: 188.3 km
+- area: 23.0547
+  flying: 5
+  minimumDistance: 5.000 km
+  nominalDistance: 30.0 km
+  nominalGoal: 0.2
+  reachMax:
+    extra: 110.547000 km
+    flown: 110.547000 km
+  sum: 527.7 km
+- area: 22.8266
+  flying: 5
+  minimumDistance: 5.000 km
+  nominalDistance: 30.0 km
+  nominalGoal: 0.2
+  reachMax:
+    extra: 108.266000 km
+    flown: 108.266000 km
+  sum: 182.7 km
+- area: 16.0924
+  flying: 5
+  minimumDistance: 5.000 km
+  nominalDistance: 30.0 km
+  nominalGoal: 0.2
+  reachMax:
+    extra: 40.924000 km
+    flown: 40.924000 km
+  sum: 173.3 km
+validityWorkingLaunch:
+- flying: 5
+  nominalLaunch: 1
+  present: 5
+- flying: 5
+  nominalLaunch: 1
+  present: 5
+- flying: 5
+  nominalLaunch: 1
+  present: 5
+- flying: 5
+  nominalLaunch: 1
+  present: 5
+- flying: 5
+  nominalLaunch: 1
+  present: 5
+validityWorkingStop:
+- flying: 5
+  landed: 0
+  launchToEssDistance: 34.242 km
+  pilotsAtEss: 3
+  reachStats:
+    extra:
+      max: 34.243000 km
+      mean: 27.278800 km
+      stdDev: 10.809529 km
+    flown:
+      max: 34.243000 km
+      mean: 26.909800 km
+      stdDev: 11.059124 km
+  stillFlying: 5
+- flying: 5
+  landed: 0
+  launchToEssDistance: 42.669 km
+  pilotsAtEss: 5
+  reachStats:
+    extra:
+      max: 42.670000 km
+      mean: 42.670000 km
+      stdDev: 0.000000 km
+    flown:
+      max: 42.670000 km
+      mean: 42.670000 km
+      stdDev: 0.000000 km
+  stillFlying: 5
+- flying: 5
+  landed: 0
+  launchToEssDistance: 110.547 km
+  pilotsAtEss: 5
+  reachStats:
+    extra:
+      max: 110.548000 km
+      mean: 110.548000 km
+      stdDev: 0.000000 km
+    flown:
+      max: 110.548000 km
+      mean: 110.548000 km
+      stdDev: 0.000000 km
+  stillFlying: 5
+- flying: 5
+  landed: 0
+  launchToEssDistance: 108.266 km
+  pilotsAtEss: 1
+  reachStats:
+    extra:
+      max: 108.267000 km
+      mean: 43.232400 km
+      stdDev: 34.584982 km
+    flown:
+      max: 108.267000 km
+      mean: 41.549000 km
+      stdDev: 35.379361 km
+  stillFlying: 5
+- flying: 5
+  landed: 0
+  launchToEssDistance: 40.924 km
+  pilotsAtEss: 4
+  reachStats:
+    extra:
+      max: 40.925000 km
+      mean: 39.865400 km
+      stdDev: 2.119200 km
+    flown:
+      max: 40.925000 km
+      mean: 39.664400 km
+      stdDev: 2.521200 km
+  stillFlying: 5
+validityWorkingTime:
+- gsBestTime: 1.053056 h
+  nominalDistance: 30.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 34.242000 km
+    flown: 34.242000 km
+  ssBestTime: null
+- gsBestTime: 2.159444 h
+  nominalDistance: 30.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 42.669000 km
+    flown: 42.669000 km
+  ssBestTime: null
+- gsBestTime: 2.684444 h
+  nominalDistance: 30.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 110.547000 km
+    flown: 110.547000 km
+  ssBestTime: null
+- gsBestTime: 3.011111 h
+  nominalDistance: 30.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 108.266000 km
+    flown: 108.266000 km
+  ssBestTime: null
+- gsBestTime: 1.108056 h
+  nominalDistance: 30.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 40.924000 km
+    flown: 40.924000 km
+  ssBestTime: null
 score:
 - - - - '102'
       - Fausto Arcos
-    - place: '1'
+    - breakdown:
+        distance: 350.8
+        leading: 0
+        arrival: 0
+        time: 546.6
+        effort: 0
+        reach: 0
+      place: '1'
       total: 897
-      distance: 350.8
-      leading: 0
-      arrival: 0
-      time: 546.6
-      distanceMade: 34.242000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 34.243000 km
+        flown: 34.243000 km
+      landedMade: 34.242000 km
       ss: 2016-04-03T19:27:15Z
       es: 2016-04-03T20:30:26Z
       timeElapsed: 1.053056 h
-      timeFrac: 1
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '103'
       - Mick Howard
-    - place: '2'
+    - breakdown:
+        distance: 350.8
+        leading: 0
+        arrival: 0
+        time: 476.7
+        effort: 0
+        reach: 0
+      place: '2'
       total: 828
-      distance: 350.8
-      leading: 0
-      arrival: 0
-      time: 476.7
-      distanceMade: 34.242000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.87208964
+        effort: 0
+        reach: 0
+      reach:
+        extra: 34.243000 km
+        flown: 34.243000 km
+      landedMade: 34.242000 km
       ss: 2016-04-03T19:24:02Z
       es: 2016-04-03T20:30:02Z
       timeElapsed: 1.100000 h
-      timeFrac: 0.87208964
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
-    - place: '3'
+    - breakdown:
+        distance: 350.8
+        leading: 0
+        arrival: 0
+        time: 317.1
+        effort: 0
+        reach: 0
+      place: '3'
       total: 668
-      distance: 350.8
-      leading: 0
-      arrival: 0
-      time: 317.1
-      distanceMade: 34.242000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.58015214
+        effort: 0
+        reach: 0
+      reach:
+        extra: 34.243000 km
+        flown: 34.243000 km
+      landedMade: 34.242000 km
       ss: 2016-04-03T19:25:50Z
       es: 2016-04-03T20:45:46Z
       timeElapsed: 1.332222 h
-      timeFrac: 0.58015214
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '105'
       - Alan Arcos
-    - place: '4'
+    - breakdown:
+        distance: 309.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '4'
       total: 371
-      distance: 309.2
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 26.113000 km
-      distanceFrac: 0.7626014835582033
+      fractions:
+        distance: 0.88141391
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 27.332000 km
+        flown: 26.113000 km
+      landedMade: 25.722000 km
       ss: 2016-04-03T19:31:49Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
-    - place: '5'
+    - breakdown:
+        distance: 92.9
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
       total: 93
-      distance: 92.9
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 5.707000 km
-      distanceFrac: 0.16666666666666666
+      fractions:
+        distance: 0.26482326
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 6.333000 km
+        flown: 5.707000 km
+      landedMade: 5.386000 km
       ss: 2016-04-03T18:52:12Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
 - - - - '103'
       - Mick Howard
-    - place: '1'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 639
+        effort: 0
+        reach: 0
+      place: '1'
       total: 1000
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 639
-      distanceMade: 42.669000 km
-      distanceFrac: 1.0000000000000002
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 42.670000 km
+        flown: 42.670000 km
+      landedMade: 42.669000 km
       ss: 2016-04-04T18:33:32Z
       es: 2016-04-04T20:43:06Z
       timeElapsed: 2.159444 h
-      timeFrac: 1
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '105'
       - Alan Arcos
-    - place: '2'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 554.6
+        effort: 0
+        reach: 0
+      place: '2'
       total: 916
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 554.6
-      distanceMade: 42.669000 km
-      distanceFrac: 1.0000000000000002
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.86789879
+        effort: 0
+        reach: 0
+      reach:
+        extra: 42.670000 km
+        flown: 42.670000 km
+      landedMade: 42.669000 km
       ss: 2016-04-04T18:24:01Z
       es: 2016-04-04T20:37:49Z
       timeElapsed: 2.230000 h
-      timeFrac: 0.86789879
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '102'
       - Fausto Arcos
-    - place: '3'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 523.2
+        effort: 0
+        reach: 0
+      place: '3'
       total: 884
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 523.2
-      distanceMade: 42.669000 km
-      distanceFrac: 1.0000000000000002
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.81881409
+        effort: 0
+        reach: 0
+      reach:
+        extra: 42.670000 km
+        flown: 42.670000 km
+      landedMade: 42.669000 km
       ss: 2016-04-04T18:29:22Z
       es: 2016-04-04T20:45:44Z
       timeElapsed: 2.272778 h
-      timeFrac: 0.81881409
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
-    - place: '4'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 425.5
+        effort: 0
+        reach: 0
+      place: '4'
       total: 787
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 425.5
-      distanceMade: 42.669000 km
-      distanceFrac: 1.0000000000000002
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.66581657
+        effort: 0
+        reach: 0
+      reach:
+        extra: 42.670000 km
+        flown: 42.670000 km
+      landedMade: 42.669000 km
       ss: 2016-04-04T18:25:06Z
       es: 2016-04-04T20:51:42Z
       timeElapsed: 2.443333 h
-      timeFrac: 0.66581657
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
-    - place: '5'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 382.2
+        effort: 0
+        reach: 0
+      place: '5'
       total: 743
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 382.2
-      distanceMade: 42.669000 km
-      distanceFrac: 1.0000000000000002
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.59807571
+        effort: 0
+        reach: 0
+      reach:
+        extra: 42.670000 km
+        flown: 42.670000 km
+      landedMade: 42.669000 km
       ss: 2016-04-04T18:23:25Z
       es: 2016-04-04T20:55:27Z
       timeElapsed: 2.533889 h
-      timeFrac: 0.59807571
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
 - - - - '102'
       - Fausto Arcos
-    - place: '1'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 639
+        effort: 0
+        reach: 0
+      place: '1'
       total: 1000
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 639
-      distanceMade: 110.547000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 110.548000 km
+        flown: 110.548000 km
+      landedMade: 110.547000 km
       ss: 2016-04-05T18:28:53Z
       es: 2016-04-05T21:09:57Z
       timeElapsed: 2.684444 h
-      timeFrac: 1
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '103'
       - Mick Howard
-    - place: '2'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 436.8
+        effort: 0
+        reach: 0
+      place: '2'
       total: 798
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 436.8
-      distanceMade: 110.547000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.68354906
+        effort: 0
+        reach: 0
+      reach:
+        extra: 110.548000 km
+        flown: 110.548000 km
+      landedMade: 110.547000 km
       ss: 2016-04-05T18:10:04Z
       es: 2016-04-05T21:08:38Z
       timeElapsed: 2.976111 h
-      timeFrac: 0.68354906
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
-    - place: '3'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 422.7
+        effort: 0
+        reach: 0
+      place: '3'
       total: 784
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 422.7
-      distanceMade: 110.547000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.66142807
+        effort: 0
+        reach: 0
+      reach:
+        extra: 110.548000 km
+        flown: 110.548000 km
+      landedMade: 110.547000 km
       ss: 2016-04-05T18:33:43Z
       es: 2016-04-05T21:34:09Z
       timeElapsed: 3.007222 h
-      timeFrac: 0.66142807
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '105'
       - Alan Arcos
-    - place: '4'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 406
+        effort: 0
+        reach: 0
+      place: '4'
       total: 767
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 406
-      distanceMade: 110.547000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.63531355
+        effort: 0
+        reach: 0
+      reach:
+        extra: 110.548000 km
+        flown: 110.548000 km
+      landedMade: 110.547000 km
       ss: 2016-04-05T18:05:51Z
       es: 2016-04-05T21:08:34Z
       timeElapsed: 3.045278 h
-      timeFrac: 0.63531355
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
-    - place: '5'
+    - breakdown:
+        distance: 361
+        leading: 0
+        arrival: 0
+        time: 99
+        effort: 0
+        reach: 0
+      place: '5'
       total: 460
-      distance: 361
-      leading: 0
-      arrival: 0
-      time: 99
-      distanceMade: 110.547000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.15494771
+        effort: 0
+        reach: 0
+      reach:
+        extra: 110.548000 km
+        flown: 110.548000 km
+      landedMade: 110.547000 km
       ss: 2016-04-05T17:56:39Z
       es: 2016-04-05T21:54:05Z
       timeElapsed: 3.957222 h
-      timeFrac: 0.15494771
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
 - - - - '102'
       - Fausto Arcos
-    - place: '1'
+    - breakdown:
+        distance: 630.8
+        leading: 0
+        arrival: 0
+        time: 369.2
+        effort: 0
+        reach: 0
+      place: '1'
       total: 1000
-      distance: 630.8
-      leading: 0
-      arrival: 0
-      time: 369.2
-      distanceMade: 108.266000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 108.267000 km
+        flown: 108.267000 km
+      landedMade: 108.266000 km
       ss: 2016-04-06T18:13:28Z
       es: 2016-04-06T21:14:08Z
       timeElapsed: 3.011111 h
-      timeFrac: 1
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '103'
       - Mick Howard
-    - place: '2'
+    - breakdown:
+        distance: 447.9
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '2'
       total: 448
-      distance: 447.9
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 45.467000 km
-      distanceFrac: 0.4199564036724364
+      fractions:
+        distance: 0.71005073
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 46.812000 km
+        flown: 45.467000 km
+      landedMade: 45.109000 km
       ss: 2016-04-06T18:38:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '105'
       - Alan Arcos
-    - place: '3'
+    - breakdown:
+        distance: 310.1
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '3'
       total: 310
-      distance: 310.1
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 22.772000 km
-      distanceFrac: 0.21033380747418398
+      fractions:
+        distance: 0.49159797
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 25.625000 km
+        flown: 22.772000 km
+      landedMade: 21.719000 km
       ss: 2016-04-06T18:15:08Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
-    - place: '4'
+    - breakdown:
+        distance: 307.8
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '4'
       total: 308
-      distance: 307.8
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 22.497000 km
-      distanceFrac: 0.20779376720300002
+      fractions:
+        distance: 0.48795181
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 25.711000 km
+        flown: 22.497000 km
+      landedMade: 21.737000 km
       ss: 2016-04-06T18:15:22Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
-    - place: '5'
+    - breakdown:
+        distance: 137.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
       total: 137
-      distance: 137.3
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 8.742000 km
-      distanceFrac: 8.074557109341807e-2
+      fractions:
+        distance: 0.21766011
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 9.747000 km
+        flown: 8.742000 km
+      landedMade: 8.075000 km
       ss: 2016-04-06T18:03:13Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
 - - - - '105'
       - Alan Arcos
-    - place: '1'
+    - breakdown:
+        distance: 334.5
+        leading: 0
+        arrival: 0
+        time: 585
+        effort: 0
+        reach: 0
+      place: '1'
       total: 920
-      distance: 334.5
-      leading: 0
-      arrival: 0
-      time: 585
-      distanceMade: 40.924000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 40.925000 km
+        flown: 40.925000 km
+      landedMade: 40.924000 km
       ss: 2016-04-09T18:33:41Z
       es: 2016-04-09T19:40:10Z
       timeElapsed: 1.108056 h
-      timeFrac: 1
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '101'
       - Ken  Kinzie
-    - place: '2'
+    - breakdown:
+        distance: 334.5
+        leading: 0
+        arrival: 0
+        time: 571
+        effort: 0
+        reach: 0
+      place: '2'
       total: 906
-      distance: 334.5
-      leading: 0
-      arrival: 0
-      time: 571
-      distanceMade: 40.924000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.97610191
+        effort: 0
+        reach: 0
+      reach:
+        extra: 40.925000 km
+        flown: 40.925000 km
+      landedMade: 40.924000 km
       ss: 2016-04-09T18:33:44Z
       es: 2016-04-09T19:40:27Z
       timeElapsed: 1.111944 h
-      timeFrac: 0.97610191
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '104'
       - Mark Bourbonnais
-    - place: '3'
+    - breakdown:
+        distance: 334.5
+        leading: 0
+        arrival: 0
+        time: 566.1
+        effort: 0
+        reach: 0
+      place: '3'
       total: 901
-      distance: 334.5
-      leading: 0
-      arrival: 0
-      time: 566.1
-      distanceMade: 40.924000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.96769823
+        effort: 0
+        reach: 0
+      reach:
+        extra: 40.925000 km
+        flown: 40.925000 km
+      landedMade: 40.924000 km
       ss: 2016-04-09T18:33:46Z
       es: 2016-04-09T19:40:37Z
       timeElapsed: 1.114167 h
-      timeFrac: 0.96769823
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '102'
       - Fausto Arcos
-    - place: '4'
+    - breakdown:
+        distance: 334.5
+        leading: 0
+        arrival: 0
+        time: 557.8
+        effort: 0
+        reach: 0
+      place: '4'
       total: 892
-      distance: 334.5
-      leading: 0
-      arrival: 0
-      time: 557.8
-      distanceMade: 40.924000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0
+        arrival: 0
+        time: 0.95349851
+        effort: 0
+        reach: 0
+      reach:
+        extra: 40.925000 km
+        flown: 40.925000 km
+      landedMade: 40.924000 km
       ss: 2016-04-09T18:33:39Z
       es: 2016-04-09T19:40:46Z
       timeElapsed: 1.118611 h
-      timeFrac: 0.95349851
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '103'
       - Mick Howard
-    - place: '5'
+    - breakdown:
+        distance: 308.7
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
       total: 309
-      distance: 308.7
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 34.622000 km
-      distanceFrac: 0.8460072329195583
+      fractions:
+        distance: 0.92286996
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 35.627000 km
+        flown: 34.622000 km
+      landedMade: 33.611000 km
       ss: 2016-04-09T19:21:50Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0

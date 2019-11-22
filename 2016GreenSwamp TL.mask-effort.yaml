@@ -1,0 +1,33 @@
+bestEffort:
+- 34.257879 km
+- 42.669131 km
+- 110.549326 km
+- 108.268931 km
+- 40.966081 km
+land:
+- - - - '105'
+      - Alan Arcos
+    - togo: 8.522934 km
+      made: 25.734945 km
+  - - - '101'
+      - Ken  Kinzie
+    - togo: 28.870737 km
+      made: 5.387142 km
+- []
+- []
+- - - - '103'
+      - Mick Howard
+    - togo: 63.063809 km
+      made: 45.205122 km
+  - - - '104'
+      - Mark Bourbonnais
+    - togo: 86.531896 km
+      made: 21.737035 km
+  - - - '105'
+      - Alan Arcos
+    - togo: 86.548789 km
+      made: 21.720142 km
+- - - - '103'
+      - Mick Howard
+    - togo: 7.315827 km
+      made: 33.650254 km

@@ -1,0 +1,40 @@
+pilotsAtEss:
+- 1
+- 1
+- 2
+- 0
+- 4
+arrivalRank:
+- - - - '203'
+      - Andrey Solomykin
+    - rank: '1'
+      frac: 1
+- - - - '201'
+      - Niki Longshore
+    - rank: '1'
+      frac: 1
+- - - - '201'
+      - Niki Longshore
+    - rank: '1'
+      frac: 1
+  - - - '205'
+      - Kelly Myrkle
+    - rank: '2'
+      frac: 0.330125
+- []
+- - - - '201'
+      - Niki Longshore
+    - rank: '1'
+      frac: 1
+  - - - '203'
+      - Andrey Solomykin
+    - rank: '2'
+      frac: 0.56792188
+  - - - '216'
+      - John Maloney
+    - rank: '3'
+      frac: 0.330125
+  - - - '205'
+      - Kelly Myrkle
+    - rank: '4'
+      frac: 0.22726562
