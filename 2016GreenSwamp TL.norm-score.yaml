@@ -207,8 +207,8 @@ score:
         leading: 0
         arrival: 0
         time: 546.6
-        effort: 0
-        reach: 0
+        effort: 175.4
+        reach: 175.4
       place: '1'
       total: 897
       fractions:
@@ -216,8 +216,8 @@ score:
         leading: 0
         arrival: 0
         time: 1
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 34.243000 km
         flown: 34.243000 km
@@ -234,17 +234,17 @@ score:
         leading: 0
         arrival: 0
         time: 476.7
-        effort: 0
-        reach: 0
+        effort: 175.4
+        reach: 175.4
       place: '2'
-      total: 828
+      total: 827
       fractions:
         distance: 1
         leading: 0
         arrival: 0
         time: 0.87208964
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 34.243000 km
         flown: 34.243000 km
@@ -261,8 +261,8 @@ score:
         leading: 0
         arrival: 0
         time: 317.1
-        effort: 0
-        reach: 0
+        effort: 175.4
+        reach: 175.4
       place: '3'
       total: 668
       fractions:
@@ -270,8 +270,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.58015214
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 34.243000 km
         flown: 34.243000 km
@@ -288,8 +288,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 175.4
+        reach: 133.76
       place: '4'
       total: 371
       fractions:
@@ -297,8 +297,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 0.76259977
       reach:
         extra: 27.332000 km
         flown: 26.113000 km
@@ -315,8 +315,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 63.62
+        reach: 29.23
       place: '5'
       total: 93
       fractions:
@@ -324,8 +324,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 0.3627138
+        reach: 0.16664766
       reach:
         extra: 6.333000 km
         flown: 5.707000 km
@@ -342,8 +342,8 @@ score:
         leading: 0
         arrival: 0
         time: 639
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '1'
       total: 1000
       fractions:
@@ -351,8 +351,8 @@ score:
         leading: 0
         arrival: 0
         time: 1
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 42.670000 km
         flown: 42.670000 km
@@ -369,8 +369,8 @@ score:
         leading: 0
         arrival: 0
         time: 554.6
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '2'
       total: 916
       fractions:
@@ -378,8 +378,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.86789879
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 42.670000 km
         flown: 42.670000 km
@@ -396,8 +396,8 @@ score:
         leading: 0
         arrival: 0
         time: 523.2
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '3'
       total: 884
       fractions:
@@ -405,8 +405,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.81881409
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 42.670000 km
         flown: 42.670000 km
@@ -423,8 +423,8 @@ score:
         leading: 0
         arrival: 0
         time: 425.5
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '4'
       total: 787
       fractions:
@@ -432,8 +432,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.66581657
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 42.670000 km
         flown: 42.670000 km
@@ -450,8 +450,8 @@ score:
         leading: 0
         arrival: 0
         time: 382.2
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '5'
       total: 743
       fractions:
@@ -459,8 +459,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.59807571
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 42.670000 km
         flown: 42.670000 km
@@ -477,8 +477,8 @@ score:
         leading: 0
         arrival: 0
         time: 639
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '1'
       total: 1000
       fractions:
@@ -486,8 +486,8 @@ score:
         leading: 0
         arrival: 0
         time: 1
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 110.548000 km
         flown: 110.548000 km
@@ -504,8 +504,8 @@ score:
         leading: 0
         arrival: 0
         time: 436.8
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '2'
       total: 798
       fractions:
@@ -513,8 +513,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.68354906
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 110.548000 km
         flown: 110.548000 km
@@ -531,8 +531,8 @@ score:
         leading: 0
         arrival: 0
         time: 422.7
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '3'
       total: 784
       fractions:
@@ -540,8 +540,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.66142807
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 110.548000 km
         flown: 110.548000 km
@@ -558,8 +558,8 @@ score:
         leading: 0
         arrival: 0
         time: 406
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '4'
       total: 767
       fractions:
@@ -567,8 +567,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.63531355
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 110.548000 km
         flown: 110.548000 km
@@ -585,8 +585,8 @@ score:
         leading: 0
         arrival: 0
         time: 99
-        effort: 0
-        reach: 0
+        effort: 180.5
+        reach: 180.5
       place: '5'
       total: 460
       fractions:
@@ -594,8 +594,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.15494771
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 110.548000 km
         flown: 110.548000 km
@@ -612,8 +612,8 @@ score:
         leading: 0
         arrival: 0
         time: 369.2
-        effort: 0
-        reach: 0
+        effort: 315.41
+        reach: 315.41
       place: '1'
       total: 1000
       fractions:
@@ -621,8 +621,8 @@ score:
         leading: 0
         arrival: 0
         time: 1
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 108.267000 km
         flown: 108.267000 km
@@ -639,8 +639,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 315.41
+        reach: 132.46
       place: '2'
       total: 448
       fractions:
@@ -648,8 +648,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 0.41996132
       reach:
         extra: 46.812000 km
         flown: 45.467000 km
@@ -666,8 +666,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 243.75
+        reach: 66.34
       place: '3'
       total: 310
       fractions:
@@ -675,8 +675,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 0.77280365
+        reach: 0.21032941
       reach:
         extra: 25.625000 km
         flown: 22.772000 km
@@ -693,8 +693,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 242.24
+        reach: 65.54
       place: '4'
       total: 308
       fractions:
@@ -702,8 +702,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 0.76801623
+        reach: 0.20779303
       reach:
         extra: 25.711000 km
         flown: 22.497000 km
@@ -720,8 +720,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 111.87
+        reach: 25.47
       place: '5'
       total: 137
       fractions:
@@ -729,8 +729,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 0.35468121
+        reach: 8.075204e-2
       reach:
         extra: 9.747000 km
         flown: 8.742000 km
@@ -747,17 +747,17 @@ score:
         leading: 0
         arrival: 0
         time: 585
-        effort: 0
-        reach: 0
+        effort: 167.24
+        reach: 167.24
       place: '1'
-      total: 920
+      total: 919
       fractions:
         distance: 1
         leading: 0
         arrival: 0
         time: 1
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 40.925000 km
         flown: 40.925000 km
@@ -774,17 +774,17 @@ score:
         leading: 0
         arrival: 0
         time: 571
-        effort: 0
-        reach: 0
+        effort: 167.24
+        reach: 167.24
       place: '2'
-      total: 906
+      total: 905
       fractions:
         distance: 1
         leading: 0
         arrival: 0
         time: 0.97610191
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 40.925000 km
         flown: 40.925000 km
@@ -801,8 +801,8 @@ score:
         leading: 0
         arrival: 0
         time: 566.1
-        effort: 0
-        reach: 0
+        effort: 167.24
+        reach: 167.24
       place: '3'
       total: 901
       fractions:
@@ -810,8 +810,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.96769823
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 40.925000 km
         flown: 40.925000 km
@@ -828,8 +828,8 @@ score:
         leading: 0
         arrival: 0
         time: 557.8
-        effort: 0
-        reach: 0
+        effort: 167.24
+        reach: 167.24
       place: '4'
       total: 892
       fractions:
@@ -837,8 +837,8 @@ score:
         leading: 0
         arrival: 0
         time: 0.95349851
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 1
       reach:
         extra: 40.925000 km
         flown: 40.925000 km
@@ -855,8 +855,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 167.24
+        reach: 141.49
       place: '5'
       total: 309
       fractions:
@@ -864,8 +864,8 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0
-        reach: 0
+        effort: 1
+        reach: 0.84602966
       reach:
         extra: 35.627000 km
         flown: 34.622000 km

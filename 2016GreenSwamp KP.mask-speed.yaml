@@ -1,15 +1,15 @@
 ssBestTime:
-- 0.995827 h
-- 2.766051 h
-- 3.813552 h
+- 0.994728 h
+- 2.765772 h
+- 3.813037 h
 - null
-- 1.327946 h
+- 1.326604 h
 gsBestTime:
-- 0.995827 h
-- 2.766051 h
-- 3.813552 h
+- 0.994728 h
+- 2.765772 h
+- 3.813037 h
 - null
-- 1.327946 h
+- 1.326604 h
 taskDistance:
 - 34.257879 km
 - 42.669131 km
@@ -25,71 +25,71 @@ taskSpeedDistance:
 ssSpeed:
 - - - - '203'
       - Andrey Solomykin
-    - time: 0.995827 h
+    - time: 0.994728 h
       frac: 1
 - - - - '201'
       - Niki Longshore
-    - time: 2.766051 h
+    - time: 2.765772 h
       frac: 1
 - - - - '201'
       - Niki Longshore
-    - time: 3.813552 h
+    - time: 3.813037 h
       frac: 1
   - - - '205'
       - Kelly Myrkle
-    - time: 3.859622 h
-      frac: 0.91774406
+    - time: 3.859220 h
+      frac: 0.91760509
 - []
 - - - - '205'
       - Kelly Myrkle
-    - time: 1.327946 h
+    - time: 1.326604 h
       frac: 1
   - - - '201'
       - Niki Longshore
-    - time: 1.334602 h
-      frac: 0.96780821
+    - time: 1.333603 h
+      frac: 0.96670144
   - - - '216'
       - John Maloney
-    - time: 1.424950 h
-      frac: 0.80792582
+    - time: 1.423354 h
+      frac: 0.80819737
   - - - '203'
       - Andrey Solomykin
-    - time: 1.474976 h
-      frac: 0.74655829
+    - time: 1.474056 h
+      frac: 0.74598866
 gsSpeed:
 - - - - '203'
       - Andrey Solomykin
-    - time: 0.995827 h
+    - time: 0.994728 h
       frac: 1
 - - - - '201'
       - Niki Longshore
-    - time: 2.766051 h
+    - time: 2.765772 h
       frac: 1
 - - - - '201'
       - Niki Longshore
-    - time: 3.813552 h
+    - time: 3.813037 h
       frac: 1
   - - - '205'
       - Kelly Myrkle
-    - time: 3.859622 h
-      frac: 0.91774406
+    - time: 3.859220 h
+      frac: 0.91760509
 - []
 - - - - '205'
       - Kelly Myrkle
-    - time: 1.327946 h
+    - time: 1.326604 h
       frac: 1
   - - - '201'
       - Niki Longshore
-    - time: 1.334602 h
-      frac: 0.96780821
+    - time: 1.333603 h
+      frac: 0.96670144
   - - - '216'
       - John Maloney
-    - time: 1.424950 h
-      frac: 0.80792582
+    - time: 1.423354 h
+      frac: 0.80819737
   - - - '203'
       - Andrey Solomykin
-    - time: 1.474976 h
-      frac: 0.74655829
+    - time: 1.474056 h
+      frac: 0.74598866
 altStopped:
 - - - - '207'
       - Alex Skyride

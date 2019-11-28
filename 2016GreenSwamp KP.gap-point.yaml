@@ -1,8 +1,8 @@
 validityWorking:
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: 0.995827 h
-    gsBestTime: 0.995827 h
+    ssBestTime: 0.994728 h
+    gsBestTime: 0.994728 h
     nominalDistance: 30.0 km
     reachMax:
       extra: 34.257879 km
@@ -24,8 +24,8 @@ validityWorking:
   stop: null
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: 2.766051 h
-    gsBestTime: 2.766051 h
+    ssBestTime: 2.765772 h
+    gsBestTime: 2.765772 h
     nominalDistance: 30.0 km
     reachMax:
       extra: 42.669131 km
@@ -47,8 +47,8 @@ validityWorking:
   stop: null
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: 3.813552 h
-    gsBestTime: 3.813552 h
+    ssBestTime: 3.813037 h
+    gsBestTime: 3.813037 h
     nominalDistance: 30.0 km
     reachMax:
       extra: 110.549326 km
@@ -93,8 +93,8 @@ validityWorking:
   stop: null
 - time:
     nominalTime: 1.500000 h
-    ssBestTime: 1.327946 h
-    gsBestTime: 1.327946 h
+    ssBestTime: 1.326604 h
+    gsBestTime: 1.326604 h
     nominalDistance: 30.0 km
     reachMax:
       extra: 40.966081 km
@@ -115,10 +115,10 @@ validityWorking:
       flown: 40.966081 km
   stop: null
 validity:
-- time: 0.87127295
+- time: 0.87073703
   launch: 1
   distance: 0.49685153
-  task: 0.4328933
+  task: 0.43262703
   stop: null
 - time: 1
   launch: 1
@@ -135,10 +135,10 @@ validity:
   distance: 1
   task: 1
   stop: null
-- time: 0.97976628
+- time: 0.97952239
   launch: 1
   distance: 1
-  task: 0.97976628
+  task: 0.97952239
   stop: null
 allocation:
 - goalRatio: 5.882353e-2
@@ -150,12 +150,12 @@ allocation:
     time: 0.19213332
     reach: 0.40393334
   points:
-    effort: 174.86
-    distance: 349.72
+    effort: 174.752
+    distance: 349.505
     leading: 0
     arrival: 0
-    time: 83.2
-    reach: 174.86
+    time: 83.1
+    reach: 174.752
   taskPoints: 433
 - goalRatio: 5.882353e-2
   weight:
@@ -214,12 +214,12 @@ allocation:
     time: 0.46722986
     reach: 0.26638507
   points:
-    effort: 260.995
-    distance: 521.99
+    effort: 260.93
+    distance: 521.86
     leading: 0
     arrival: 0
-    time: 457.8
-    reach: 260.995
+    time: 457.7
+    reach: 260.93
   taskPoints: 980
 score:
 - - - - '203'
@@ -229,25 +229,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 174.86
-        distance: 349.72
+        effort: 174.752
+        distance: 349.505
         leading: 0
         arrival: 0
-        time: 83.2
-        reach: 174.86
+        time: 83.1
+        reach: 174.752
       landedMade: 34.258 km
       reach:
         extra: 34.258 km
         flown: 34.258 km
       velocity:
-        ss: 2016-04-03T19:36:37.093529766631Z
+        ss: 2016-04-03T19:36:39.045684584836Z
         gs: null
-        es: 2016-04-03T20:36:22.071142791429Z
+        es: 2016-04-03T20:36:20.066990628942Z
         ssDistance: 29.658 km
-        ssElapsed: 0.995827 h
-        gsElapsed: 0.995827 h
-        ssVelocity: 29.78 km / h
-        gsVelocity: 29.78 km / h
+        ssElapsed: 0.994728 h
+        gsElapsed: 0.994728 h
+        ssVelocity: 29.82 km / h
+        gsVelocity: 29.82 km / h
       stoppedAlt: null
   - - - '202'
       - Nick Jones
@@ -256,18 +256,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 174.86
-        distance: 311.193
+        effort: 174.752
+        distance: 311.002
         leading: 0
         arrival: 0
         time: 0
-        reach: 136.333
-      landedMade: 26.261 km
+        reach: 136.249
+      landedMade: 26.306 km
       reach:
         extra: 26.710 km
         flown: 26.710 km
       velocity:
-        ss: 2016-04-03T20:13:56.032894336152Z
+        ss: 2016-04-03T20:13:57.421447341702Z
         gs: null
         es: null
         ssDistance: null
@@ -283,18 +283,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 160.603
-        distance: 263.279
+        effort: 160.521
+        distance: 263.134
         leading: 0
         arrival: 0
         time: 0
-        reach: 102.676
-      landedMade: 19.478 km
+        reach: 102.613
+      landedMade: 19.523 km
       reach:
         extra: 20.116 km
         flown: 20.116 km
       velocity:
-        ss: 2016-04-03T19:36:36.960016516585Z
+        ss: 2016-04-03T19:36:38.277786615935Z
         gs: null
         es: null
         ssDistance: null
@@ -306,23 +306,23 @@ score:
   - - - '201'
       - Niki Longshore
     - place: '4'
-      total: 259
+      total: 258
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 155.361
-        distance: 244.011
+        effort: 155.08
+        distance: 243.675
         leading: 0
         arrival: 0
         time: 0
-        reach: 88.65
-      landedMade: 17.027 km
+        reach: 88.595
+      landedMade: 17.072 km
       reach:
         extra: 17.368 km
         flown: 17.368 km
       velocity:
-        ss: 2016-04-03T19:37:49.21462888645Z
+        ss: 2016-04-03T19:37:51.05736768409Z
         gs: null
         es: null
         ssDistance: null
@@ -338,18 +338,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 155.361
-        distance: 243.373
+        effort: 155.08
+        distance: 243.037
         leading: 0
         arrival: 0
         time: 0
-        reach: 88.012
-      landedMade: 17.037 km
+        reach: 87.957
+      landedMade: 17.082 km
       reach:
         extra: 17.243 km
         flown: 17.243 km
       velocity:
-        ss: 2016-04-03T19:37:30.714402587429Z
+        ss: 2016-04-03T19:37:49.485991684638Z
         gs: null
         es: null
         ssDistance: null
@@ -366,18 +366,18 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 144.039
-        distance: 223.639
+        effort: 144.406
+        distance: 223.957
         leading: 0
         arrival: 0
         time: 0
-        reach: 79.6
-      landedMade: 15.300 km
+        reach: 79.551
+      landedMade: 15.345 km
       reach:
         extra: 15.595 km
         flown: 15.595 km
       velocity:
-        ss: 2016-04-03T20:02:13.684718705233Z
+        ss: 2016-04-03T20:02:15.368273340497Z
         gs: null
         es: null
         ssDistance: null
@@ -389,23 +389,23 @@ score:
   - - - '209'
       - John Blank
     - place: '7'
-      total: 195
+      total: 196
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 120.138
-        distance: 184.113
+        effort: 120.548
+        distance: 184.484
         leading: 0
         arrival: 0
         time: 0
-        reach: 63.976
-      landedMade: 12.387 km
+        reach: 63.936
+      landedMade: 12.435 km
       reach:
         extra: 12.534 km
         flown: 12.534 km
       velocity:
-        ss: 2016-04-03T20:01:46.97204576284Z
+        ss: 2016-04-03T20:01:49.03893816732Z
         gs: null
         es: null
         ssDistance: null
@@ -422,18 +422,18 @@ score:
       - penalty-fraction: -0.29
       penaltyReason: Handicap
       breakdown:
-        effort: 90.365
-        distance: 135.848
+        effort: 89.992
+        distance: 135.447
         leading: 0
         arrival: 0
         time: 0
-        reach: 45.483
-      landedMade: 8.629 km
+        reach: 45.455
+      landedMade: 8.677 km
       reach:
         extra: 8.911 km
         flown: 8.911 km
       velocity:
-        ss: 2016-04-03T20:09:47.94620152319Z
+        ss: 2016-04-03T20:10:03.201707993795Z
         gs: null
         es: null
         ssDistance: null
@@ -445,22 +445,22 @@ score:
   - - - '212'
       - Greg Sessa
     - place: '9'
-      total: 169
+      total: 168
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 108.396
-        distance: 168.845
+        effort: 107.991
+        distance: 168.402
         leading: 0
         arrival: 0
         time: 0
-        reach: 60.449
-      landedMade: 10.909 km
+        reach: 60.412
+      landedMade: 10.959 km
       reach:
         extra: 11.843 km
         flown: 11.843 km
       velocity:
-        ss: 2016-04-03T19:24:36.333573166442Z
+        ss: 2016-04-03T19:24:37.550757271916Z
         gs: null
         es: null
         ssDistance: null
@@ -476,18 +476,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 91.204
-        distance: 137.973
+        effort: 90.829
+        distance: 137.57
         leading: 0
         arrival: 0
         time: 0
-        reach: 46.769
-      landedMade: 8.728 km
+        reach: 46.741
+      landedMade: 8.776 km
       reach:
         extra: 9.163 km
         flown: 9.163 km
       velocity:
-        ss: 2016-04-03T19:48:02.789519007022Z
+        ss: 2016-04-03T19:48:04.459142979636Z
         gs: null
         es: null
         ssDistance: null
@@ -503,18 +503,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 90.365
-        distance: 137.492
+        effort: 89.992
+        distance: 137.09
         leading: 0
         arrival: 0
         time: 0
-        reach: 47.127
-      landedMade: 8.630 km
+        reach: 47.098
+      landedMade: 8.678 km
       reach:
         extra: 9.233 km
         flown: 9.233 km
       velocity:
-        ss: 2016-04-03T19:37:28.401533884435Z
+        ss: 2016-04-03T19:37:30.548824629265Z
         gs: null
         es: null
         ssDistance: null
@@ -526,22 +526,22 @@ score:
   - - - '207'
       - Alex Skyride
     - place: '12'
-      total: 110
+      total: 111
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 72.963
-        distance: 110.331
+        effort: 73.877
+        distance: 111.222
         leading: 0
         arrival: 0
         time: 0
-        reach: 37.367
-      landedMade: 7.052 km
+        reach: 37.344
+      landedMade: 7.100 km
       reach:
         extra: 7.321 km
         flown: 7.321 km
       velocity:
-        ss: 2016-04-03T20:11:18.608256283535Z
+        ss: 2016-04-03T20:11:20.270586914429Z
         gs: null
         es: null
         ssDistance: null
@@ -558,13 +558,13 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 33.966
-        distance: 59.487
+        effort: 33.904
+        distance: 59.41
         leading: 0
         arrival: 0
         time: 0
-        reach: 25.521
-      landedMade: 3.530 km
+        reach: 25.505
+      landedMade: 3.579 km
       reach:
         extra: 4.435 km
         flown: 4.435 km
@@ -581,17 +581,17 @@ score:
   - - - '213'
       - Willie Van Caulart
     - place: '14'
-      total: 57
+      total: 58
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 31.869
-        distance: 57.39
+        effort: 32.858
+        distance: 58.363
         leading: 0
         arrival: 0
         time: 0
-        reach: 25.521
-      landedMade: 3.380 km
+        reach: 25.505
+      landedMade: 3.428 km
       reach:
         extra: 3.684 km
         flown: 3.684 km
@@ -613,13 +613,13 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 3.145
-        distance: 28.666
+        effort: 2.93
+        distance: 28.435
         leading: 0
         arrival: 0
         time: 0
-        reach: 25.521
-      landedMade: 0.300 km
+        reach: 25.505
+      landedMade: 0.349 km
       reach:
         extra: 1.501 km
         flown: 1.501 km
@@ -641,13 +641,13 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 0.839
-        distance: 26.36
+        effort: 0.837
+        distance: 26.343
         leading: 0
         arrival: 0
         time: 0
-        reach: 25.521
-      landedMade: -0.501 km
+        reach: 25.505
+      landedMade: -0.452 km
       reach:
         extra: -0.024 km
         flown: -0.024 km
@@ -680,12 +680,12 @@ score:
         extra: 42.669 km
         flown: 42.669 km
       velocity:
-        ss: 2016-04-04T18:21:42.98837936506Z
+        ss: 2016-04-04T18:21:43.92792846267Z
         gs: null
-        es: 2016-04-04T21:07:40.773540303608Z
+        es: 2016-04-04T21:07:40.707284896826Z
         ssDistance: 40.069 km
-        ssElapsed: 2.766051 h
-        gsElapsed: 2.766051 h
+        ssElapsed: 2.765772 h
+        gsElapsed: 2.765772 h
         ssVelocity: 14.49 km / h
         gsVelocity: 14.49 km / h
       stoppedAlt: null
@@ -702,12 +702,12 @@ score:
         arrival: 0
         time: 0
         reach: 312.068
-      landedMade: 36.556 km
+      landedMade: 36.558 km
       reach:
         extra: 36.766 km
         flown: 36.766 km
       velocity:
-        ss: 2016-04-04T18:25:22.456346543818Z
+        ss: 2016-04-04T18:25:23.350577830675Z
         gs: null
         es: null
         ssDistance: null
@@ -723,18 +723,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 335.443
-        distance: 552.752
+        effort: 335.468
+        distance: 552.777
         leading: 0
         arrival: 0
         time: 0
         reach: 217.309
-      landedMade: 25.602 km
+      landedMade: 25.608 km
       reach:
         extra: 25.602 km
         flown: 25.602 km
       velocity:
-        ss: 2016-04-04T18:05:24.236496919828Z
+        ss: 2016-04-04T18:05:25.42943784332Z
         gs: null
         es: null
         ssDistance: null
@@ -751,18 +751,18 @@ score:
       - penalty-fraction: -0.29
       penaltyReason: Handicap
       breakdown:
-        effort: 258.265
-        distance: 416.497
+        effort: 258.36
+        distance: 416.593
         leading: 0
         arrival: 0
         time: 0
         reach: 158.233
-      landedMade: 18.628 km
+      landedMade: 18.633 km
       reach:
         extra: 18.642 km
         flown: 18.642 km
       velocity:
-        ss: 2016-04-04T18:22:04.84215920645Z
+        ss: 2016-04-04T18:22:06.00909010885Z
         gs: null
         es: null
         ssDistance: null
@@ -778,18 +778,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 325.086
-        distance: 518.221
+        effort: 325.12
+        distance: 518.255
         leading: 0
         arrival: 0
         time: 0
         reach: 193.135
-      landedMade: 22.502 km
+      landedMade: 22.507 km
       reach:
         extra: 22.754 km
         flown: 22.754 km
       velocity:
-        ss: 2016-04-04T17:52:07.719012445625Z
+        ss: 2016-04-04T17:52:08.89390139282Z
         gs: null
         es: null
         ssDistance: null
@@ -805,18 +805,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 325.086
-        distance: 517.814
+        effort: 325.12
+        distance: 517.848
         leading: 0
         arrival: 0
         time: 0
         reach: 192.728
-      landedMade: 22.589 km
+      landedMade: 22.595 km
       reach:
         extra: 22.706 km
         flown: 22.706 km
       velocity:
-        ss: 2016-04-04T17:50:43.261273205752Z
+        ss: 2016-04-04T17:50:44.088088032962Z
         gs: null
         es: null
         ssDistance: null
@@ -832,18 +832,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 325.086
-        distance: 516.668
+        effort: 325.12
+        distance: 516.702
         leading: 0
         arrival: 0
         time: 0
         reach: 191.582
-      landedMade: 22.533 km
+      landedMade: 22.539 km
       reach:
         extra: 22.571 km
         flown: 22.571 km
       velocity:
-        ss: 2016-04-04T18:21:53.04510305592Z
+        ss: 2016-04-04T18:21:53.97334571472Z
         gs: null
         es: null
         ssDistance: null
@@ -859,18 +859,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 305.04
-        distance: 491.715
+        effort: 305.092
+        distance: 491.768
         leading: 0
         arrival: 0
         time: 0
         reach: 186.676
-      landedMade: 21.086 km
+      landedMade: 21.092 km
       reach:
         extra: 21.993 km
         flown: 21.993 km
       velocity:
-        ss: 2016-04-04T19:37:26.177235085996Z
+        ss: 2016-04-04T19:37:27.150273115196Z
         gs: null
         es: null
         ssDistance: null
@@ -886,18 +886,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 272.297
-        distance: 481.525
+        effort: 272.38
+        distance: 481.608
         leading: 0
         arrival: 0
         time: 0
         reach: 209.228
-      landedMade: 19.215 km
+      landedMade: 19.221 km
       reach:
         extra: 24.650 km
         flown: 24.650 km
       velocity:
-        ss: 2016-04-04T18:04:41.03419946316Z
+        ss: 2016-04-04T18:04:41.76341032328Z
         gs: null
         es: null
         ssDistance: null
@@ -913,18 +913,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 288.334
-        distance: 458.628
+        effort: 288.402
+        distance: 458.696
         leading: 0
         arrival: 0
         time: 0
         reach: 170.294
-      landedMade: 20.063 km
+      landedMade: 20.069 km
       reach:
         extra: 20.063 km
         flown: 20.063 km
       velocity:
-        ss: 2016-04-04T18:02:16.664106550703Z
+        ss: 2016-04-04T18:02:18.15472281566Z
         gs: null
         es: null
         ssDistance: null
@@ -941,18 +941,18 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 258.265
-        distance: 419.222
+        effort: 258.36
+        distance: 419.318
         leading: 0
         arrival: 0
         time: 0
         reach: 160.957
-      landedMade: 18.607 km
+      landedMade: 18.613 km
       reach:
         extra: 18.963 km
         flown: 18.963 km
       velocity:
-        ss: 2016-04-04T18:24:27.454848566215Z
+        ss: 2016-04-04T18:24:28.343739438336Z
         gs: null
         es: null
         ssDistance: null
@@ -964,23 +964,23 @@ score:
   - - - '210'
       - Pete Wall
     - place: '12'
-      total: 431
+      total: 434
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 249.244
-        distance: 406.56
+        effort: 252.352
+        distance: 409.668
         leading: 0
         arrival: 0
         time: 0
         reach: 157.316
-      landedMade: 18.393 km
+      landedMade: 18.400 km
       reach:
         extra: 18.534 km
         flown: 18.534 km
       velocity:
-        ss: 2016-04-04T18:30:32.16484997245Z
+        ss: 2016-04-04T18:30:33.14847030008Z
         gs: null
         es: null
         ssDistance: null
@@ -996,18 +996,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 85.865
-        distance: 193.391
+        effort: 85.786
+        distance: 193.312
         leading: 0
         arrival: 0
         time: 0
         reach: 107.526
-      landedMade: 12.067 km
+      landedMade: 12.075 km
       reach:
         extra: 12.668 km
         flown: 12.668 km
       velocity:
-        ss: 2016-04-04T18:04:55.83474761016Z
+        ss: 2016-04-04T18:04:56.75421252113Z
         gs: null
         es: null
         ssDistance: null
@@ -1024,18 +1024,18 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 48.111
-        distance: 103.759
+        effort: 48.067
+        distance: 103.715
         leading: 0
         arrival: 0
         time: 0
         reach: 55.648
-      landedMade: 6.082 km
+      landedMade: 6.098 km
       reach:
         extra: 6.556 km
         flown: 6.556 km
       velocity:
-        ss: 2016-04-04T18:42:24.7662745182Z
+        ss: 2016-04-04T18:42:25.75668440412Z
         gs: null
         es: null
         ssDistance: null
@@ -1052,18 +1052,18 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 48.111
-        distance: 99.795
+        effort: 48.735
+        distance: 100.419
         leading: 0
         arrival: 0
         time: 0
         reach: 51.684
-      landedMade: 6.084 km
+      landedMade: 6.101 km
       reach:
         extra: 6.089 km
         flown: 6.089 km
       velocity:
-        ss: 2016-04-04T18:15:50.93675660729Z
+        ss: 2016-04-04T18:15:51.81903435395Z
         gs: null
         es: null
         ssDistance: null
@@ -1079,18 +1079,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 1.336
-        distance: 58.368
+        effort: 1.335
+        distance: 58.367
         leading: 0
         arrival: 0
         time: 0
         reach: 57.031
-      landedMade: -10.359 km
+      landedMade: -10.341 km
       reach:
         extra: 6.719 km
         flown: 6.719 km
       velocity:
-        ss: 2016-04-04T18:05:13.745890422758Z
+        ss: 2016-04-04T18:05:14.876530601145Z
         gs: null
         es: null
         ssDistance: null
@@ -1107,13 +1107,13 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 1.336
-        distance: 43.776
+        effort: 1.335
+        distance: 43.775
         leading: 0
         arrival: 0
         time: 0
         reach: 42.44
-      landedMade: -0.591 km
+      landedMade: -0.573 km
       reach:
         extra: 0.953 km
         flown: 0.953 km
@@ -1146,19 +1146,19 @@ score:
         extra: 110.549 km
         flown: 110.549 km
       velocity:
-        ss: 2016-04-05T17:47:58.35298837829Z
+        ss: 2016-04-05T17:48:00.01979949974Z
         gs: null
-        es: 2016-04-05T21:36:47.139624477824Z
+        es: 2016-04-05T21:36:46.951343017656Z
         ssDistance: 105.949 km
-        ssElapsed: 3.813552 h
-        gsElapsed: 3.813552 h
-        ssVelocity: 27.78 km / h
-        gsVelocity: 27.78 km / h
+        ssElapsed: 3.813037 h
+        gsElapsed: 3.813037 h
+        ssVelocity: 27.79 km / h
+        gsVelocity: 27.79 km / h
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 978
+      total: 977
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -1166,19 +1166,19 @@ score:
         distance: 726.871
         leading: 0
         arrival: 0
-        time: 250.7
+        time: 250.6
         reach: 363.436
       landedMade: 110.549 km
       reach:
         extra: 110.549 km
         flown: 110.549 km
       velocity:
-        ss: 2016-04-05T18:35:03.1936812198Z
+        ss: 2016-04-05T18:35:04.530966889495Z
         gs: null
-        es: 2016-04-05T22:26:37.831365380065Z
+        es: 2016-04-05T22:26:37.72279848975Z
         ssDistance: 105.949 km
-        ssElapsed: 3.859622 h
-        gsElapsed: 3.859622 h
+        ssElapsed: 3.859220 h
+        gsElapsed: 3.859220 h
         ssVelocity: 27.45 km / h
         gsVelocity: 27.45 km / h
       stoppedAlt: null
@@ -1195,12 +1195,12 @@ score:
         arrival: 0
         time: 0
         reach: 359.55
-      landedMade: 109.368 km
+      landedMade: 109.370 km
       reach:
         extra: 109.367 km
         flown: 109.367 km
       velocity:
-        ss: 2016-04-05T18:35:02.44605904154Z
+        ss: 2016-04-05T18:35:04.106208664634Z
         gs: null
         es: null
         ssDistance: null
@@ -1223,12 +1223,12 @@ score:
         arrival: 0
         time: 0
         reach: 291.202
-      landedMade: 88.367 km
+      landedMade: 88.369 km
       reach:
         extra: 88.577 km
         flown: 88.577 km
       velocity:
-        ss: 2016-04-05T17:53:31.800294834412Z
+        ss: 2016-04-05T17:53:33.836163097302Z
         gs: null
         es: null
         ssDistance: null
@@ -1250,12 +1250,12 @@ score:
         arrival: 0
         time: 0
         reach: 293.888
-      landedMade: 88.187 km
+      landedMade: 88.189 km
       reach:
         extra: 89.394 km
         flown: 89.394 km
       velocity:
-        ss: 2016-04-05T17:48:44.97736171827Z
+        ss: 2016-04-05T17:48:46.732849458495Z
         gs: null
         es: null
         ssDistance: null
@@ -1278,12 +1278,12 @@ score:
         arrival: 0
         time: 0
         reach: 148.891
-      landedMade: 44.908 km
+      landedMade: 44.910 km
       reach:
         extra: 45.289 km
         flown: 45.289 km
       velocity:
-        ss: 2016-04-05T17:48:19.138048918385Z
+        ss: 2016-04-05T17:48:20.777311926255Z
         gs: null
         es: null
         ssDistance: null
@@ -1305,12 +1305,12 @@ score:
         arrival: 0
         time: 0
         reach: 79.846
-      landedMade: 24.091 km
+      landedMade: 24.093 km
       reach:
         extra: 24.287 km
         flown: 24.287 km
       velocity:
-        ss: 2016-04-05T18:44:16.00816069295Z
+        ss: 2016-04-05T18:44:20.107544552645Z
         gs: null
         es: null
         ssDistance: null
@@ -1332,12 +1332,12 @@ score:
         arrival: 0
         time: 0
         reach: 74.152
-      landedMade: 22.555 km
+      landedMade: 22.565 km
       reach:
         extra: 22.555 km
         flown: 22.555 km
       velocity:
-        ss: 2016-04-05T18:58:10.571612094198Z
+        ss: 2016-04-05T18:58:12.146051637765Z
         gs: null
         es: null
         ssDistance: null
@@ -1359,12 +1359,12 @@ score:
         arrival: 0
         time: 0
         reach: 54.62
-      landedMade: 15.818 km
+      landedMade: 15.823 km
       reach:
         extra: 16.614 km
         flown: 16.614 km
       velocity:
-        ss: 2016-04-05T18:34:08.892384506668Z
+        ss: 2016-04-05T18:34:10.488123032425Z
         gs: null
         es: null
         ssDistance: null
@@ -1386,12 +1386,12 @@ score:
         arrival: 0
         time: 0
         reach: 53.789
-      landedMade: 15.705 km
+      landedMade: 15.710 km
       reach:
         extra: 16.361 km
         flown: 16.361 km
       velocity:
-        ss: 2016-04-05T18:34:10.856061922852Z
+        ss: 2016-04-05T18:34:12.410221628094Z
         gs: null
         es: null
         ssDistance: null
@@ -1413,12 +1413,12 @@ score:
         arrival: 0
         time: 0
         reach: 37.229
-      landedMade: 10.992 km
+      landedMade: 10.996 km
       reach:
         extra: 11.324 km
         flown: 11.324 km
       velocity:
-        ss: 2016-04-05T18:51:35.24948487465Z
+        ss: 2016-04-05T18:51:36.7031262154Z
         gs: null
         es: null
         ssDistance: null
@@ -1441,12 +1441,12 @@ score:
         arrival: 0
         time: 0
         reach: 30.473
-      landedMade: 9.003 km
+      landedMade: 9.008 km
       reach:
         extra: 9.269 km
         flown: 9.269 km
       velocity:
-        ss: 2016-04-05T17:48:28.70615325293Z
+        ss: 2016-04-05T17:48:34.28499618964Z
         gs: null
         es: null
         ssDistance: null
@@ -1546,7 +1546,7 @@ score:
         arrival: 0
         time: 0
         reach: 16.438
-      landedMade: -0.459 km
+      landedMade: -0.455 km
       reach:
         extra: 0.444 km
         flown: 0.444 km
@@ -1573,12 +1573,12 @@ score:
         arrival: 0
         time: 0
         reach: 450
-      landedMade: 85.118 km
+      landedMade: 85.123 km
       reach:
         extra: 85.220 km
         flown: 85.220 km
       velocity:
-        ss: 2016-04-06T18:38:36.257682210422Z
+        ss: 2016-04-06T18:39:05.305599071856Z
         gs: null
         es: null
         ssDistance: null
@@ -1600,12 +1600,12 @@ score:
         arrival: 0
         time: 0
         reach: 379.559
-      landedMade: 70.054 km
+      landedMade: 70.059 km
       reach:
         extra: 71.880 km
         flown: 71.880 km
       velocity:
-        ss: 2016-04-06T19:03:23.77319770048Z
+        ss: 2016-04-06T19:03:25.42649147137Z
         gs: null
         es: null
         ssDistance: null
@@ -1628,12 +1628,12 @@ score:
         arrival: 0
         time: 0
         reach: 253.028
-      landedMade: 47.725 km
+      landedMade: 47.731 km
       reach:
         extra: 47.918 km
         flown: 47.918 km
       velocity:
-        ss: 2016-04-06T17:54:54.97200634003Z
+        ss: 2016-04-06T17:54:56.62714826519Z
         gs: null
         es: null
         ssDistance: null
@@ -1655,12 +1655,12 @@ score:
         arrival: 0
         time: 0
         reach: 238.856
-      landedMade: 45.047 km
+      landedMade: 45.062 km
       reach:
         extra: 45.234 km
         flown: 45.234 km
       velocity:
-        ss: 2016-04-06T18:34:01.160106119795Z
+        ss: 2016-04-06T18:34:02.983190175149Z
         gs: null
         es: null
         ssDistance: null
@@ -1672,22 +1672,22 @@ score:
   - - - '214'
       - Richard Elder
     - place: '5'
-      total: 508
+      total: 509
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 314.07
-        distance: 508.29
+        effort: 314.573
+        distance: 508.793
         leading: 0
         arrival: 0
         time: 0
         reach: 194.22
-      landedMade: 36.399 km
+      landedMade: 36.411 km
       reach:
         extra: 36.781 km
         flown: 36.781 km
       velocity:
-        ss: 2016-04-06T19:20:15.798483416192Z
+        ss: 2016-04-06T19:20:17.163176722602Z
         gs: null
         es: null
         ssDistance: null
@@ -1703,18 +1703,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 305.779
-        distance: 493.261
+        effort: 305.528
+        distance: 493.01
         leading: 0
         arrival: 0
         time: 0
         reach: 187.482
-      landedMade: 35.261 km
+      landedMade: 35.272 km
       reach:
         extra: 35.505 km
         flown: 35.505 km
       velocity:
-        ss: 2016-04-06T18:27:44.927799663489Z
+        ss: 2016-04-06T18:27:46.290312950419Z
         gs: null
         es: null
         ssDistance: null
@@ -1731,18 +1731,18 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 235.176
-        distance: 379.427
+        effort: 234.925
+        distance: 379.176
         leading: 0
         arrival: 0
         time: 0
         reach: 144.251
-      landedMade: 27.078 km
+      landedMade: 27.086 km
       reach:
         extra: 27.318 km
         flown: 27.318 km
       velocity:
-        ss: 2016-04-06T17:56:05.099404729848Z
+        ss: 2016-04-06T17:56:07.117376638702Z
         gs: null
         es: null
         ssDistance: null
@@ -1765,12 +1765,12 @@ score:
         arrival: 0
         time: 0
         reach: 99.161
-      landedMade: 18.009 km
+      landedMade: 18.020 km
       reach:
         extra: 18.779 km
         flown: 18.779 km
       velocity:
-        ss: 2016-04-06T17:54:07.10545206485Z
+        ss: 2016-04-06T17:54:08.27540198369Z
         gs: null
         es: null
         ssDistance: null
@@ -1792,12 +1792,12 @@ score:
         arrival: 0
         time: 0
         reach: 102.641
-      landedMade: 19.121 km
+      landedMade: 19.130 km
       reach:
         extra: 19.438 km
         flown: 19.438 km
       velocity:
-        ss: 2016-04-06T19:20:50.55801141191Z
+        ss: 2016-04-06T19:20:52.467912279965Z
         gs: null
         es: null
         ssDistance: null
@@ -1820,12 +1820,12 @@ score:
         arrival: 0
         time: 0
         reach: 62.948
-      landedMade: 11.202 km
+      landedMade: 11.211 km
       reach:
         extra: 11.921 km
         flown: 11.921 km
       velocity:
-        ss: 2016-04-06T17:54:24.902373725615Z
+        ss: 2016-04-06T17:54:26.66820420111Z
         gs: null
         es: null
         ssDistance: null
@@ -1848,12 +1848,12 @@ score:
         arrival: 0
         time: 0
         reach: 45.792
-      landedMade: 8.134 km
+      landedMade: 8.144 km
       reach:
         extra: 8.672 km
         flown: 8.672 km
       velocity:
-        ss: 2016-04-06T18:03:32.845884604624Z
+        ss: 2016-04-06T18:03:34.0308354137Z
         gs: null
         es: null
         ssDistance: null
@@ -1875,12 +1875,12 @@ score:
         arrival: 0
         time: 0
         reach: 30.853
-      landedMade: 5.471 km
+      landedMade: 5.481 km
       reach:
         extra: 5.843 km
         flown: 5.843 km
       velocity:
-        ss: 2016-04-06T18:40:10.168869773908Z
+        ss: 2016-04-06T18:40:26.390945690302Z
         gs: null
         es: null
         ssDistance: null
@@ -1902,7 +1902,7 @@ score:
         arrival: 0
         time: 0
         reach: 26.402
-      landedMade: 0.825 km
+      landedMade: 0.837 km
       reach:
         extra: 1.123 km
         flown: 1.123 km
@@ -1929,7 +1929,7 @@ score:
         arrival: 0
         time: 0
         reach: 26.402
-      landedMade: -0.339 km
+      landedMade: -0.327 km
       reach:
         extra: 0.776 km
         flown: 0.776 km
@@ -1956,7 +1956,7 @@ score:
         arrival: 0
         time: 0
         reach: 26.402
-      landedMade: -0.343 km
+      landedMade: -0.332 km
       reach:
         extra: 2.711 km
         flown: 2.711 km
@@ -1973,30 +1973,30 @@ score:
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 1023
+      total: 1022
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handcap
       breakdown:
-        effort: 260.995
-        distance: 521.99
+        effort: 260.93
+        distance: 521.86
         leading: 0
         arrival: 0
-        time: 443
-        reach: 260.995
+        time: 442.4
+        reach: 260.93
       landedMade: 40.966 km
       reach:
         extra: 40.966 km
         flown: 40.966 km
       velocity:
-        ss: 2016-04-09T18:56:30.26085776218Z
+        ss: 2016-04-09T18:56:31.61724148867Z
         gs: null
-        es: 2016-04-09T20:16:34.826269988864Z
+        es: 2016-04-09T20:16:32.58681152312Z
         ssDistance: 36.366 km
-        ssElapsed: 1.334602 h
-        gsElapsed: 1.334602 h
-        ssVelocity: 27.25 km / h
-        gsVelocity: 27.25 km / h
+        ssElapsed: 1.333603 h
+        gsElapsed: 1.333603 h
+        ssVelocity: 27.27 km / h
+        gsVelocity: 27.27 km / h
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
@@ -2005,25 +2005,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 260.995
-        distance: 521.99
+        effort: 260.93
+        distance: 521.86
         leading: 0
         arrival: 0
-        time: 457.8
-        reach: 260.995
+        time: 457.7
+        reach: 260.93
       landedMade: 40.966 km
       reach:
         extra: 40.966 km
         flown: 40.966 km
       velocity:
-        ss: 2016-04-09T19:30:41.37100422228Z
+        ss: 2016-04-09T19:30:42.64423637494Z
         gs: null
-        es: 2016-04-09T20:50:21.97511842701Z
+        es: 2016-04-09T20:50:18.418980477765Z
         ssDistance: 36.366 km
-        ssElapsed: 1.327946 h
-        gsElapsed: 1.327946 h
-        ssVelocity: 27.39 km / h
-        gsVelocity: 27.39 km / h
+        ssElapsed: 1.326604 h
+        gsElapsed: 1.326604 h
+        ssVelocity: 27.41 km / h
+        gsVelocity: 27.41 km / h
       stoppedAlt: null
   - - - '216'
       - John Maloney
@@ -2033,52 +2033,52 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 260.995
-        distance: 521.99
+        effort: 260.93
+        distance: 521.86
         leading: 0
         arrival: 0
-        time: 369.8
-        reach: 260.995
+        time: 369.9
+        reach: 260.93
       landedMade: 40.966 km
       reach:
         extra: 40.966 km
         flown: 40.966 km
       velocity:
-        ss: 2016-04-09T19:22:05.633541576017Z
+        ss: 2016-04-09T19:22:07.004893112501Z
         gs: null
-        es: 2016-04-09T20:47:35.455267029734Z
+        es: 2016-04-09T20:47:31.080852675735Z
         ssDistance: 36.366 km
-        ssElapsed: 1.424950 h
-        gsElapsed: 1.424950 h
-        ssVelocity: 25.52 km / h
-        gsVelocity: 25.52 km / h
+        ssElapsed: 1.423354 h
+        gsElapsed: 1.423354 h
+        ssVelocity: 25.55 km / h
+        gsVelocity: 25.55 km / h
       stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 864
+      total: 863
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 260.995
-        distance: 521.99
+        effort: 260.93
+        distance: 521.86
         leading: 0
         arrival: 0
-        time: 341.8
-        reach: 260.995
+        time: 341.4
+        reach: 260.93
       landedMade: 40.966 km
       reach:
         extra: 40.966 km
         flown: 40.966 km
       velocity:
-        ss: 2016-04-09T18:59:36.507745574787Z
+        ss: 2016-04-09T18:59:37.363863911127Z
         gs: null
-        es: 2016-04-09T20:28:06.421466833337Z
+        es: 2016-04-09T20:28:03.965380012302Z
         ssDistance: 36.366 km
-        ssElapsed: 1.474976 h
-        gsElapsed: 1.474976 h
-        ssVelocity: 24.66 km / h
-        gsVelocity: 24.66 km / h
+        ssElapsed: 1.474056 h
+        gsElapsed: 1.474056 h
+        ssVelocity: 24.67 km / h
+        gsVelocity: 24.67 km / h
       stoppedAlt: null
   - - - '202'
       - Nick Jones
@@ -2087,18 +2087,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 260.995
-        distance: 489.352
+        effort: 260.93
+        distance: 489.23
         leading: 0
         arrival: 0
         time: 0
-        reach: 228.356
-      landedMade: 35.513 km
+        reach: 228.3
+      landedMade: 35.573 km
       reach:
         extra: 35.843 km
         flown: 35.843 km
       velocity:
-        ss: 2016-04-09T18:50:46.06175762644Z
+        ss: 2016-04-09T18:50:47.393518107228Z
         gs: null
         es: null
         ssDistance: null
@@ -2110,22 +2110,22 @@ score:
   - - - '212'
       - Greg Sessa
     - place: '6'
-      total: 473
+      total: 474
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 255.423
-        distance: 473.484
+        effort: 255.653
+        distance: 473.66
         leading: 0
         arrival: 0
         time: 0
-        reach: 218.061
-      landedMade: 33.642 km
+        reach: 218.007
+      landedMade: 33.702 km
       reach:
         extra: 34.227 km
         flown: 34.227 km
       velocity:
-        ss: 2016-04-09T19:37:30.580470849311Z
+        ss: 2016-04-09T19:37:31.691522612447Z
         gs: null
         es: null
         ssDistance: null
@@ -2141,18 +2141,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 223.165
-        distance: 405.804
+        effort: 223.403
+        distance: 405.996
         leading: 0
         arrival: 0
         time: 0
-        reach: 182.638
-      landedMade: 28.159 km
+        reach: 182.593
+      landedMade: 28.219 km
       reach:
         extra: 28.667 km
         flown: 28.667 km
       velocity:
-        ss: 2016-04-09T19:23:22.98885270596Z
+        ss: 2016-04-09T19:23:24.2513462115Z
         gs: null
         es: null
         ssDistance: null
@@ -2169,18 +2169,18 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 140.468
-        distance: 224.763
+        effort: 140.433
+        distance: 224.707
         leading: 0
         arrival: 0
         time: 0
-        reach: 84.295
-      landedMade: 12.939 km
+        reach: 84.274
+      landedMade: 13.000 km
       reach:
         extra: 13.231 km
         flown: 13.231 km
       velocity:
-        ss: 2016-04-09T19:57:04.1646864836Z
+        ss: 2016-04-09T19:57:05.88922120026Z
         gs: null
         es: null
         ssDistance: null
@@ -2197,18 +2197,18 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 134.017
-        distance: 203.869
+        effort: 133.983
+        distance: 203.818
         leading: 0
         arrival: 0
         time: 0
-        reach: 69.852
-      landedMade: 10.716 km
+        reach: 69.835
+      landedMade: 10.776 km
       reach:
         extra: 10.964 km
         flown: 10.964 km
       velocity:
-        ss: 2016-04-09T19:56:17.425315544095Z
+        ss: 2016-04-09T19:56:19.114954139065Z
         gs: null
         es: null
         ssDistance: null
@@ -2225,18 +2225,18 @@ score:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 122.286
-        distance: 182.671
+        effort: 122.256
+        distance: 182.626
         leading: 0
         arrival: 0
         time: 0
-        reach: 60.385
-      landedMade: 8.709 km
+        reach: 60.37
+      landedMade: 8.769 km
       reach:
         extra: 9.478 km
         flown: 9.478 km
       velocity:
-        ss: 2016-04-09T19:58:59.39511910757Z
+        ss: 2016-04-09T19:59:00.93444129756Z
         gs: null
         es: null
         ssDistance: null
@@ -2252,12 +2252,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 89.735
-        distance: 121.623
+        effort: 89.713
+        distance: 121.593
         leading: 0
         arrival: 0
         time: 0
-        reach: 31.888
+        reach: 31.88
       landedMade: 5.005 km
       reach:
         extra: 5.005 km
@@ -2271,12 +2271,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 89.735
-        distance: 121.623
+        effort: 89.713
+        distance: 121.593
         leading: 0
         arrival: 0
         time: 0
-        reach: 31.888
+        reach: 31.88
       landedMade: 5.005 km
       reach:
         extra: 5.005 km
@@ -2290,12 +2290,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 89.735
-        distance: 121.623
+        effort: 89.713
+        distance: 121.593
         leading: 0
         arrival: 0
         time: 0
-        reach: 31.888
+        reach: 31.88
       landedMade: 5.005 km
       reach:
         extra: 5.005 km
@@ -2310,25 +2310,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 174.86
-        distance: 349.72
+        effort: 174.752
+        distance: 349.505
         leading: 0
         arrival: 0
-        time: 83.2
-        reach: 174.86
+        time: 83.1
+        reach: 174.752
       landedMade: 34.258 km
       reach:
         extra: 34.258 km
         flown: 34.258 km
       velocity:
-        ss: 2016-04-03T19:36:37.093529766631Z
+        ss: 2016-04-03T19:36:39.045684584836Z
         gs: null
-        es: 2016-04-03T20:36:22.071142791429Z
+        es: 2016-04-03T20:36:20.066990628942Z
         ssDistance: 29.658 km
-        ssElapsed: 0.995827 h
-        gsElapsed: 0.995827 h
-        ssVelocity: 29.78 km / h
-        gsVelocity: 29.78 km / h
+        ssElapsed: 0.994728 h
+        gsElapsed: 0.994728 h
+        ssVelocity: 29.82 km / h
+        gsVelocity: 29.82 km / h
       stoppedAlt: null
   - - - '202'
       - Nick Jones
@@ -2337,18 +2337,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 174.86
-        distance: 311.193
+        effort: 174.752
+        distance: 311.002
         leading: 0
         arrival: 0
         time: 0
-        reach: 136.333
-      landedMade: 26.261 km
+        reach: 136.249
+      landedMade: 26.306 km
       reach:
         extra: 26.710 km
         flown: 26.710 km
       velocity:
-        ss: 2016-04-03T20:13:56.032894336152Z
+        ss: 2016-04-03T20:13:57.421447341702Z
         gs: null
         es: null
         ssDistance: null
@@ -2364,18 +2364,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 160.603
-        distance: 263.279
+        effort: 160.521
+        distance: 263.134
         leading: 0
         arrival: 0
         time: 0
-        reach: 102.676
-      landedMade: 19.478 km
+        reach: 102.613
+      landedMade: 19.523 km
       reach:
         extra: 20.116 km
         flown: 20.116 km
       velocity:
-        ss: 2016-04-03T19:36:36.960016516585Z
+        ss: 2016-04-03T19:36:38.277786615935Z
         gs: null
         es: null
         ssDistance: null
@@ -2387,23 +2387,23 @@ scoreDf:
   - - - '201'
       - Niki Longshore
     - place: '4'
-      total: 259
+      total: 258
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 155.361
-        distance: 244.011
+        effort: 155.08
+        distance: 243.675
         leading: 0
         arrival: 0
         time: 0
-        reach: 88.65
-      landedMade: 17.027 km
+        reach: 88.595
+      landedMade: 17.072 km
       reach:
         extra: 17.368 km
         flown: 17.368 km
       velocity:
-        ss: 2016-04-03T19:37:49.21462888645Z
+        ss: 2016-04-03T19:37:51.05736768409Z
         gs: null
         es: null
         ssDistance: null
@@ -2419,18 +2419,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 155.361
-        distance: 243.373
+        effort: 155.08
+        distance: 243.037
         leading: 0
         arrival: 0
         time: 0
-        reach: 88.012
-      landedMade: 17.037 km
+        reach: 87.957
+      landedMade: 17.082 km
       reach:
         extra: 17.243 km
         flown: 17.243 km
       velocity:
-        ss: 2016-04-03T19:37:30.714402587429Z
+        ss: 2016-04-03T19:37:49.485991684638Z
         gs: null
         es: null
         ssDistance: null
@@ -2447,18 +2447,18 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 144.039
-        distance: 223.639
+        effort: 144.406
+        distance: 223.957
         leading: 0
         arrival: 0
         time: 0
-        reach: 79.6
-      landedMade: 15.300 km
+        reach: 79.551
+      landedMade: 15.345 km
       reach:
         extra: 15.595 km
         flown: 15.595 km
       velocity:
-        ss: 2016-04-03T20:02:13.684718705233Z
+        ss: 2016-04-03T20:02:15.368273340497Z
         gs: null
         es: null
         ssDistance: null
@@ -2470,23 +2470,23 @@ scoreDf:
   - - - '209'
       - John Blank
     - place: '7'
-      total: 195
+      total: 196
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 120.138
-        distance: 184.113
+        effort: 120.548
+        distance: 184.484
         leading: 0
         arrival: 0
         time: 0
-        reach: 63.976
-      landedMade: 12.387 km
+        reach: 63.936
+      landedMade: 12.435 km
       reach:
         extra: 12.534 km
         flown: 12.534 km
       velocity:
-        ss: 2016-04-03T20:01:46.97204576284Z
+        ss: 2016-04-03T20:01:49.03893816732Z
         gs: null
         es: null
         ssDistance: null
@@ -2503,18 +2503,18 @@ scoreDf:
       - penalty-fraction: -0.29
       penaltyReason: Handicap
       breakdown:
-        effort: 90.365
-        distance: 135.848
+        effort: 89.992
+        distance: 135.447
         leading: 0
         arrival: 0
         time: 0
-        reach: 45.483
-      landedMade: 8.629 km
+        reach: 45.455
+      landedMade: 8.677 km
       reach:
         extra: 8.911 km
         flown: 8.911 km
       velocity:
-        ss: 2016-04-03T20:09:47.94620152319Z
+        ss: 2016-04-03T20:10:03.201707993795Z
         gs: null
         es: null
         ssDistance: null
@@ -2526,22 +2526,22 @@ scoreDf:
   - - - '212'
       - Greg Sessa
     - place: '9'
-      total: 169
+      total: 168
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 108.396
-        distance: 168.845
+        effort: 107.991
+        distance: 168.402
         leading: 0
         arrival: 0
         time: 0
-        reach: 60.449
-      landedMade: 10.909 km
+        reach: 60.412
+      landedMade: 10.959 km
       reach:
         extra: 11.843 km
         flown: 11.843 km
       velocity:
-        ss: 2016-04-03T19:24:36.333573166442Z
+        ss: 2016-04-03T19:24:37.550757271916Z
         gs: null
         es: null
         ssDistance: null
@@ -2557,18 +2557,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 91.204
-        distance: 137.973
+        effort: 90.829
+        distance: 137.57
         leading: 0
         arrival: 0
         time: 0
-        reach: 46.769
-      landedMade: 8.728 km
+        reach: 46.741
+      landedMade: 8.776 km
       reach:
         extra: 9.163 km
         flown: 9.163 km
       velocity:
-        ss: 2016-04-03T19:48:02.789519007022Z
+        ss: 2016-04-03T19:48:04.459142979636Z
         gs: null
         es: null
         ssDistance: null
@@ -2584,18 +2584,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 90.365
-        distance: 137.492
+        effort: 89.992
+        distance: 137.09
         leading: 0
         arrival: 0
         time: 0
-        reach: 47.127
-      landedMade: 8.630 km
+        reach: 47.098
+      landedMade: 8.678 km
       reach:
         extra: 9.233 km
         flown: 9.233 km
       velocity:
-        ss: 2016-04-03T19:37:28.401533884435Z
+        ss: 2016-04-03T19:37:30.548824629265Z
         gs: null
         es: null
         ssDistance: null
@@ -2607,22 +2607,22 @@ scoreDf:
   - - - '207'
       - Alex Skyride
     - place: '12'
-      total: 110
+      total: 111
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 72.963
-        distance: 110.331
+        effort: 73.877
+        distance: 111.222
         leading: 0
         arrival: 0
         time: 0
-        reach: 37.367
-      landedMade: 7.052 km
+        reach: 37.344
+      landedMade: 7.100 km
       reach:
         extra: 7.321 km
         flown: 7.321 km
       velocity:
-        ss: 2016-04-03T20:11:18.608256283535Z
+        ss: 2016-04-03T20:11:20.270586914429Z
         gs: null
         es: null
         ssDistance: null
@@ -2639,13 +2639,13 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 33.966
-        distance: 59.487
+        effort: 33.904
+        distance: 59.41
         leading: 0
         arrival: 0
         time: 0
-        reach: 25.521
-      landedMade: 3.530 km
+        reach: 25.505
+      landedMade: 3.579 km
       reach:
         extra: 4.435 km
         flown: 4.435 km
@@ -2662,17 +2662,17 @@ scoreDf:
   - - - '213'
       - Willie Van Caulart
     - place: '14'
-      total: 57
+      total: 58
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 31.869
-        distance: 57.39
+        effort: 32.858
+        distance: 58.363
         leading: 0
         arrival: 0
         time: 0
-        reach: 25.521
-      landedMade: 3.380 km
+        reach: 25.505
+      landedMade: 3.428 km
       reach:
         extra: 3.684 km
         flown: 3.684 km
@@ -2694,13 +2694,13 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 3.145
-        distance: 28.666
+        effort: 2.93
+        distance: 28.435
         leading: 0
         arrival: 0
         time: 0
-        reach: 25.521
-      landedMade: 0.300 km
+        reach: 25.505
+      landedMade: 0.349 km
       reach:
         extra: 1.501 km
         flown: 1.501 km
@@ -2722,13 +2722,13 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 0.839
-        distance: 26.36
+        effort: 0.837
+        distance: 26.343
         leading: 0
         arrival: 0
         time: 0
-        reach: 25.521
-      landedMade: -0.501 km
+        reach: 25.505
+      landedMade: -0.452 km
       reach:
         extra: -0.024 km
         flown: -0.024 km
@@ -2761,12 +2761,12 @@ scoreDf:
         extra: 42.669 km
         flown: 42.669 km
       velocity:
-        ss: 2016-04-04T18:21:42.98837936506Z
+        ss: 2016-04-04T18:21:43.92792846267Z
         gs: null
-        es: 2016-04-04T21:07:40.773540303608Z
+        es: 2016-04-04T21:07:40.707284896826Z
         ssDistance: 40.069 km
-        ssElapsed: 2.766051 h
-        gsElapsed: 2.766051 h
+        ssElapsed: 2.765772 h
+        gsElapsed: 2.765772 h
         ssVelocity: 14.49 km / h
         gsVelocity: 14.49 km / h
       stoppedAlt: null
@@ -2783,12 +2783,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 312.068
-      landedMade: 36.556 km
+      landedMade: 36.558 km
       reach:
         extra: 36.766 km
         flown: 36.766 km
       velocity:
-        ss: 2016-04-04T18:25:22.456346543818Z
+        ss: 2016-04-04T18:25:23.350577830675Z
         gs: null
         es: null
         ssDistance: null
@@ -2804,18 +2804,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 335.443
-        distance: 552.752
+        effort: 335.468
+        distance: 552.777
         leading: 0
         arrival: 0
         time: 0
         reach: 217.309
-      landedMade: 25.602 km
+      landedMade: 25.608 km
       reach:
         extra: 25.602 km
         flown: 25.602 km
       velocity:
-        ss: 2016-04-04T18:05:24.236496919828Z
+        ss: 2016-04-04T18:05:25.42943784332Z
         gs: null
         es: null
         ssDistance: null
@@ -2832,18 +2832,18 @@ scoreDf:
       - penalty-fraction: -0.29
       penaltyReason: Handicap
       breakdown:
-        effort: 258.265
-        distance: 416.497
+        effort: 258.36
+        distance: 416.593
         leading: 0
         arrival: 0
         time: 0
         reach: 158.233
-      landedMade: 18.628 km
+      landedMade: 18.633 km
       reach:
         extra: 18.642 km
         flown: 18.642 km
       velocity:
-        ss: 2016-04-04T18:22:04.84215920645Z
+        ss: 2016-04-04T18:22:06.00909010885Z
         gs: null
         es: null
         ssDistance: null
@@ -2859,18 +2859,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 325.086
-        distance: 518.221
+        effort: 325.12
+        distance: 518.255
         leading: 0
         arrival: 0
         time: 0
         reach: 193.135
-      landedMade: 22.502 km
+      landedMade: 22.507 km
       reach:
         extra: 22.754 km
         flown: 22.754 km
       velocity:
-        ss: 2016-04-04T17:52:07.719012445625Z
+        ss: 2016-04-04T17:52:08.89390139282Z
         gs: null
         es: null
         ssDistance: null
@@ -2886,18 +2886,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 325.086
-        distance: 517.814
+        effort: 325.12
+        distance: 517.848
         leading: 0
         arrival: 0
         time: 0
         reach: 192.728
-      landedMade: 22.589 km
+      landedMade: 22.595 km
       reach:
         extra: 22.706 km
         flown: 22.706 km
       velocity:
-        ss: 2016-04-04T17:50:43.261273205752Z
+        ss: 2016-04-04T17:50:44.088088032962Z
         gs: null
         es: null
         ssDistance: null
@@ -2913,18 +2913,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 325.086
-        distance: 516.668
+        effort: 325.12
+        distance: 516.702
         leading: 0
         arrival: 0
         time: 0
         reach: 191.582
-      landedMade: 22.533 km
+      landedMade: 22.539 km
       reach:
         extra: 22.571 km
         flown: 22.571 km
       velocity:
-        ss: 2016-04-04T18:21:53.04510305592Z
+        ss: 2016-04-04T18:21:53.97334571472Z
         gs: null
         es: null
         ssDistance: null
@@ -2940,18 +2940,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 305.04
-        distance: 491.715
+        effort: 305.092
+        distance: 491.768
         leading: 0
         arrival: 0
         time: 0
         reach: 186.676
-      landedMade: 21.086 km
+      landedMade: 21.092 km
       reach:
         extra: 21.993 km
         flown: 21.993 km
       velocity:
-        ss: 2016-04-04T19:37:26.177235085996Z
+        ss: 2016-04-04T19:37:27.150273115196Z
         gs: null
         es: null
         ssDistance: null
@@ -2967,18 +2967,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 272.297
-        distance: 481.525
+        effort: 272.38
+        distance: 481.608
         leading: 0
         arrival: 0
         time: 0
         reach: 209.228
-      landedMade: 19.215 km
+      landedMade: 19.221 km
       reach:
         extra: 24.650 km
         flown: 24.650 km
       velocity:
-        ss: 2016-04-04T18:04:41.03419946316Z
+        ss: 2016-04-04T18:04:41.76341032328Z
         gs: null
         es: null
         ssDistance: null
@@ -2994,18 +2994,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 288.334
-        distance: 458.628
+        effort: 288.402
+        distance: 458.696
         leading: 0
         arrival: 0
         time: 0
         reach: 170.294
-      landedMade: 20.063 km
+      landedMade: 20.069 km
       reach:
         extra: 20.063 km
         flown: 20.063 km
       velocity:
-        ss: 2016-04-04T18:02:16.664106550703Z
+        ss: 2016-04-04T18:02:18.15472281566Z
         gs: null
         es: null
         ssDistance: null
@@ -3022,18 +3022,18 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 258.265
-        distance: 419.222
+        effort: 258.36
+        distance: 419.318
         leading: 0
         arrival: 0
         time: 0
         reach: 160.957
-      landedMade: 18.607 km
+      landedMade: 18.613 km
       reach:
         extra: 18.963 km
         flown: 18.963 km
       velocity:
-        ss: 2016-04-04T18:24:27.454848566215Z
+        ss: 2016-04-04T18:24:28.343739438336Z
         gs: null
         es: null
         ssDistance: null
@@ -3045,23 +3045,23 @@ scoreDf:
   - - - '210'
       - Pete Wall
     - place: '12'
-      total: 431
+      total: 434
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 249.244
-        distance: 406.56
+        effort: 252.352
+        distance: 409.668
         leading: 0
         arrival: 0
         time: 0
         reach: 157.316
-      landedMade: 18.393 km
+      landedMade: 18.400 km
       reach:
         extra: 18.534 km
         flown: 18.534 km
       velocity:
-        ss: 2016-04-04T18:30:32.16484997245Z
+        ss: 2016-04-04T18:30:33.14847030008Z
         gs: null
         es: null
         ssDistance: null
@@ -3077,18 +3077,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 85.865
-        distance: 193.391
+        effort: 85.786
+        distance: 193.312
         leading: 0
         arrival: 0
         time: 0
         reach: 107.526
-      landedMade: 12.067 km
+      landedMade: 12.075 km
       reach:
         extra: 12.668 km
         flown: 12.668 km
       velocity:
-        ss: 2016-04-04T18:04:55.83474761016Z
+        ss: 2016-04-04T18:04:56.75421252113Z
         gs: null
         es: null
         ssDistance: null
@@ -3105,18 +3105,18 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 48.111
-        distance: 103.759
+        effort: 48.067
+        distance: 103.715
         leading: 0
         arrival: 0
         time: 0
         reach: 55.648
-      landedMade: 6.082 km
+      landedMade: 6.098 km
       reach:
         extra: 6.556 km
         flown: 6.556 km
       velocity:
-        ss: 2016-04-04T18:42:24.7662745182Z
+        ss: 2016-04-04T18:42:25.75668440412Z
         gs: null
         es: null
         ssDistance: null
@@ -3133,18 +3133,18 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 48.111
-        distance: 99.795
+        effort: 48.735
+        distance: 100.419
         leading: 0
         arrival: 0
         time: 0
         reach: 51.684
-      landedMade: 6.084 km
+      landedMade: 6.101 km
       reach:
         extra: 6.089 km
         flown: 6.089 km
       velocity:
-        ss: 2016-04-04T18:15:50.93675660729Z
+        ss: 2016-04-04T18:15:51.81903435395Z
         gs: null
         es: null
         ssDistance: null
@@ -3160,18 +3160,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 1.336
-        distance: 58.368
+        effort: 1.335
+        distance: 58.367
         leading: 0
         arrival: 0
         time: 0
         reach: 57.031
-      landedMade: -10.359 km
+      landedMade: -10.341 km
       reach:
         extra: 6.719 km
         flown: 6.719 km
       velocity:
-        ss: 2016-04-04T18:05:13.745890422758Z
+        ss: 2016-04-04T18:05:14.876530601145Z
         gs: null
         es: null
         ssDistance: null
@@ -3188,13 +3188,13 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 1.336
-        distance: 43.776
+        effort: 1.335
+        distance: 43.775
         leading: 0
         arrival: 0
         time: 0
         reach: 42.44
-      landedMade: -0.591 km
+      landedMade: -0.573 km
       reach:
         extra: 0.953 km
         flown: 0.953 km
@@ -3227,19 +3227,19 @@ scoreDf:
         extra: 110.549 km
         flown: 110.549 km
       velocity:
-        ss: 2016-04-05T17:47:58.35298837829Z
+        ss: 2016-04-05T17:48:00.01979949974Z
         gs: null
-        es: 2016-04-05T21:36:47.139624477824Z
+        es: 2016-04-05T21:36:46.951343017656Z
         ssDistance: 105.949 km
-        ssElapsed: 3.813552 h
-        gsElapsed: 3.813552 h
-        ssVelocity: 27.78 km / h
-        gsVelocity: 27.78 km / h
+        ssElapsed: 3.813037 h
+        gsElapsed: 3.813037 h
+        ssVelocity: 27.79 km / h
+        gsVelocity: 27.79 km / h
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 978
+      total: 977
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3247,19 +3247,19 @@ scoreDf:
         distance: 726.871
         leading: 0
         arrival: 0
-        time: 250.7
+        time: 250.6
         reach: 363.436
       landedMade: 110.549 km
       reach:
         extra: 110.549 km
         flown: 110.549 km
       velocity:
-        ss: 2016-04-05T18:35:03.1936812198Z
+        ss: 2016-04-05T18:35:04.530966889495Z
         gs: null
-        es: 2016-04-05T22:26:37.831365380065Z
+        es: 2016-04-05T22:26:37.72279848975Z
         ssDistance: 105.949 km
-        ssElapsed: 3.859622 h
-        gsElapsed: 3.859622 h
+        ssElapsed: 3.859220 h
+        gsElapsed: 3.859220 h
         ssVelocity: 27.45 km / h
         gsVelocity: 27.45 km / h
       stoppedAlt: null
@@ -3276,12 +3276,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 359.55
-      landedMade: 109.368 km
+      landedMade: 109.370 km
       reach:
         extra: 109.367 km
         flown: 109.367 km
       velocity:
-        ss: 2016-04-05T18:35:02.44605904154Z
+        ss: 2016-04-05T18:35:04.106208664634Z
         gs: null
         es: null
         ssDistance: null
@@ -3304,12 +3304,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 291.202
-      landedMade: 88.367 km
+      landedMade: 88.369 km
       reach:
         extra: 88.577 km
         flown: 88.577 km
       velocity:
-        ss: 2016-04-05T17:53:31.800294834412Z
+        ss: 2016-04-05T17:53:33.836163097302Z
         gs: null
         es: null
         ssDistance: null
@@ -3331,12 +3331,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 293.888
-      landedMade: 88.187 km
+      landedMade: 88.189 km
       reach:
         extra: 89.394 km
         flown: 89.394 km
       velocity:
-        ss: 2016-04-05T17:48:44.97736171827Z
+        ss: 2016-04-05T17:48:46.732849458495Z
         gs: null
         es: null
         ssDistance: null
@@ -3359,12 +3359,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 148.891
-      landedMade: 44.908 km
+      landedMade: 44.910 km
       reach:
         extra: 45.289 km
         flown: 45.289 km
       velocity:
-        ss: 2016-04-05T17:48:19.138048918385Z
+        ss: 2016-04-05T17:48:20.777311926255Z
         gs: null
         es: null
         ssDistance: null
@@ -3386,12 +3386,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 79.846
-      landedMade: 24.091 km
+      landedMade: 24.093 km
       reach:
         extra: 24.287 km
         flown: 24.287 km
       velocity:
-        ss: 2016-04-05T18:44:16.00816069295Z
+        ss: 2016-04-05T18:44:20.107544552645Z
         gs: null
         es: null
         ssDistance: null
@@ -3413,12 +3413,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 74.152
-      landedMade: 22.555 km
+      landedMade: 22.565 km
       reach:
         extra: 22.555 km
         flown: 22.555 km
       velocity:
-        ss: 2016-04-05T18:58:10.571612094198Z
+        ss: 2016-04-05T18:58:12.146051637765Z
         gs: null
         es: null
         ssDistance: null
@@ -3440,12 +3440,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 54.62
-      landedMade: 15.818 km
+      landedMade: 15.823 km
       reach:
         extra: 16.614 km
         flown: 16.614 km
       velocity:
-        ss: 2016-04-05T18:34:08.892384506668Z
+        ss: 2016-04-05T18:34:10.488123032425Z
         gs: null
         es: null
         ssDistance: null
@@ -3467,12 +3467,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 53.789
-      landedMade: 15.705 km
+      landedMade: 15.710 km
       reach:
         extra: 16.361 km
         flown: 16.361 km
       velocity:
-        ss: 2016-04-05T18:34:10.856061922852Z
+        ss: 2016-04-05T18:34:12.410221628094Z
         gs: null
         es: null
         ssDistance: null
@@ -3494,12 +3494,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 37.229
-      landedMade: 10.992 km
+      landedMade: 10.996 km
       reach:
         extra: 11.324 km
         flown: 11.324 km
       velocity:
-        ss: 2016-04-05T18:51:35.24948487465Z
+        ss: 2016-04-05T18:51:36.7031262154Z
         gs: null
         es: null
         ssDistance: null
@@ -3522,12 +3522,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 30.473
-      landedMade: 9.003 km
+      landedMade: 9.008 km
       reach:
         extra: 9.269 km
         flown: 9.269 km
       velocity:
-        ss: 2016-04-05T17:48:28.70615325293Z
+        ss: 2016-04-05T17:48:34.28499618964Z
         gs: null
         es: null
         ssDistance: null
@@ -3549,7 +3549,7 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 16.438
-      landedMade: -0.459 km
+      landedMade: -0.455 km
       reach:
         extra: 0.444 km
         flown: 0.444 km
@@ -3576,12 +3576,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 450
-      landedMade: 85.118 km
+      landedMade: 85.123 km
       reach:
         extra: 85.220 km
         flown: 85.220 km
       velocity:
-        ss: 2016-04-06T18:38:36.257682210422Z
+        ss: 2016-04-06T18:39:05.305599071856Z
         gs: null
         es: null
         ssDistance: null
@@ -3603,12 +3603,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 379.559
-      landedMade: 70.054 km
+      landedMade: 70.059 km
       reach:
         extra: 71.880 km
         flown: 71.880 km
       velocity:
-        ss: 2016-04-06T19:03:23.77319770048Z
+        ss: 2016-04-06T19:03:25.42649147137Z
         gs: null
         es: null
         ssDistance: null
@@ -3631,12 +3631,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 253.028
-      landedMade: 47.725 km
+      landedMade: 47.731 km
       reach:
         extra: 47.918 km
         flown: 47.918 km
       velocity:
-        ss: 2016-04-06T17:54:54.97200634003Z
+        ss: 2016-04-06T17:54:56.62714826519Z
         gs: null
         es: null
         ssDistance: null
@@ -3658,12 +3658,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 238.856
-      landedMade: 45.047 km
+      landedMade: 45.062 km
       reach:
         extra: 45.234 km
         flown: 45.234 km
       velocity:
-        ss: 2016-04-06T18:34:01.160106119795Z
+        ss: 2016-04-06T18:34:02.983190175149Z
         gs: null
         es: null
         ssDistance: null
@@ -3675,22 +3675,22 @@ scoreDf:
   - - - '214'
       - Richard Elder
     - place: '5'
-      total: 508
+      total: 509
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 314.07
-        distance: 508.29
+        effort: 314.573
+        distance: 508.793
         leading: 0
         arrival: 0
         time: 0
         reach: 194.22
-      landedMade: 36.399 km
+      landedMade: 36.411 km
       reach:
         extra: 36.781 km
         flown: 36.781 km
       velocity:
-        ss: 2016-04-06T19:20:15.798483416192Z
+        ss: 2016-04-06T19:20:17.163176722602Z
         gs: null
         es: null
         ssDistance: null
@@ -3706,18 +3706,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 305.779
-        distance: 493.261
+        effort: 305.528
+        distance: 493.01
         leading: 0
         arrival: 0
         time: 0
         reach: 187.482
-      landedMade: 35.261 km
+      landedMade: 35.272 km
       reach:
         extra: 35.505 km
         flown: 35.505 km
       velocity:
-        ss: 2016-04-06T18:27:44.927799663489Z
+        ss: 2016-04-06T18:27:46.290312950419Z
         gs: null
         es: null
         ssDistance: null
@@ -3734,18 +3734,18 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 235.176
-        distance: 379.427
+        effort: 234.925
+        distance: 379.176
         leading: 0
         arrival: 0
         time: 0
         reach: 144.251
-      landedMade: 27.078 km
+      landedMade: 27.086 km
       reach:
         extra: 27.318 km
         flown: 27.318 km
       velocity:
-        ss: 2016-04-06T17:56:05.099404729848Z
+        ss: 2016-04-06T17:56:07.117376638702Z
         gs: null
         es: null
         ssDistance: null
@@ -3768,12 +3768,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 99.161
-      landedMade: 18.009 km
+      landedMade: 18.020 km
       reach:
         extra: 18.779 km
         flown: 18.779 km
       velocity:
-        ss: 2016-04-06T17:54:07.10545206485Z
+        ss: 2016-04-06T17:54:08.27540198369Z
         gs: null
         es: null
         ssDistance: null
@@ -3795,12 +3795,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 102.641
-      landedMade: 19.121 km
+      landedMade: 19.130 km
       reach:
         extra: 19.438 km
         flown: 19.438 km
       velocity:
-        ss: 2016-04-06T19:20:50.55801141191Z
+        ss: 2016-04-06T19:20:52.467912279965Z
         gs: null
         es: null
         ssDistance: null
@@ -3823,12 +3823,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 62.948
-      landedMade: 11.202 km
+      landedMade: 11.211 km
       reach:
         extra: 11.921 km
         flown: 11.921 km
       velocity:
-        ss: 2016-04-06T17:54:24.902373725615Z
+        ss: 2016-04-06T17:54:26.66820420111Z
         gs: null
         es: null
         ssDistance: null
@@ -3851,12 +3851,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 45.792
-      landedMade: 8.134 km
+      landedMade: 8.144 km
       reach:
         extra: 8.672 km
         flown: 8.672 km
       velocity:
-        ss: 2016-04-06T18:03:32.845884604624Z
+        ss: 2016-04-06T18:03:34.0308354137Z
         gs: null
         es: null
         ssDistance: null
@@ -3878,12 +3878,12 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 30.853
-      landedMade: 5.471 km
+      landedMade: 5.481 km
       reach:
         extra: 5.843 km
         flown: 5.843 km
       velocity:
-        ss: 2016-04-06T18:40:10.168869773908Z
+        ss: 2016-04-06T18:40:26.390945690302Z
         gs: null
         es: null
         ssDistance: null
@@ -3905,7 +3905,7 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 26.402
-      landedMade: 0.825 km
+      landedMade: 0.837 km
       reach:
         extra: 1.123 km
         flown: 1.123 km
@@ -3932,7 +3932,7 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 26.402
-      landedMade: -0.339 km
+      landedMade: -0.327 km
       reach:
         extra: 0.776 km
         flown: 0.776 km
@@ -3959,7 +3959,7 @@ scoreDf:
         arrival: 0
         time: 0
         reach: 26.402
-      landedMade: -0.343 km
+      landedMade: -0.332 km
       reach:
         extra: 2.711 km
         flown: 2.711 km
@@ -3976,30 +3976,30 @@ scoreDf:
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 1023
+      total: 1022
       penalties:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handcap
       breakdown:
-        effort: 260.995
-        distance: 521.99
+        effort: 260.93
+        distance: 521.86
         leading: 0
         arrival: 0
-        time: 443
-        reach: 260.995
+        time: 442.4
+        reach: 260.93
       landedMade: 40.966 km
       reach:
         extra: 40.966 km
         flown: 40.966 km
       velocity:
-        ss: 2016-04-09T18:56:30.26085776218Z
+        ss: 2016-04-09T18:56:31.61724148867Z
         gs: null
-        es: 2016-04-09T20:16:34.826269988864Z
+        es: 2016-04-09T20:16:32.58681152312Z
         ssDistance: 36.366 km
-        ssElapsed: 1.334602 h
-        gsElapsed: 1.334602 h
-        ssVelocity: 27.25 km / h
-        gsVelocity: 27.25 km / h
+        ssElapsed: 1.333603 h
+        gsElapsed: 1.333603 h
+        ssVelocity: 27.27 km / h
+        gsVelocity: 27.27 km / h
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
@@ -4008,25 +4008,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 260.995
-        distance: 521.99
+        effort: 260.93
+        distance: 521.86
         leading: 0
         arrival: 0
-        time: 457.8
-        reach: 260.995
+        time: 457.7
+        reach: 260.93
       landedMade: 40.966 km
       reach:
         extra: 40.966 km
         flown: 40.966 km
       velocity:
-        ss: 2016-04-09T19:30:41.37100422228Z
+        ss: 2016-04-09T19:30:42.64423637494Z
         gs: null
-        es: 2016-04-09T20:50:21.97511842701Z
+        es: 2016-04-09T20:50:18.418980477765Z
         ssDistance: 36.366 km
-        ssElapsed: 1.327946 h
-        gsElapsed: 1.327946 h
-        ssVelocity: 27.39 km / h
-        gsVelocity: 27.39 km / h
+        ssElapsed: 1.326604 h
+        gsElapsed: 1.326604 h
+        ssVelocity: 27.41 km / h
+        gsVelocity: 27.41 km / h
       stoppedAlt: null
   - - - '216'
       - John Maloney
@@ -4036,52 +4036,52 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 260.995
-        distance: 521.99
+        effort: 260.93
+        distance: 521.86
         leading: 0
         arrival: 0
-        time: 369.8
-        reach: 260.995
+        time: 369.9
+        reach: 260.93
       landedMade: 40.966 km
       reach:
         extra: 40.966 km
         flown: 40.966 km
       velocity:
-        ss: 2016-04-09T19:22:05.633541576017Z
+        ss: 2016-04-09T19:22:07.004893112501Z
         gs: null
-        es: 2016-04-09T20:47:35.455267029734Z
+        es: 2016-04-09T20:47:31.080852675735Z
         ssDistance: 36.366 km
-        ssElapsed: 1.424950 h
-        gsElapsed: 1.424950 h
-        ssVelocity: 25.52 km / h
-        gsVelocity: 25.52 km / h
+        ssElapsed: 1.423354 h
+        gsElapsed: 1.423354 h
+        ssVelocity: 25.55 km / h
+        gsVelocity: 25.55 km / h
       stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 864
+      total: 863
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 260.995
-        distance: 521.99
+        effort: 260.93
+        distance: 521.86
         leading: 0
         arrival: 0
-        time: 341.8
-        reach: 260.995
+        time: 341.4
+        reach: 260.93
       landedMade: 40.966 km
       reach:
         extra: 40.966 km
         flown: 40.966 km
       velocity:
-        ss: 2016-04-09T18:59:36.507745574787Z
+        ss: 2016-04-09T18:59:37.363863911127Z
         gs: null
-        es: 2016-04-09T20:28:06.421466833337Z
+        es: 2016-04-09T20:28:03.965380012302Z
         ssDistance: 36.366 km
-        ssElapsed: 1.474976 h
-        gsElapsed: 1.474976 h
-        ssVelocity: 24.66 km / h
-        gsVelocity: 24.66 km / h
+        ssElapsed: 1.474056 h
+        gsElapsed: 1.474056 h
+        ssVelocity: 24.67 km / h
+        gsVelocity: 24.67 km / h
       stoppedAlt: null
   - - - '202'
       - Nick Jones
@@ -4090,18 +4090,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 260.995
-        distance: 489.352
+        effort: 260.93
+        distance: 489.23
         leading: 0
         arrival: 0
         time: 0
-        reach: 228.356
-      landedMade: 35.513 km
+        reach: 228.3
+      landedMade: 35.573 km
       reach:
         extra: 35.843 km
         flown: 35.843 km
       velocity:
-        ss: 2016-04-09T18:50:46.06175762644Z
+        ss: 2016-04-09T18:50:47.393518107228Z
         gs: null
         es: null
         ssDistance: null
@@ -4113,22 +4113,22 @@ scoreDf:
   - - - '212'
       - Greg Sessa
     - place: '6'
-      total: 473
+      total: 474
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 255.423
-        distance: 473.484
+        effort: 255.653
+        distance: 473.66
         leading: 0
         arrival: 0
         time: 0
-        reach: 218.061
-      landedMade: 33.642 km
+        reach: 218.007
+      landedMade: 33.702 km
       reach:
         extra: 34.227 km
         flown: 34.227 km
       velocity:
-        ss: 2016-04-09T19:37:30.580470849311Z
+        ss: 2016-04-09T19:37:31.691522612447Z
         gs: null
         es: null
         ssDistance: null
@@ -4144,18 +4144,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 223.165
-        distance: 405.804
+        effort: 223.403
+        distance: 405.996
         leading: 0
         arrival: 0
         time: 0
-        reach: 182.638
-      landedMade: 28.159 km
+        reach: 182.593
+      landedMade: 28.219 km
       reach:
         extra: 28.667 km
         flown: 28.667 km
       velocity:
-        ss: 2016-04-09T19:23:22.98885270596Z
+        ss: 2016-04-09T19:23:24.2513462115Z
         gs: null
         es: null
         ssDistance: null
@@ -4172,18 +4172,18 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 140.468
-        distance: 224.763
+        effort: 140.433
+        distance: 224.707
         leading: 0
         arrival: 0
         time: 0
-        reach: 84.295
-      landedMade: 12.939 km
+        reach: 84.274
+      landedMade: 13.000 km
       reach:
         extra: 13.231 km
         flown: 13.231 km
       velocity:
-        ss: 2016-04-09T19:57:04.1646864836Z
+        ss: 2016-04-09T19:57:05.88922120026Z
         gs: null
         es: null
         ssDistance: null
@@ -4200,18 +4200,18 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 134.017
-        distance: 203.869
+        effort: 133.983
+        distance: 203.818
         leading: 0
         arrival: 0
         time: 0
-        reach: 69.852
-      landedMade: 10.716 km
+        reach: 69.835
+      landedMade: 10.776 km
       reach:
         extra: 10.964 km
         flown: 10.964 km
       velocity:
-        ss: 2016-04-09T19:56:17.425315544095Z
+        ss: 2016-04-09T19:56:19.114954139065Z
         gs: null
         es: null
         ssDistance: null
@@ -4228,18 +4228,18 @@ scoreDf:
       - penalty-fraction: -6.0e-2
       penaltyReason: Handicap
       breakdown:
-        effort: 122.286
-        distance: 182.671
+        effort: 122.256
+        distance: 182.626
         leading: 0
         arrival: 0
         time: 0
-        reach: 60.385
-      landedMade: 8.709 km
+        reach: 60.37
+      landedMade: 8.769 km
       reach:
         extra: 9.478 km
         flown: 9.478 km
       velocity:
-        ss: 2016-04-09T19:58:59.39511910757Z
+        ss: 2016-04-09T19:59:00.93444129756Z
         gs: null
         es: null
         ssDistance: null
@@ -4337,12 +4337,12 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 89.735
-        distance: 121.623
+        effort: 89.713
+        distance: 121.593
         leading: 0
         arrival: 0
         time: 0
-        reach: 31.888
+        reach: 31.88
       landedMade: 5.005 km
       reach:
         extra: 5.005 km
@@ -4356,12 +4356,12 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 89.735
-        distance: 121.623
+        effort: 89.713
+        distance: 121.593
         leading: 0
         arrival: 0
         time: 0
-        reach: 31.888
+        reach: 31.88
       landedMade: 5.005 km
       reach:
         extra: 5.005 km
@@ -4375,12 +4375,12 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 89.735
-        distance: 121.623
+        effort: 89.713
+        distance: 121.593
         leading: 0
         arrival: 0
         time: 0
-        reach: 31.888
+        reach: 31.88
       landedMade: 5.005 km
       reach:
         extra: 5.005 km

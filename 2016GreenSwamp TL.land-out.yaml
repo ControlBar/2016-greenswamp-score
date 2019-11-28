@@ -12,7 +12,7 @@ chunking:
   endChunk:
   - 351
   - 35.1 km
-  sumOf: 312
+  sumOf: 313
 - startChunk:
   - 0
   - 0.0 km
@@ -40,7 +40,7 @@ chunking:
   endChunk:
   - 411
   - 41.1 km
-  sumOf: 337
+  sumOf: 338
 landout:
 - 2
 - 0
@@ -54,31 +54,31 @@ lookahead:
 - 1083
 - 1229
 difficulty:
-- - chunk: 53
-    startChunk: 5.3 km
-    endChunk: 5.4 km
-    endAhead: 56.8 km
+- - chunk: 54
+    startChunk: 5.4 km
+    endChunk: 5.5 km
+    endAhead: 56.9 km
     down: 1
     downs:
-    - 5.387 km
+    - 5.436 km
     downers:
     - - '101'
       - Ken  Kinzie
     downward: 2
-    rel: 3.20513e-3
-    frac: 0.17307692
+    rel: 3.19489e-3
+    frac: 0.17571885
   - chunk: 257
     startChunk: 25.7 km
     endChunk: 25.8 km
     endAhead: 77.2 km
     down: 1
     downs:
-    - 25.735 km
+    - 25.780 km
     downers:
     - - '105'
       - Alan Arcos
     downward: 1
-    rel: 1.60256e-3
+    rel: 1.59744e-3
     frac: 0.5
 - []
 - []
@@ -88,8 +88,8 @@ difficulty:
     endAhead: 130.1 km
     down: 2
     downs:
-    - 21.720 km
-    - 21.737 km
+    - 21.733 km
+    - 21.749 km
     downers:
     - - '105'
       - Alan Arcos
@@ -104,23 +104,23 @@ difficulty:
     endAhead: 153.6 km
     down: 1
     downs:
-    - 45.205 km
+    - 45.219 km
     downers:
     - - '103'
       - Mick Howard
     downward: 1
     rel: 5.6243e-4
     frac: 0.5
-- - chunk: 336
-    startChunk: 33.6 km
-    endChunk: 33.7 km
-    endAhead: 156.6 km
+- - chunk: 337
+    startChunk: 33.7 km
+    endChunk: 33.8 km
+    endAhead: 156.7 km
     down: 1
     downs:
-    - 33.650 km
+    - 33.710 km
     downers:
     - - '103'
       - Mick Howard
     downward: 1
-    rel: 1.48368e-3
+    rel: 1.47929e-3
     frac: 0.5

@@ -1,54 +1,54 @@
 raceTime:
 - openTask: 2016-04-03T18:30:00Z
   closeTask: 2016-04-04T00:00:00Z
-  firstStart: 2016-04-03T18:52:10.4859296659Z
-  firstLead: 2016-04-03T18:52:10.4859296659Z
-  lastArrival: 2016-04-03T20:45:47.5820586192Z
-  leadAllDown: 17570.514
-  leadArrival: 6817.096
-  leadClose: 18469.514
+  firstStart: 2016-04-03T18:52:12.027237520309Z
+  firstLead: 2016-04-03T18:52:12.027237520309Z
+  lastArrival: 2016-04-03T20:45:44.82278495816Z
+  leadAllDown: 17568.973
+  leadArrival: 6812.796
+  leadClose: 18467.973
   openClose: 19800
-  tickClose: 18469.514
+  tickClose: 18467.973
 - openTask: 2016-04-04T17:30:00Z
   closeTask: 2016-04-05T00:00:00Z
-  firstStart: 2016-04-04T18:23:25.785310655328Z
-  firstLead: 2016-04-04T18:23:25.785310655328Z
-  lastArrival: 2016-04-04T20:55:27.585086491498Z
-  leadAllDown: 15377.215
-  leadArrival: 9121.8
-  leadClose: 20194.215
+  firstStart: 2016-04-04T18:23:26.596978848848Z
+  firstLead: 2016-04-04T18:23:26.596978848848Z
+  lastArrival: 2016-04-04T20:55:27.518731436386Z
+  leadAllDown: 15376.403
+  leadArrival: 9120.922
+  leadClose: 20193.403
   openClose: 23400
-  tickClose: 20194.215
+  tickClose: 20193.403
 - openTask: 2016-04-05T17:00:00Z
   closeTask: 2016-04-06T00:00:00Z
-  firstStart: 2016-04-05T17:56:36.132167701402Z
-  firstLead: 2016-04-05T17:56:36.132167701402Z
-  lastArrival: 2016-04-05T21:54:05.611672082686Z
-  leadAllDown: 15163.868
-  leadArrival: 14249.48
-  leadClose: 21803.868
+  firstStart: 2016-04-05T17:56:40.08726323252Z
+  firstLead: 2016-04-05T17:56:40.08726323252Z
+  lastArrival: 2016-04-05T21:54:05.437707387682Z
+  leadAllDown: 15159.913
+  leadArrival: 14245.35
+  leadClose: 21799.913
   openClose: 25200
-  tickClose: 21803.868
+  tickClose: 21799.913
 - openTask: 2016-04-06T17:30:00Z
   closeTask: 2016-04-07T00:00:00Z
-  firstStart: 2016-04-06T18:13:28.07427771165Z
-  firstLead: 2016-04-06T18:13:28.07427771165Z
-  lastArrival: 2016-04-06T21:14:08.955631778787Z
-  leadAllDown: 11511.926
-  leadArrival: 10840.881
-  leadClose: 20791.926
+  firstStart: 2016-04-06T18:13:29.17186749601Z
+  firstLead: 2016-04-06T18:13:29.17186749601Z
+  lastArrival: 2016-04-06T21:14:08.710267452525Z
+  leadAllDown: 11510.828
+  leadArrival: 10839.538
+  leadClose: 20790.828
   openClose: 23400
-  tickClose: 20791.926
+  tickClose: 20790.828
 - openTask: 2016-04-09T18:00:00Z
   closeTask: 2016-04-10T00:00:00Z
-  firstStart: 2016-04-09T18:33:38.08298886328Z
-  firstLead: 2016-04-09T18:33:38.08298886328Z
-  lastArrival: 2016-04-09T19:40:48.041115532741Z
-  leadAllDown: 7544.917
-  leadArrival: 4029.958
-  leadClose: 19581.917
+  firstStart: 2016-04-09T18:33:39.62863719903Z
+  firstLead: 2016-04-09T18:33:39.62863719903Z
+  lastArrival: 2016-04-09T19:40:45.17468115244Z
+  leadAllDown: 7543.371
+  leadArrival: 4025.546
+  leadClose: 19580.371
   openClose: 21600
-  tickClose: 19581.917
+  tickClose: 19580.371
 sumDistance:
 - 109.604395 km
 - 188.345655 km
@@ -85,13 +85,13 @@ leadRank:
       frac: 0.69974595
   - - - '105'
       - Alan Arcos
-    - area: 3598177.9471 km^2 s
-      coef: 2.27263638
-      frac: 0.64195134
+    - area: 3597893.4122 km^2 s
+      coef: 2.27245667
+      frac: 0.64209394
   - - - '101'
       - Ken  Kinzie
-    - area: 5561694.7757 km^2 s
-      coef: 3.51280844
+    - area: 5558189.1154 km^2 s
+      coef: 3.51059424
       frac: 0
 - - - - '105'
       - Alan Arcos
@@ -150,18 +150,18 @@ leadRank:
       frac: 1
   - - - '103'
       - Mick Howard
-    - area: 66929771.3349 km^2 s
-      coef: 3.45978886
-      frac: 5.0538e-4
+    - area: 66924474.4328 km^2 s
+      coef: 3.45951505
+      frac: 6.3339e-4
   - - - '105'
       - Alan Arcos
-    - area: 82059836.2535 km^2 s
-      coef: 4.24190463
+    - area: 82050019.3825 km^2 s
+      coef: 4.24139717
       frac: 0
   - - - '104'
       - Mark Bourbonnais
-    - area: 82584622.0816 km^2 s
-      coef: 4.26903229
+    - area: 82574742.1884 km^2 s
+      coef: 4.26852157
       frac: 0
 - - - - '102'
       - Fausto Arcos
