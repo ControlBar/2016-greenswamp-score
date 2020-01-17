@@ -22,7 +22,8 @@ nominal:
   free: 5.000 km
   time: 1.500000 h
 compTweak:
-  arrivalWeightScaling: 0
+  arrivalRank: false
+  arrivalTime: false
   leadingWeightScaling: 0
 tasks:
 - taskName: Task 1
@@ -90,11 +91,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals:
   - - - '201'
       - Niki Longshore
@@ -213,11 +216,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals:
   - - - '209'
       - John Blank
@@ -312,11 +317,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals:
   - - - '216'
       - John Maloney
@@ -407,11 +414,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals:
   - - - '201'
       - Niki Longshore
@@ -498,11 +507,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals:
   - - - '201'
       - Niki Longshore

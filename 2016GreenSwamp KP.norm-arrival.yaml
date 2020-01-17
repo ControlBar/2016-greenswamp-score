@@ -22,7 +22,7 @@ arrivalRank:
       frac: 0
   - - - '205'
       - Kelly Myrkle
-    - lag: 0.830770 h
+    - lag: 0.830556 h
       rank: '2'
       frac: 0
 - []
@@ -33,16 +33,16 @@ arrivalRank:
       frac: 0
   - - - '203'
       - Andrey Solomykin
-    - lag: 0.192050 h
+    - lag: 0.191944 h
       rank: '2'
       frac: 0
   - - - '216'
       - John Maloney
-    - lag: 0.516248 h
+    - lag: 0.516389 h
       rank: '3'
       frac: 0
   - - - '205'
       - Kelly Myrkle
-    - lag: 0.562731 h
+    - lag: 0.562778 h
       rank: '4'
       frac: 0
