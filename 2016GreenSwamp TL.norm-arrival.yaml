@@ -12,12 +12,12 @@ arrivalRank:
       frac: 0
   - - - '102'
       - Fausto Arcos
-    - lag: 0.006640 h
+    - lag: 0.006667 h
       rank: '2'
       frac: 0
   - - - '104'
       - Mark Bourbonnais
-    - lag: 0.262076 h
+    - lag: 0.262222 h
       rank: '3'
       frac: 0
 - - - - '105'
@@ -27,22 +27,22 @@ arrivalRank:
       frac: 0
   - - - '103'
       - Mick Howard
-    - lag: 0.087831 h
+    - lag: 0.088056 h
       rank: '2'
       frac: 0
   - - - '102'
       - Fausto Arcos
-    - lag: 0.131798 h
+    - lag: 0.131944 h
       rank: '3'
       frac: 0
   - - - '104'
       - Mark Bourbonnais
-    - lag: 0.231398 h
+    - lag: 0.231389 h
       rank: '4'
       frac: 0
   - - - '101'
       - Ken  Kinzie
-    - lag: 0.293795 h
+    - lag: 0.293889 h
       rank: '5'
       frac: 0
 - - - - '105'
@@ -52,22 +52,22 @@ arrivalRank:
       frac: 0
   - - - '103'
       - Mick Howard
-    - lag: 0.001191 h
+    - lag: 0.001111 h
       rank: '2'
       frac: 0
   - - - '102'
       - Fausto Arcos
-    - lag: 0.023086 h
+    - lag: 0.023056 h
       rank: '3'
       frac: 0
   - - - '104'
       - Mark Bourbonnais
-    - lag: 0.426289 h
+    - lag: 0.426389 h
       rank: '4'
       frac: 0
   - - - '101'
       - Ken  Kinzie
-    - lag: 0.758586 h
+    - lag: 0.758611 h
       rank: '5'
       frac: 0
 - - - - '102'
@@ -82,16 +82,16 @@ arrivalRank:
       frac: 0
   - - - '101'
       - Ken  Kinzie
-    - lag: 0.004547 h
+    - lag: 0.004722 h
       rank: '2'
       frac: 0
   - - - '104'
       - Mark Bourbonnais
-    - lag: 0.007249 h
+    - lag: 0.007500 h
       rank: '3'
       frac: 0
   - - - '102'
       - Fausto Arcos
-    - lag: 0.009787 h
+    - lag: 0.010000 h
       rank: '4'
       frac: 0

@@ -22,7 +22,8 @@ nominal:
   free: 5.000 km
   time: 1.500000 h
 compTweak:
-  arrivalWeightScaling: 0
+  arrivalRank: false
+  arrivalTime: false
   leadingWeightScaling: 0
 tasks:
 - taskName: Task 1
@@ -90,11 +91,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals:
   - - - '105'
       - Alan Arcos
@@ -189,11 +192,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: Task 3
   zones:
@@ -260,11 +265,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: Task 4
   zones:
@@ -331,11 +338,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: Task 5
   zones:
@@ -402,11 +411,13 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 taskFolders:
 - - flights

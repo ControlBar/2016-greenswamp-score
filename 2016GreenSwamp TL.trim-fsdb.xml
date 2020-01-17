@@ -1,9 +1,9 @@
 <Fs version="3.4">
   <FsCompetition id="11140" name="2016 Green Swamp Klassic (Topless)" location="Groveland, USA" from="2016-04-03" to="2016-04-09" utc_offset="-4" discipline="hg">
-    <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_leading_points="0" score_back_time="15"/>
+    <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="15"/>
     <FsTasks>
       <FsTask id="1" name="Task 1" tracklog_folder="flights\task1">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_leading_points="0" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-04-03T14:30:00-04:00" close="2016-04-03T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-04-03T14:30:00-04:00" close="2016-04-03T20:00:00-04:00"/>
@@ -14,24 +14,24 @@
         <FsParticipants>
           <FsParticipant id="103">
             <FsFlightData distance="34.243" bonus_distance="34.243" started_ss="2016-04-03T15:24:02-04:00" finished_ss="2016-04-03T16:30:02-04:00" tracklog_filename="103.IGC" lc="0" iv="0"/>
-            <FsResult rank="2" points="827" distance="34.242" ss_time="01:06:00" distance_points="350.8" linear_distance_points="175.4" difficulty_distance_points="175.4" time_points="476.7" arrival_points="0" leading_points="0" started_ss="2016-04-03T15:24:02-04:00" finished_ss="2016-04-03T16:30:02-04:00" real_distance="34.242" last_distance="34.242"/>
+            <FsResult rank="2" points="827" distance="34.242" ss_time="01:06:00" distance_points="350.8" linear_distance_points="175.4" difficulty_distance_points="175.4" time_points="476.7" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-03T15:24:02-04:00" finished_ss="2016-04-03T16:30:02-04:00" real_distance="34.242" last_distance="34.242"/>
           </FsParticipant>
           <FsParticipant id="101">
             <FsFlightData distance="5.707" bonus_distance="6.333" started_ss="2016-04-03T14:52:12-04:00" finished_ss="" tracklog_filename="101.igc" lc="0" iv="0"/>
-            <FsResult rank="5" points="93" distance="5.707" ss_time="00:00:00" distance_points="92.9" linear_distance_points="29.23" difficulty_distance_points="63.62" time_points="0" arrival_points="0" leading_points="0" started_ss="2016-04-03T14:52:12-04:00" real_distance="5.707" last_distance="5.386"/>
+            <FsResult rank="5" points="93" distance="5.707" ss_time="00:00:00" distance_points="92.9" linear_distance_points="29.23" difficulty_distance_points="63.62" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-03T14:52:12-04:00" real_distance="5.707" last_distance="5.386"/>
           </FsParticipant>
           <FsParticipant id="105">
             <FsFlightData distance="26.113" bonus_distance="27.332" started_ss="2016-04-03T15:31:49-04:00" finished_ss="" tracklog_filename="105.IGC" lc="0" iv="0"/>
             <FsResultPenalty penalty="-0.2" penalty_points="0" penalty_reason="Handicap"/>
-            <FsResult rank="4" points="371" distance="26.113" ss_time="00:00:00" distance_points="309.2" linear_distance_points="133.76" difficulty_distance_points="175.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2016-04-03T15:31:49-04:00" real_distance="26.113" last_distance="25.722"/>
+            <FsResult rank="4" points="371" distance="26.113" ss_time="00:00:00" distance_points="309.2" linear_distance_points="133.76" difficulty_distance_points="175.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-03T15:31:49-04:00" real_distance="26.113" last_distance="25.722"/>
           </FsParticipant>
           <FsParticipant id="102">
             <FsFlightData distance="34.243" bonus_distance="34.243" started_ss="2016-04-03T15:27:15-04:00" finished_ss="2016-04-03T16:30:26-04:00" tracklog_filename="102.IGC" lc="0" iv="0"/>
-            <FsResult rank="1" points="897" distance="34.242" ss_time="01:03:11" distance_points="350.8" linear_distance_points="175.4" difficulty_distance_points="175.4" time_points="546.6" arrival_points="0" leading_points="0" started_ss="2016-04-03T15:27:15-04:00" finished_ss="2016-04-03T16:30:26-04:00" real_distance="34.242" last_distance="34.242"/>
+            <FsResult rank="1" points="897" distance="34.242" ss_time="01:03:11" distance_points="350.8" linear_distance_points="175.4" difficulty_distance_points="175.4" time_points="546.6" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-03T15:27:15-04:00" finished_ss="2016-04-03T16:30:26-04:00" real_distance="34.242" last_distance="34.242"/>
           </FsParticipant>
           <FsParticipant id="104">
             <FsFlightData distance="34.243" bonus_distance="34.243" started_ss="2016-04-03T15:25:50-04:00" finished_ss="2016-04-03T16:45:46-04:00" tracklog_filename="104.IGC" lc="0" iv="0"/>
-            <FsResult rank="3" points="668" distance="34.242" ss_time="01:19:56" distance_points="350.8" linear_distance_points="175.4" difficulty_distance_points="175.4" time_points="317.1" arrival_points="0" leading_points="0" started_ss="2016-04-03T15:25:50-04:00" finished_ss="2016-04-03T16:45:46-04:00" real_distance="34.242" last_distance="34.242"/>
+            <FsResult rank="3" points="668" distance="34.242" ss_time="01:19:56" distance_points="350.8" linear_distance_points="175.4" difficulty_distance_points="175.4" time_points="317.1" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-03T15:25:50-04:00" finished_ss="2016-04-03T16:45:46-04:00" real_distance="34.242" last_distance="34.242"/>
           </FsParticipant>
         </FsParticipants>
         <FsTaskScoreParams ss_distance="29.625" task_distance="34.242" launch_to_ess_distance="34.242" no_of_pilots_present="5" no_of_pilots_flying="5" no_of_pilots_lo="2" no_of_pilots_reaching_es="3" best_dist="34.242" best_time="1.05305555555556" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="109.549" best_real_dist="34.242" goalratio="0.6" arrival_weight="0" leading_weight="0" time_weight="0.609112" distance_weight="0.390888" time_validity="0.897443408242182" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="0.897443408242182">
@@ -56,7 +56,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="Task 2" tracklog_folder="flights\task2">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_leading_points="0" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="6" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-04-04T13:30:00-04:00" close="2016-04-04T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="3000" open="2016-04-04T13:30:00-04:00" close="2016-04-04T20:00:00-04:00"/>
@@ -69,23 +69,23 @@
         <FsParticipants>
           <FsParticipant id="103">
             <FsFlightData distance="42.670" bonus_distance="42.670" started_ss="2016-04-04T14:33:32-04:00" finished_ss="2016-04-04T16:43:06-04:00" tracklog_filename="103.IGC" lc="0" iv="0"/>
-            <FsResult rank="1" points="1000" distance="42.669" ss_time="02:09:34" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="639" arrival_points="0" leading_points="0" started_ss="2016-04-04T14:33:32-04:00" finished_ss="2016-04-04T16:43:06-04:00" real_distance="42.669" last_distance="42.669"/>
+            <FsResult rank="1" points="1000" distance="42.669" ss_time="02:09:34" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="639" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-04T14:33:32-04:00" finished_ss="2016-04-04T16:43:06-04:00" real_distance="42.669" last_distance="42.669"/>
           </FsParticipant>
           <FsParticipant id="101">
             <FsFlightData distance="42.670" bonus_distance="42.670" started_ss="2016-04-04T14:23:25-04:00" finished_ss="2016-04-04T16:55:27-04:00" tracklog_filename="101.igc" lc="0" iv="0"/>
-            <FsResult rank="5" points="743" distance="42.669" ss_time="02:32:02" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="382.2" arrival_points="0" leading_points="0" started_ss="2016-04-04T14:23:25-04:00" finished_ss="2016-04-04T16:55:27-04:00" real_distance="42.669" last_distance="42.669"/>
+            <FsResult rank="5" points="743" distance="42.669" ss_time="02:32:02" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="382.2" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-04T14:23:25-04:00" finished_ss="2016-04-04T16:55:27-04:00" real_distance="42.669" last_distance="42.669"/>
           </FsParticipant>
           <FsParticipant id="105">
             <FsFlightData distance="42.670" bonus_distance="42.670" started_ss="2016-04-04T14:24:01-04:00" finished_ss="2016-04-04T16:37:49-04:00" tracklog_filename="105.IGC" lc="0" iv="0"/>
-            <FsResult rank="2" points="916" distance="42.669" ss_time="02:13:48" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="554.6" arrival_points="0" leading_points="0" started_ss="2016-04-04T14:24:01-04:00" finished_ss="2016-04-04T16:37:49-04:00" real_distance="42.669" last_distance="42.669"/>
+            <FsResult rank="2" points="916" distance="42.669" ss_time="02:13:48" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="554.6" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-04T14:24:01-04:00" finished_ss="2016-04-04T16:37:49-04:00" real_distance="42.669" last_distance="42.669"/>
           </FsParticipant>
           <FsParticipant id="102">
             <FsFlightData distance="42.670" bonus_distance="42.670" started_ss="2016-04-04T14:29:22-04:00" finished_ss="2016-04-04T16:45:44-04:00" tracklog_filename="102.IGC" lc="0" iv="0"/>
-            <FsResult rank="3" points="884" distance="42.669" ss_time="02:16:22" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="523.2" arrival_points="0" leading_points="0" started_ss="2016-04-04T14:29:22-04:00" finished_ss="2016-04-04T16:45:44-04:00" real_distance="42.669" last_distance="42.669"/>
+            <FsResult rank="3" points="884" distance="42.669" ss_time="02:16:22" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="523.2" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-04T14:29:22-04:00" finished_ss="2016-04-04T16:45:44-04:00" real_distance="42.669" last_distance="42.669"/>
           </FsParticipant>
           <FsParticipant id="104">
             <FsFlightData distance="42.670" bonus_distance="42.670" started_ss="2016-04-04T14:25:06-04:00" finished_ss="2016-04-04T16:51:42-04:00" tracklog_filename="104.IGC" lc="0" iv="0"/>
-            <FsResult rank="4" points="787" distance="42.669" ss_time="02:26:36" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="425.5" arrival_points="0" leading_points="0" started_ss="2016-04-04T14:25:06-04:00" finished_ss="2016-04-04T16:51:42-04:00" real_distance="42.669" last_distance="42.669"/>
+            <FsResult rank="4" points="787" distance="42.669" ss_time="02:26:36" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="425.5" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-04T14:25:06-04:00" finished_ss="2016-04-04T16:51:42-04:00" real_distance="42.669" last_distance="42.669"/>
           </FsParticipant>
         </FsParticipants>
         <FsTaskScoreParams ss_distance="40.067" task_distance="42.669" launch_to_ess_distance="42.669" no_of_pilots_present="5" no_of_pilots_flying="5" no_of_pilots_lo="0" no_of_pilots_reaching_es="5" best_dist="42.669" best_time="2.15944444444444" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="188.35" best_real_dist="42.669" goalratio="1" arrival_weight="0" leading_weight="0" time_weight="0.639" distance_weight="0.361" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
@@ -107,7 +107,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="Task 3" tracklog_folder="flights\task3">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_leading_points="0" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-04-05T13:00:00-04:00" close="2016-04-05T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-04-05T13:00:00-04:00" close="2016-04-05T20:00:00-04:00"/>
@@ -118,23 +118,23 @@
         <FsParticipants>
           <FsParticipant id="102">
             <FsFlightData distance="110.548" bonus_distance="110.548" started_ss="2016-04-05T14:28:53-04:00" finished_ss="2016-04-05T17:09:57-04:00" tracklog_filename="102.IGC" lc="0" iv="0"/>
-            <FsResult rank="1" points="1000" distance="110.547" ss_time="02:41:04" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="639" arrival_points="0" leading_points="0" started_ss="2016-04-05T14:28:53-04:00" finished_ss="2016-04-05T17:09:57-04:00" real_distance="110.547" last_distance="110.547"/>
+            <FsResult rank="1" points="1000" distance="110.547" ss_time="02:41:04" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="639" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-05T14:28:53-04:00" finished_ss="2016-04-05T17:09:57-04:00" real_distance="110.547" last_distance="110.547"/>
           </FsParticipant>
           <FsParticipant id="105">
             <FsFlightData distance="110.548" bonus_distance="110.548" started_ss="2016-04-05T14:05:51-04:00" finished_ss="2016-04-05T17:08:34-04:00" tracklog_filename="105.IGC" lc="0" iv="0"/>
-            <FsResult rank="4" points="767" distance="110.547" ss_time="03:02:43" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="406" arrival_points="0" leading_points="0" started_ss="2016-04-05T14:05:51-04:00" finished_ss="2016-04-05T17:08:34-04:00" real_distance="110.547" last_distance="110.547"/>
+            <FsResult rank="4" points="767" distance="110.547" ss_time="03:02:43" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="406" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-05T14:05:51-04:00" finished_ss="2016-04-05T17:08:34-04:00" real_distance="110.547" last_distance="110.547"/>
           </FsParticipant>
           <FsParticipant id="104">
             <FsFlightData distance="110.548" bonus_distance="110.548" started_ss="2016-04-05T14:33:43-04:00" finished_ss="2016-04-05T17:34:09-04:00" tracklog_filename="104.igc" lc="0" iv="0"/>
-            <FsResult rank="3" points="784" distance="110.547" ss_time="03:00:26" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="422.7" arrival_points="0" leading_points="0" started_ss="2016-04-05T14:33:43-04:00" finished_ss="2016-04-05T17:34:09-04:00" real_distance="110.547" last_distance="110.547"/>
+            <FsResult rank="3" points="784" distance="110.547" ss_time="03:00:26" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="422.7" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-05T14:33:43-04:00" finished_ss="2016-04-05T17:34:09-04:00" real_distance="110.547" last_distance="110.547"/>
           </FsParticipant>
           <FsParticipant id="103">
             <FsFlightData distance="110.548" bonus_distance="110.548" started_ss="2016-04-05T14:10:04-04:00" finished_ss="2016-04-05T17:08:38-04:00" tracklog_filename="103.IGC" lc="0" iv="0"/>
-            <FsResult rank="2" points="798" distance="110.547" ss_time="02:58:34" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="436.8" arrival_points="0" leading_points="0" started_ss="2016-04-05T14:10:04-04:00" finished_ss="2016-04-05T17:08:38-04:00" real_distance="110.547" last_distance="110.547"/>
+            <FsResult rank="2" points="798" distance="110.547" ss_time="02:58:34" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="436.8" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-05T14:10:04-04:00" finished_ss="2016-04-05T17:08:38-04:00" real_distance="110.547" last_distance="110.547"/>
           </FsParticipant>
           <FsParticipant id="101">
             <FsFlightData distance="110.548" bonus_distance="110.548" started_ss="2016-04-05T13:56:39-04:00" finished_ss="2016-04-05T17:54:05-04:00" tracklog_filename="101.igc" lc="0" iv="0"/>
-            <FsResult rank="5" points="460" distance="110.547" ss_time="03:57:26" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="99" arrival_points="0" leading_points="0" started_ss="2016-04-05T13:56:39-04:00" finished_ss="2016-04-05T17:54:05-04:00" real_distance="110.547" last_distance="110.547"/>
+            <FsResult rank="5" points="460" distance="110.547" ss_time="03:57:26" distance_points="361" linear_distance_points="180.5" difficulty_distance_points="180.5" time_points="99" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-05T13:56:39-04:00" finished_ss="2016-04-05T17:54:05-04:00" real_distance="110.547" last_distance="110.547"/>
           </FsParticipant>
         </FsParticipants>
         <FsTaskScoreParams ss_distance="105.939" task_distance="110.547" launch_to_ess_distance="110.547" no_of_pilots_present="5" no_of_pilots_flying="5" no_of_pilots_lo="0" no_of_pilots_reaching_es="5" best_dist="110.547" best_time="2.68444444444444" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="527.74" best_real_dist="110.547" goalratio="1" arrival_weight="0" leading_weight="0" time_weight="0.639" distance_weight="0.361" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
@@ -152,7 +152,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="4" name="Task 4" tracklog_folder="flights\task4">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_leading_points="0" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-04-06T13:30:00-04:00" close="2016-04-06T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-04-06T13:30:00-04:00" close="2016-04-06T20:00:00-04:00"/>
@@ -163,23 +163,23 @@
         <FsParticipants>
           <FsParticipant id="103">
             <FsFlightData distance="45.467" bonus_distance="46.812" started_ss="2016-04-06T14:38:00-04:00" finished_ss="" tracklog_filename="103.IGC" lc="0" iv="0"/>
-            <FsResult rank="2" points="448" distance="45.467" ss_time="00:00:00" distance_points="447.9" linear_distance_points="132.46" difficulty_distance_points="315.41" time_points="0" arrival_points="0" leading_points="0" started_ss="2016-04-06T14:38:00-04:00" real_distance="45.467" last_distance="45.109"/>
+            <FsResult rank="2" points="448" distance="45.467" ss_time="00:00:00" distance_points="447.9" linear_distance_points="132.46" difficulty_distance_points="315.41" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-06T14:38:00-04:00" real_distance="45.467" last_distance="45.109"/>
           </FsParticipant>
           <FsParticipant id="104">
             <FsFlightData distance="22.497" bonus_distance="25.711" started_ss="2016-04-06T14:15:22-04:00" finished_ss="" tracklog_filename="104.IGC" lc="0" iv="0"/>
-            <FsResult rank="4" points="308" distance="22.497" ss_time="00:00:00" distance_points="307.8" linear_distance_points="65.54" difficulty_distance_points="242.24" time_points="0" arrival_points="0" leading_points="0" started_ss="2016-04-06T14:15:22-04:00" real_distance="22.497" last_distance="21.737"/>
+            <FsResult rank="4" points="308" distance="22.497" ss_time="00:00:00" distance_points="307.8" linear_distance_points="65.54" difficulty_distance_points="242.24" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-06T14:15:22-04:00" real_distance="22.497" last_distance="21.737"/>
           </FsParticipant>
           <FsParticipant id="105">
             <FsFlightData distance="22.772" bonus_distance="25.625" started_ss="2016-04-06T14:15:08-04:00" finished_ss="" tracklog_filename="105.IGC" lc="0" iv="0"/>
-            <FsResult rank="3" points="310" distance="22.772" ss_time="00:00:00" distance_points="310.1" linear_distance_points="66.34" difficulty_distance_points="243.75" time_points="0" arrival_points="0" leading_points="0" started_ss="2016-04-06T14:15:08-04:00" real_distance="22.772" last_distance="21.719"/>
+            <FsResult rank="3" points="310" distance="22.772" ss_time="00:00:00" distance_points="310.1" linear_distance_points="66.34" difficulty_distance_points="243.75" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-06T14:15:08-04:00" real_distance="22.772" last_distance="21.719"/>
           </FsParticipant>
           <FsParticipant id="102">
             <FsFlightData distance="108.267" bonus_distance="108.267" started_ss="2016-04-06T14:13:28-04:00" finished_ss="2016-04-06T17:14:08-04:00" tracklog_filename="102.IGC" lc="0" iv="0"/>
-            <FsResult rank="1" points="1000" distance="108.266" ss_time="03:00:40" distance_points="630.8" linear_distance_points="315.41" difficulty_distance_points="315.41" time_points="369.2" arrival_points="0" leading_points="0" started_ss="2016-04-06T14:13:28-04:00" finished_ss="2016-04-06T17:14:08-04:00" real_distance="108.266" last_distance="108.266"/>
+            <FsResult rank="1" points="1000" distance="108.266" ss_time="03:00:40" distance_points="630.8" linear_distance_points="315.41" difficulty_distance_points="315.41" time_points="369.2" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-06T14:13:28-04:00" finished_ss="2016-04-06T17:14:08-04:00" real_distance="108.266" last_distance="108.266"/>
           </FsParticipant>
           <FsParticipant id="101">
             <FsFlightData distance="8.742" bonus_distance="9.747" started_ss="2016-04-06T14:03:13-04:00" finished_ss="" tracklog_filename="101.igc" lc="0" iv="0"/>
-            <FsResult rank="5" points="137" distance="8.742" ss_time="00:00:00" distance_points="137.3" linear_distance_points="25.47" difficulty_distance_points="111.87" time_points="0" arrival_points="0" leading_points="0" started_ss="2016-04-06T14:03:13-04:00" real_distance="8.742" last_distance="8.075"/>
+            <FsResult rank="5" points="137" distance="8.742" ss_time="00:00:00" distance_points="137.3" linear_distance_points="25.47" difficulty_distance_points="111.87" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-06T14:03:13-04:00" real_distance="8.742" last_distance="8.075"/>
           </FsParticipant>
         </FsParticipants>
         <FsTaskScoreParams ss_distance="103.658" task_distance="108.266" launch_to_ess_distance="108.266" no_of_pilots_present="5" no_of_pilots_flying="5" no_of_pilots_lo="4" no_of_pilots_reaching_es="1" best_dist="108.266" best_time="3.01111111111111" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="182.745" best_real_dist="108.266" goalratio="0.2" arrival_weight="0" leading_weight="0" time_weight="0.369176" distance_weight="0.630824" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
@@ -210,7 +210,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="5" name="Task 5" tracklog_folder="flights\task5">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_leading_points="0" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="30" nom_time="1.5" nom_launch="1.00" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-04-09T14:00:00-04:00" close="2016-04-09T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-04-09T14:00:00-04:00" close="2016-04-09T20:00:00-04:00"/>
@@ -221,23 +221,23 @@
         <FsParticipants>
           <FsParticipant id="103">
             <FsFlightData distance="34.622" bonus_distance="35.627" started_ss="2016-04-09T15:21:50-04:00" finished_ss="" tracklog_filename="103.IGC" lc="0" iv="0"/>
-            <FsResult rank="5" points="309" distance="34.622" ss_time="00:00:00" distance_points="308.7" linear_distance_points="141.49" difficulty_distance_points="167.24" time_points="0" arrival_points="0" leading_points="0" started_ss="2016-04-09T15:21:50-04:00" real_distance="34.622" last_distance="33.611"/>
+            <FsResult rank="5" points="309" distance="34.622" ss_time="00:00:00" distance_points="308.7" linear_distance_points="141.49" difficulty_distance_points="167.24" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-09T15:21:50-04:00" real_distance="34.622" last_distance="33.611"/>
           </FsParticipant>
           <FsParticipant id="105">
             <FsFlightData distance="40.925" bonus_distance="40.925" started_ss="2016-04-09T14:33:41-04:00" finished_ss="2016-04-09T15:40:10-04:00" tracklog_filename="105.IGC" lc="0" iv="0"/>
-            <FsResult rank="1" points="919" distance="40.924" ss_time="01:06:29" distance_points="334.5" linear_distance_points="167.24" difficulty_distance_points="167.24" time_points="585" arrival_points="0" leading_points="0" started_ss="2016-04-09T14:33:41-04:00" finished_ss="2016-04-09T15:40:10-04:00" real_distance="40.924" last_distance="40.924"/>
+            <FsResult rank="1" points="919" distance="40.924" ss_time="01:06:29" distance_points="334.5" linear_distance_points="167.24" difficulty_distance_points="167.24" time_points="585" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-09T14:33:41-04:00" finished_ss="2016-04-09T15:40:10-04:00" real_distance="40.924" last_distance="40.924"/>
           </FsParticipant>
           <FsParticipant id="104">
             <FsFlightData distance="40.925" bonus_distance="40.925" started_ss="2016-04-09T14:33:46-04:00" finished_ss="2016-04-09T15:40:37-04:00" tracklog_filename="104.IGC" lc="0" iv="0"/>
-            <FsResult rank="3" points="901" distance="40.924" ss_time="01:06:51" distance_points="334.5" linear_distance_points="167.24" difficulty_distance_points="167.24" time_points="566.1" arrival_points="0" leading_points="0" started_ss="2016-04-09T14:33:46-04:00" finished_ss="2016-04-09T15:40:37-04:00" real_distance="40.924" last_distance="40.924"/>
+            <FsResult rank="3" points="901" distance="40.924" ss_time="01:06:51" distance_points="334.5" linear_distance_points="167.24" difficulty_distance_points="167.24" time_points="566.1" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-09T14:33:46-04:00" finished_ss="2016-04-09T15:40:37-04:00" real_distance="40.924" last_distance="40.924"/>
           </FsParticipant>
           <FsParticipant id="102">
             <FsFlightData distance="40.925" bonus_distance="40.925" started_ss="2016-04-09T14:33:39-04:00" finished_ss="2016-04-09T15:40:46-04:00" tracklog_filename="102.IGC" lc="0" iv="0"/>
-            <FsResult rank="4" points="892" distance="40.924" ss_time="01:07:07" distance_points="334.5" linear_distance_points="167.24" difficulty_distance_points="167.24" time_points="557.8" arrival_points="0" leading_points="0" started_ss="2016-04-09T14:33:39-04:00" finished_ss="2016-04-09T15:40:46-04:00" real_distance="40.924" last_distance="40.924"/>
+            <FsResult rank="4" points="892" distance="40.924" ss_time="01:07:07" distance_points="334.5" linear_distance_points="167.24" difficulty_distance_points="167.24" time_points="557.8" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-09T14:33:39-04:00" finished_ss="2016-04-09T15:40:46-04:00" real_distance="40.924" last_distance="40.924"/>
           </FsParticipant>
           <FsParticipant id="101">
             <FsFlightData distance="40.925" bonus_distance="40.925" started_ss="2016-04-09T14:33:44-04:00" finished_ss="2016-04-09T15:40:27-04:00" tracklog_filename="101.igc" lc="0" iv="0"/>
-            <FsResult rank="2" points="905" distance="40.924" ss_time="01:06:43" distance_points="334.5" linear_distance_points="167.24" difficulty_distance_points="167.24" time_points="571" arrival_points="0" leading_points="0" started_ss="2016-04-09T14:33:44-04:00" finished_ss="2016-04-09T15:40:27-04:00" real_distance="40.924" last_distance="40.924"/>
+            <FsResult rank="2" points="905" distance="40.924" ss_time="01:06:43" distance_points="334.5" linear_distance_points="167.24" difficulty_distance_points="167.24" time_points="571" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-04-09T14:33:44-04:00" finished_ss="2016-04-09T15:40:27-04:00" real_distance="40.924" last_distance="40.924"/>
           </FsParticipant>
         </FsParticipants>
         <FsTaskScoreParams ss_distance="36.308" task_distance="40.924" launch_to_ess_distance="40.924" no_of_pilots_present="5" no_of_pilots_flying="5" no_of_pilots_lo="1" no_of_pilots_reaching_es="4" best_dist="40.924" best_time="1.10805555555556" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="173.322" best_real_dist="40.924" goalratio="0.8" arrival_weight="0" leading_weight="0" time_weight="0.636224" distance_weight="0.363776" time_validity="0.919477776523733" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="0.919477776523733">
