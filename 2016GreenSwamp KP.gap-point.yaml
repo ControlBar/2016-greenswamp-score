@@ -12,7 +12,7 @@ validityWorking:
     flying: 17
     present: 17
   distance:
-    sum: 130.3 km
+    sum: 130.8 km
     flying: 17
     area: 15.4257879
     nominalGoal: 0.2
@@ -35,7 +35,7 @@ validityWorking:
     flying: 17
     present: 17
   distance:
-    sum: 247.9 km
+    sum: 248.1 km
     flying: 17
     area: 16.2669131
     nominalGoal: 0.2
@@ -58,7 +58,7 @@ validityWorking:
     flying: 17
     present: 17
   distance:
-    sum: 594.1 km
+    sum: 594.2 km
     flying: 17
     area: 23.0549326
     nominalGoal: 0.2
@@ -74,22 +74,22 @@ validityWorking:
     gsBestTime: null
     nominalDistance: 30.0 km
     reachMax:
-      extra: 85.219931 km
-      flown: 85.219931 km
+      extra: 85.224931 km
+      flown: 85.224931 km
   launch:
     nominalLaunch: 1
     flying: 16
     present: 16
   distance:
-    sum: 354.5 km
+    sum: 354.6 km
     flying: 16
-    area: 20.5219931
+    area: 20.5224931
     nominalGoal: 0.2
     nominalDistance: 30.0 km
     minimumDistance: 5.000 km
     reachMax:
-      extra: 85.219931 km
-      flown: 85.219931 km
+      extra: 85.224931 km
+      flown: 85.224931 km
   stop: null
 - time:
     nominalTime: 1.500000 h
@@ -104,7 +104,7 @@ validityWorking:
     flying: 13
     present: 13
   distance:
-    sum: 246.3 km
+    sum: 246.6 km
     flying: 13
     area: 16.0966081
     nominalGoal: 0.2
@@ -117,13 +117,13 @@ validityWorking:
 validity:
 - time: 0.87073703
   launch: 1
-  distance: 0.49685153
-  task: 0.43262703
+  distance: 0.49881921
+  task: 0.43434036
   stop: null
 - time: 1
   launch: 1
-  distance: 0.89661285
-  task: 0.89661285
+  distance: 0.89705763
+  task: 0.89705763
   stop: null
 - time: 1
   launch: 1
@@ -150,13 +150,13 @@ allocation:
     distance: 0.80786668
     leading: 0
   points:
-    effort: 174.752
+    effort: 175.445
     arrival: 0
-    time: 83.1
-    reach: 174.752
-    distance: 349.505
+    time: 83.5
+    reach: 175.445
+    distance: 350.889
     leading: 0
-  taskPoints: 433
+  taskPoints: 434.34
 - goalRatio: 5.882353e-2
   weight:
     effort: 0.40393334
@@ -166,13 +166,13 @@ allocation:
     distance: 0.80786668
     leading: 0
   points:
-    effort: 362.172
+    effort: 362.351
     arrival: 0
-    time: 172.3
-    reach: 362.172
-    distance: 724.344
+    time: 172.4
+    reach: 362.351
+    distance: 724.703
     leading: 0
-  taskPoints: 897
+  taskPoints: 897.058
 - goalRatio: 0.11764706
   weight:
     effort: 0.36343558
@@ -220,23 +220,23 @@ allocation:
     reach: 260.93
     distance: 521.86
     leading: 0
-  taskPoints: 980
+  taskPoints: 979.522
 score:
 - - - - '203'
       - Andrey Solomykin
     - place: '1'
-      total: 433
+      total: 434.34
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 174.752
+        effort: 175.445
         arrival: 0
-        time: 83.1
-        reach: 174.752
-        distance: 349.505
+        time: 83.5
+        reach: 175.445
+        distance: 350.889
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:36:39.045684584836Z
         gs: null
@@ -249,23 +249,27 @@ score:
       reach:
         extra: 34.258 km
         flown: 34.258 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 434.34
       landedMade: 34.258 km
       stoppedAlt: null
   - - - '202'
       - Nick Jones
     - place: '2'
-      total: 311
+      total: 312.464
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 174.752
+        effort: 175.445
         arrival: 0
         time: 0
-        reach: 136.249
-        distance: 311.002
+        reach: 137.02
+        distance: 312.464
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:13:57.421447341702Z
         gs: null
@@ -276,25 +280,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 26.710 km
-        flown: 26.710 km
+        extra: 26.755 km
+        flown: 26.755 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 312.464
       landedMade: 26.306 km
       stoppedAlt: 28.000 m
   - - - '205'
       - Kelly Myrkle
     - place: '3'
-      total: 263
+      total: 264.407
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 160.521
+        effort: 161.157
         arrival: 0
         time: 0
-        reach: 102.613
-        distance: 263.134
+        reach: 103.25
+        distance: 264.407
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:36:38.277786615935Z
         gs: null
@@ -305,26 +313,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 20.116 km
-        flown: 20.116 km
+        extra: 20.161 km
+        flown: 20.161 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 264.407
       landedMade: 19.523 km
       stoppedAlt: 1.000 m
   - - - '201'
       - Niki Longshore
     - place: '4'
-      total: 258
+      total: 259.563
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 155.08
+        effort: 155.694
         arrival: 0
         time: 0
-        reach: 88.595
-        distance: 243.675
+        reach: 89.176
+        distance: 244.87
         leading: 0
+      demeritFrac: -14.692
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:37:51.05736768409Z
         gs: null
@@ -335,25 +347,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 17.368 km
-        flown: 17.368 km
+        extra: 17.413 km
+        flown: 17.413 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 244.87
       landedMade: 17.072 km
       stoppedAlt: 5.000 m
   - - - '214'
       - Richard Elder
     - place: '5'
-      total: 243
+      total: 244.23
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 155.08
+        effort: 155.694
         arrival: 0
         time: 0
-        reach: 87.957
-        distance: 243.037
+        reach: 88.536
+        distance: 244.23
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:37:49.485991684638Z
         gs: null
@@ -364,26 +380,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 17.243 km
-        flown: 17.243 km
+        extra: 17.288 km
+        flown: 17.288 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 244.23
       landedMade: 17.082 km
       stoppedAlt: 22.000 m
   - - - '216'
       - John Maloney
     - place: '6'
-      total: 237
+      total: 238.579
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 144.406
+        effort: 144.978
         arrival: 0
         time: 0
-        reach: 79.551
-        distance: 223.957
+        reach: 80.096
+        distance: 225.074
         leading: 0
+      demeritFrac: -13.504
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:02:15.368273340497Z
         gs: null
@@ -394,26 +414,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 15.595 km
-        flown: 15.595 km
+        extra: 15.640 km
+        flown: 15.640 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 225.074
       landedMade: 15.345 km
       stoppedAlt: 0.000 m
   - - - '209'
       - John Blank
     - place: '7'
-      total: 196
+      total: 196.594
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 120.548
+        effort: 121.025
         arrival: 0
         time: 0
-        reach: 63.936
-        distance: 184.484
+        reach: 64.441
+        distance: 185.466
         leading: 0
+      demeritFrac: -11.128
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:01:49.03893816732Z
         gs: null
@@ -424,26 +448,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 12.534 km
-        flown: 12.534 km
+        extra: 12.583 km
+        flown: 12.583 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 185.466
       landedMade: 12.435 km
       stoppedAlt: 2.000 m
   - - - '217'
       - Richard Westmoreland
     - place: '8'
-      total: 175
+      total: 175.736
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -0.29
-      penaltyReason: Handicap
       breakdown:
-        effort: 89.992
+        effort: 90.349
         arrival: 0
         time: 0
-        reach: 45.455
-        distance: 135.447
+        reach: 45.881
+        distance: 136.23
         leading: 0
+      demeritFrac: -39.507
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:10:03.201707993795Z
         gs: null
@@ -454,25 +482,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 8.911 km
-        flown: 8.911 km
+        extra: 8.959 km
+        flown: 8.959 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 136.23
       landedMade: 8.677 km
       stoppedAlt: 26.000 m
   - - - '212'
       - Greg Sessa
     - place: '9'
-      total: 168
+      total: 169.325
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 107.991
+        effort: 108.418
         arrival: 0
         time: 0
-        reach: 60.412
-        distance: 168.402
+        reach: 60.907
+        distance: 169.325
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:24:37.550757271916Z
         gs: null
@@ -483,25 +515,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 11.843 km
-        flown: 11.843 km
+        extra: 11.893 km
+        flown: 11.893 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 169.325
       landedMade: 10.959 km
       stoppedAlt: 1.000 m
   - - - '211'
       - Dan Lukaszewicz
-    - place: '10'
-      total: 138
+    - place: 10=
+      total: 138.361
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 90.829
+        effort: 91.189
         arrival: 0
         time: 0
-        reach: 46.741
-        distance: 137.57
+        reach: 47.172
+        distance: 138.361
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:48:04.459142979636Z
         gs: null
@@ -512,25 +548,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 9.163 km
-        flown: 9.163 km
+        extra: 9.211 km
+        flown: 9.211 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 138.361
       landedMade: 8.776 km
       stoppedAlt: 4.000 m
   - - - '204'
       - Owen MB
-    - place: '11'
-      total: 137
+    - place: 10=
+      total: 137.879
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 89.992
+        effort: 90.349
         arrival: 0
         time: 0
-        reach: 47.098
-        distance: 137.09
+        reach: 47.53
+        distance: 137.879
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:37:30.548824629265Z
         gs: null
@@ -541,25 +581,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 9.233 km
-        flown: 9.233 km
+        extra: 9.281 km
+        flown: 9.281 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 137.879
       landedMade: 8.678 km
       stoppedAlt: 3.000 m
   - - - '207'
       - Alex Skyride
     - place: '12'
-      total: 111
+      total: 111.908
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 73.877
+        effort: 74.17
         arrival: 0
         time: 0
-        reach: 37.344
-        distance: 111.222
+        reach: 37.738
+        distance: 111.908
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:11:20.270586914429Z
         gs: null
@@ -570,26 +614,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 7.321 km
-        flown: 7.321 km
+        extra: 7.369 km
+        flown: 7.369 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 111.908
       landedMade: 7.100 km
       stoppedAlt: 5.000 m
   - - - '208'
       - Soraya Rios
     - place: '13'
-      total: 63
+      total: 63.223
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 33.904
+        effort: 34.038
         arrival: 0
         time: 0
-        reach: 25.505
-        distance: 59.41
+        reach: 25.606
+        distance: 59.645
         leading: 0
+      demeritFrac: -3.579
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -600,25 +648,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 4.435 km
-        flown: 4.435 km
+        extra: 4.484 km
+        flown: 4.484 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 59.645
       landedMade: 3.579 km
       stoppedAlt: 2.000 m
   - - - '213'
       - Willie Van Caulart
     - place: '14'
-      total: 58
+      total: 58.594
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 32.858
+        effort: 32.988
         arrival: 0
         time: 0
-        reach: 25.505
-        distance: 58.363
+        reach: 25.606
+        distance: 58.594
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -629,26 +681,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 3.684 km
-        flown: 3.684 km
+        extra: 3.732 km
+        flown: 3.732 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 58.594
       landedMade: 3.428 km
       stoppedAlt: 5.000 m
   - - - '210'
       - Pete Wall
     - place: '15'
-      total: 30
+      total: 30.261
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 2.93
+        effort: 2.942
         arrival: 0
         time: 0
-        reach: 25.505
-        distance: 28.435
+        reach: 25.606
+        distance: 28.548
         leading: 0
+      demeritFrac: -1.713
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -659,26 +715,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 1.501 km
-        flown: 1.501 km
+        extra: 1.550 km
+        flown: 1.550 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 28.548
       landedMade: 0.349 km
       stoppedAlt: 4.000 m
   - - - '206'
       - Michael Duffy
     - place: '16'
-      total: 28
+      total: 28.034
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 0.837
+        effort: 0.84
         arrival: 0
         time: 0
-        reach: 25.505
-        distance: 26.343
+        reach: 25.606
+        distance: 26.447
         leading: 0
+      demeritFrac: -1.587
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -689,26 +749,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: -0.024 km
-        flown: -0.024 km
+        extra: 0.025 km
+        flown: 0.025 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 26.447
       landedMade: -0.452 km
       stoppedAlt: -6.000 m
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 950
+      total: 950.881
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 362.172
+        effort: 362.351
         arrival: 0
-        time: 172.3
-        reach: 362.172
-        distance: 724.344
+        time: 172.4
+        reach: 362.351
+        distance: 724.703
         leading: 0
+      demeritFrac: -53.823
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:21:43.92792846267Z
         gs: null
@@ -721,23 +785,27 @@ score:
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 897.058
       landedMade: 42.669 km
       stoppedAlt: null
   - - - '214'
       - Richard Elder
     - place: '2'
-      total: 674
+      total: 674.591
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 362.172
+        effort: 362.351
         arrival: 0
         time: 0
-        reach: 312.068
-        distance: 674.24
+        reach: 312.239
+        distance: 674.591
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:25:23.350577830675Z
         gs: null
@@ -748,25 +816,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 36.766 km
-        flown: 36.766 km
+        extra: 36.768 km
+        flown: 36.768 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 674.591
       landedMade: 36.558 km
       stoppedAlt: 25.000 m
   - - - '211'
       - Dan Lukaszewicz
     - place: '3'
-      total: 553
+      total: 553.102
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 335.468
+        effort: 335.634
         arrival: 0
         time: 0
-        reach: 217.309
-        distance: 552.777
+        reach: 217.467
+        distance: 553.102
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:05:25.42943784332Z
         gs: null
@@ -777,26 +849,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 25.602 km
-        flown: 25.602 km
+        extra: 25.608 km
+        flown: 25.608 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 553.102
       landedMade: 25.608 km
       stoppedAlt: 1.000 m
   - - - '217'
       - Richard Westmoreland
     - place: '4'
-      total: 537
+      total: 537.726
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -0.29
-      penaltyReason: Handicap
       breakdown:
-        effort: 258.36
+        effort: 258.489
         arrival: 0
         time: 0
-        reach: 158.233
-        distance: 416.593
+        reach: 158.354
+        distance: 416.842
         leading: 0
+      demeritFrac: -120.884
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:22:06.00909010885Z
         gs: null
@@ -807,25 +883,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 18.642 km
-        flown: 18.642 km
+        extra: 18.647 km
+        flown: 18.647 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 416.842
       landedMade: 18.633 km
       stoppedAlt: 28.000 m
   - - - '204'
       - Owen MB
-    - place: 5=
-      total: 518
+    - place: '5'
+      total: 518.563
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 325.12
+        effort: 325.281
         arrival: 0
         time: 0
-        reach: 193.135
-        distance: 518.255
+        reach: 193.282
+        distance: 518.563
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T17:52:08.89390139282Z
         gs: null
@@ -836,25 +916,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 22.754 km
-        flown: 22.754 km
+        extra: 22.760 km
+        flown: 22.760 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 518.563
       landedMade: 22.507 km
       stoppedAlt: -6.000 m
   - - - '202'
       - Nick Jones
-    - place: 5=
-      total: 518
+    - place: '6'
+      total: 518.156
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 325.12
+        effort: 325.281
         arrival: 0
         time: 0
-        reach: 192.728
-        distance: 517.848
+        reach: 192.874
+        distance: 518.156
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T17:50:44.088088032962Z
         gs: null
@@ -865,25 +949,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 22.706 km
-        flown: 22.706 km
+        extra: 22.712 km
+        flown: 22.712 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 518.156
       landedMade: 22.595 km
       stoppedAlt: 21.000 m
   - - - '212'
       - Greg Sessa
     - place: '7'
-      total: 517
+      total: 517.009
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 325.12
+        effort: 325.281
         arrival: 0
         time: 0
-        reach: 191.582
-        distance: 516.702
+        reach: 191.728
+        distance: 517.009
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:21:53.97334571472Z
         gs: null
@@ -894,25 +982,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 22.571 km
-        flown: 22.571 km
+        extra: 22.577 km
+        flown: 22.577 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 517.009
       landedMade: 22.539 km
       stoppedAlt: -6.000 m
   - - - '203'
       - Andrey Solomykin
     - place: '8'
-      total: 492
+      total: 492.063
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 305.092
+        effort: 305.244
         arrival: 0
         time: 0
-        reach: 186.676
-        distance: 491.768
+        reach: 186.819
+        distance: 492.063
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T19:37:27.150273115196Z
         gs: null
@@ -923,25 +1015,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 21.993 km
-        flown: 21.993 km
+        extra: 21.999 km
+        flown: 21.999 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 492.063
       landedMade: 21.092 km
       stoppedAlt: 9.000 m
   - - - '205'
       - Kelly Myrkle
     - place: '9'
-      total: 482
+      total: 481.898
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 272.38
+        effort: 272.515
         arrival: 0
         time: 0
-        reach: 209.228
-        distance: 481.608
+        reach: 209.383
+        distance: 481.898
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:04:41.76341032328Z
         gs: null
@@ -952,25 +1048,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 24.650 km
-        flown: 24.650 km
+        extra: 24.656 km
+        flown: 24.656 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 481.898
       landedMade: 19.221 km
       stoppedAlt: 3.000 m
   - - - '207'
       - Alex Skyride
     - place: '10'
-      total: 459
+      total: 458.975
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 288.402
+        effort: 288.545
         arrival: 0
         time: 0
-        reach: 170.294
-        distance: 458.696
+        reach: 170.43
+        distance: 458.975
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:02:18.15472281566Z
         gs: null
@@ -981,26 +1081,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 20.063 km
-        flown: 20.063 km
+        extra: 20.069 km
+        flown: 20.069 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 458.975
       landedMade: 20.069 km
       stoppedAlt: 1070.000 m
   - - - '216'
       - John Maloney
     - place: '11'
-      total: 444
+      total: 444.751
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 258.36
+        effort: 258.489
         arrival: 0
         time: 0
-        reach: 160.957
-        distance: 419.318
+        reach: 161.088
+        distance: 419.577
         leading: 0
+      demeritFrac: -25.175
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:24:28.343739438336Z
         gs: null
@@ -1011,26 +1115,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 18.963 km
-        flown: 18.963 km
+        extra: 18.969 km
+        flown: 18.969 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 419.577
       landedMade: 18.613 km
       stoppedAlt: -9.000 m
   - - - '210'
       - Pete Wall
     - place: '12'
-      total: 434
+      total: 434.527
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 252.352
+        effort: 252.477
         arrival: 0
         time: 0
-        reach: 157.316
-        distance: 409.668
+        reach: 157.454
+        distance: 409.931
         leading: 0
+      demeritFrac: -24.596
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:30:33.14847030008Z
         gs: null
@@ -1041,25 +1149,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 18.534 km
-        flown: 18.534 km
+        extra: 18.541 km
+        flown: 18.541 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 409.931
       landedMade: 18.400 km
       stoppedAlt: 0.000 m
   - - - '213'
       - Willie Van Caulart
     - place: '13'
-      total: 193
+      total: 193.476
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 85.786
+        effort: 85.829
         arrival: 0
         time: 0
-        reach: 107.526
-        distance: 193.312
+        reach: 107.647
+        distance: 193.476
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:04:56.75421252113Z
         gs: null
@@ -1070,26 +1182,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 12.668 km
-        flown: 12.668 km
+        extra: 12.676 km
+        flown: 12.676 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 193.476
       landedMade: 12.075 km
       stoppedAlt: -7.000 m
   - - - '208'
       - Soraya Rios
     - place: '14'
-      total: 110
+      total: 110.154
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 48.067
+        effort: 48.091
         arrival: 0
         time: 0
-        reach: 55.648
-        distance: 103.715
+        reach: 55.828
+        distance: 103.919
         leading: 0
+      demeritFrac: -6.235
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:42:25.75668440412Z
         gs: null
@@ -1100,26 +1216,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 6.556 km
-        flown: 6.556 km
+        extra: 6.574 km
+        flown: 6.574 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 103.919
       landedMade: 6.098 km
       stoppedAlt: -13.000 m
   - - - '209'
       - John Blank
     - place: '15'
-      total: 106
+      total: 106.65
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 48.735
+        effort: 48.759
         arrival: 0
         time: 0
-        reach: 51.684
-        distance: 100.419
+        reach: 51.854
+        distance: 100.613
         leading: 0
+      demeritFrac: -6.037
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:15:51.81903435395Z
         gs: null
@@ -1130,25 +1250,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 6.089 km
-        flown: 6.089 km
+        extra: 6.106 km
+        flown: 6.106 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 100.613
       landedMade: 6.101 km
       stoppedAlt: -10.000 m
   - - - '215'
       - Burke Schnedl
     - place: '16'
-      total: 58
+      total: 58.548
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 1.335
+        effort: 1.336
         arrival: 0
         time: 0
-        reach: 57.031
-        distance: 58.367
+        reach: 57.213
+        distance: 58.548
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:05:14.876530601145Z
         gs: null
@@ -1159,26 +1283,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 6.719 km
-        flown: 6.719 km
+        extra: 6.737 km
+        flown: 6.737 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 58.548
       landedMade: -10.341 km
       stoppedAlt: 31.000 m
   - - - '206'
       - Michael Duffy
     - place: '17'
-      total: 46
+      total: 46.424
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 1.335
+        effort: 1.336
         arrival: 0
         time: 0
-        reach: 42.44
-        distance: 43.775
+        reach: 42.461
+        distance: 43.796
         leading: 0
+      demeritFrac: -2.628
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -1189,8 +1317,12 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 0.953 km
-        flown: 0.953 km
+        extra: 0.971 km
+        flown: 0.971 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 43.796
       landedMade: -0.573 km
       stoppedAlt: -16.000 m
 - - - - '201'
@@ -1198,10 +1330,8 @@ score:
     - place: '1'
       total: 1060
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 363.436
         arrival: 0
@@ -1209,6 +1339,8 @@ score:
         reach: 363.436
         distance: 726.871
         leading: 0
+      demeritFrac: -60
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:48:00.01979949974Z
         gs: null
@@ -1221,16 +1353,18 @@ score:
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 1000
       landedMade: 110.549 km
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 977
+      total: 977.496
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 363.436
         arrival: 0
@@ -1238,6 +1372,8 @@ score:
         reach: 363.436
         distance: 726.871
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:35:04.530966889495Z
         gs: null
@@ -1250,23 +1386,27 @@ score:
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 977.496
       landedMade: 110.549 km
       stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
     - place: '3'
-      total: 723
+      total: 722.992
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 363.436
         arrival: 0
         time: 0
-        reach: 359.55
-        distance: 722.985
+        reach: 359.556
+        distance: 722.992
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:35:04.106208664634Z
         gs: null
@@ -1277,26 +1417,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 109.367 km
-        flown: 109.367 km
+        extra: 109.369 km
+        flown: 109.369 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 722.992
       landedMade: 109.370 km
       stoppedAlt: 10.000 m
   - - - '216'
       - John Maloney
     - place: '4'
-      total: 654
+      total: 654.439
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 326.187
         arrival: 0
         time: 0
-        reach: 291.202
-        distance: 617.389
+        reach: 291.208
+        distance: 617.396
         leading: 0
+      demeritFrac: -37.044
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:53:33.836163097302Z
         gs: null
@@ -1307,25 +1451,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 88.577 km
-        flown: 88.577 km
+        extra: 88.579 km
+        flown: 88.579 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 617.396
       landedMade: 88.369 km
       stoppedAlt: -10.000 m
   - - - '215'
       - Burke Schnedl
     - place: '5'
-      total: 619
+      total: 619.372
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 325.478
         arrival: 0
         time: 0
-        reach: 293.888
-        distance: 619.366
+        reach: 293.894
+        distance: 619.372
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:48:46.732849458495Z
         gs: null
@@ -1336,26 +1484,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 89.394 km
-        flown: 89.394 km
+        extra: 89.396 km
+        flown: 89.396 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 619.372
       landedMade: 88.189 km
       stoppedAlt: 28.000 m
   - - - '210'
       - Pete Wall
     - place: '6'
-      total: 418
+      total: 418.419
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 245.838
         arrival: 0
         time: 0
-        reach: 148.891
-        distance: 394.728
+        reach: 148.897
+        distance: 394.735
         leading: 0
+      demeritFrac: -23.684
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:48:20.777311926255Z
         gs: null
@@ -1366,25 +1518,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 45.289 km
-        flown: 45.289 km
+        extra: 45.291 km
+        flown: 45.291 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 394.735
       landedMade: 44.910 km
       stoppedAlt: -5.000 m
   - - - '204'
       - Owen MB
     - place: '7'
-      total: 289
+      total: 288.619
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 208.767
         arrival: 0
         time: 0
-        reach: 79.846
-        distance: 288.613
+        reach: 79.852
+        distance: 288.619
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:44:20.107544552645Z
         gs: null
@@ -1395,25 +1551,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 24.287 km
-        flown: 24.287 km
+        extra: 24.289 km
+        flown: 24.289 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 288.619
       landedMade: 24.093 km
       stoppedAlt: -8.000 m
   - - - '207'
       - Alex Skyride
     - place: '8'
-      total: 278
+      total: 278.159
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 203.978
         arrival: 0
         time: 0
-        reach: 74.152
-        distance: 278.13
+        reach: 74.181
+        distance: 278.159
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:58:12.146051637765Z
         gs: null
@@ -1424,25 +1584,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 22.555 km
-        flown: 22.555 km
+        extra: 22.564 km
+        flown: 22.564 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 278.159
       landedMade: 22.565 km
       stoppedAlt: -9.000 m
   - - - '212'
       - Greg Sessa
     - place: '9'
-      total: 235
+      total: 234.847
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 180.21
         arrival: 0
         time: 0
-        reach: 54.62
-        distance: 234.83
+        reach: 54.637
+        distance: 234.847
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:34:10.488123032425Z
         gs: null
@@ -1453,25 +1617,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 16.614 km
-        flown: 16.614 km
+        extra: 16.619 km
+        flown: 16.619 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 234.847
       landedMade: 15.823 km
       stoppedAlt: -13.000 m
   - - - '211'
       - Dan Lukaszewicz
     - place: '10'
-      total: 233
+      total: 233.48
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 179.678
         arrival: 0
         time: 0
-        reach: 53.789
-        distance: 233.467
+        reach: 53.802
+        distance: 233.48
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:34:12.410221628094Z
         gs: null
@@ -1482,25 +1650,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 16.361 km
-        flown: 16.361 km
+        extra: 16.365 km
+        flown: 16.365 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 233.48
       landedMade: 15.710 km
       stoppedAlt: -11.000 m
   - - - '217'
       - Richard Westmoreland
     - place: '11'
-      total: 183
+      total: 182.865
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 145.623
         arrival: 0
         time: 0
-        reach: 37.229
-        distance: 182.852
+        reach: 37.242
+        distance: 182.865
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:51:36.7031262154Z
         gs: null
@@ -1511,26 +1683,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 11.324 km
-        flown: 11.324 km
+        extra: 11.328 km
+        flown: 11.328 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 182.865
       landedMade: 10.996 km
       stoppedAlt: 12.000 m
   - - - '208'
       - Soraya Rios
     - place: '12'
-      total: 169
+      total: 168.818
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 128.772
         arrival: 0
         time: 0
-        reach: 30.473
-        distance: 159.245
+        reach: 30.49
+        distance: 159.262
         leading: 0
+      demeritFrac: -9.556
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:48:34.28499618964Z
         gs: null
@@ -1541,19 +1717,21 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 9.269 km
-        flown: 9.269 km
+        extra: 9.274 km
+        flown: 9.274 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 159.262
       landedMade: 9.008 km
       stoppedAlt: -22.000 m
   - - - '209'
       - John Blank
     - place: 13=
-      total: 109
+      total: 108.799
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 86.203
         arrival: 0
@@ -1561,21 +1739,25 @@ score:
         reach: 16.438
         distance: 102.641
         leading: 0
+      demeritFrac: -6.158
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.000 km
         flown: 5.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 102.641
       landedMade: 5.000 km
       stoppedAlt: null
   - - - '206'
       - Michael Duffy
     - place: 13=
-      total: 109
+      total: 108.799
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 86.203
         arrival: 0
@@ -1583,20 +1765,24 @@ score:
         reach: 16.438
         distance: 102.641
         leading: 0
+      demeritFrac: -6.158
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.000 km
         flown: 5.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 102.641
       landedMade: 5.000 km
       stoppedAlt: null
   - - - '202'
       - Nick Jones
     - place: 15=
-      total: 103
+      total: 102.641
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 86.203
         arrival: 0
@@ -1604,20 +1790,24 @@ score:
         reach: 16.438
         distance: 102.641
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.000 km
         flown: 5.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 102.641
       landedMade: 5.000 km
       stoppedAlt: null
   - - - '214'
       - Richard Elder
     - place: 15=
-      total: 103
+      total: 102.641
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 86.203
         arrival: 0
@@ -1625,20 +1815,24 @@ score:
         reach: 16.438
         distance: 102.641
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.000 km
         flown: 5.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 102.641
       landedMade: 5.000 km
       stoppedAlt: null
   - - - '213'
       - Willie Van Caulart
     - place: '17'
-      total: 18
+      total: 18.034
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 1.596
         arrival: 0
@@ -1646,6 +1840,8 @@ score:
         reach: 16.438
         distance: 18.034
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -1656,8 +1852,12 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 0.444 km
-        flown: 0.444 km
+        extra: 0.449 km
+        flown: 0.449 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 18.034
       landedMade: -0.455 km
       stoppedAlt: -19.000 m
 - - - - '212'
@@ -1665,9 +1865,7 @@ score:
     - place: '1'
       total: 900
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 450
         arrival: 0
@@ -1675,6 +1873,8 @@ score:
         reach: 450
         distance: 900
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:39:05.305599071856Z
         gs: null
@@ -1685,25 +1885,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 85.220 km
-        flown: 85.220 km
+        extra: 85.225 km
+        flown: 85.225 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 900
       landedMade: 85.123 km
       stoppedAlt: -8.000 m
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 792
+      total: 791.628
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 412.06
         arrival: 0
         time: 0
-        reach: 379.559
-        distance: 791.619
+        reach: 379.568
+        distance: 791.628
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T19:03:25.42649147137Z
         gs: null
@@ -1714,26 +1918,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 71.880 km
-        flown: 71.880 km
+        extra: 71.886 km
+        flown: 71.886 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 791.628
       landedMade: 70.059 km
       stoppedAlt: -14.000 m
   - - - '208'
       - Soraya Rios
     - place: '3'
-      total: 655
+      total: 654.675
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 364.573
         arrival: 0
         time: 0
-        reach: 253.028
-        distance: 617.601
+        reach: 253.045
+        distance: 617.618
         leading: 0
+      demeritFrac: -37.057
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T17:54:56.62714826519Z
         gs: null
@@ -1744,25 +1952,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 47.918 km
-        flown: 47.918 km
+        extra: 47.924 km
+        flown: 47.924 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 617.618
       landedMade: 47.731 km
       stoppedAlt: -42.000 m
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 597
+      total: 596.71
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 357.789
         arrival: 0
         time: 0
-        reach: 238.856
-        distance: 596.645
+        reach: 238.921
+        distance: 596.71
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:34:02.983190175149Z
         gs: null
@@ -1773,25 +1985,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 45.234 km
-        flown: 45.234 km
+        extra: 45.249 km
+        flown: 45.249 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 596.71
       landedMade: 45.062 km
       stoppedAlt: -22.000 m
   - - - '214'
       - Richard Elder
     - place: '5'
-      total: 509
+      total: 508.85
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 314.573
         arrival: 0
         time: 0
-        reach: 194.22
-        distance: 508.793
+        reach: 194.277
+        distance: 508.85
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T19:20:17.163176722602Z
         gs: null
@@ -1802,25 +2018,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 36.781 km
-        flown: 36.781 km
+        extra: 36.794 km
+        flown: 36.794 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 508.85
       landedMade: 36.411 km
       stoppedAlt: -2.000 m
   - - - '202'
       - Nick Jones
     - place: '6'
-      total: 493
+      total: 493.052
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 305.528
         arrival: 0
         time: 0
-        reach: 187.482
-        distance: 493.01
+        reach: 187.524
+        distance: 493.052
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:27:46.290312950419Z
         gs: null
@@ -1831,26 +2051,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 35.505 km
-        flown: 35.505 km
+        extra: 35.515 km
+        flown: 35.515 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 493.052
       landedMade: 35.272 km
       stoppedAlt: -7.000 m
   - - - '201'
       - Niki Longshore
     - place: '7'
-      total: 402
+      total: 401.968
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 234.925
         arrival: 0
         time: 0
-        reach: 144.251
-        distance: 379.176
+        reach: 144.29
+        distance: 379.215
         leading: 0
+      demeritFrac: -22.753
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T17:56:07.117376638702Z
         gs: null
@@ -1861,26 +2085,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 27.318 km
-        flown: 27.318 km
+        extra: 27.327 km
+        flown: 27.327 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 379.215
       landedMade: 27.086 km
       stoppedAlt: -24.000 m
   - - - '210'
       - Pete Wall
     - place: '8'
-      total: 284
+      total: 283.603
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 168.342
         arrival: 0
         time: 0
-        reach: 99.161
-        distance: 267.503
+        reach: 99.208
+        distance: 267.55
         leading: 0
+      demeritFrac: -16.053
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T17:54:08.27540198369Z
         gs: null
@@ -1891,25 +2119,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 18.779 km
-        flown: 18.779 km
+        extra: 18.789 km
+        flown: 18.789 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 267.55
       landedMade: 18.020 km
       stoppedAlt: -26.000 m
   - - - '213'
       - Willie Van Caulart
     - place: '9'
-      total: 279
+      total: 278.819
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 176.131
         arrival: 0
         time: 0
-        reach: 102.641
-        distance: 278.772
+        reach: 102.688
+        distance: 278.819
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T19:20:52.467912279965Z
         gs: null
@@ -1920,26 +2152,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 19.438 km
-        flown: 19.438 km
+        extra: 19.448 km
+        flown: 19.448 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 278.819
       landedMade: 19.130 km
       stoppedAlt: -19.000 m
   - - - '206'
       - Michael Duffy
     - place: '10'
-      total: 191
+      total: 190.876
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 117.085
         arrival: 0
         time: 0
-        reach: 62.948
-        distance: 180.033
+        reach: 62.986
+        distance: 180.072
         leading: 0
+      demeritFrac: -10.804
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T17:54:26.66820420111Z
         gs: null
@@ -1950,26 +2186,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 11.921 km
-        flown: 11.921 km
+        extra: 11.929 km
+        flown: 11.929 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 180.072
       landedMade: 11.211 km
       stoppedAlt: -39.000 m
   - - - '216'
       - John Maloney
     - place: '11'
-      total: 145
+      total: 144.744
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 90.704
         arrival: 0
         time: 0
-        reach: 45.792
-        distance: 136.495
+        reach: 45.847
+        distance: 136.551
         leading: 0
+      demeritFrac: -8.193
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:03:34.0308354137Z
         gs: null
@@ -1980,25 +2220,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 8.672 km
-        flown: 8.672 km
+        extra: 8.683 km
+        flown: 8.683 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 136.551
       landedMade: 8.144 km
       stoppedAlt: -32.000 m
   - - - '211'
       - Dan Lukaszewicz
     - place: '12'
-      total: 94
+      total: 94.472
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 63.568
         arrival: 0
         time: 0
-        reach: 30.853
-        distance: 94.421
+        reach: 30.904
+        distance: 94.472
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:40:26.390945690302Z
         gs: null
@@ -2009,25 +2253,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 5.843 km
-        flown: 5.843 km
+        extra: 5.853 km
+        flown: 5.853 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 94.472
       landedMade: 5.481 km
       stoppedAlt: -19.000 m
   - - - '204'
       - Owen MB
     - place: '13'
-      total: 36
+      total: 35.948
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 9.548
         arrival: 0
         time: 0
-        reach: 26.402
-        distance: 35.95
+        reach: 26.401
+        distance: 35.948
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -2038,25 +2286,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 1.123 km
-        flown: 1.123 km
+        extra: 1.135 km
+        flown: 1.135 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 35.948
       landedMade: 0.837 km
       stoppedAlt: -8.000 m
   - - - '207'
       - Alex Skyride
     - place: 14=
-      total: 28
+      total: 27.908
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 1.508
         arrival: 0
         time: 0
-        reach: 26.402
-        distance: 27.91
+        reach: 26.401
+        distance: 27.908
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -2067,25 +2319,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 0.776 km
-        flown: 0.776 km
+        extra: 0.788 km
+        flown: 0.788 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 27.908
       landedMade: -0.327 km
       stoppedAlt: -14.000 m
   - - - '217'
       - Richard Westmoreland
     - place: 14=
-      total: 28
+      total: 27.908
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 1.508
         arrival: 0
         time: 0
-        reach: 26.402
-        distance: 27.91
+        reach: 26.401
+        distance: 27.908
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -2096,19 +2352,21 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 2.711 km
-        flown: 2.711 km
+        extra: 2.722 km
+        flown: 2.722 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 27.908
       landedMade: -0.332 km
       stoppedAlt: -8.000 m
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 1022
+      total: 1022.14
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handcap
       breakdown:
         effort: 260.93
         arrival: 0
@@ -2116,6 +2374,8 @@ score:
         reach: 260.93
         distance: 521.86
         leading: 0
+      demeritFrac: -57.857
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:56:31.61724148867Z
         gs: null
@@ -2128,16 +2388,18 @@ score:
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handcap
+      subtotal: 964.283
       landedMade: 40.966 km
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 980
+      total: 979.522
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 260.93
         arrival: 0
@@ -2145,6 +2407,8 @@ score:
         reach: 260.93
         distance: 521.86
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:30:42.64423637494Z
         gs: null
@@ -2157,17 +2421,19 @@ score:
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 979.522
       landedMade: 40.966 km
       stoppedAlt: null
   - - - '216'
       - John Maloney
     - place: '3'
-      total: 945
+      total: 945.246
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 260.93
         arrival: 0
@@ -2175,6 +2441,8 @@ score:
         reach: 260.93
         distance: 521.86
         leading: 0
+      demeritFrac: -53.504
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:22:07.004893112501Z
         gs: null
@@ -2187,16 +2455,18 @@ score:
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 891.742
       landedMade: 40.966 km
       stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 863
+      total: 863.271
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 260.93
         arrival: 0
@@ -2204,6 +2474,8 @@ score:
         reach: 260.93
         distance: 521.86
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:59:37.363863911127Z
         gs: null
@@ -2216,23 +2488,27 @@ score:
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 863.271
       landedMade: 40.966 km
       stoppedAlt: null
   - - - '202'
       - Nick Jones
     - place: '5'
-      total: 489
+      total: 489.612
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 260.93
         arrival: 0
         time: 0
-        reach: 228.3
-        distance: 489.23
+        reach: 228.682
+        distance: 489.612
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:50:47.393518107228Z
         gs: null
@@ -2243,25 +2519,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 35.843 km
-        flown: 35.843 km
+        extra: 35.903 km
+        flown: 35.903 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 489.612
       landedMade: 35.573 km
       stoppedAlt: 21.000 m
   - - - '212'
       - Greg Sessa
     - place: '6'
-      total: 474
+      total: 474.042
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 255.653
         arrival: 0
         time: 0
-        reach: 218.007
-        distance: 473.66
+        reach: 218.389
+        distance: 474.042
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:37:31.691522612447Z
         gs: null
@@ -2272,25 +2552,29 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 34.227 km
-        flown: 34.227 km
+        extra: 34.287 km
+        flown: 34.287 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 474.042
       landedMade: 33.702 km
       stoppedAlt: -4.000 m
   - - - '217'
       - Richard Westmoreland
     - place: '7'
-      total: 406
+      total: 406.384
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 223.403
         arrival: 0
         time: 0
-        reach: 182.593
-        distance: 405.996
+        reach: 182.981
+        distance: 406.384
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:23:24.2513462115Z
         gs: null
@@ -2301,26 +2585,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 28.667 km
-        flown: 28.667 km
+        extra: 28.728 km
+        flown: 28.728 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 406.384
       landedMade: 28.219 km
       stoppedAlt: 22.000 m
   - - - '210'
       - Pete Wall
     - place: '8'
-      total: 238
+      total: 238.595
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 140.433
         arrival: 0
         time: 0
-        reach: 84.274
-        distance: 224.707
+        reach: 84.656
+        distance: 225.09
         leading: 0
+      demeritFrac: -13.505
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:57:05.88922120026Z
         gs: null
@@ -2331,26 +2619,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 13.231 km
-        flown: 13.231 km
+        extra: 13.291 km
+        flown: 13.291 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 225.09
       landedMade: 13.000 km
       stoppedAlt: -8.000 m
   - - - '206'
       - Michael Duffy
     - place: '9'
-      total: 216
+      total: 216.459
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 133.983
         arrival: 0
         time: 0
-        reach: 69.835
-        distance: 203.818
+        reach: 70.223
+        distance: 204.207
         leading: 0
+      demeritFrac: -12.252
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:56:19.114954139065Z
         gs: null
@@ -2361,26 +2653,30 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 10.964 km
-        flown: 10.964 km
+        extra: 11.025 km
+        flown: 11.025 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 204.207
       landedMade: 10.776 km
       stoppedAlt: -19.000 m
   - - - '208'
       - Soraya Rios
     - place: '10'
-      total: 194
+      total: 193.995
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 122.256
         arrival: 0
         time: 0
-        reach: 60.37
-        distance: 182.626
+        reach: 60.758
+        distance: 183.014
         leading: 0
+      demeritFrac: -10.981
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:59:00.93444129756Z
         gs: null
@@ -2391,18 +2687,20 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 9.478 km
-        flown: 9.478 km
+        extra: 9.539 km
+        flown: 9.539 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 183.014
       landedMade: 8.769 km
       stoppedAlt: -10.000 m
   - - - '207'
       - Alex Skyride
     - place: 11=
-      total: 122
+      total: 121.593
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 89.713
         arrival: 0
@@ -2410,20 +2708,24 @@ score:
         reach: 31.88
         distance: 121.593
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.005 km
         flown: 5.005 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 121.593
       landedMade: 5.005 km
       stoppedAlt: null
   - - - '211'
       - Dan Lukaszewicz
     - place: 11=
-      total: 122
+      total: 121.593
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 89.713
         arrival: 0
@@ -2431,20 +2733,24 @@ score:
         reach: 31.88
         distance: 121.593
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.005 km
         flown: 5.005 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 121.593
       landedMade: 5.005 km
       stoppedAlt: null
   - - - '214'
       - Richard Elder
     - place: 11=
-      total: 122
+      total: 121.593
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 89.713
         arrival: 0
@@ -2452,28 +2758,34 @@ score:
         reach: 31.88
         distance: 121.593
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.005 km
         flown: 5.005 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 121.593
       landedMade: 5.005 km
       stoppedAlt: null
 scoreDf:
 - - - - '203'
       - Andrey Solomykin
     - place: '1'
-      total: 433
+      total: 434.34
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 174.752
+        effort: 175.445
         arrival: 0
-        time: 83.1
-        reach: 174.752
-        distance: 349.505
+        time: 83.5
+        reach: 175.445
+        distance: 350.889
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:36:39.045684584836Z
         gs: null
@@ -2486,23 +2798,27 @@ scoreDf:
       reach:
         extra: 34.258 km
         flown: 34.258 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 434.34
       landedMade: 34.258 km
       stoppedAlt: null
   - - - '202'
       - Nick Jones
     - place: '2'
-      total: 311
+      total: 312.464
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 174.752
+        effort: 175.445
         arrival: 0
         time: 0
-        reach: 136.249
-        distance: 311.002
+        reach: 137.02
+        distance: 312.464
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:13:57.421447341702Z
         gs: null
@@ -2513,25 +2829,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 26.710 km
-        flown: 26.710 km
+        extra: 26.755 km
+        flown: 26.755 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 312.464
       landedMade: 26.306 km
       stoppedAlt: 28.000 m
   - - - '205'
       - Kelly Myrkle
     - place: '3'
-      total: 263
+      total: 264.407
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 160.521
+        effort: 161.157
         arrival: 0
         time: 0
-        reach: 102.613
-        distance: 263.134
+        reach: 103.25
+        distance: 264.407
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:36:38.277786615935Z
         gs: null
@@ -2542,26 +2862,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 20.116 km
-        flown: 20.116 km
+        extra: 20.161 km
+        flown: 20.161 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 264.407
       landedMade: 19.523 km
       stoppedAlt: 1.000 m
   - - - '201'
       - Niki Longshore
     - place: '4'
-      total: 258
+      total: 259.563
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 155.08
+        effort: 155.694
         arrival: 0
         time: 0
-        reach: 88.595
-        distance: 243.675
+        reach: 89.176
+        distance: 244.87
         leading: 0
+      demeritFrac: -14.692
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:37:51.05736768409Z
         gs: null
@@ -2572,25 +2896,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 17.368 km
-        flown: 17.368 km
+        extra: 17.413 km
+        flown: 17.413 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 244.87
       landedMade: 17.072 km
       stoppedAlt: 5.000 m
   - - - '214'
       - Richard Elder
     - place: '5'
-      total: 243
+      total: 244.23
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 155.08
+        effort: 155.694
         arrival: 0
         time: 0
-        reach: 87.957
-        distance: 243.037
+        reach: 88.536
+        distance: 244.23
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:37:49.485991684638Z
         gs: null
@@ -2601,26 +2929,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 17.243 km
-        flown: 17.243 km
+        extra: 17.288 km
+        flown: 17.288 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 244.23
       landedMade: 17.082 km
       stoppedAlt: 22.000 m
   - - - '216'
       - John Maloney
     - place: '6'
-      total: 237
+      total: 238.579
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 144.406
+        effort: 144.978
         arrival: 0
         time: 0
-        reach: 79.551
-        distance: 223.957
+        reach: 80.096
+        distance: 225.074
         leading: 0
+      demeritFrac: -13.504
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:02:15.368273340497Z
         gs: null
@@ -2631,26 +2963,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 15.595 km
-        flown: 15.595 km
+        extra: 15.640 km
+        flown: 15.640 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 225.074
       landedMade: 15.345 km
       stoppedAlt: 0.000 m
   - - - '209'
       - John Blank
     - place: '7'
-      total: 196
+      total: 196.594
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 120.548
+        effort: 121.025
         arrival: 0
         time: 0
-        reach: 63.936
-        distance: 184.484
+        reach: 64.441
+        distance: 185.466
         leading: 0
+      demeritFrac: -11.128
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:01:49.03893816732Z
         gs: null
@@ -2661,26 +2997,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 12.534 km
-        flown: 12.534 km
+        extra: 12.583 km
+        flown: 12.583 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 185.466
       landedMade: 12.435 km
       stoppedAlt: 2.000 m
   - - - '217'
       - Richard Westmoreland
     - place: '8'
-      total: 175
+      total: 175.736
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -0.29
-      penaltyReason: Handicap
       breakdown:
-        effort: 89.992
+        effort: 90.349
         arrival: 0
         time: 0
-        reach: 45.455
-        distance: 135.447
+        reach: 45.881
+        distance: 136.23
         leading: 0
+      demeritFrac: -39.507
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:10:03.201707993795Z
         gs: null
@@ -2691,25 +3031,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 8.911 km
-        flown: 8.911 km
+        extra: 8.959 km
+        flown: 8.959 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 136.23
       landedMade: 8.677 km
       stoppedAlt: 26.000 m
   - - - '212'
       - Greg Sessa
     - place: '9'
-      total: 168
+      total: 169.325
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 107.991
+        effort: 108.418
         arrival: 0
         time: 0
-        reach: 60.412
-        distance: 168.402
+        reach: 60.907
+        distance: 169.325
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:24:37.550757271916Z
         gs: null
@@ -2720,25 +3064,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 11.843 km
-        flown: 11.843 km
+        extra: 11.893 km
+        flown: 11.893 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 169.325
       landedMade: 10.959 km
       stoppedAlt: 1.000 m
   - - - '211'
       - Dan Lukaszewicz
-    - place: '10'
-      total: 138
+    - place: 10=
+      total: 138.361
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 90.829
+        effort: 91.189
         arrival: 0
         time: 0
-        reach: 46.741
-        distance: 137.57
+        reach: 47.172
+        distance: 138.361
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:48:04.459142979636Z
         gs: null
@@ -2749,25 +3097,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 9.163 km
-        flown: 9.163 km
+        extra: 9.211 km
+        flown: 9.211 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 138.361
       landedMade: 8.776 km
       stoppedAlt: 4.000 m
   - - - '204'
       - Owen MB
-    - place: '11'
-      total: 137
+    - place: 10=
+      total: 137.879
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 89.992
+        effort: 90.349
         arrival: 0
         time: 0
-        reach: 47.098
-        distance: 137.09
+        reach: 47.53
+        distance: 137.879
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:37:30.548824629265Z
         gs: null
@@ -2778,25 +3130,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 9.233 km
-        flown: 9.233 km
+        extra: 9.281 km
+        flown: 9.281 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 137.879
       landedMade: 8.678 km
       stoppedAlt: 3.000 m
   - - - '207'
       - Alex Skyride
     - place: '12'
-      total: 111
+      total: 111.908
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 73.877
+        effort: 74.17
         arrival: 0
         time: 0
-        reach: 37.344
-        distance: 111.222
+        reach: 37.738
+        distance: 111.908
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-03T20:11:20.270586914429Z
         gs: null
@@ -2807,26 +3163,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 7.321 km
-        flown: 7.321 km
+        extra: 7.369 km
+        flown: 7.369 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 111.908
       landedMade: 7.100 km
       stoppedAlt: 5.000 m
   - - - '208'
       - Soraya Rios
     - place: '13'
-      total: 63
+      total: 63.223
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 33.904
+        effort: 34.038
         arrival: 0
         time: 0
-        reach: 25.505
-        distance: 59.41
+        reach: 25.606
+        distance: 59.645
         leading: 0
+      demeritFrac: -3.579
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -2837,25 +3197,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 4.435 km
-        flown: 4.435 km
+        extra: 4.484 km
+        flown: 4.484 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 59.645
       landedMade: 3.579 km
       stoppedAlt: 2.000 m
   - - - '213'
       - Willie Van Caulart
     - place: '14'
-      total: 58
+      total: 58.594
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 32.858
+        effort: 32.988
         arrival: 0
         time: 0
-        reach: 25.505
-        distance: 58.363
+        reach: 25.606
+        distance: 58.594
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -2866,26 +3230,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 3.684 km
-        flown: 3.684 km
+        extra: 3.732 km
+        flown: 3.732 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 58.594
       landedMade: 3.428 km
       stoppedAlt: 5.000 m
   - - - '210'
       - Pete Wall
     - place: '15'
-      total: 30
+      total: 30.261
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 2.93
+        effort: 2.942
         arrival: 0
         time: 0
-        reach: 25.505
-        distance: 28.435
+        reach: 25.606
+        distance: 28.548
         leading: 0
+      demeritFrac: -1.713
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -2896,26 +3264,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 1.501 km
-        flown: 1.501 km
+        extra: 1.550 km
+        flown: 1.550 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 28.548
       landedMade: 0.349 km
       stoppedAlt: 4.000 m
   - - - '206'
       - Michael Duffy
     - place: '16'
-      total: 28
+      total: 28.034
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 0.837
+        effort: 0.84
         arrival: 0
         time: 0
-        reach: 25.505
-        distance: 26.343
+        reach: 25.606
+        distance: 26.447
         leading: 0
+      demeritFrac: -1.587
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -2926,26 +3298,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: -0.024 km
-        flown: -0.024 km
+        extra: 0.025 km
+        flown: 0.025 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 26.447
       landedMade: -0.452 km
       stoppedAlt: -6.000 m
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 950
+      total: 950.881
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 362.172
+        effort: 362.351
         arrival: 0
-        time: 172.3
-        reach: 362.172
-        distance: 724.344
+        time: 172.4
+        reach: 362.351
+        distance: 724.703
         leading: 0
+      demeritFrac: -53.823
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:21:43.92792846267Z
         gs: null
@@ -2958,23 +3334,27 @@ scoreDf:
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 897.058
       landedMade: 42.669 km
       stoppedAlt: null
   - - - '214'
       - Richard Elder
     - place: '2'
-      total: 674
+      total: 674.591
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 362.172
+        effort: 362.351
         arrival: 0
         time: 0
-        reach: 312.068
-        distance: 674.24
+        reach: 312.239
+        distance: 674.591
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:25:23.350577830675Z
         gs: null
@@ -2985,25 +3365,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 36.766 km
-        flown: 36.766 km
+        extra: 36.768 km
+        flown: 36.768 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 674.591
       landedMade: 36.558 km
       stoppedAlt: 25.000 m
   - - - '211'
       - Dan Lukaszewicz
     - place: '3'
-      total: 553
+      total: 553.102
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 335.468
+        effort: 335.634
         arrival: 0
         time: 0
-        reach: 217.309
-        distance: 552.777
+        reach: 217.467
+        distance: 553.102
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:05:25.42943784332Z
         gs: null
@@ -3014,26 +3398,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 25.602 km
-        flown: 25.602 km
+        extra: 25.608 km
+        flown: 25.608 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 553.102
       landedMade: 25.608 km
       stoppedAlt: 1.000 m
   - - - '217'
       - Richard Westmoreland
     - place: '4'
-      total: 537
+      total: 537.726
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -0.29
-      penaltyReason: Handicap
       breakdown:
-        effort: 258.36
+        effort: 258.489
         arrival: 0
         time: 0
-        reach: 158.233
-        distance: 416.593
+        reach: 158.354
+        distance: 416.842
         leading: 0
+      demeritFrac: -120.884
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:22:06.00909010885Z
         gs: null
@@ -3044,25 +3432,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 18.642 km
-        flown: 18.642 km
+        extra: 18.647 km
+        flown: 18.647 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 416.842
       landedMade: 18.633 km
       stoppedAlt: 28.000 m
   - - - '204'
       - Owen MB
-    - place: 5=
-      total: 518
+    - place: '5'
+      total: 518.563
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 325.12
+        effort: 325.281
         arrival: 0
         time: 0
-        reach: 193.135
-        distance: 518.255
+        reach: 193.282
+        distance: 518.563
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T17:52:08.89390139282Z
         gs: null
@@ -3073,25 +3465,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 22.754 km
-        flown: 22.754 km
+        extra: 22.760 km
+        flown: 22.760 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 518.563
       landedMade: 22.507 km
       stoppedAlt: -6.000 m
   - - - '202'
       - Nick Jones
-    - place: 5=
-      total: 518
+    - place: '6'
+      total: 518.156
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 325.12
+        effort: 325.281
         arrival: 0
         time: 0
-        reach: 192.728
-        distance: 517.848
+        reach: 192.874
+        distance: 518.156
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T17:50:44.088088032962Z
         gs: null
@@ -3102,25 +3498,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 22.706 km
-        flown: 22.706 km
+        extra: 22.712 km
+        flown: 22.712 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 518.156
       landedMade: 22.595 km
       stoppedAlt: 21.000 m
   - - - '212'
       - Greg Sessa
     - place: '7'
-      total: 517
+      total: 517.009
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 325.12
+        effort: 325.281
         arrival: 0
         time: 0
-        reach: 191.582
-        distance: 516.702
+        reach: 191.728
+        distance: 517.009
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:21:53.97334571472Z
         gs: null
@@ -3131,25 +3531,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 22.571 km
-        flown: 22.571 km
+        extra: 22.577 km
+        flown: 22.577 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 517.009
       landedMade: 22.539 km
       stoppedAlt: -6.000 m
   - - - '203'
       - Andrey Solomykin
     - place: '8'
-      total: 492
+      total: 492.063
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 305.092
+        effort: 305.244
         arrival: 0
         time: 0
-        reach: 186.676
-        distance: 491.768
+        reach: 186.819
+        distance: 492.063
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T19:37:27.150273115196Z
         gs: null
@@ -3160,25 +3564,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 21.993 km
-        flown: 21.993 km
+        extra: 21.999 km
+        flown: 21.999 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 492.063
       landedMade: 21.092 km
       stoppedAlt: 9.000 m
   - - - '205'
       - Kelly Myrkle
     - place: '9'
-      total: 482
+      total: 481.898
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 272.38
+        effort: 272.515
         arrival: 0
         time: 0
-        reach: 209.228
-        distance: 481.608
+        reach: 209.383
+        distance: 481.898
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:04:41.76341032328Z
         gs: null
@@ -3189,25 +3597,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 24.650 km
-        flown: 24.650 km
+        extra: 24.656 km
+        flown: 24.656 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 481.898
       landedMade: 19.221 km
       stoppedAlt: 3.000 m
   - - - '207'
       - Alex Skyride
     - place: '10'
-      total: 459
+      total: 458.975
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 288.402
+        effort: 288.545
         arrival: 0
         time: 0
-        reach: 170.294
-        distance: 458.696
+        reach: 170.43
+        distance: 458.975
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:02:18.15472281566Z
         gs: null
@@ -3218,26 +3630,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 20.063 km
-        flown: 20.063 km
+        extra: 20.069 km
+        flown: 20.069 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 458.975
       landedMade: 20.069 km
       stoppedAlt: 1070.000 m
   - - - '216'
       - John Maloney
     - place: '11'
-      total: 444
+      total: 444.751
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 258.36
+        effort: 258.489
         arrival: 0
         time: 0
-        reach: 160.957
-        distance: 419.318
+        reach: 161.088
+        distance: 419.577
         leading: 0
+      demeritFrac: -25.175
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:24:28.343739438336Z
         gs: null
@@ -3248,26 +3664,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 18.963 km
-        flown: 18.963 km
+        extra: 18.969 km
+        flown: 18.969 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 419.577
       landedMade: 18.613 km
       stoppedAlt: -9.000 m
   - - - '210'
       - Pete Wall
     - place: '12'
-      total: 434
+      total: 434.527
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 252.352
+        effort: 252.477
         arrival: 0
         time: 0
-        reach: 157.316
-        distance: 409.668
+        reach: 157.454
+        distance: 409.931
         leading: 0
+      demeritFrac: -24.596
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:30:33.14847030008Z
         gs: null
@@ -3278,25 +3698,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 18.534 km
-        flown: 18.534 km
+        extra: 18.541 km
+        flown: 18.541 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 409.931
       landedMade: 18.400 km
       stoppedAlt: 0.000 m
   - - - '213'
       - Willie Van Caulart
     - place: '13'
-      total: 193
+      total: 193.476
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 85.786
+        effort: 85.829
         arrival: 0
         time: 0
-        reach: 107.526
-        distance: 193.312
+        reach: 107.647
+        distance: 193.476
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:04:56.75421252113Z
         gs: null
@@ -3307,26 +3731,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 12.668 km
-        flown: 12.668 km
+        extra: 12.676 km
+        flown: 12.676 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 193.476
       landedMade: 12.075 km
       stoppedAlt: -7.000 m
   - - - '208'
       - Soraya Rios
     - place: '14'
-      total: 110
+      total: 110.154
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 48.067
+        effort: 48.091
         arrival: 0
         time: 0
-        reach: 55.648
-        distance: 103.715
+        reach: 55.828
+        distance: 103.919
         leading: 0
+      demeritFrac: -6.235
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:42:25.75668440412Z
         gs: null
@@ -3337,26 +3765,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 6.556 km
-        flown: 6.556 km
+        extra: 6.574 km
+        flown: 6.574 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 103.919
       landedMade: 6.098 km
       stoppedAlt: -13.000 m
   - - - '209'
       - John Blank
     - place: '15'
-      total: 106
+      total: 106.65
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 48.735
+        effort: 48.759
         arrival: 0
         time: 0
-        reach: 51.684
-        distance: 100.419
+        reach: 51.854
+        distance: 100.613
         leading: 0
+      demeritFrac: -6.037
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:15:51.81903435395Z
         gs: null
@@ -3367,25 +3799,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 6.089 km
-        flown: 6.089 km
+        extra: 6.106 km
+        flown: 6.106 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 100.613
       landedMade: 6.101 km
       stoppedAlt: -10.000 m
   - - - '215'
       - Burke Schnedl
     - place: '16'
-      total: 58
+      total: 58.548
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
-        effort: 1.335
+        effort: 1.336
         arrival: 0
         time: 0
-        reach: 57.031
-        distance: 58.367
+        reach: 57.213
+        distance: 58.548
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:05:14.876530601145Z
         gs: null
@@ -3396,26 +3832,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 6.719 km
-        flown: 6.719 km
+        extra: 6.737 km
+        flown: 6.737 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 58.548
       landedMade: -10.341 km
       stoppedAlt: 31.000 m
   - - - '206'
       - Michael Duffy
     - place: '17'
-      total: 46
+      total: 46.424
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
-        effort: 1.335
+        effort: 1.336
         arrival: 0
         time: 0
-        reach: 42.44
-        distance: 43.775
+        reach: 42.461
+        distance: 43.796
         leading: 0
+      demeritFrac: -2.628
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -3426,8 +3866,12 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 0.953 km
-        flown: 0.953 km
+        extra: 0.971 km
+        flown: 0.971 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 43.796
       landedMade: -0.573 km
       stoppedAlt: -16.000 m
 - - - - '201'
@@ -3435,10 +3879,8 @@ scoreDf:
     - place: '1'
       total: 1060
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 363.436
         arrival: 0
@@ -3446,6 +3888,8 @@ scoreDf:
         reach: 363.436
         distance: 726.871
         leading: 0
+      demeritFrac: -60
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:48:00.01979949974Z
         gs: null
@@ -3458,16 +3902,18 @@ scoreDf:
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 1000
       landedMade: 110.549 km
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 977
+      total: 977.496
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 363.436
         arrival: 0
@@ -3475,6 +3921,8 @@ scoreDf:
         reach: 363.436
         distance: 726.871
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:35:04.530966889495Z
         gs: null
@@ -3487,23 +3935,27 @@ scoreDf:
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 977.496
       landedMade: 110.549 km
       stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
     - place: '3'
-      total: 723
+      total: 722.992
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 363.436
         arrival: 0
         time: 0
-        reach: 359.55
-        distance: 722.985
+        reach: 359.556
+        distance: 722.992
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:35:04.106208664634Z
         gs: null
@@ -3514,26 +3966,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 109.367 km
-        flown: 109.367 km
+        extra: 109.369 km
+        flown: 109.369 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 722.992
       landedMade: 109.370 km
       stoppedAlt: 10.000 m
   - - - '216'
       - John Maloney
     - place: '4'
-      total: 654
+      total: 654.439
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 326.187
         arrival: 0
         time: 0
-        reach: 291.202
-        distance: 617.389
+        reach: 291.208
+        distance: 617.396
         leading: 0
+      demeritFrac: -37.044
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:53:33.836163097302Z
         gs: null
@@ -3544,25 +4000,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 88.577 km
-        flown: 88.577 km
+        extra: 88.579 km
+        flown: 88.579 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 617.396
       landedMade: 88.369 km
       stoppedAlt: -10.000 m
   - - - '215'
       - Burke Schnedl
     - place: '5'
-      total: 619
+      total: 619.372
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 325.478
         arrival: 0
         time: 0
-        reach: 293.888
-        distance: 619.366
+        reach: 293.894
+        distance: 619.372
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:48:46.732849458495Z
         gs: null
@@ -3573,26 +4033,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 89.394 km
-        flown: 89.394 km
+        extra: 89.396 km
+        flown: 89.396 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 619.372
       landedMade: 88.189 km
       stoppedAlt: 28.000 m
   - - - '210'
       - Pete Wall
     - place: '6'
-      total: 418
+      total: 418.419
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 245.838
         arrival: 0
         time: 0
-        reach: 148.891
-        distance: 394.728
+        reach: 148.897
+        distance: 394.735
         leading: 0
+      demeritFrac: -23.684
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:48:20.777311926255Z
         gs: null
@@ -3603,25 +4067,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 45.289 km
-        flown: 45.289 km
+        extra: 45.291 km
+        flown: 45.291 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 394.735
       landedMade: 44.910 km
       stoppedAlt: -5.000 m
   - - - '204'
       - Owen MB
     - place: '7'
-      total: 289
+      total: 288.619
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 208.767
         arrival: 0
         time: 0
-        reach: 79.846
-        distance: 288.613
+        reach: 79.852
+        distance: 288.619
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:44:20.107544552645Z
         gs: null
@@ -3632,25 +4100,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 24.287 km
-        flown: 24.287 km
+        extra: 24.289 km
+        flown: 24.289 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 288.619
       landedMade: 24.093 km
       stoppedAlt: -8.000 m
   - - - '207'
       - Alex Skyride
     - place: '8'
-      total: 278
+      total: 278.159
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 203.978
         arrival: 0
         time: 0
-        reach: 74.152
-        distance: 278.13
+        reach: 74.181
+        distance: 278.159
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:58:12.146051637765Z
         gs: null
@@ -3661,25 +4133,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 22.555 km
-        flown: 22.555 km
+        extra: 22.564 km
+        flown: 22.564 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 278.159
       landedMade: 22.565 km
       stoppedAlt: -9.000 m
   - - - '212'
       - Greg Sessa
     - place: '9'
-      total: 235
+      total: 234.847
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 180.21
         arrival: 0
         time: 0
-        reach: 54.62
-        distance: 234.83
+        reach: 54.637
+        distance: 234.847
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:34:10.488123032425Z
         gs: null
@@ -3690,25 +4166,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 16.614 km
-        flown: 16.614 km
+        extra: 16.619 km
+        flown: 16.619 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 234.847
       landedMade: 15.823 km
       stoppedAlt: -13.000 m
   - - - '211'
       - Dan Lukaszewicz
     - place: '10'
-      total: 233
+      total: 233.48
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 179.678
         arrival: 0
         time: 0
-        reach: 53.789
-        distance: 233.467
+        reach: 53.802
+        distance: 233.48
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:34:12.410221628094Z
         gs: null
@@ -3719,25 +4199,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 16.361 km
-        flown: 16.361 km
+        extra: 16.365 km
+        flown: 16.365 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 233.48
       landedMade: 15.710 km
       stoppedAlt: -11.000 m
   - - - '217'
       - Richard Westmoreland
     - place: '11'
-      total: 183
+      total: 182.865
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 145.623
         arrival: 0
         time: 0
-        reach: 37.229
-        distance: 182.852
+        reach: 37.242
+        distance: 182.865
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:51:36.7031262154Z
         gs: null
@@ -3748,26 +4232,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 11.324 km
-        flown: 11.324 km
+        extra: 11.328 km
+        flown: 11.328 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 182.865
       landedMade: 10.996 km
       stoppedAlt: 12.000 m
   - - - '208'
       - Soraya Rios
     - place: '12'
-      total: 169
+      total: 168.818
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 128.772
         arrival: 0
         time: 0
-        reach: 30.473
-        distance: 159.245
+        reach: 30.49
+        distance: 159.262
         leading: 0
+      demeritFrac: -9.556
+      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:48:34.28499618964Z
         gs: null
@@ -3778,18 +4266,20 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 9.269 km
-        flown: 9.269 km
+        extra: 9.274 km
+        flown: 9.274 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 159.262
       landedMade: 9.008 km
       stoppedAlt: -22.000 m
   - - - '213'
       - Willie Van Caulart
     - place: '13'
-      total: 18
+      total: 18.034
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 1.596
         arrival: 0
@@ -3797,6 +4287,8 @@ scoreDf:
         reach: 16.438
         distance: 18.034
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -3807,8 +4299,12 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 0.444 km
-        flown: 0.444 km
+        extra: 0.449 km
+        flown: 0.449 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 18.034
       landedMade: -0.455 km
       stoppedAlt: -19.000 m
 - - - - '212'
@@ -3816,9 +4312,7 @@ scoreDf:
     - place: '1'
       total: 900
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 450
         arrival: 0
@@ -3826,6 +4320,8 @@ scoreDf:
         reach: 450
         distance: 900
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:39:05.305599071856Z
         gs: null
@@ -3836,25 +4332,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 85.220 km
-        flown: 85.220 km
+        extra: 85.225 km
+        flown: 85.225 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 900
       landedMade: 85.123 km
       stoppedAlt: -8.000 m
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 792
+      total: 791.628
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 412.06
         arrival: 0
         time: 0
-        reach: 379.559
-        distance: 791.619
+        reach: 379.568
+        distance: 791.628
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T19:03:25.42649147137Z
         gs: null
@@ -3865,26 +4365,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 71.880 km
-        flown: 71.880 km
+        extra: 71.886 km
+        flown: 71.886 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 791.628
       landedMade: 70.059 km
       stoppedAlt: -14.000 m
   - - - '208'
       - Soraya Rios
     - place: '3'
-      total: 655
+      total: 654.675
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 364.573
         arrival: 0
         time: 0
-        reach: 253.028
-        distance: 617.601
+        reach: 253.045
+        distance: 617.618
         leading: 0
+      demeritFrac: -37.057
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T17:54:56.62714826519Z
         gs: null
@@ -3895,25 +4399,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 47.918 km
-        flown: 47.918 km
+        extra: 47.924 km
+        flown: 47.924 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 617.618
       landedMade: 47.731 km
       stoppedAlt: -42.000 m
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 597
+      total: 596.71
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 357.789
         arrival: 0
         time: 0
-        reach: 238.856
-        distance: 596.645
+        reach: 238.921
+        distance: 596.71
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:34:02.983190175149Z
         gs: null
@@ -3924,25 +4432,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 45.234 km
-        flown: 45.234 km
+        extra: 45.249 km
+        flown: 45.249 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 596.71
       landedMade: 45.062 km
       stoppedAlt: -22.000 m
   - - - '214'
       - Richard Elder
     - place: '5'
-      total: 509
+      total: 508.85
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 314.573
         arrival: 0
         time: 0
-        reach: 194.22
-        distance: 508.793
+        reach: 194.277
+        distance: 508.85
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T19:20:17.163176722602Z
         gs: null
@@ -3953,25 +4465,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 36.781 km
-        flown: 36.781 km
+        extra: 36.794 km
+        flown: 36.794 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 508.85
       landedMade: 36.411 km
       stoppedAlt: -2.000 m
   - - - '202'
       - Nick Jones
     - place: '6'
-      total: 493
+      total: 493.052
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 305.528
         arrival: 0
         time: 0
-        reach: 187.482
-        distance: 493.01
+        reach: 187.524
+        distance: 493.052
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:27:46.290312950419Z
         gs: null
@@ -3982,26 +4498,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 35.505 km
-        flown: 35.505 km
+        extra: 35.515 km
+        flown: 35.515 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 493.052
       landedMade: 35.272 km
       stoppedAlt: -7.000 m
   - - - '201'
       - Niki Longshore
     - place: '7'
-      total: 402
+      total: 401.968
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 234.925
         arrival: 0
         time: 0
-        reach: 144.251
-        distance: 379.176
+        reach: 144.29
+        distance: 379.215
         leading: 0
+      demeritFrac: -22.753
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T17:56:07.117376638702Z
         gs: null
@@ -4012,26 +4532,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 27.318 km
-        flown: 27.318 km
+        extra: 27.327 km
+        flown: 27.327 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 379.215
       landedMade: 27.086 km
       stoppedAlt: -24.000 m
   - - - '210'
       - Pete Wall
     - place: '8'
-      total: 284
+      total: 283.603
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 168.342
         arrival: 0
         time: 0
-        reach: 99.161
-        distance: 267.503
+        reach: 99.208
+        distance: 267.55
         leading: 0
+      demeritFrac: -16.053
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T17:54:08.27540198369Z
         gs: null
@@ -4042,25 +4566,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 18.779 km
-        flown: 18.779 km
+        extra: 18.789 km
+        flown: 18.789 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 267.55
       landedMade: 18.020 km
       stoppedAlt: -26.000 m
   - - - '213'
       - Willie Van Caulart
     - place: '9'
-      total: 279
+      total: 278.819
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 176.131
         arrival: 0
         time: 0
-        reach: 102.641
-        distance: 278.772
+        reach: 102.688
+        distance: 278.819
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T19:20:52.467912279965Z
         gs: null
@@ -4071,26 +4599,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 19.438 km
-        flown: 19.438 km
+        extra: 19.448 km
+        flown: 19.448 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 278.819
       landedMade: 19.130 km
       stoppedAlt: -19.000 m
   - - - '206'
       - Michael Duffy
     - place: '10'
-      total: 191
+      total: 190.876
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 117.085
         arrival: 0
         time: 0
-        reach: 62.948
-        distance: 180.033
+        reach: 62.986
+        distance: 180.072
         leading: 0
+      demeritFrac: -10.804
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T17:54:26.66820420111Z
         gs: null
@@ -4101,26 +4633,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 11.921 km
-        flown: 11.921 km
+        extra: 11.929 km
+        flown: 11.929 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 180.072
       landedMade: 11.211 km
       stoppedAlt: -39.000 m
   - - - '216'
       - John Maloney
     - place: '11'
-      total: 145
+      total: 144.744
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 90.704
         arrival: 0
         time: 0
-        reach: 45.792
-        distance: 136.495
+        reach: 45.847
+        distance: 136.551
         leading: 0
+      demeritFrac: -8.193
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:03:34.0308354137Z
         gs: null
@@ -4131,25 +4667,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 8.672 km
-        flown: 8.672 km
+        extra: 8.683 km
+        flown: 8.683 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 136.551
       landedMade: 8.144 km
       stoppedAlt: -32.000 m
   - - - '211'
       - Dan Lukaszewicz
     - place: '12'
-      total: 94
+      total: 94.472
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 63.568
         arrival: 0
         time: 0
-        reach: 30.853
-        distance: 94.421
+        reach: 30.904
+        distance: 94.472
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:40:26.390945690302Z
         gs: null
@@ -4160,25 +4700,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 5.843 km
-        flown: 5.843 km
+        extra: 5.853 km
+        flown: 5.853 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 94.472
       landedMade: 5.481 km
       stoppedAlt: -19.000 m
   - - - '204'
       - Owen MB
     - place: '13'
-      total: 36
+      total: 35.948
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 9.548
         arrival: 0
         time: 0
-        reach: 26.402
-        distance: 35.95
+        reach: 26.401
+        distance: 35.948
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -4189,25 +4733,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 1.123 km
-        flown: 1.123 km
+        extra: 1.135 km
+        flown: 1.135 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 35.948
       landedMade: 0.837 km
       stoppedAlt: -8.000 m
   - - - '207'
       - Alex Skyride
     - place: 14=
-      total: 28
+      total: 27.908
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 1.508
         arrival: 0
         time: 0
-        reach: 26.402
-        distance: 27.91
+        reach: 26.401
+        distance: 27.908
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -4218,25 +4766,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 0.776 km
-        flown: 0.776 km
+        extra: 0.788 km
+        flown: 0.788 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 27.908
       landedMade: -0.327 km
       stoppedAlt: -14.000 m
   - - - '217'
       - Richard Westmoreland
     - place: 14=
-      total: 28
+      total: 27.908
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 1.508
         arrival: 0
         time: 0
-        reach: 26.402
-        distance: 27.91
+        reach: 26.401
+        distance: 27.908
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -4247,19 +4799,21 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 2.711 km
-        flown: 2.711 km
+        extra: 2.722 km
+        flown: 2.722 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 27.908
       landedMade: -0.332 km
       stoppedAlt: -8.000 m
 - - - - '201'
       - Niki Longshore
     - place: '1'
-      total: 1022
+      total: 1022.14
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handcap
       breakdown:
         effort: 260.93
         arrival: 0
@@ -4267,6 +4821,8 @@ scoreDf:
         reach: 260.93
         distance: 521.86
         leading: 0
+      demeritFrac: -57.857
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:56:31.61724148867Z
         gs: null
@@ -4279,16 +4835,18 @@ scoreDf:
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handcap
+      subtotal: 964.283
       landedMade: 40.966 km
       stoppedAlt: null
   - - - '205'
       - Kelly Myrkle
     - place: '2'
-      total: 980
+      total: 979.522
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 260.93
         arrival: 0
@@ -4296,6 +4854,8 @@ scoreDf:
         reach: 260.93
         distance: 521.86
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:30:42.64423637494Z
         gs: null
@@ -4308,17 +4868,19 @@ scoreDf:
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 979.522
       landedMade: 40.966 km
       stoppedAlt: null
   - - - '216'
       - John Maloney
     - place: '3'
-      total: 945
+      total: 945.246
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 260.93
         arrival: 0
@@ -4326,6 +4888,8 @@ scoreDf:
         reach: 260.93
         distance: 521.86
         leading: 0
+      demeritFrac: -53.504
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:22:07.004893112501Z
         gs: null
@@ -4338,16 +4902,18 @@ scoreDf:
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 891.742
       landedMade: 40.966 km
       stoppedAlt: null
   - - - '203'
       - Andrey Solomykin
     - place: '4'
-      total: 863
+      total: 863.271
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 260.93
         arrival: 0
@@ -4355,6 +4921,8 @@ scoreDf:
         reach: 260.93
         distance: 521.86
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:59:37.363863911127Z
         gs: null
@@ -4367,23 +4935,27 @@ scoreDf:
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 863.271
       landedMade: 40.966 km
       stoppedAlt: null
   - - - '202'
       - Nick Jones
     - place: '5'
-      total: 489
+      total: 489.612
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 260.93
         arrival: 0
         time: 0
-        reach: 228.3
-        distance: 489.23
+        reach: 228.682
+        distance: 489.612
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:50:47.393518107228Z
         gs: null
@@ -4394,25 +4966,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 35.843 km
-        flown: 35.843 km
+        extra: 35.903 km
+        flown: 35.903 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 489.612
       landedMade: 35.573 km
       stoppedAlt: 21.000 m
   - - - '212'
       - Greg Sessa
     - place: '6'
-      total: 474
+      total: 474.042
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 255.653
         arrival: 0
         time: 0
-        reach: 218.007
-        distance: 473.66
+        reach: 218.389
+        distance: 474.042
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:37:31.691522612447Z
         gs: null
@@ -4423,25 +4999,29 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 34.227 km
-        flown: 34.227 km
+        extra: 34.287 km
+        flown: 34.287 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 474.042
       landedMade: 33.702 km
       stoppedAlt: -4.000 m
   - - - '217'
       - Richard Westmoreland
     - place: '7'
-      total: 406
+      total: 406.384
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 223.403
         arrival: 0
         time: 0
-        reach: 182.593
-        distance: 405.996
+        reach: 182.981
+        distance: 406.384
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:23:24.2513462115Z
         gs: null
@@ -4452,26 +5032,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 28.667 km
-        flown: 28.667 km
+        extra: 28.728 km
+        flown: 28.728 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 406.384
       landedMade: 28.219 km
       stoppedAlt: 22.000 m
   - - - '210'
       - Pete Wall
     - place: '8'
-      total: 238
+      total: 238.595
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 140.433
         arrival: 0
         time: 0
-        reach: 84.274
-        distance: 224.707
+        reach: 84.656
+        distance: 225.09
         leading: 0
+      demeritFrac: -13.505
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:57:05.88922120026Z
         gs: null
@@ -4482,26 +5066,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 13.231 km
-        flown: 13.231 km
+        extra: 13.291 km
+        flown: 13.291 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 225.09
       landedMade: 13.000 km
       stoppedAlt: -8.000 m
   - - - '206'
       - Michael Duffy
     - place: '9'
-      total: 216
+      total: 216.459
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 133.983
         arrival: 0
         time: 0
-        reach: 69.835
-        distance: 203.818
+        reach: 70.223
+        distance: 204.207
         leading: 0
+      demeritFrac: -12.252
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:56:19.114954139065Z
         gs: null
@@ -4512,26 +5100,30 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 10.964 km
-        flown: 10.964 km
+        extra: 11.025 km
+        flown: 11.025 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 204.207
       landedMade: 10.776 km
       stoppedAlt: -19.000 m
   - - - '208'
       - Soraya Rios
     - place: '10'
-      total: 194
+      total: 193.995
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 122.256
         arrival: 0
         time: 0
-        reach: 60.37
-        distance: 182.626
+        reach: 60.758
+        distance: 183.014
         leading: 0
+      demeritFrac: -10.981
+      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:59:00.93444129756Z
         gs: null
@@ -4542,8 +5134,12 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 9.478 km
-        flown: 9.478 km
+        extra: 9.539 km
+        flown: 9.539 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 183.014
       landedMade: 8.769 km
       stoppedAlt: -10.000 m
 scoreDfNoTrack:
@@ -4552,12 +5148,10 @@ scoreDfNoTrack:
 - - - - '209'
       - John Blank
     - place: 1=
-      total: 109
+      total: 108.799
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 86.203
         arrival: 0
@@ -4565,21 +5159,25 @@ scoreDfNoTrack:
         reach: 16.438
         distance: 102.641
         leading: 0
+      demeritFrac: -6.158
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.000 km
         flown: 5.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 102.641
       landedMade: 5.000 km
       stoppedAlt: null
   - - - '206'
       - Michael Duffy
     - place: 1=
-      total: 109
+      total: 108.799
       jump: null
-      penaltiesJump: []
       penalties:
       - penalty-fraction: -6.0e-2
-      penaltyReason: Handicap
       breakdown:
         effort: 86.203
         arrival: 0
@@ -4587,20 +5185,24 @@ scoreDfNoTrack:
         reach: 16.438
         distance: 102.641
         leading: 0
+      demeritFrac: -6.158
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.000 km
         flown: 5.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: Handicap
+      subtotal: 102.641
       landedMade: 5.000 km
       stoppedAlt: null
   - - - '202'
       - Nick Jones
     - place: 3=
-      total: 103
+      total: 102.641
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 86.203
         arrival: 0
@@ -4608,20 +5210,24 @@ scoreDfNoTrack:
         reach: 16.438
         distance: 102.641
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.000 km
         flown: 5.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 102.641
       landedMade: 5.000 km
       stoppedAlt: null
   - - - '214'
       - Richard Elder
     - place: 3=
-      total: 103
+      total: 102.641
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 86.203
         arrival: 0
@@ -4629,21 +5235,25 @@ scoreDfNoTrack:
         reach: 16.438
         distance: 102.641
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.000 km
         flown: 5.000 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 102.641
       landedMade: 5.000 km
       stoppedAlt: null
 - []
 - - - - '207'
       - Alex Skyride
     - place: 1=
-      total: 122
+      total: 121.593
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 89.713
         arrival: 0
@@ -4651,20 +5261,24 @@ scoreDfNoTrack:
         reach: 31.88
         distance: 121.593
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.005 km
         flown: 5.005 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 121.593
       landedMade: 5.005 km
       stoppedAlt: null
   - - - '211'
       - Dan Lukaszewicz
     - place: 1=
-      total: 122
+      total: 121.593
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 89.713
         arrival: 0
@@ -4672,20 +5286,24 @@ scoreDfNoTrack:
         reach: 31.88
         distance: 121.593
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.005 km
         flown: 5.005 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 121.593
       landedMade: 5.005 km
       stoppedAlt: null
   - - - '214'
       - Richard Elder
     - place: 1=
-      total: 122
+      total: 121.593
       jump: null
-      penaltiesJump: []
       penalties: []
-      penaltyReason: ''
       breakdown:
         effort: 89.713
         arrival: 0
@@ -4693,9 +5311,15 @@ scoreDfNoTrack:
         reach: 31.88
         distance: 121.593
         leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
       velocity: null
       reach:
         extra: 5.005 km
         flown: 5.005 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 121.593
       landedMade: 5.005 km
       stoppedAlt: null

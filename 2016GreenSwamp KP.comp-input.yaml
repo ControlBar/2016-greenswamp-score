@@ -97,6 +97,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '201'
@@ -222,6 +223,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '209'
@@ -323,6 +325,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '216'
@@ -420,6 +423,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '201'
@@ -513,6 +517,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '201'

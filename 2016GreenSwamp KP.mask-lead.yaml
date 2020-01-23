@@ -50,11 +50,11 @@ raceTime:
   openClose: 21600
   tickClose: 18552.606
 sumDistance:
-- 130.293548 km
-- 247.947096 km
-- 594.138912 km
-- 354.508172 km
-- 246.274810 km
+- 130.809548 km
+- 248.070096 km
+- 594.175912 km
+- 354.621172 km
+- 246.637810 km
 leadAreaToCoef:
 - 0.00000063160756 km^-2 s^-1
 - 0.00000034602514 km^-2 s^-1
@@ -62,319 +62,319 @@ leadAreaToCoef:
 - 0.00000005169282 km^-2 s^-1
 - 0.00000042008240 km^-2 s^-1
 leadCoefMin:
-- 1.11058804
-- 2.65506198
-- 2.76646487
-- 3.49337582
-- 1.21412765
+- 1.10467558
+- 2.65286397
+- 2.76528823
+- 3.49222389
+- 1.20791305
 leadRank:
 - - - - '203'
       - Andrey Solomykin
-    - area: 1758351.4093 km^2 s
-      coef: 1.11058804
+    - area: 1748990.4484 km^2 s
+      coef: 1.10467558
       frac: 1
   - - - '205'
       - Kelly Myrkle
-    - area: 2322465.5238 km^2 s
-      coef: 1.46688677
-      frac: 0.51468335
+    - area: 2312265.9923 km^2 s
+      coef: 1.46044467
+      frac: 0.51430098
   - - - '214'
       - Richard Elder
-    - area: 2360800.1489 km^2 s
-      coef: 1.49109921
-      frac: 0.49293853
+    - area: 2349550.8486 km^2 s
+      coef: 1.48399407
+      frac: 0.49309751
   - - - '201'
       - Niki Longshore
-    - area: 2412282.3564 km^2 s
-      coef: 1.52361576
-      frac: 0.4644478
+    - area: 2395053.7920 km^2 s
+      coef: 1.51273407
+      frac: 0.46780594
   - - - '212'
       - Greg Sessa
-    - area: 2418873.1483 km^2 s
-      coef: 1.52777856
-      frac: 0.46085536
+    - area: 2408331.5498 km^2 s
+      coef: 1.5211204
+      frac: 0.46053899
   - - - '204'
       - Owen MB
-    - area: 2966992.3470 km^2 s
-      coef: 1.87397479
-      frac: 0.19342378
+    - area: 2952709.5433 km^2 s
+      coef: 1.86495366
+      frac: 0.19418244
   - - - '216'
       - John Maloney
-    - area: 3069735.9859 km^2 s
-      coef: 1.93886844
-      frac: 0.14833802
+    - area: 3058219.7866 km^2 s
+      coef: 1.93159473
+      frac: 0.14775634
   - - - '209'
       - John Blank
-    - area: 3128160.5675 km^2 s
-      coef: 1.97576985
-      frac: 0.12322682
+    - area: 3116445.1451 km^2 s
+      coef: 1.9683703
+      frac: 0.12267213
   - - - '211'
       - Dan Lukaszewicz
-    - area: 3137432.3374 km^2 s
-      coef: 1.98162597
-      frac: 0.11927488
+    - area: 3125999.4568 km^2 s
+      coef: 1.97440488
+      frac: 0.11859032
   - - - '207'
       - Alex Skyride
-    - area: 3594030.1579 km^2 s
-      coef: 2.2700166
+    - area: 3573413.8057 km^2 s
+      coef: 2.25699516
       frac: 0
   - - - '217'
       - Richard Westmoreland
-    - area: 3906776.9636 km^2 s
-      coef: 2.46754985
+    - area: 3885935.6328 km^2 s
+      coef: 2.45438631
       frac: 0
   - - - '202'
       - Nick Jones
-    - area: 4285007.0989 km^2 s
-      coef: 2.70644286
+    - area: 4264700.7336 km^2 s
+      coef: 2.69361721
       frac: 0
 - - - - '205'
       - Kelly Myrkle
-    - area: 7673032.1172 km^2 s
-      coef: 2.65506198
+    - area: 7666679.9403 km^2 s
+      coef: 2.65286397
       frac: 1
   - - - '204'
       - Owen MB
-    - area: 8067191.8510 km^2 s
-      coef: 2.79145115
-      frac: 0.80865004
+    - area: 8061197.5461 km^2 s
+      coef: 2.78937697
+      frac: 0.80848137
   - - - '202'
       - Nick Jones
-    - area: 8244888.6500 km^2 s
-      coef: 2.85293871
-      frac: 0.75477113
+    - area: 8238215.8828 km^2 s
+      coef: 2.85062977
+      frac: 0.7547951
   - - - '201'
       - Niki Longshore
-    - area: 9153389.9866 km^2 s
-      coef: 3.16730301
-      frac: 0.53766367
+    - area: 9145793.7640 km^2 s
+      coef: 3.16467453
+      frac: 0.53779515
   - - - '212'
       - Greg Sessa
-    - area: 9254093.4556 km^2 s
-      coef: 3.20214894
-      frac: 0.51692708
+    - area: 9246604.8500 km^2 s
+      coef: 3.1995577
+      frac: 0.51702528
   - - - '211'
       - Dan Lukaszewicz
-    - area: 9358647.6695 km^2 s
-      coef: 3.23832733
-      frac: 0.49585837
+    - area: 9350881.8846 km^2 s
+      coef: 3.23564017
+      frac: 0.49600115
   - - - '214'
       - Richard Elder
-    - area: 9771929.3998 km^2 s
-      coef: 3.38133319
-      frac: 0.41649981
+    - area: 9761251.6459 km^2 s
+      coef: 3.37763842
+      frac: 0.41714088
   - - - '216'
       - John Maloney
-    - area: 9894902.2186 km^2 s
-      coef: 3.42388488
-      frac: 0.39392553
+    - area: 9885014.7984 km^2 s
+      coef: 3.42046358
+      frac: 0.39440143
   - - - '207'
       - Alex Skyride
-    - area: 10240685.7405 km^2 s
-      coef: 3.54353467
-      frac: 0.33257188
+    - area: 10230041.8171 km^2 s
+      coef: 3.53985161
+      frac: 0.33313173
   - - - '217'
       - Richard Westmoreland
-    - area: 10967914.8894 km^2 s
-      coef: 3.79517424
-      frac: 0.21185367
+    - area: 10960071.0189 km^2 s
+      coef: 3.79246006
+      frac: 0.21187402
   - - - '213'
       - Willie Van Caulart
-    - area: 11971417.6337 km^2 s
-      coef: 4.14241141
-      frac: 5.901265e-2
+    - area: 11963345.6687 km^2 s
+      coef: 4.13961831
+      frac: 5.900391e-2
   - - - '210'
       - Pete Wall
-    - area: 13031755.6518 km^2 s
-      coef: 4.50931502
+    - area: 13020502.1737 km^2 s
+      coef: 4.50542103
       frac: 0
   - - - '203'
       - Andrey Solomykin
-    - area: 13756756.5156 km^2 s
-      coef: 4.76018354
+    - area: 13744903.3717 km^2 s
+      coef: 4.75608205
       frac: 0
   - - - '215'
       - Burke Schnedl
-    - area: 15607912.9529 km^2 s
-      coef: 5.40073019
+    - area: 15591239.8359 km^2 s
+      coef: 5.39496088
       frac: 0
   - - - '209'
       - John Blank
-    - area: 16298795.1723 km^2 s
-      coef: 5.63979281
+    - area: 16283659.7453 km^2 s
+      coef: 5.63455557
       frac: 0
   - - - '208'
       - Soraya Rios
-    - area: 16527121.5842 km^2 s
-      coef: 5.71879949
+    - area: 16510972.9446 km^2 s
+      coef: 5.71321165
       frac: 0
 - - - - '201'
       - Niki Longshore
-    - area: 55897715.8704 km^2 s
-      coef: 2.76646487
+    - area: 55873941.2300 km^2 s
+      coef: 2.76528823
       frac: 1
   - - - '215'
       - Burke Schnedl
-    - area: 58894167.3692 km^2 s
-      coef: 2.91476392
-      frac: 0.80041993
+    - area: 58870255.9348 km^2 s
+      coef: 2.9135805
+      frac: 0.8003977
   - - - '216'
       - John Maloney
-    - area: 59017810.0748 km^2 s
-      coef: 2.92088319
-      frac: 0.79496682
+    - area: 58991421.2094 km^2 s
+      coef: 2.91957716
+      frac: 0.7950523
   - - - '203'
       - Andrey Solomykin
-    - area: 80739587.2172 km^2 s
-      coef: 3.99592771
-      frac: 0.18247341
+    - area: 80694419.4218 km^2 s
+      coef: 3.99369229
+      frac: 0.18282697
   - - - '205'
       - Kelly Myrkle
-    - area: 84706455.2930 km^2 s
-      coef: 4.19225418
-      frac: 9.760811e-2
+    - area: 84616867.4278 km^2 s
+      coef: 4.18782034
+      frac: 9.885519e-2
   - - - '210'
       - Pete Wall
-    - area: 93806903.8576 km^2 s
-      coef: 4.64264953
+    - area: 93787994.1431 km^2 s
+      coef: 4.64171366
       frac: 0
   - - - '204'
       - Owen MB
-    - area: 142431545.2131 km^2 s
-      coef: 7.04915864
+    - area: 142415891.0215 km^2 s
+      coef: 7.04838389
       frac: 0
   - - - '207'
       - Alex Skyride
-    - area: 148188101.5398 km^2 s
-      coef: 7.33405956
+    - area: 148115347.4314 km^2 s
+      coef: 7.33045885
       frac: 0
   - - - '212'
       - Greg Sessa
-    - area: 155388057.9835 km^2 s
-      coef: 7.6903966
+    - area: 155333094.9622 km^2 s
+      coef: 7.68767639
       frac: 0
   - - - '211'
       - Dan Lukaszewicz
-    - area: 156280388.7815 km^2 s
-      coef: 7.73455944
+    - area: 156242006.1848 km^2 s
+      coef: 7.73265982
       frac: 0
   - - - '208'
       - Soraya Rios
-    - area: 172076531.4976 km^2 s
-      coef: 8.5163351
+    - area: 172057813.1370 km^2 s
+      coef: 8.5154087
       frac: 0
   - - - '217'
       - Richard Westmoreland
-    - area: 172257390.2382 km^2 s
-      coef: 8.52528608
+    - area: 172240083.3793 km^2 s
+      coef: 8.52442954
       frac: 0
 - - - - '208'
       - Soraya Rios
-    - area: 67579512.7053 km^2 s
-      coef: 3.49337582
+    - area: 67557228.5112 km^2 s
+      coef: 3.49222389
       frac: 1
   - - - '212'
       - Greg Sessa
-    - area: 80750892.4272 km^2 s
-      coef: 4.17424163
-      frac: 0.48993454
+    - area: 80646738.6659 km^2 s
+      coef: 4.16885763
+      frac: 0.49199451
   - - - '203'
       - Andrey Solomykin
-    - area: 86675769.1250 km^2 s
-      coef: 4.48051524
-      frac: 0.3466129
+    - area: 86631915.1714 km^2 s
+      coef: 4.4782483
+      frac: 0.34703322
   - - - '205'
       - Kelly Myrkle
-    - area: 89662006.3270 km^2 s
-      coef: 4.63488227
-      frac: 0.28015807
+    - area: 89628840.2129 km^2 s
+      coef: 4.63316782
+      frac: 0.28031546
   - - - '201'
       - Niki Longshore
-    - area: 97080349.2868 km^2 s
-      coef: 5.01835736
-      frac: 0.12683841
+    - area: 97054614.0767 km^2 s
+      coef: 5.01702704
+      frac: 0.12681052
   - - - '202'
       - Nick Jones
-    - area: 97493521.3998 km^2 s
-      coef: 5.0397154
-      frac: 0.11870465
+    - area: 97448408.3619 km^2 s
+      coef: 5.03738337
+      frac: 0.11905624
   - - - '214'
       - Richard Elder
-    - area: 107351444.7754 km^2 s
-      coef: 5.54929929
+    - area: 107275772.8143 km^2 s
+      coef: 5.54538759
       frac: 0
   - - - '210'
       - Pete Wall
-    - area: 114448224.1435 km^2 s
-      coef: 5.91615185
+    - area: 114419827.1595 km^2 s
+      coef: 5.91468393
       frac: 0
   - - - '213'
       - Willie Van Caulart
-    - area: 126812800.1933 km^2 s
-      coef: 6.5553117
+    - area: 126781742.0862 km^2 s
+      coef: 6.55370622
       frac: 0
   - - - '206'
       - Michael Duffy
-    - area: 129990410.1172 km^2 s
-      coef: 6.71957133
+    - area: 129966476.3218 km^2 s
+      coef: 6.71833412
       frac: 0
   - - - '216'
       - John Maloney
-    - area: 138667508.1312 km^2 s
-      coef: 7.16811502
+    - area: 138631053.6516 km^2 s
+      coef: 7.16623059
       frac: 0
   - - - '211'
       - Dan Lukaszewicz
-    - area: 146840521.1147 km^2 s
-      coef: 7.59060114
+    - area: 146781141.6097 km^2 s
+      coef: 7.58753165
       frac: 0
 - - - - '201'
       - Niki Longshore
-    - area: 2890213.0492 km^2 s
-      coef: 1.21412765
+    - area: 2875419.2924 km^2 s
+      coef: 1.20791305
       frac: 1
   - - - '202'
       - Nick Jones
-    - area: 3208714.9365 km^2 s
-      coef: 1.34792469
-      frac: 0.75478734
+    - area: 3191190.1455 km^2 s
+      coef: 1.34056283
+      frac: 0.75577368
   - - - '203'
       - Andrey Solomykin
-    - area: 3231369.0052 km^2 s
-      coef: 1.35744126
-      frac: 0.74329351
+    - area: 3213326.2700 km^2 s
+      coef: 1.34986183
+      frac: 0.74448923
   - - - '205'
       - Kelly Myrkle
-    - area: 5335563.6134 km^2 s
-      coef: 2.24137639
-      frac: 4.567647e-2
+    - area: 5312436.8099 km^2 s
+      coef: 2.23166123
+      frac: 4.621562e-2
   - - - '216'
       - John Maloney
-    - area: 5409705.4367 km^2 s
-      coef: 2.27252207
-      frac: 2.648291e-2
+    - area: 5381335.4712 km^2 s
+      coef: 2.26060435
+      frac: 2.832254e-2
   - - - '217'
       - Richard Westmoreland
-    - area: 5899557.2742 km^2 s
-      coef: 2.47830021
+    - area: 5874349.1553 km^2 s
+      coef: 2.46771072
       frac: 0
   - - - '212'
       - Greg Sessa
-    - area: 6011928.2040 km^2 s
-      coef: 2.52550526
+    - area: 5986852.7560 km^2 s
+      coef: 2.5149715
       frac: 0
   - - - '210'
       - Pete Wall
-    - area: 7998921.4207 km^2 s
-      coef: 3.36020615
+    - area: 7969357.0076 km^2 s
+      coef: 3.34778666
       frac: 0
   - - - '206'
       - Michael Duffy
-    - area: 8246182.5154 km^2 s
-      coef: 3.46407618
+    - area: 8216133.7370 km^2 s
+      coef: 3.45145322
       frac: 0
   - - - '208'
       - Soraya Rios
-    - area: 8618367.9238 km^2 s
-      coef: 3.62042472
+    - area: 8589872.9628 km^2 s
+      coef: 3.60845449
       frac: 0

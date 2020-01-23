@@ -50,11 +50,11 @@ raceTime:
   openClose: 21600
   tickClose: 19580.371
 sumDistance:
-- 109.604395 km
+- 109.698395 km
 - 188.345655 km
 - 527.746630 km
-- 179.002724 km
-- 173.520405 km
+- 179.041724 km
+- 173.580405 km
 leadAreaToCoef:
 - 0.00000063160756 km^-2 s^-1
 - 0.00000034602514 km^-2 s^-1
@@ -62,129 +62,129 @@ leadAreaToCoef:
 - 0.00000005169282 km^-2 s^-1
 - 0.00000042008240 km^-2 s^-1
 leadCoefMin:
-- 1.97179089
-- 1.47123902
-- 2.53353606
-- 2.03450814
-- 0.7794821
+- 1.96090789
+- 1.46972654
+- 2.53111859
+- 2.03324843
+- 0.77475205
 leadRank:
 - - - - '103'
       - Mick Howard
-    - area: 3121860.8252 km^2 s
-      coef: 1.97179089
+    - area: 3104630.1878 km^2 s
+      coef: 1.96090789
       frac: 1
   - - - '102'
       - Fausto Arcos
-    - area: 3258986.5399 km^2 s
-      coef: 2.05840052
-      frac: 0.84389247
+    - area: 3245046.3462 km^2 s
+      coef: 2.04959579
+      frac: 0.8411122
   - - - '104'
       - Mark Bourbonnais
-    - area: 3487637.8418 km^2 s
-      coef: 2.20281841
-      frac: 0.69974595
+    - area: 3472636.7926 km^2 s
+      coef: 2.19334364
+      frac: 0.69797037
   - - - '105'
       - Alan Arcos
-    - area: 3597893.4122 km^2 s
-      coef: 2.27245667
-      frac: 0.64209394
+    - area: 3582542.0652 km^2 s
+      coef: 2.26276064
+      frac: 0.64048995
   - - - '101'
       - Ken  Kinzie
-    - area: 5558189.1154 km^2 s
-      coef: 3.51059424
+    - area: 5539032.3301 km^2 s
+      coef: 3.49849467
       frac: 0
 - - - - '105'
       - Alan Arcos
-    - area: 4251827.0256 km^2 s
-      coef: 1.47123902
+    - area: 4247456.0125 km^2 s
+      coef: 1.46972654
       frac: 1
   - - - '101'
       - Ken  Kinzie
-    - area: 4501564.1834 km^2 s
-      coef: 1.55765436
-      frac: 0.82814343
+    - area: 4497435.1269 km^2 s
+      coef: 1.5562256
+      frac: 0.82797348
   - - - '104'
       - Mark Bourbonnais
-    - area: 4550598.5155 km^2 s
-      coef: 1.57462147
-      frac: 0.80632654
+    - area: 4546477.7526 km^2 s
+      coef: 1.57319558
+      frac: 0.80615195
   - - - '102'
       - Fausto Arcos
-    - area: 4606736.4808 km^2 s
-      coef: 1.59404661
-      frac: 0.7827687
+    - area: 4602393.4959 km^2 s
+      coef: 1.59254383
+      frac: 0.78268277
   - - - '103'
       - Mick Howard
-    - area: 4803586.7506 km^2 s
-      coef: 1.66216176
-      frac: 0.70847396
+    - area: 4797100.7847 km^2 s
+      coef: 1.65991745
+      frac: 0.70911969
 - - - - '103'
       - Mick Howard
-    - area: 51191280.3134 km^2 s
-      coef: 2.53353606
+    - area: 51142434.1638 km^2 s
+      coef: 2.53111859
       frac: 1
   - - - '105'
       - Alan Arcos
-    - area: 51931696.0065 km^2 s
-      coef: 2.57018038
-      frac: 0.91907263
+    - area: 51882029.4598 km^2 s
+      coef: 2.56772231
+      frac: 0.91910668
   - - - '101'
       - Ken  Kinzie
-    - area: 55205890.3361 km^2 s
-      coef: 2.73222535
-      frac: 0.75022981
+    - area: 55154634.1430 km^2 s
+      coef: 2.7296886
+      frac: 0.75025032
   - - - '102'
       - Fausto Arcos
-    - area: 56783449.3088 km^2 s
-      coef: 2.8103012
-      frac: 0.68847094
+    - area: 56734456.2915 km^2 s
+      coef: 2.80787646
+      frac: 0.68837725
   - - - '104'
       - Mark Bourbonnais
-    - area: 59980006.8403 km^2 s
-      coef: 2.9685038
-      frac: 0.57888989
+    - area: 59930098.4141 km^2 s
+      coef: 2.96603375
+      frac: 0.57878981
 - - - - '102'
       - Fausto Arcos
-    - area: 39357651.7018 km^2 s
-      coef: 2.03450814
+    - area: 39333282.5384 km^2 s
+      coef: 2.03324843
       frac: 1
   - - - '103'
       - Mick Howard
-    - area: 66924474.4328 km^2 s
-      coef: 3.45951505
-      frac: 6.3339e-4
+    - area: 66895187.0995 km^2 s
+      coef: 3.4580011
+      frac: 5.4594e-4
   - - - '105'
       - Alan Arcos
-    - area: 82050019.3825 km^2 s
-      coef: 4.24139717
+    - area: 82022318.3712 km^2 s
+      coef: 4.23996523
       frac: 0
   - - - '104'
       - Mark Bourbonnais
-    - area: 82574742.1884 km^2 s
-      coef: 4.26852157
+    - area: 82548541.3272 km^2 s
+      coef: 4.26716718
       frac: 0
 - - - - '102'
       - Fausto Arcos
-    - area: 1855545.6919 km^2 s
-      coef: 0.7794821
+    - area: 1844285.8783 km^2 s
+      coef: 0.77475205
       frac: 1
   - - - '101'
       - Ken  Kinzie
-    - area: 1857532.3056 km^2 s
-      coef: 0.78031664
-      frac: 0.99036844
+    - area: 1846279.7377 km^2 s
+      coef: 0.77558963
+      frac: 0.99032543
   - - - '105'
       - Alan Arcos
-    - area: 1865900.7425 km^2 s
-      coef: 0.78383207
-      frac: 0.97104508
+    - area: 1854640.4411 km^2 s
+      coef: 0.77910182
+      frac: 0.97098718
   - - - '104'
       - Mark Bourbonnais
-    - area: 1882565.3664 km^2 s
-      coef: 0.79083259
-      frac: 0.94512081
+    - area: 1871211.1650 km^2 s
+      coef: 0.78606289
+      frac: 0.94513749
   - - - '103'
       - Mick Howard
-    - area: 6536288.2464 km^2 s
-      coef: 2.74577969
+    - area: 6509451.7333 km^2 s
+      coef: 2.73450614
       frac: 0

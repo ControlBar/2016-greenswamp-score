@@ -1,7 +1,7 @@
 bolster:
 - max: 34.257879 km
-  mean: 26.920879 km
-  stdDev: 11.064933 km
+  mean: 26.939679 km
+  stdDev: 11.045503 km
 - max: 42.669131 km
   mean: 42.669131 km
   stdDev: 0.000000 km
@@ -9,15 +9,15 @@ bolster:
   mean: 110.549326 km
   stdDev: 0.000000 km
 - max: 108.268931 km
-  mean: 49.750681 km
-  stdDev: 35.047890 km
+  mean: 49.760431 km
+  stdDev: 35.042628 km
 - max: 40.966081 km
-  mean: 39.704081 km
-  stdDev: 2.524000 km
+  mean: 39.716081 km
+  stdDev: 2.500000 km
 reach:
 - max: 34.257879 km
-  mean: 26.920879 km
-  stdDev: 11.064933 km
+  mean: 26.939679 km
+  stdDev: 11.045503 km
 - max: 42.669131 km
   mean: 42.669131 km
   stdDev: 0.000000 km
@@ -25,11 +25,11 @@ reach:
   mean: 110.549326 km
   stdDev: 0.000000 km
 - max: 108.268931 km
-  mean: 49.750681 km
-  stdDev: 35.047890 km
+  mean: 49.760431 km
+  stdDev: 35.042628 km
 - max: 40.966081 km
-  mean: 39.704081 km
-  stdDev: 2.524000 km
+  mean: 39.716081 km
+  stdDev: 2.500000 km
 reachRank:
 - - - - '103'
       - Mick Howard
@@ -45,12 +45,12 @@ reachRank:
       reach: 34.257879 km
   - - - '105'
       - Alan Arcos
-    - frac: 0.76256557
-      reach: 26.123879 km
+    - frac: 0.76387914
+      reach: 26.168879 km
   - - - '101'
       - Ken  Kinzie
-    - frac: 0.16658588
-      reach: 5.706879 km
+    - frac: 0.16801621
+      reach: 5.755879 km
 - - - - '105'
       - Alan Arcos
     - frac: 1
@@ -97,16 +97,16 @@ reachRank:
       reach: 108.268931 km
   - - - '103'
       - Mick Howard
-    - frac: 0.41993516
-      reach: 45.465931 km
+    - frac: 0.42006447
+      reach: 45.479931 km
   - - - '105'
       - Alan Arcos
-    - frac: 0.21031824
-      reach: 22.770931 km
+    - frac: 0.21043831
+      reach: 22.783931 km
   - - - '104'
       - Mark Bourbonnais
-    - frac: 0.2077875
-      reach: 22.496931 km
+    - frac: 0.20789834
+      reach: 22.508931 km
 - - - - '105'
       - Alan Arcos
     - frac: 1
@@ -125,8 +125,8 @@ reachRank:
       reach: 40.966081 km
   - - - '103'
       - Mick Howard
-    - frac: 0.84597013
-      reach: 34.656081 km
+    - frac: 0.84743476
+      reach: 34.716081 km
 nigh:
 - - - - '105'
       - Alan Arcos
@@ -143,7 +143,7 @@ nigh:
           lng: -81.89188333
         - lat: 28.25579533
           lng: -81.94323481
-      made: 26.123879 km
+      made: 26.168879 km
   - - - '101'
       - Ken  Kinzie
     - togo:
@@ -164,7 +164,7 @@ nigh:
           lng: -81.83315661
         - lat: 28.25579533
           lng: -81.94323481
-      made: 5.706879 km
+      made: 5.755879 km
 - []
 - []
 - - - - '103'
@@ -187,7 +187,7 @@ nigh:
           lng: -82.33265299
         - lat: 29.34189281
           lng: -82.46063187
-      made: 45.465931 km
+      made: 45.479931 km
   - - - '104'
       - Mark Bourbonnais
     - togo:
@@ -208,7 +208,7 @@ nigh:
           lng: -82.33214733
         - lat: 29.34189281
           lng: -82.46063187
-      made: 22.496931 km
+      made: 22.508931 km
   - - - '105'
       - Alan Arcos
     - togo:
@@ -229,7 +229,7 @@ nigh:
           lng: -82.33214733
         - lat: 29.34189281
           lng: -82.46063187
-      made: 22.770931 km
+      made: 22.783931 km
 - - - - '103'
       - Mick Howard
     - togo:
@@ -245,4 +245,4 @@ nigh:
           lng: -81.81635
         - lat: 28.16524413
           lng: -81.79399876
-      made: 34.656081 km
+      made: 34.716081 km
