@@ -1,0 +1,121 @@
+areas:
+- - - - '105'
+      - Alan Arcos
+    - areaFlown: 3136767.7651 km^2 s
+      areaAfterLanding: 1149571.6378 km^2 s
+      areaBeforeStart: 2103982.8308 km^2 s
+  - - - '102'
+      - Fausto Arcos
+    - areaFlown: 3245046.3462 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1844413.3517 km^2 s
+  - - - '101'
+      - Ken  Kinzie
+    - areaFlown: 4562.4608 km^2 s
+      areaAfterLanding: 14272401.0595 km^2 s
+      areaBeforeStart: 852.2956 km^2 s
+  - - - '104'
+      - Mark Bourbonnais
+    - areaFlown: 3472636.7926 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1759638.0610 km^2 s
+  - - - '103'
+      - Mick Howard
+    - areaFlown: 3104630.1878 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1672591.7249 km^2 s
+- - - - '105'
+      - Alan Arcos
+    - areaFlown: 4247456.0125 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 70831.8592 km^2 s
+  - - - '102'
+      - Fausto Arcos
+    - areaFlown: 4602393.4959 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 573218.0849 km^2 s
+  - - - '101'
+      - Ken  Kinzie
+    - areaFlown: 4497435.1269 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 646.4469 km^2 s
+  - - - '104'
+      - Mark Bourbonnais
+    - areaFlown: 4546477.7526 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 169683.4894 km^2 s
+  - - - '103'
+      - Mick Howard
+    - areaFlown: 4797100.7847 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 972865.5388 km^2 s
+- - - - '105'
+      - Alan Arcos
+    - areaFlown: 51882029.4598 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 6320677.2944 km^2 s
+  - - - '102'
+      - Fausto Arcos
+    - areaFlown: 56734456.2915 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 21739199.6748 km^2 s
+  - - - '101'
+      - Ken  Kinzie
+    - areaFlown: 55154634.1430 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 180750.7096 km^2 s
+  - - - '104'
+      - Mark Bourbonnais
+    - areaFlown: 59930098.4141 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 25098595.1133 km^2 s
+  - - - '103'
+      - Mick Howard
+    - areaFlown: 51142434.1638 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 9359769.2182 km^2 s
+- - - - '105'
+      - Alan Arcos
+    - areaFlown: 2810383.7601 km^2 s
+      areaAfterLanding: 84117508.6714 km^2 s
+      areaBeforeStart: 1103075.0463 km^2 s
+  - - - '102'
+      - Fausto Arcos
+    - areaFlown: 39333282.5384 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 62434.8253 km^2 s
+  - - - '104'
+      - Mark Bourbonnais
+    - areaFlown: 2826147.1088 km^2 s
+      areaAfterLanding: 84659580.9064 km^2 s
+      areaBeforeStart: 1253645.4125 km^2 s
+  - - - '103'
+      - Mick Howard
+    - areaFlown: 24160756.5709 km^2 s
+      areaAfterLanding: 45380962.4548 km^2 s
+      areaBeforeStart: 15959296.8590 km^2 s
+- - - - '105'
+      - Alan Arcos
+    - areaFlown: 1854640.4411 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 10984.1131 km^2 s
+  - - - '102'
+      - Fausto Arcos
+    - areaFlown: 1844285.8783 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 5737.5905 km^2 s
+  - - - '101'
+      - Ken  Kinzie
+    - areaFlown: 1846279.7377 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 12290.1093 km^2 s
+  - - - '104'
+      - Mark Bourbonnais
+    - areaFlown: 1871211.1650 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 18856.7475 km^2 s
+  - - - '103'
+      - Mick Howard
+    - areaFlown: 6224593.4770 km^2 s
+      areaAfterLanding: 294662.9439 km^2 s
+      areaBeforeStart: 3808881.6355 km^2 s

@@ -49,6 +49,12 @@ raceTime:
   leadClose: 19580.371
   openClose: 21600
   tickClose: 19580.371
+raceDistance:
+- 29.657879 km
+- 40.069131 km
+- 105.949326 km
+- 103.668931 km
+- 36.366081 km
 sumDistance:
 - 109.698395 km
 - 188.345655 km
@@ -85,13 +91,13 @@ leadRank:
       frac: 0.69797037
   - - - '105'
       - Alan Arcos
-    - area: 3582542.0652 km^2 s
-      coef: 2.26276064
-      frac: 0.64048995
+    - area: 4286339.4029 km^2 s
+      coef: 2.70728435
+      frac: 0.34261535
   - - - '101'
       - Ken  Kinzie
-    - area: 5539032.3301 km^2 s
-      coef: 3.49849467
+    - area: 14276963.5203 km^2 s
+      coef: 9.01743804
       frac: 0
 - - - - '105'
       - Alan Arcos
@@ -150,18 +156,18 @@ leadRank:
       frac: 1
   - - - '103'
       - Mick Howard
-    - area: 66895187.0995 km^2 s
-      coef: 3.4580011
-      frac: 5.4594e-4
+    - area: 69541719.0257 km^2 s
+      coef: 3.59480781
+      frac: 0
   - - - '105'
       - Alan Arcos
-    - area: 82022318.3712 km^2 s
-      coef: 4.23996523
+    - area: 86927892.4315 km^2 s
+      coef: 4.4935482
       frac: 0
   - - - '104'
       - Mark Bourbonnais
-    - area: 82548541.3272 km^2 s
-      coef: 4.26716718
+    - area: 87485728.0152 km^2 s
+      coef: 4.5223843
       frac: 0
 - - - - '102'
       - Fausto Arcos
@@ -185,6 +191,6 @@ leadRank:
       frac: 0.94513749
   - - - '103'
       - Mick Howard
-    - area: 6509451.7333 km^2 s
-      coef: 2.73450614
+    - area: 6519256.4209 km^2 s
+      coef: 2.73862491
       frac: 0
