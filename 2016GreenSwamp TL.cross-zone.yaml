@@ -610,6 +610,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '102'
       - Fausto Arcos
@@ -923,6 +925,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '101'
       - Ken  Kinzie
@@ -1016,6 +1020,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '104'
       - Mark Bourbonnais
@@ -1175,6 +1181,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '103'
       - Mick Howard
@@ -1502,6 +1510,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 - - - - '105'
       - Alan Arcos
@@ -1815,6 +1825,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '102'
       - Fausto Arcos
@@ -2800,6 +2812,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '101'
       - Ken  Kinzie
@@ -3757,6 +3771,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '104'
       - Mark Bourbonnais
@@ -4630,6 +4646,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '103'
       - Mick Howard
@@ -6231,6 +6249,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 - - - - '105'
       - Alan Arcos
@@ -6390,6 +6410,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '102'
       - Fausto Arcos
@@ -6549,6 +6571,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '101'
       - Ken  Kinzie
@@ -6792,6 +6816,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '104'
       - Mark Bourbonnais
@@ -6979,6 +7005,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '103'
       - Mick Howard
@@ -7306,6 +7334,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 - - - - '105'
       - Alan Arcos
@@ -7371,6 +7401,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '102'
       - Fausto Arcos
@@ -7530,6 +7562,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '101'
       - Ken  Kinzie
@@ -7598,6 +7632,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '103'
       - Mick Howard
@@ -7803,6 +7839,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 - - - - '105'
       - Alan Arcos
@@ -7990,6 +8028,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '102'
       - Fausto Arcos
@@ -8149,6 +8189,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '101'
       - Ken  Kinzie
@@ -8420,6 +8462,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '104'
       - Mark Bourbonnais
@@ -8649,6 +8693,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '103'
       - Mick Howard
@@ -8782,6 +8828,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 trackLogError:
 - fileUnset: []

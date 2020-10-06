@@ -66,7 +66,7 @@ difficulty:
       - Ken  Kinzie
     downward: 1
     rel: 3.125e-3
-    frac: 0.18125
+    frac: 0.18115234
   - chunk: 261
     startChunk: 26.1 km
     endChunk: 26.2 km
@@ -94,7 +94,7 @@ difficulty:
       - Ken  Kinzie
     downward: 3
     rel: 2.00803e-3
-    frac: 0.17670683
+    frac: 0.17675781
   - chunk: 224
     startChunk: 22.4 km
     endChunk: 22.5 km
@@ -107,7 +107,7 @@ difficulty:
       - Mark Bourbonnais
     downward: 2
     rel: 1.50602e-3
-    frac: 0.38303213
+    frac: 0.38305664
   - chunk: 227
     startChunk: 22.7 km
     endChunk: 22.8 km
@@ -120,7 +120,7 @@ difficulty:
       - Alan Arcos
     downward: 1
     rel: 1.00402e-3
-    frac: 0.38604418
+    frac: 0.38598633
   - chunk: 454
     startChunk: 45.4 km
     endChunk: 45.5 km

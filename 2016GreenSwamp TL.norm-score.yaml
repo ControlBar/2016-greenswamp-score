@@ -324,7 +324,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.3627138
+        effort: 0.36279297
         reach: 0.16664766
       reach:
         extra: 6.333000 km
@@ -675,7 +675,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.77280365
+        effort: 0.77270508
         reach: 0.21032941
       reach:
         extra: 25.625000 km
@@ -702,7 +702,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.76801623
+        effort: 0.76806641
         reach: 0.20779303
       reach:
         extra: 25.711000 km
@@ -729,7 +729,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.35468121
+        effort: 0.35473633
         reach: 8.075204e-2
       reach:
         extra: 9.747000 km

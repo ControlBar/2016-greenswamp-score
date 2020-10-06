@@ -104,7 +104,10 @@ tasks:
   penals:
   - - - '105'
       - Alan Arcos
-    - - penalty-fraction: -0.2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.2
+      resets: []
     - Handicap
 - taskName: Task 2
   zones:
