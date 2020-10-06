@@ -104,31 +104,52 @@ tasks:
   penals:
   - - - '201'
       - Niki Longshore
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '209'
       - John Blank
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '210'
       - Pete Wall
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '216'
       - John Maloney
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '206'
       - Michael Duffy
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '217'
       - Richard Westmoreland
-    - - penalty-fraction: -0.29
+    - adds: []
+      muls:
+      - penalty-fraction: 1.29
+      resets: []
     - Handicap
   - - - '208'
       - Soraya Rios
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
 - taskName: Task 2
   zones:
@@ -231,31 +252,52 @@ tasks:
   penals:
   - - - '209'
       - John Blank
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '206'
       - Michael Duffy
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '201'
       - Niki Longshore
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '217'
       - Richard Westmoreland
-    - - penalty-fraction: -0.29
+    - adds: []
+      muls:
+      - penalty-fraction: 1.29
+      resets: []
     - Handicap
   - - - '208'
       - Soraya Rios
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '216'
       - John Maloney
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '210'
       - Pete Wall
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
 - taskName: Task 3
   zones:
@@ -334,27 +376,45 @@ tasks:
   penals:
   - - - '216'
       - John Maloney
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '208'
       - Soraya Rios
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '209'
       - John Blank
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '206'
       - Michael Duffy
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '210'
       - Pete Wall
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '201'
       - Niki Longshore
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
 - taskName: Task 4
   zones:
@@ -433,23 +493,38 @@ tasks:
   penals:
   - - - '201'
       - Niki Longshore
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '210'
       - Pete Wall
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '216'
       - John Maloney
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '206'
       - Michael Duffy
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '208'
       - Soraya Rios
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
 - taskName: Task 5
   zones:
@@ -528,23 +603,38 @@ tasks:
   penals:
   - - - '201'
       - Niki Longshore
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handcap
   - - - '216'
       - John Maloney
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '210'
       - Pete Wall
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '206'
       - Michael Duffy
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
   - - - '208'
       - Soraya Rios
-    - - penalty-fraction: -6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 1.06
+      resets: []
     - Handicap
 taskFolders:
 - - flights

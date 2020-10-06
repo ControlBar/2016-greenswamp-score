@@ -1291,6 +1291,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '203'
       - Andrey Solomykin
@@ -1492,6 +1494,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '215'
       - Burke Schnedl
@@ -1616,6 +1620,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '212'
       - Greg Sessa
@@ -1681,6 +1687,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '209'
       - John Blank
@@ -1914,6 +1922,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '216'
       - John Maloney
@@ -2063,6 +2073,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '205'
       - Kelly Myrkle
@@ -2308,6 +2320,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '206'
       - Michael Duffy
@@ -2389,6 +2403,8 @@ crossing:
       - []
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '202'
       - Nick Jones
@@ -2578,6 +2594,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '201'
       - Niki Longshore
@@ -2725,6 +2743,8 @@ crossing:
           - false
           - true
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '204'
       - Owen MB
@@ -2874,6 +2894,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '210'
       - Pete Wall
@@ -3081,6 +3103,8 @@ crossing:
       - []
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '214'
       - Richard Elder
@@ -3284,6 +3308,8 @@ crossing:
           - false
           - true
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '217'
       - Richard Westmoreland
@@ -3405,6 +3431,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '208'
       - Soraya Rios
@@ -3528,6 +3556,8 @@ crossing:
       - []
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '213'
       - Willie Van Caulart
@@ -3567,6 +3597,8 @@ crossing:
       - []
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 - - - - '207'
       - Alex Skyride
@@ -3729,6 +3761,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '203'
       - Andrey Solomykin
@@ -4451,6 +4485,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '215'
       - Burke Schnedl
@@ -4671,6 +4707,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '211'
       - Dan Lukaszewicz
@@ -4962,6 +5000,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '212'
       - Greg Sessa
@@ -5236,6 +5276,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '209'
       - John Blank
@@ -5318,6 +5360,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '216'
       - John Maloney
@@ -5508,6 +5552,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '205'
       - Kelly Myrkle
@@ -5796,6 +5842,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '206'
       - Michael Duffy
@@ -6160,6 +6208,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '202'
       - Nick Jones
@@ -6546,6 +6596,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '201'
       - Niki Longshore
@@ -6943,6 +6995,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '204'
       - Owen MB
@@ -7161,6 +7215,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '210'
       - Pete Wall
@@ -7311,6 +7367,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '214'
       - Richard Elder
@@ -7513,6 +7571,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '217'
       - Richard Westmoreland
@@ -7675,6 +7735,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '208'
       - Soraya Rios
@@ -8009,6 +8071,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '213'
       - Willie Van Caulart
@@ -8131,6 +8195,8 @@ crossing:
           inZone:
           - true
           - false
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 - - - - '207'
       - Alex Skyride
@@ -8252,6 +8318,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '203'
       - Andrey Solomykin
@@ -8553,6 +8621,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '215'
       - Burke Schnedl
@@ -8882,6 +8952,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '211'
       - Dan Lukaszewicz
@@ -9031,6 +9103,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '212'
       - Greg Sessa
@@ -9236,6 +9310,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '209'
       - John Blank
@@ -9344,6 +9420,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '205'
       - Kelly Myrkle
@@ -9699,6 +9777,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '206'
       - Michael Duffy
@@ -10004,6 +10084,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '204'
       - Owen MB
@@ -10209,6 +10291,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '210'
       - Pete Wall
@@ -10314,6 +10398,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '214'
       - Richard Elder
@@ -10438,6 +10524,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '208'
       - Soraya Rios
@@ -10503,6 +10591,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '213'
       - Willie Van Caulart
@@ -10584,6 +10674,8 @@ crossing:
       - []
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 - - - - '207'
       - Alex Skyride
@@ -10665,6 +10757,8 @@ crossing:
       - []
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '203'
       - Andrey Solomykin
@@ -10730,6 +10824,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '215'
       - Burke Schnedl
@@ -10854,6 +10950,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '212'
       - Greg Sessa
@@ -10987,6 +11085,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '216'
       - John Maloney
@@ -11108,6 +11208,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '205'
       - Kelly Myrkle
@@ -11173,6 +11275,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '206'
       - Michael Duffy
@@ -11238,6 +11342,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '202'
       - Nick Jones
@@ -11303,6 +11409,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '201'
       - Niki Longshore
@@ -11396,6 +11504,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '204'
       - Owen MB
@@ -11435,6 +11545,8 @@ crossing:
       - []
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '210'
       - Pete Wall
@@ -11500,6 +11612,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '214'
       - Richard Elder
@@ -11677,6 +11791,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '217'
       - Richard Westmoreland
@@ -11814,6 +11930,8 @@ crossing:
       - []
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '208'
       - Soraya Rios
@@ -11879,6 +11997,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '213'
       - Willie Van Caulart
@@ -12140,6 +12260,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 - - - - '207'
       - Alex Skyride
@@ -12330,6 +12452,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '211'
       - Dan Lukaszewicz
@@ -12438,6 +12562,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '216'
       - John Maloney
@@ -12597,6 +12723,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '205'
       - Kelly Myrkle
@@ -12952,6 +13080,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '206'
       - Michael Duffy
@@ -13045,6 +13175,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '202'
       - Nick Jones
@@ -13262,6 +13394,8 @@ crossing:
           - true
           - false
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '201'
       - Niki Longshore
@@ -13533,6 +13667,8 @@ crossing:
           inZone:
           - false
           - true
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '210'
       - Pete Wall
@@ -13710,6 +13846,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '214'
       - Richard Elder
@@ -13890,6 +14028,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
   - - - '208'
       - Soraya Rios
@@ -13955,6 +14095,8 @@ crossing:
           - false
       - []
       - []
+      startSelected: null
+      startNominees: []
       zonesCrossExcluded: []
 trackLogError:
 - fileUnset: []

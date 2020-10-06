@@ -75,7 +75,7 @@ difficulty:
       - Willie Van Caulart
     downward: 4
     rel: 4.11523e-3
-    frac: 0.16203704
+    frac: 0.16210938
   - chunk: 73
     startChunk: 7.3 km
     endChunk: 7.4 km
@@ -88,7 +88,7 @@ difficulty:
       - Alex Skyride
     downward: 5
     rel: 3.08642e-3
-    frac: 0.22530864
+    frac: 0.2253418
   - chunk: 89
     startChunk: 8.9 km
     endChunk: 9.0 km
@@ -101,7 +101,7 @@ difficulty:
       - Richard Westmoreland
     downward: 4
     rel: 2.57202e-3
-    frac: 0.26646091
+    frac: 0.26635742
   - chunk: 91
     startChunk: 9.1 km
     endChunk: 9.2 km
@@ -114,7 +114,7 @@ difficulty:
       - Dan Lukaszewicz
     downward: 4
     rel: 2.57202e-3
-    frac: 0.27109053
+    frac: 0.27099609
   - chunk: 92
     startChunk: 9.2 km
     endChunk: 9.3 km
@@ -127,7 +127,7 @@ difficulty:
       - Owen MB
     downward: 4
     rel: 2.57202e-3
-    frac: 0.27366255
+    frac: 0.27368164
   - chunk: 118
     startChunk: 11.8 km
     endChunk: 11.9 km
@@ -140,7 +140,7 @@ difficulty:
       - Greg Sessa
     downward: 5
     rel: 3.08642e-3
-    frac: 0.33693416
+    frac: 0.33691406
   - chunk: 125
     startChunk: 12.5 km
     endChunk: 12.6 km
@@ -153,7 +153,7 @@ difficulty:
       - John Blank
     downward: 4
     rel: 2.57202e-3
-    frac: 0.35493827
+    frac: 0.35498047
   - chunk: 154
     startChunk: 15.4 km
     endChunk: 15.5 km
@@ -166,7 +166,7 @@ difficulty:
       - Burke Schnedl
     downward: 4
     rel: 2.57202e-3
-    frac: 0.42335391
+    frac: 0.42333984
   - chunk: 155
     startChunk: 15.5 km
     endChunk: 15.6 km
@@ -179,7 +179,7 @@ difficulty:
       - John Maloney
     downward: 3
     rel: 2.05761e-3
-    frac: 0.42541152
+    frac: 0.42529297
   - chunk: 172
     startChunk: 17.2 km
     endChunk: 17.3 km
@@ -192,7 +192,7 @@ difficulty:
       - Richard Elder
     downward: 2
     rel: 1.54321e-3
-    frac: 0.45164609
+    frac: 0.45166016
   - chunk: 173
     startChunk: 17.3 km
     endChunk: 17.4 km
@@ -205,7 +205,7 @@ difficulty:
       - Niki Longshore
     downward: 1
     rel: 1.02881e-3
-    frac: 0.4526749
+    frac: 0.45263672
   - chunk: 201
     startChunk: 20.1 km
     endChunk: 20.2 km
@@ -218,7 +218,7 @@ difficulty:
       - Kelly Myrkle
     downward: 0
     rel: 5.144e-4
-    frac: 0.46707819
+    frac: 0.46704102
   - chunk: 266
     startChunk: 26.6 km
     endChunk: 26.7 km
@@ -244,7 +244,7 @@ difficulty:
       - Michael Duffy
     downward: 4
     rel: 2.07297e-3
-    frac: 8.623549e-2
+    frac: 8.618164e-2
   - chunk: 60
     startChunk: 6.0 km
     endChunk: 6.1 km
@@ -257,7 +257,7 @@ difficulty:
       - John Blank
     downward: 3
     rel: 1.65837e-3
-    frac: 0.10281924
+    frac: 0.1027832
   - chunk: 65
     startChunk: 6.5 km
     endChunk: 6.6 km
@@ -270,7 +270,7 @@ difficulty:
       - Soraya Rios
     downward: 2
     rel: 1.24378e-3
-    frac: 0.10903814
+    frac: 0.10913086
   - chunk: 67
     startChunk: 6.7 km
     endChunk: 6.8 km
@@ -283,7 +283,7 @@ difficulty:
       - Burke Schnedl
     downward: 1
     rel: 8.2919e-4
-    frac: 0.11069652
+    frac: 0.1105957
   - chunk: 126
     startChunk: 12.6 km
     endChunk: 12.7 km
@@ -296,7 +296,7 @@ difficulty:
       - Willie Van Caulart
     downward: 4
     rel: 2.07297e-3
-    frac: 0.16169154
+    frac: 0.16162109
   - chunk: 185
     startChunk: 18.5 km
     endChunk: 18.6 km
@@ -309,7 +309,7 @@ difficulty:
       - Pete Wall
     downward: 9
     rel: 4.14594e-3
-    frac: 0.33830846
+    frac: 0.33837891
   - chunk: 186
     startChunk: 18.6 km
     endChunk: 18.7 km
@@ -322,7 +322,7 @@ difficulty:
       - Richard Westmoreland
     downward: 8
     rel: 3.73134e-3
-    frac: 0.3420398
+    frac: 0.34204102
   - chunk: 189
     startChunk: 18.9 km
     endChunk: 19.0 km
@@ -335,7 +335,7 @@ difficulty:
       - John Maloney
     downward: 7
     rel: 3.31675e-3
-    frac: 0.35199005
+    frac: 0.35205078
   - chunk: 200
     startChunk: 20.0 km
     endChunk: 20.1 km
@@ -348,7 +348,7 @@ difficulty:
       - Alex Skyride
     downward: 6
     rel: 2.90216e-3
-    frac: 0.38391376
+    frac: 0.3840332
   - chunk: 219
     startChunk: 21.9 km
     endChunk: 22.0 km
@@ -361,7 +361,7 @@ difficulty:
       - Andrey Solomykin
     downward: 5
     rel: 2.48756e-3
-    frac: 0.43117745
+    frac: 0.43115234
   - chunk: 225
     startChunk: 22.5 km
     endChunk: 22.6 km
@@ -374,7 +374,7 @@ difficulty:
       - Greg Sessa
     downward: 4
     rel: 2.07297e-3
-    frac: 0.44361526
+    frac: 0.44360352
   - chunk: 227
     startChunk: 22.7 km
     endChunk: 22.8 km
@@ -390,7 +390,7 @@ difficulty:
       - Owen MB
     downward: 2
     rel: 1.65837e-3
-    frac: 0.44693201
+    frac: 0.44702148
   - chunk: 246
     startChunk: 24.6 km
     endChunk: 24.7 km
@@ -403,7 +403,7 @@ difficulty:
       - Kelly Myrkle
     downward: 1
     rel: 8.2919e-4
-    frac: 0.46268657
+    frac: 0.46264648
   - chunk: 256
     startChunk: 25.6 km
     endChunk: 25.7 km
@@ -416,7 +416,7 @@ difficulty:
       - Dan Lukaszewicz
     downward: 0
     rel: 4.1459e-4
-    frac: 0.4668325
+    frac: 0.46679688
   - chunk: 367
     startChunk: 36.7 km
     endChunk: 36.8 km
@@ -454,7 +454,7 @@ difficulty:
       - Willie Van Caulart
     downward: 6
     rel: 2.59556e-3
-    frac: 0.12600283
+    frac: 0.12597656
   - chunk: 92
     startChunk: 9.2 km
     endChunk: 9.3 km
@@ -467,7 +467,7 @@ difficulty:
       - Soraya Rios
     downward: 5
     rel: 1.41576e-3
-    frac: 0.18546484
+    frac: 0.18554688
   - chunk: 113
     startChunk: 11.3 km
     endChunk: 11.4 km
@@ -480,7 +480,7 @@ difficulty:
       - Richard Westmoreland
     downward: 4
     rel: 1.1798e-3
-    frac: 0.21024068
+    frac: 0.21020508
   - chunk: 163
     startChunk: 16.3 km
     endChunk: 16.4 km
@@ -493,7 +493,7 @@ difficulty:
       - Dan Lukaszewicz
     downward: 3
     rel: 9.4384e-4
-    frac: 0.25743275
+    frac: 0.25732422
   - chunk: 166
     startChunk: 16.6 km
     endChunk: 16.7 km
@@ -506,7 +506,7 @@ difficulty:
       - Greg Sessa
     downward: 2
     rel: 7.0788e-4
-    frac: 0.25955639
+    frac: 0.25952148
   - chunk: 225
     startChunk: 22.5 km
     endChunk: 22.6 km
@@ -519,7 +519,7 @@ difficulty:
       - Alex Skyride
     downward: 1
     rel: 4.7192e-4
-    frac: 0.28739972
+    frac: 0.28735352
   - chunk: 242
     startChunk: 24.2 km
     endChunk: 24.3 km
@@ -532,7 +532,7 @@ difficulty:
       - Owen MB
     downward: 1
     rel: 4.7192e-4
-    frac: 0.29400661
+    frac: 0.29394531
   - chunk: 452
     startChunk: 45.2 km
     endChunk: 45.3 km
@@ -545,7 +545,7 @@ difficulty:
       - Pete Wall
     downward: 0
     rel: 2.3596e-4
-    frac: 0.34355828
+    frac: 0.34350586
   - chunk: 885
     startChunk: 88.5 km
     endChunk: 88.6 km
@@ -558,7 +558,7 @@ difficulty:
       - John Maloney
     downward: 2
     rel: 7.0788e-4
-    frac: 0.44903256
+    frac: 0.44897461
   - chunk: 893
     startChunk: 89.3 km
     endChunk: 89.4 km
@@ -571,7 +571,7 @@ difficulty:
       - Burke Schnedl
     downward: 1
     rel: 4.7192e-4
-    frac: 0.45280793
+    frac: 0.45288086
   - chunk: 1093
     startChunk: 109.3 km
     endChunk: 109.4 km
@@ -603,7 +603,7 @@ difficulty:
       - Richard Westmoreland
     downward: 5
     rel: 1.98118e-3
-    frac: 8.543834e-2
+    frac: 8.544922e-2
   - chunk: 58
     startChunk: 5.8 km
     endChunk: 5.9 km
@@ -616,7 +616,7 @@ difficulty:
       - Dan Lukaszewicz
     downward: 4
     rel: 1.23824e-3
-    frac: 9.534423e-2
+    frac: 9.545898e-2
   - chunk: 86
     startChunk: 8.6 km
     endChunk: 8.7 km
@@ -629,7 +629,7 @@ difficulty:
       - John Maloney
     downward: 3
     rel: 9.9059e-4
-    frac: 0.12308073
+    frac: 0.12304688
   - chunk: 119
     startChunk: 11.9 km
     endChunk: 12.0 km
@@ -642,7 +642,7 @@ difficulty:
       - Michael Duffy
     downward: 3
     rel: 9.9059e-4
-    frac: 0.1490837
+    frac: 0.14916992
   - chunk: 187
     startChunk: 18.7 km
     endChunk: 18.8 km
@@ -655,7 +655,7 @@ difficulty:
       - Pete Wall
     downward: 2
     rel: 7.4294e-4
-    frac: 0.19960376
+    frac: 0.19970703
   - chunk: 194
     startChunk: 19.4 km
     endChunk: 19.5 km
@@ -668,7 +668,7 @@ difficulty:
       - Willie Van Caulart
     downward: 1
     rel: 4.9529e-4
-    frac: 0.20307083
+    frac: 0.203125
   - chunk: 273
     startChunk: 27.3 km
     endChunk: 27.4 km
@@ -681,7 +681,7 @@ difficulty:
       - Niki Longshore
     downward: 2
     rel: 7.4294e-4
-    frac: 0.25829619
+    frac: 0.25830078
   - chunk: 355
     startChunk: 35.5 km
     endChunk: 35.6 km
@@ -694,7 +694,7 @@ difficulty:
       - Nick Jones
     downward: 3
     rel: 9.9059e-4
-    frac: 0.32342744
+    frac: 0.32348633
   - chunk: 367
     startChunk: 36.7 km
     endChunk: 36.8 km
@@ -707,7 +707,7 @@ difficulty:
       - Richard Elder
     downward: 2
     rel: 7.4294e-4
-    frac: 0.33234274
+    frac: 0.33227539
   - chunk: 452
     startChunk: 45.2 km
     endChunk: 45.3 km
@@ -720,7 +720,7 @@ difficulty:
       - Andrey Solomykin
     downward: 2
     rel: 7.4294e-4
-    frac: 0.39128281
+    frac: 0.39135742
   - chunk: 479
     startChunk: 47.9 km
     endChunk: 48.0 km
@@ -733,7 +733,7 @@ difficulty:
       - Soraya Rios
     downward: 1
     rel: 4.9529e-4
-    frac: 0.40465577
+    frac: 0.40454102
   - chunk: 544
     startChunk: 54.4 km
     endChunk: 54.5 km
@@ -746,7 +746,7 @@ difficulty:
       - Burke Schnedl
     downward: 0
     rel: 2.4765e-4
-    frac: 0.42075285
+    frac: 0.4206543
   - chunk: 718
     startChunk: 71.8 km
     endChunk: 71.9 km
@@ -759,7 +759,7 @@ difficulty:
       - Kelly Myrkle
     downward: 1
     rel: 4.9529e-4
-    frac: 0.46681526
+    frac: 0.46679688
   - chunk: 852
     startChunk: 85.2 km
     endChunk: 85.3 km
@@ -791,7 +791,7 @@ difficulty:
       - Richard Elder
     downward: 3
     rel: 3.33704e-3
-    frac: 0.1701891
+    frac: 0.17016602
   - chunk: 94
     startChunk: 9.4 km
     endChunk: 9.5 km
@@ -804,7 +804,7 @@ difficulty:
       - Soraya Rios
     downward: 2
     rel: 1.66852e-3
-    frac: 0.243604
+    frac: 0.24365234
   - chunk: 109
     startChunk: 10.9 km
     endChunk: 11.0 km
@@ -817,7 +817,7 @@ difficulty:
       - Michael Duffy
     downward: 1
     rel: 1.11235e-3
-    frac: 0.26028921
+    frac: 0.26025391
   - chunk: 132
     startChunk: 13.2 km
     endChunk: 13.3 km
@@ -830,7 +830,7 @@ difficulty:
       - Pete Wall
     downward: 0
     rel: 5.5617e-4
-    frac: 0.2730812
+    frac: 0.27319336
   - chunk: 286
     startChunk: 28.6 km
     endChunk: 28.7 km
@@ -843,7 +843,7 @@ difficulty:
       - Richard Westmoreland
     downward: 2
     rel: 1.66852e-3
-    frac: 0.42880979
+    frac: 0.42871094
   - chunk: 342
     startChunk: 34.2 km
     endChunk: 34.3 km
@@ -856,7 +856,7 @@ difficulty:
       - Greg Sessa
     downward: 1
     rel: 1.11235e-3
-    frac: 0.49110122
+    frac: 0.49121094
   - chunk: 358
     startChunk: 35.8 km
     endChunk: 35.9 km
