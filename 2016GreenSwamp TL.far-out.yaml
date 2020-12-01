@@ -1,0 +1,136 @@
+minDistance: 5.000 km
+bestDistance:
+- 34.257879 km
+- 42.669131 km
+- 110.549326 km
+- 108.268931 km
+- 40.966081 km
+chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 351
+  - 35.1 km
+  sumOf: 320
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 431
+  - 43.1 km
+  sumOf: 0
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1111
+  - 111.1 km
+  sumOf: 0
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1091
+  - 109.1 km
+  sumOf: 909
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 411
+  - 41.1 km
+  sumOf: 348
+landout:
+- 2
+- 0
+- 0
+- 3
+- 1
+lookahead:
+- 514
+- 30
+- 30
+- 1083
+- 1229
+difficulty:
+- - chunk: 57
+    startChunk: 5.7 km
+    endChunk: 5.8 km
+    endAhead: 57.2 km
+    down: 1
+    downs:
+    - 5.756 km
+    downers:
+    - - '101'
+      - Ken  Kinzie
+    downward: 2
+    rel: 3.125e-3
+    frac: 0.18115234
+  - chunk: 261
+    startChunk: 26.1 km
+    endChunk: 26.2 km
+    endAhead: 77.6 km
+    down: 1
+    downs:
+    - 26.169 km
+    downers:
+    - - '105'
+      - Alan Arcos
+    downward: 1
+    rel: 1.5625e-3
+    frac: 0.5
+- []
+- []
+- - chunk: 225
+    startChunk: 22.5 km
+    endChunk: 22.6 km
+    endAhead: 130.9 km
+    down: 1
+    downs:
+    - 22.509 km
+    downers:
+    - - '104'
+      - Mark Bourbonnais
+    downward: 3
+    rel: 1.65017e-3
+    frac: 0.37304688
+  - chunk: 227
+    startChunk: 22.7 km
+    endChunk: 22.8 km
+    endAhead: 131.1 km
+    down: 1
+    downs:
+    - 22.784 km
+    downers:
+    - - '105'
+      - Alan Arcos
+    downward: 2
+    rel: 1.10011e-3
+    frac: 0.37524414
+  - chunk: 454
+    startChunk: 45.4 km
+    endChunk: 45.5 km
+    endAhead: 153.8 km
+    down: 1
+    downs:
+    - 45.480 km
+    downers:
+    - - '103'
+      - Mick Howard
+    downward: 1
+    rel: 5.5006e-4
+    frac: 0.5
+- - chunk: 347
+    startChunk: 34.7 km
+    endChunk: 34.8 km
+    endAhead: 157.7 km
+    down: 1
+    downs:
+    - 34.716 km
+    downers:
+    - - '103'
+      - Mick Howard
+    downward: 1
+    rel: 1.43678e-3
+    frac: 0.5

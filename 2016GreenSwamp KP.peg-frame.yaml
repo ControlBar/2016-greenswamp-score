@@ -7,812 +7,1114 @@ stopWindow:
 stopFlying:
 - - - - '207'
       - Alex Skyride
-    - scoredFixes:
-      - 10
-      - 750
-      scoredSeconds:
-      - 300
-      - 2523
-      scoredTimes:
-      - 2016-04-03T19:40:23Z
-      - 2016-04-03T20:17:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 750
+        scoredSeconds:
+        - 300
+        - 2523
+        scoredTimes:
+        - 2016-04-03T19:40:23Z
+        - 2016-04-03T20:17:26Z
+        scoredWindowSeconds: 2223
   - - - '203'
       - Andrey Solomykin
-    - scoredFixes:
-      - 927
-      - 7544
-      scoredSeconds:
-      - 946
-      - 7712
-      scoredTimes:
-      - 2016-04-03T18:47:16Z
-      - 2016-04-03T20:40:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 927
+        - 7544
+        scoredSeconds:
+        - 946
+        - 7712
+        scoredTimes:
+        - 2016-04-03T18:47:16Z
+        - 2016-04-03T20:40:02Z
+        scoredWindowSeconds: 6766
   - - - '215'
       - Burke Schnedl
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '211'
       - Dan Lukaszewicz
-    - scoredFixes:
-      - 25
-      - 1210
-      scoredSeconds:
-      - 50
-      - 2425
-      scoredTimes:
-      - 2016-04-03T19:22:56Z
-      - 2016-04-03T20:02:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 1210
+        scoredSeconds:
+        - 50
+        - 2425
+        scoredTimes:
+        - 2016-04-03T19:22:56Z
+        - 2016-04-03T20:02:31Z
+        scoredWindowSeconds: 2375
   - - - '212'
       - Greg Sessa
-    - scoredFixes:
-      - 5
-      - 845
-      scoredSeconds:
-      - 152
-      - 2867
-      scoredTimes:
-      - 2016-04-03T19:02:14Z
-      - 2016-04-03T19:47:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 845
+        scoredSeconds:
+        - 152
+        - 2867
+        scoredTimes:
+        - 2016-04-03T19:02:14Z
+        - 2016-04-03T19:47:29Z
+        scoredWindowSeconds: 2715
   - - - '209'
       - John Blank
-    - scoredFixes:
-      - 9
-      - 374
-      scoredSeconds:
-      - 276
-      - 3997
-      scoredTimes:
-      - 2016-04-03T19:21:06Z
-      - 2016-04-03T20:23:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 374
+        scoredSeconds:
+        - 276
+        - 3997
+        scoredTimes:
+        - 2016-04-03T19:21:06Z
+        - 2016-04-03T20:23:07Z
+        scoredWindowSeconds: 3721
   - - - '216'
       - John Maloney
-    - scoredFixes:
-      - 0
-      - 3736
-      scoredSeconds:
-      - 0
-      - 3826
-      scoredTimes:
-      - 2016-04-03T19:28:31Z
-      - 2016-04-03T20:32:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3736
+        scoredSeconds:
+        - 0
+        - 3826
+        scoredTimes:
+        - 2016-04-03T19:28:31Z
+        - 2016-04-03T20:32:17Z
+        scoredWindowSeconds: 3826
   - - - '205'
       - Kelly Myrkle
-    - scoredFixes:
-      - 0
-      - 1219
-      scoredSeconds:
-      - 0
-      - 6169
-      scoredTimes:
-      - 2016-04-03T18:39:26Z
-      - 2016-04-03T20:22:15Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1219
+        scoredSeconds:
+        - 0
+        - 6169
+        scoredTimes:
+        - 2016-04-03T18:39:26Z
+        - 2016-04-03T20:22:15Z
+        scoredWindowSeconds: 6169
   - - - '206'
       - Michael Duffy
-    - scoredFixes:
-      - 2
-      - 94
-      scoredSeconds:
-      - 30
-      - 488
-      scoredTimes:
-      - 2016-04-03T19:41:41Z
-      - 2016-04-03T19:49:19Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 94
+        scoredSeconds:
+        - 30
+        - 488
+        scoredTimes:
+        - 2016-04-03T19:41:41Z
+        - 2016-04-03T19:49:19Z
+        scoredWindowSeconds: 458
   - - - '202'
       - Nick Jones
-    - scoredFixes:
-      - 0
-      - 6534
-      scoredSeconds:
-      - 0
-      - 6534
-      scoredTimes:
-      - 2016-04-03T19:33:42Z
-      - 2016-04-03T21:22:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6534
+        scoredSeconds:
+        - 0
+        - 6534
+        scoredTimes:
+        - 2016-04-03T19:33:42Z
+        - 2016-04-03T21:22:36Z
+        scoredWindowSeconds: 6534
   - - - '201'
       - Niki Longshore
-    - scoredFixes:
-      - 8
-      - 432
-      scoredSeconds:
-      - 240
-      - 4479
-      scoredTimes:
-      - 2016-04-03T19:12:40Z
-      - 2016-04-03T20:23:19Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 432
+        scoredSeconds:
+        - 240
+        - 4479
+        scoredTimes:
+        - 2016-04-03T19:12:40Z
+        - 2016-04-03T20:23:19Z
+        scoredWindowSeconds: 4239
   - - - '204'
       - Owen MB
-    - scoredFixes:
-      - 9
-      - 779
-      scoredSeconds:
-      - 248
-      - 4098
-      scoredTimes:
-      - 2016-04-03T18:50:45Z
-      - 2016-04-03T19:54:55Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 779
+        scoredSeconds:
+        - 248
+        - 4098
+        scoredTimes:
+        - 2016-04-03T18:50:45Z
+        - 2016-04-03T19:54:55Z
+        scoredWindowSeconds: 3850
   - - - '210'
       - Pete Wall
-    - scoredFixes:
-      - 6
-      - 260
-      scoredSeconds:
-      - 150
-      - 1434
-      scoredTimes:
-      - 2016-04-03T19:47:03Z
-      - 2016-04-03T20:08:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 260
+        scoredSeconds:
+        - 150
+        - 1434
+        scoredTimes:
+        - 2016-04-03T19:47:03Z
+        - 2016-04-03T20:08:27Z
+        scoredWindowSeconds: 1284
   - - - '214'
       - Richard Elder
-    - scoredFixes:
-      - 0
-      - 4429
-      scoredSeconds:
-      - 0
-      - 4429
-      scoredTimes:
-      - 2016-04-03T19:07:15Z
-      - 2016-04-03T20:21:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4429
+        scoredSeconds:
+        - 0
+        - 4429
+        scoredTimes:
+        - 2016-04-03T19:07:15Z
+        - 2016-04-03T20:21:04Z
+        scoredWindowSeconds: 4429
   - - - '217'
       - Richard Westmoreland
-    - scoredFixes:
-      - 0
-      - 459
-      scoredSeconds:
-      - 0
-      - 4877
-      scoredTimes:
-      - 2016-04-03T19:22:20Z
-      - 2016-04-03T20:43:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 459
+        scoredSeconds:
+        - 0
+        - 4877
+        scoredTimes:
+        - 2016-04-03T19:22:20Z
+        - 2016-04-03T20:43:37Z
+        scoredWindowSeconds: 4877
   - - - '208'
       - Soraya Rios
-    - scoredFixes:
-      - 10
-      - 278
-      scoredSeconds:
-      - 299
-      - 3023
-      scoredTimes:
-      - 2016-04-03T19:17:03Z
-      - 2016-04-03T20:02:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 278
+        scoredSeconds:
+        - 299
+        - 3023
+        scoredTimes:
+        - 2016-04-03T19:17:03Z
+        - 2016-04-03T20:02:27Z
+        scoredWindowSeconds: 2724
   - - - '213'
       - Willie Van Caulart
-    - scoredFixes:
-      - 9
-      - 330
-      scoredSeconds:
-      - 276
-      - 1917
-      scoredTimes:
-      - 2016-04-03T19:05:51Z
-      - 2016-04-03T19:33:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 330
+        scoredSeconds:
+        - 276
+        - 1917
+        scoredTimes:
+        - 2016-04-03T19:05:51Z
+        - 2016-04-03T19:33:12Z
+        scoredWindowSeconds: 1641
 - - - - '207'
       - Alex Skyride
-    - scoredFixes:
-      - 4
-      - 2996
-      scoredSeconds:
-      - 120
-      - 9263
-      scoredTimes:
-      - 2016-04-04T17:37:01Z
-      - 2016-04-04T20:09:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 2996
+        scoredSeconds:
+        - 120
+        - 9263
+        scoredTimes:
+        - 2016-04-04T17:37:01Z
+        - 2016-04-04T20:09:24Z
+        scoredWindowSeconds: 9143
   - - - '203'
       - Andrey Solomykin
-    - scoredFixes:
-      - 109
-      - 8935
-      scoredSeconds:
-      - 350
-      - 9403
-      scoredTimes:
-      - 2016-04-04T18:06:08Z
-      - 2016-04-04T20:37:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 109
+        - 8935
+        scoredSeconds:
+        - 350
+        - 9403
+        scoredTimes:
+        - 2016-04-04T18:06:08Z
+        - 2016-04-04T20:37:01Z
+        scoredWindowSeconds: 9053
   - - - '215'
       - Burke Schnedl
-    - scoredFixes:
-      - 0
-      - 10550
-      scoredSeconds:
-      - 0
-      - 10550
-      scoredTimes:
-      - 2016-04-04T17:50:06Z
-      - 2016-04-04T20:45:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10550
+        scoredSeconds:
+        - 0
+        - 10550
+        scoredTimes:
+        - 2016-04-04T17:50:06Z
+        - 2016-04-04T20:45:56Z
+        scoredWindowSeconds: 10550
   - - - '211'
       - Dan Lukaszewicz
-    - scoredFixes:
-      - 395
-      - 5185
-      scoredSeconds:
-      - 791
-      - 10379
-      scoredTimes:
-      - 2016-04-04T17:53:38Z
-      - 2016-04-04T20:33:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 395
+        - 5185
+        scoredSeconds:
+        - 791
+        - 10379
+        scoredTimes:
+        - 2016-04-04T17:53:38Z
+        - 2016-04-04T20:33:26Z
+        scoredWindowSeconds: 9588
   - - - '212'
       - Greg Sessa
-    - scoredFixes:
-      - 0
-      - 2357
-      scoredSeconds:
-      - 0
-      - 7493
-      scoredTimes:
-      - 2016-04-04T17:39:11Z
-      - 2016-04-04T19:44:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2357
+        scoredSeconds:
+        - 0
+        - 7493
+        scoredTimes:
+        - 2016-04-04T17:39:11Z
+        - 2016-04-04T19:44:04Z
+        scoredWindowSeconds: 7493
   - - - '209'
       - John Blank
-    - scoredFixes:
-      - 0
-      - 192
-      scoredSeconds:
-      - 0
-      - 2120
-      scoredTimes:
-      - 2016-04-04T17:51:25Z
-      - 2016-04-04T18:26:45Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 192
+        scoredSeconds:
+        - 0
+        - 2120
+        scoredTimes:
+        - 2016-04-04T17:51:25Z
+        - 2016-04-04T18:26:45Z
+        scoredWindowSeconds: 2120
   - - - '216'
       - John Maloney
-    - scoredFixes:
-      - 73
-      - 4297
-      scoredSeconds:
-      - 2241
-      - 7395
-      scoredTimes:
-      - 2016-04-04T17:45:13Z
-      - 2016-04-04T19:11:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 73
+        - 4297
+        scoredSeconds:
+        - 2241
+        - 7395
+        scoredTimes:
+        - 2016-04-04T17:45:13Z
+        - 2016-04-04T19:11:07Z
+        scoredWindowSeconds: 5154
   - - - '205'
       - Kelly Myrkle
-    - scoredFixes:
-      - 0
-      - 2073
-      scoredSeconds:
-      - 0
-      - 10565
-      scoredTimes:
-      - 2016-04-04T17:31:08Z
-      - 2016-04-04T20:27:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2073
+        scoredSeconds:
+        - 0
+        - 10565
+        scoredTimes:
+        - 2016-04-04T17:31:08Z
+        - 2016-04-04T20:27:13Z
+        scoredWindowSeconds: 10565
   - - - '206'
       - Michael Duffy
-    - scoredFixes:
-      - 8
-      - 689
-      scoredSeconds:
-      - 240
-      - 3650
-      scoredTimes:
-      - 2016-04-04T17:54:38Z
-      - 2016-04-04T18:51:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 689
+        scoredSeconds:
+        - 240
+        - 3650
+        scoredTimes:
+        - 2016-04-04T17:54:38Z
+        - 2016-04-04T18:51:28Z
+        scoredWindowSeconds: 3410
   - - - '202'
       - Nick Jones
-    - scoredFixes:
-      - 0
-      - 7784
-      scoredSeconds:
-      - 0
-      - 7784
-      scoredTimes:
-      - 2016-04-04T17:30:03Z
-      - 2016-04-04T19:39:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7784
+        scoredSeconds:
+        - 0
+        - 7784
+        scoredTimes:
+        - 2016-04-04T17:30:03Z
+        - 2016-04-04T19:39:47Z
+        scoredWindowSeconds: 7784
   - - - '201'
       - Niki Longshore
-    - scoredFixes:
-      - 10
-      - 1567
-      scoredSeconds:
-      - 288
-      - 12438
-      scoredTimes:
-      - 2016-04-04T17:52:03Z
-      - 2016-04-04T21:14:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 1567
+        scoredSeconds:
+        - 288
+        - 12438
+        scoredTimes:
+        - 2016-04-04T17:52:03Z
+        - 2016-04-04T21:14:33Z
+        scoredWindowSeconds: 12150
   - - - '204'
       - Owen MB
-    - scoredFixes:
-      - 0
-      - 1532
-      scoredSeconds:
-      - 0
-      - 7788
-      scoredTimes:
-      - 2016-04-04T17:27:38Z
-      - 2016-04-04T19:37:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1532
+        scoredSeconds:
+        - 0
+        - 7788
+        scoredTimes:
+        - 2016-04-04T17:27:38Z
+        - 2016-04-04T19:37:26Z
+        scoredWindowSeconds: 7788
   - - - '210'
       - Pete Wall
-    - scoredFixes:
-      - 3
-      - 1707
-      scoredSeconds:
-      - 90
-      - 8673
-      scoredTimes:
-      - 2016-04-04T17:55:02Z
-      - 2016-04-04T20:18:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 1707
+        scoredSeconds:
+        - 90
+        - 8673
+        scoredTimes:
+        - 2016-04-04T17:55:02Z
+        - 2016-04-04T20:18:05Z
+        scoredWindowSeconds: 8583
   - - - '214'
       - Richard Elder
-    - scoredFixes:
-      - 0
-      - 12600
-      scoredSeconds:
-      - 0
-      - 12600
-      scoredTimes:
-      - 2016-04-04T17:45:50Z
-      - 2016-04-04T21:15:50Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 12600
+        scoredSeconds:
+        - 0
+        - 12600
+        scoredTimes:
+        - 2016-04-04T17:45:50Z
+        - 2016-04-04T21:15:50Z
+        scoredWindowSeconds: 12600
   - - - '217'
       - Richard Westmoreland
-    - scoredFixes:
-      - 0
-      - 700
-      scoredSeconds:
-      - 0
-      - 7324
-      scoredTimes:
-      - 2016-04-04T17:55:40Z
-      - 2016-04-04T19:57:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 700
+        scoredSeconds:
+        - 0
+        - 7324
+        scoredTimes:
+        - 2016-04-04T17:55:40Z
+        - 2016-04-04T19:57:44Z
+        scoredWindowSeconds: 7324
   - - - '208'
       - Soraya Rios
-    - scoredFixes:
-      - 0
-      - 175
-      scoredSeconds:
-      - 0
-      - 1778
-      scoredTimes:
-      - 2016-04-04T18:26:14Z
-      - 2016-04-04T18:55:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 175
+        scoredSeconds:
+        - 0
+        - 1778
+        scoredTimes:
+        - 2016-04-04T18:26:14Z
+        - 2016-04-04T18:55:52Z
+        scoredWindowSeconds: 1778
   - - - '213'
       - Willie Van Caulart
-    - scoredFixes:
-      - 0
-      - 718
-      scoredSeconds:
-      - 0
-      - 3919
-      scoredTimes:
-      - 2016-04-04T17:40:02Z
-      - 2016-04-04T18:45:21Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 718
+        scoredSeconds:
+        - 0
+        - 3919
+        scoredTimes:
+        - 2016-04-04T17:40:02Z
+        - 2016-04-04T18:45:21Z
+        scoredWindowSeconds: 3919
 - - - - '207'
       - Alex Skyride
-    - scoredFixes:
-      - 0
-      - 1101
-      scoredSeconds:
-      - 0
-      - 3546
-      scoredTimes:
-      - 2016-04-05T18:34:30Z
-      - 2016-04-05T19:33:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1101
+        scoredSeconds:
+        - 0
+        - 3546
+        scoredTimes:
+        - 2016-04-05T18:34:30Z
+        - 2016-04-05T19:33:36Z
+        scoredWindowSeconds: 3546
   - - - '203'
       - Andrey Solomykin
-    - scoredFixes:
-      - 1805
-      - 17093
-      scoredSeconds:
-      - 1805
-      - 17093
-      scoredTimes:
-      - 2016-04-05T17:53:06Z
-      - 2016-04-05T22:07:54Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1805
+        - 17093
+        scoredSeconds:
+        - 1805
+        - 17093
+        scoredTimes:
+        - 2016-04-05T17:53:06Z
+        - 2016-04-05T22:07:54Z
+        scoredWindowSeconds: 15288
   - - - '215'
       - Burke Schnedl
-    - scoredFixes:
-      - 0
-      - 13293
-      scoredSeconds:
-      - 0
-      - 13293
-      scoredTimes:
-      - 2016-04-05T17:12:24Z
-      - 2016-04-05T20:53:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13293
+        scoredSeconds:
+        - 0
+        - 13293
+        scoredTimes:
+        - 2016-04-05T17:12:24Z
+        - 2016-04-05T20:53:57Z
+        scoredWindowSeconds: 13293
   - - - '211'
       - Dan Lukaszewicz
-    - scoredFixes:
-      - 25
-      - 1479
-      scoredSeconds:
-      - 50
-      - 2959
-      scoredTimes:
-      - 2016-04-05T18:09:02Z
-      - 2016-04-05T18:57:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 1479
+        scoredSeconds:
+        - 50
+        - 2959
+        scoredTimes:
+        - 2016-04-05T18:09:02Z
+        - 2016-04-05T18:57:31Z
+        scoredWindowSeconds: 2909
   - - - '212'
       - Greg Sessa
-    - scoredFixes:
-      - 3
-      - 1098
-      scoredSeconds:
-      - 92
-      - 3637
-      scoredTimes:
-      - 2016-04-05T18:01:52Z
-      - 2016-04-05T19:00:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 1098
+        scoredSeconds:
+        - 92
+        - 3637
+        scoredTimes:
+        - 2016-04-05T18:01:52Z
+        - 2016-04-05T19:00:57Z
+        scoredWindowSeconds: 3545
   - - - '209'
       - John Blank
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '216'
       - John Maloney
-    - scoredFixes:
-      - 148
-      - 12435
-      scoredSeconds:
-      - 4583
-      - 17507
-      scoredTimes:
-      - 2016-04-05T17:21:59Z
-      - 2016-04-05T20:57:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 148
+        - 12435
+        scoredSeconds:
+        - 4583
+        - 17507
+        scoredTimes:
+        - 2016-04-05T17:21:59Z
+        - 2016-04-05T20:57:23Z
+        scoredWindowSeconds: 12924
   - - - '205'
       - Kelly Myrkle
-    - scoredFixes:
-      - 0
-      - 3214
-      scoredSeconds:
-      - 0
-      - 16278
-      scoredTimes:
-      - 2016-04-05T17:56:56Z
-      - 2016-04-05T22:28:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3214
+        scoredSeconds:
+        - 0
+        - 16278
+        scoredTimes:
+        - 2016-04-05T17:56:56Z
+        - 2016-04-05T22:28:14Z
+        scoredWindowSeconds: 16278
   - - - '206'
       - Michael Duffy
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '202'
       - Nick Jones
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '201'
       - Niki Longshore
-    - scoredFixes:
-      - 0
-      - 1805
-      scoredSeconds:
-      - 0
-      - 16003
-      scoredTimes:
-      - 2016-04-05T17:14:45Z
-      - 2016-04-05T21:41:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1805
+        scoredSeconds:
+        - 0
+        - 16003
+        scoredTimes:
+        - 2016-04-05T17:14:45Z
+        - 2016-04-05T21:41:28Z
+        scoredWindowSeconds: 16003
   - - - '204'
       - Owen MB
-    - scoredFixes:
-      - 7
-      - 861
-      scoredSeconds:
-      - 210
-      - 4506
-      scoredTimes:
-      - 2016-04-05T18:23:05Z
-      - 2016-04-05T19:34:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 861
+        scoredSeconds:
+        - 210
+        - 4506
+        scoredTimes:
+        - 2016-04-05T18:23:05Z
+        - 2016-04-05T19:34:41Z
+        scoredWindowSeconds: 4296
   - - - '210'
       - Pete Wall
-    - scoredFixes:
-      - 0
-      - 1407
-      scoredSeconds:
-      - 0
-      - 7206
-      scoredTimes:
-      - 2016-04-05T17:22:07Z
-      - 2016-04-05T19:22:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1407
+        scoredSeconds:
+        - 0
+        - 7206
+        scoredTimes:
+        - 2016-04-05T17:22:07Z
+        - 2016-04-05T19:22:13Z
+        scoredWindowSeconds: 7206
   - - - '214'
       - Richard Elder
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '217'
       - Richard Westmoreland
-    - scoredFixes:
-      - 0
-      - 364
-      scoredSeconds:
-      - 0
-      - 3803
-      scoredTimes:
-      - 2016-04-05T18:27:13Z
-      - 2016-04-05T19:30:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 364
+        scoredSeconds:
+        - 0
+        - 3803
+        scoredTimes:
+        - 2016-04-05T18:27:13Z
+        - 2016-04-05T19:30:36Z
+        scoredWindowSeconds: 3803
   - - - '208'
       - Soraya Rios
-    - scoredFixes:
-      - 6
-      - 255
-      scoredSeconds:
-      - 184
-      - 2822
-      scoredTimes:
-      - 2016-04-05T17:20:13Z
-      - 2016-04-05T18:04:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 255
+        scoredSeconds:
+        - 184
+        - 2822
+        scoredTimes:
+        - 2016-04-05T17:20:13Z
+        - 2016-04-05T18:04:11Z
+        scoredWindowSeconds: 2638
   - - - '213'
       - Willie Van Caulart
-    - scoredFixes:
-      - 3
-      - 214
-      scoredSeconds:
-      - 92
-      - 1197
-      scoredTimes:
-      - 2016-04-05T17:14:31Z
-      - 2016-04-05T17:32:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 214
+        scoredSeconds:
+        - 92
+        - 1197
+        scoredTimes:
+        - 2016-04-05T17:14:31Z
+        - 2016-04-05T17:32:56Z
+        scoredWindowSeconds: 1105
 - - - - '207'
       - Alex Skyride
-    - scoredFixes:
-      - 0
-      - 335
-      scoredSeconds:
-      - 0
-      - 1224
-      scoredTimes:
-      - 2016-04-06T19:12:58Z
-      - 2016-04-06T19:33:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 335
+        scoredSeconds:
+        - 0
+        - 1224
+        scoredTimes:
+        - 2016-04-06T19:12:58Z
+        - 2016-04-06T19:33:22Z
+        scoredWindowSeconds: 1224
   - - - '203'
       - Andrey Solomykin
-    - scoredFixes:
-      - 580
-      - 6914
-      scoredSeconds:
-      - 591
-      - 7046
-      scoredTimes:
-      - 2016-04-06T18:06:29Z
-      - 2016-04-06T19:54:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 580
+        - 6914
+        scoredSeconds:
+        - 591
+        - 7046
+        scoredTimes:
+        - 2016-04-06T18:06:29Z
+        - 2016-04-06T19:54:04Z
+        scoredWindowSeconds: 6455
   - - - '215'
       - Burke Schnedl
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '211'
       - Dan Lukaszewicz
-    - scoredFixes:
-      - 26
-      - 876
-      scoredSeconds:
-      - 52
-      - 1752
-      scoredTimes:
-      - 2016-04-06T18:19:21Z
-      - 2016-04-06T18:47:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 876
+        scoredSeconds:
+        - 52
+        - 1752
+        scoredTimes:
+        - 2016-04-06T18:19:21Z
+        - 2016-04-06T18:47:41Z
+        scoredWindowSeconds: 1700
   - - - '212'
       - Greg Sessa
-    - scoredFixes:
-      - 0
-      - 4036
-      scoredSeconds:
-      - 0
-      - 12464
-      scoredTimes:
-      - 2016-04-06T18:18:20Z
-      - 2016-04-06T21:46:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4036
+        scoredSeconds:
+        - 0
+        - 12464
+        scoredTimes:
+        - 2016-04-06T18:18:20Z
+        - 2016-04-06T21:46:04Z
+        scoredWindowSeconds: 12464
   - - - '216'
       - John Maloney
-    - scoredFixes:
-      - 0
-      - 1732
-      scoredSeconds:
-      - 0
-      - 1777
-      scoredTimes:
-      - 2016-04-06T17:44:39Z
-      - 2016-04-06T18:14:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1732
+        scoredSeconds:
+        - 0
+        - 1777
+        scoredTimes:
+        - 2016-04-06T17:44:39Z
+        - 2016-04-06T18:14:16Z
+        scoredWindowSeconds: 1777
   - - - '205'
       - Kelly Myrkle
-    - scoredFixes:
-      - 0
-      - 1894
-      scoredSeconds:
-      - 0
-      - 9690
-      scoredTimes:
-      - 2016-04-06T18:44:28Z
-      - 2016-04-06T21:25:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1894
+        scoredSeconds:
+        - 0
+        - 9690
+        scoredTimes:
+        - 2016-04-06T18:44:28Z
+        - 2016-04-06T21:25:58Z
+        scoredWindowSeconds: 9690
   - - - '206'
       - Michael Duffy
-    - scoredFixes:
-      - 4
-      - 474
-      scoredSeconds:
-      - 120
-      - 2584
-      scoredTimes:
-      - 2016-04-06T17:33:32Z
-      - 2016-04-06T18:14:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 474
+        scoredSeconds:
+        - 120
+        - 2584
+        scoredTimes:
+        - 2016-04-06T17:33:32Z
+        - 2016-04-06T18:14:36Z
+        scoredWindowSeconds: 2464
   - - - '202'
       - Nick Jones
-    - scoredFixes:
-      - 0
-      - 5825
-      scoredSeconds:
-      - 0
-      - 5825
-      scoredTimes:
-      - 2016-04-06T18:04:39Z
-      - 2016-04-06T19:41:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5825
+        scoredSeconds:
+        - 0
+        - 5825
+        scoredTimes:
+        - 2016-04-06T18:04:39Z
+        - 2016-04-06T19:41:44Z
+        scoredWindowSeconds: 5825
   - - - '201'
       - Niki Longshore
-    - scoredFixes:
-      - 0
-      - 477
-      scoredSeconds:
-      - 0
-      - 5022
-      scoredTimes:
-      - 2016-04-06T17:26:06Z
-      - 2016-04-06T18:49:48Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 477
+        scoredSeconds:
+        - 0
+        - 5022
+        scoredTimes:
+        - 2016-04-06T17:26:06Z
+        - 2016-04-06T18:49:48Z
+        scoredWindowSeconds: 5022
   - - - '204'
       - Owen MB
-    - scoredFixes:
-      - 9
-      - 122
-      scoredSeconds:
-      - 254
-      - 819
-      scoredTimes:
-      - 2016-04-06T18:51:01Z
-      - 2016-04-06T19:00:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 122
+        scoredSeconds:
+        - 254
+        - 819
+        scoredTimes:
+        - 2016-04-06T18:51:01Z
+        - 2016-04-06T19:00:26Z
+        scoredWindowSeconds: 565
   - - - '210'
       - Pete Wall
-    - scoredFixes:
-      - 6
-      - 658
-      scoredSeconds:
-      - 180
-      - 3490
-      scoredTimes:
-      - 2016-04-06T17:38:37Z
-      - 2016-04-06T18:33:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 658
+        scoredSeconds:
+        - 180
+        - 3490
+        scoredTimes:
+        - 2016-04-06T17:38:37Z
+        - 2016-04-06T18:33:47Z
+        scoredWindowSeconds: 3310
   - - - '214'
       - Richard Elder
-    - scoredFixes:
-      - 1686
-      - 5970
-      scoredSeconds:
-      - 1686
-      - 5970
-      scoredTimes:
-      - 2016-04-06T18:57:33Z
-      - 2016-04-06T20:08:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1686
+        - 5970
+        scoredSeconds:
+        - 1686
+        - 5970
+        scoredTimes:
+        - 2016-04-06T18:57:33Z
+        - 2016-04-06T20:08:57Z
+        scoredWindowSeconds: 4284
   - - - '217'
       - Richard Westmoreland
-    - scoredFixes:
-      - 4
-      - 161
-      scoredSeconds:
-      - 122
-      - 1827
-      scoredTimes:
-      - 2016-04-06T17:43:14Z
-      - 2016-04-06T18:11:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 161
+        scoredSeconds:
+        - 122
+        - 1827
+        scoredTimes:
+        - 2016-04-06T17:43:14Z
+        - 2016-04-06T18:11:39Z
+        scoredWindowSeconds: 1705
   - - - '208'
       - Soraya Rios
-    - scoredFixes:
-      - 4
-      - 571
-      scoredSeconds:
-      - 123
-      - 5979
-      scoredTimes:
-      - 2016-04-06T17:35:48Z
-      - 2016-04-06T19:13:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 571
+        scoredSeconds:
+        - 123
+        - 5979
+        scoredTimes:
+        - 2016-04-06T17:35:48Z
+        - 2016-04-06T19:13:24Z
+        scoredWindowSeconds: 5856
   - - - '213'
       - Willie Van Caulart
-    - scoredFixes:
-      - 4
-      - 624
-      scoredSeconds:
-      - 120
-      - 3429
-      scoredTimes:
-      - 2016-04-06T18:49:28Z
-      - 2016-04-06T19:44:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 624
+        scoredSeconds:
+        - 120
+        - 3429
+        scoredTimes:
+        - 2016-04-06T18:49:28Z
+        - 2016-04-06T19:44:37Z
+        scoredWindowSeconds: 3309
 - - - - '207'
       - Alex Skyride
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '203'
       - Andrey Solomykin
-    - scoredFixes:
-      - 194
-      - 7754
-      scoredSeconds:
-      - 199
-      - 8014
-      scoredTimes:
-      - 2016-04-09T18:20:23Z
-      - 2016-04-09T20:30:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 194
+        - 7754
+        scoredSeconds:
+        - 199
+        - 8014
+        scoredTimes:
+        - 2016-04-09T18:20:23Z
+        - 2016-04-09T20:30:38Z
+        scoredWindowSeconds: 7815
   - - - '211'
       - Dan Lukaszewicz
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '212'
       - Greg Sessa
-    - scoredFixes:
-      - 0
-      - 2147
-      scoredSeconds:
-      - 0
-      - 6839
-      scoredTimes:
-      - 2016-04-09T19:04:01Z
-      - 2016-04-09T20:58:00Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2147
+        scoredSeconds:
+        - 0
+        - 6839
+        scoredTimes:
+        - 2016-04-09T19:04:01Z
+        - 2016-04-09T20:58:00Z
+        scoredWindowSeconds: 6839
   - - - '216'
       - John Maloney
-    - scoredFixes:
-      - 68
-      - 7098
-      scoredSeconds:
-      - 2112
-      - 10130
-      scoredTimes:
-      - 2016-04-09T18:34:37Z
-      - 2016-04-09T20:48:15Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 68
+        - 7098
+        scoredSeconds:
+        - 2112
+        - 10130
+        scoredTimes:
+        - 2016-04-09T18:34:37Z
+        - 2016-04-09T20:48:15Z
+        scoredWindowSeconds: 8018
   - - - '205'
       - Kelly Myrkle
-    - scoredFixes:
-      - 9
-      - 1503
-      scoredSeconds:
-      - 252
-      - 7722
-      scoredTimes:
-      - 2016-04-09T19:01:44Z
-      - 2016-04-09T21:06:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1503
+        scoredSeconds:
+        - 252
+        - 7722
+        scoredTimes:
+        - 2016-04-09T19:01:44Z
+        - 2016-04-09T21:06:14Z
+        scoredWindowSeconds: 7470
   - - - '206'
       - Michael Duffy
-    - scoredFixes:
-      - 4
-      - 409
-      scoredSeconds:
-      - 85
-      - 2110
-      scoredTimes:
-      - 2016-04-09T19:32:47Z
-      - 2016-04-09T20:06:32Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 409
+        scoredSeconds:
+        - 85
+        - 2110
+        scoredTimes:
+        - 2016-04-09T19:32:47Z
+        - 2016-04-09T20:06:32Z
+        scoredWindowSeconds: 2025
   - - - '202'
       - Nick Jones
-    - scoredFixes:
-      - 0
-      - 7540
-      scoredSeconds:
-      - 0
-      - 7540
-      scoredTimes:
-      - 2016-04-09T18:24:16Z
-      - 2016-04-09T20:29:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7540
+        scoredSeconds:
+        - 0
+        - 7540
+        scoredTimes:
+        - 2016-04-09T18:24:16Z
+        - 2016-04-09T20:29:56Z
+        scoredWindowSeconds: 7540
   - - - '201'
       - Niki Longshore
-    - scoredFixes:
-      - 0
-      - 1177
-      scoredSeconds:
-      - 0
-      - 6726
-      scoredTimes:
-      - 2016-04-09T18:34:38Z
-      - 2016-04-09T20:26:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1177
+        scoredSeconds:
+        - 0
+        - 6726
+        scoredTimes:
+        - 2016-04-09T18:34:38Z
+        - 2016-04-09T20:26:44Z
+        scoredWindowSeconds: 6726
   - - - '210'
       - Pete Wall
-    - scoredFixes:
-      - 9
-      - 462
-      scoredSeconds:
-      - 236
-      - 2501
-      scoredTimes:
-      - 2016-04-09T19:35:42Z
-      - 2016-04-09T20:13:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 462
+        scoredSeconds:
+        - 236
+        - 2501
+        scoredTimes:
+        - 2016-04-09T19:35:42Z
+        - 2016-04-09T20:13:27Z
+        scoredWindowSeconds: 2265
   - - - '214'
       - Richard Elder
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '217'
       - Richard Westmoreland
-    - scoredFixes:
-      - 9
-      - 677
-      scoredSeconds:
-      - 275
-      - 7101
-      scoredTimes:
-      - 2016-04-09T18:50:40Z
-      - 2016-04-09T20:44:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 677
+        scoredSeconds:
+        - 275
+        - 7101
+        scoredTimes:
+        - 2016-04-09T18:50:40Z
+        - 2016-04-09T20:44:26Z
+        scoredWindowSeconds: 6826
   - - - '208'
       - Soraya Rios
-    - scoredFixes:
-      - 7
-      - 179
-      scoredSeconds:
-      - 198
-      - 1945
-      scoredTimes:
-      - 2016-04-09T19:43:57Z
-      - 2016-04-09T20:13:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 179
+        scoredSeconds:
+        - 198
+        - 1945
+        scoredTimes:
+        - 2016-04-09T19:43:57Z
+        - 2016-04-09T20:13:04Z
+        scoredWindowSeconds: 1747
 timing:
 - zonesSum:
   - 16

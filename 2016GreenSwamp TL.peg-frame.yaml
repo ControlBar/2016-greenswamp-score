@@ -7,271 +7,369 @@ stopWindow:
 stopFlying:
 - - - - '105'
       - Alan Arcos
-    - scoredFixes:
-      - 0
-      - 685
-      scoredSeconds:
-      - 0
-      - 7011
-      scoredTimes:
-      - 2016-04-03T18:33:38Z
-      - 2016-04-03T20:30:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 685
+        scoredSeconds:
+        - 0
+        - 7011
+        scoredTimes:
+        - 2016-04-03T18:33:38Z
+        - 2016-04-03T20:30:29Z
+        scoredWindowSeconds: 7011
   - - - '102'
       - Fausto Arcos
-    - scoredFixes:
-      - 5
-      - 1201
-      scoredSeconds:
-      - 150
-      - 7853
-      scoredTimes:
-      - 2016-04-03T18:30:03Z
-      - 2016-04-03T20:38:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 1201
+        scoredSeconds:
+        - 150
+        - 7853
+        scoredTimes:
+        - 2016-04-03T18:30:03Z
+        - 2016-04-03T20:38:26Z
+        scoredWindowSeconds: 7703
   - - - '101'
       - Ken  Kinzie
-    - scoredFixes:
-      - 39
-      - 770
-      scoredSeconds:
-      - 5298
-      - 30519
-      scoredTimes:
-      - 2016-04-03T16:44:40Z
-      - 2016-04-03T23:45:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 39
+        - 770
+        scoredSeconds:
+        - 5298
+        - 30519
+        scoredTimes:
+        - 2016-04-03T16:44:40Z
+        - 2016-04-03T23:45:01Z
+        scoredWindowSeconds: 25221
   - - - '104'
       - Mark Bourbonnais
-    - scoredFixes:
-      - 0
-      - 4057
-      scoredSeconds:
-      - 0
-      - 11432
-      scoredTimes:
-      - 2016-04-03T18:30:39Z
-      - 2016-04-03T21:41:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4057
+        scoredSeconds:
+        - 0
+        - 11432
+        scoredTimes:
+        - 2016-04-03T18:30:39Z
+        - 2016-04-03T21:41:11Z
+        scoredWindowSeconds: 11432
   - - - '103'
       - Mick Howard
-    - scoredFixes:
-      - 0
-      - 3581
-      scoredSeconds:
-      - 0
-      - 7000
-      scoredTimes:
-      - 2016-04-03T18:41:01Z
-      - 2016-04-03T20:37:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3581
+        scoredSeconds:
+        - 0
+        - 7000
+        scoredTimes:
+        - 2016-04-03T18:41:01Z
+        - 2016-04-03T20:37:41Z
+        scoredWindowSeconds: 7000
 - - - - '105'
       - Alan Arcos
-    - scoredFixes:
-      - 0
-      - 1218
-      scoredSeconds:
-      - 0
-      - 9532
-      scoredTimes:
-      - 2016-04-04T18:04:08Z
-      - 2016-04-04T20:43:00Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1218
+        scoredSeconds:
+        - 0
+        - 9532
+        scoredTimes:
+        - 2016-04-04T18:04:08Z
+        - 2016-04-04T20:43:00Z
+        scoredWindowSeconds: 9532
   - - - '102'
       - Fausto Arcos
-    - scoredFixes:
-      - 9
-      - 2096
-      scoredSeconds:
-      - 270
-      - 10634
-      scoredTimes:
-      - 2016-04-04T18:12:26Z
-      - 2016-04-04T21:05:10Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 2096
+        scoredSeconds:
+        - 270
+        - 10634
+        scoredTimes:
+        - 2016-04-04T18:12:26Z
+        - 2016-04-04T21:05:10Z
+        scoredWindowSeconds: 10364
   - - - '101'
       - Ken  Kinzie
-    - scoredFixes:
-      - 7
-      - 4505
-      scoredSeconds:
-      - 10512
-      - 80559
-      scoredTimes:
-      - 2016-04-04T03:12:16Z
-      - 2016-04-04T22:39:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 4505
+        scoredSeconds:
+        - 10512
+        - 80559
+        scoredTimes:
+        - 2016-04-04T03:12:16Z
+        - 2016-04-04T22:39:43Z
+        scoredWindowSeconds: 70047
   - - - '104'
       - Mark Bourbonnais
-    - scoredFixes:
-      - 4
-      - 3001
-      scoredSeconds:
-      - 122
-      - 12276
-      scoredTimes:
-      - 2016-04-04T18:03:32Z
-      - 2016-04-04T21:26:06Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 3001
+        scoredSeconds:
+        - 122
+        - 12276
+        scoredTimes:
+        - 2016-04-04T18:03:32Z
+        - 2016-04-04T21:26:06Z
+        scoredWindowSeconds: 12154
   - - - '103'
       - Mick Howard
-    - scoredFixes:
-      - 10
-      - 5058
-      scoredSeconds:
-      - 300
-      - 9820
-      scoredTimes:
-      - 2016-04-04T18:14:22Z
-      - 2016-04-04T20:53:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 5058
+        scoredSeconds:
+        - 300
+        - 9820
+        scoredTimes:
+        - 2016-04-04T18:14:22Z
+        - 2016-04-04T20:53:02Z
+        scoredWindowSeconds: 9520
 - - - - '105'
       - Alan Arcos
-    - scoredFixes:
-      - 0
-      - 1465
-      scoredSeconds:
-      - 0
-      - 12744
-      scoredTimes:
-      - 2016-04-05T17:39:59Z
-      - 2016-04-05T21:12:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1465
+        scoredSeconds:
+        - 0
+        - 12744
+        scoredTimes:
+        - 2016-04-05T17:39:59Z
+        - 2016-04-05T21:12:23Z
+        scoredWindowSeconds: 12744
   - - - '102'
       - Fausto Arcos
-    - scoredFixes:
-      - 9
-      - 1316
-      scoredSeconds:
-      - 270
-      - 11064
-      scoredTimes:
-      - 2016-04-05T18:14:18Z
-      - 2016-04-05T21:14:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1316
+        scoredSeconds:
+        - 270
+        - 11064
+        scoredTimes:
+        - 2016-04-05T18:14:18Z
+        - 2016-04-05T21:14:12Z
+        scoredWindowSeconds: 10794
   - - - '101'
       - Ken  Kinzie
-    - scoredFixes:
-      - 26
-      - 6394
-      scoredSeconds:
-      - 5398
-      - 22545
-      scoredTimes:
-      - 2016-04-05T17:23:33Z
-      - 2016-04-05T22:09:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 6394
+        scoredSeconds:
+        - 5398
+        - 22545
+        scoredTimes:
+        - 2016-04-05T17:23:33Z
+        - 2016-04-05T22:09:20Z
+        scoredWindowSeconds: 17147
   - - - '104'
       - Mark Bourbonnais
-    - scoredFixes:
-      - 3
-      - 1314
-      scoredSeconds:
-      - 92
-      - 12309
-      scoredTimes:
-      - 2016-04-05T18:12:45Z
-      - 2016-04-05T21:36:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 1314
+        scoredSeconds:
+        - 92
+        - 12309
+        scoredTimes:
+        - 2016-04-05T18:12:45Z
+        - 2016-04-05T21:36:22Z
+        scoredWindowSeconds: 12217
   - - - '103'
       - Mick Howard
-    - scoredFixes:
-      - 9
-      - 6564
-      scoredSeconds:
-      - 271
-      - 13152
-      scoredTimes:
-      - 2016-04-05T17:38:42Z
-      - 2016-04-05T21:13:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 6564
+        scoredSeconds:
+        - 271
+        - 13152
+        scoredTimes:
+        - 2016-04-05T17:38:42Z
+        - 2016-04-05T21:13:23Z
+        scoredWindowSeconds: 12881
 - - - - '105'
       - Alan Arcos
-    - scoredFixes:
-      - 3
-      - 333
-      scoredSeconds:
-      - 90
-      - 3510
-      scoredTimes:
-      - 2016-04-06T17:53:24Z
-      - 2016-04-06T18:50:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 333
+        scoredSeconds:
+        - 90
+        - 3510
+        scoredTimes:
+        - 2016-04-06T17:53:24Z
+        - 2016-04-06T18:50:24Z
+        scoredWindowSeconds: 3420
   - - - '102'
       - Fausto Arcos
-    - scoredFixes:
-      - 9
-      - 1244
-      scoredSeconds:
-      - 270
-      - 12583
-      scoredTimes:
-      - 2016-04-06T18:00:07Z
-      - 2016-04-06T21:25:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1244
+        scoredSeconds:
+        - 270
+        - 12583
+        scoredTimes:
+        - 2016-04-06T18:00:07Z
+        - 2016-04-06T21:25:20Z
+        scoredWindowSeconds: 12313
   - - - '101'
       - Ken  Kinzie
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '104'
       - Mark Bourbonnais
-    - scoredFixes:
-      - 0
-      - 345
-      scoredSeconds:
-      - 0
-      - 3694
-      scoredTimes:
-      - 2016-04-06T17:50:30Z
-      - 2016-04-06T18:52:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 345
+        scoredSeconds:
+        - 0
+        - 3694
+        scoredTimes:
+        - 2016-04-06T17:50:30Z
+        - 2016-04-06T18:52:04Z
+        scoredWindowSeconds: 3694
   - - - '103'
       - Mick Howard
-    - scoredFixes:
-      - 0
-      - 4059
-      scoredSeconds:
-      - 0
-      - 8528
-      scoredTimes:
-      - 2016-04-06T17:49:13Z
-      - 2016-04-06T20:11:21Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4059
+        scoredSeconds:
+        - 0
+        - 8528
+        scoredTimes:
+        - 2016-04-06T17:49:13Z
+        - 2016-04-06T20:11:21Z
+        scoredWindowSeconds: 8528
 - - - - '105'
       - Alan Arcos
-    - scoredFixes:
-      - 0
-      - 986
-      scoredSeconds:
-      - 0
-      - 6946
-      scoredTimes:
-      - 2016-04-09T17:50:08Z
-      - 2016-04-09T19:45:54Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 986
+        scoredSeconds:
+        - 0
+        - 6946
+        scoredTimes:
+        - 2016-04-09T17:50:08Z
+        - 2016-04-09T19:45:54Z
+        scoredWindowSeconds: 6946
   - - - '102'
       - Fausto Arcos
-    - scoredFixes:
-      - 0
-      - 597
-      scoredSeconds:
-      - 0
-      - 6108
-      scoredTimes:
-      - 2016-04-09T18:04:31Z
-      - 2016-04-09T19:46:19Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 597
+        scoredSeconds:
+        - 0
+        - 6108
+        scoredTimes:
+        - 2016-04-09T18:04:31Z
+        - 2016-04-09T19:46:19Z
+        scoredWindowSeconds: 6108
   - - - '101'
       - Ken  Kinzie
-    - scoredFixes:
-      - 0
-      - 4273
-      scoredSeconds:
-      - 0
-      - 6391
-      scoredTimes:
-      - 2016-04-09T18:01:32Z
-      - 2016-04-09T19:48:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4273
+        scoredSeconds:
+        - 0
+        - 6391
+        scoredTimes:
+        - 2016-04-09T18:01:32Z
+        - 2016-04-09T19:48:03Z
+        scoredWindowSeconds: 6391
   - - - '104'
       - Mark Bourbonnais
-    - scoredFixes:
-      - 2
-      - 1114
-      scoredSeconds:
-      - 61
-      - 6180
-      scoredTimes:
-      - 2016-04-09T18:08:35Z
-      - 2016-04-09T19:50:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 1114
+        scoredSeconds:
+        - 61
+        - 6180
+        scoredTimes:
+        - 2016-04-09T18:08:35Z
+        - 2016-04-09T19:50:34Z
+        scoredWindowSeconds: 6119
   - - - '103'
       - Mick Howard
-    - scoredFixes:
-      - 10
-      - 3067
-      scoredSeconds:
-      - 306
-      - 6554
-      scoredTimes:
-      - 2016-04-09T18:55:15Z
-      - 2016-04-09T20:39:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 3067
+        scoredSeconds:
+        - 306
+        - 6554
+        scoredTimes:
+        - 2016-04-09T18:55:15Z
+        - 2016-04-09T20:39:23Z
+        scoredWindowSeconds: 6248
 timing:
 - zonesSum:
   - 5

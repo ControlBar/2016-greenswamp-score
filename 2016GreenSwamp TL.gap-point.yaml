@@ -226,7 +226,17 @@ score:
       - Fausto Arcos
     - place: '1'
       total: 897.239
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -238,8 +248,6 @@ score:
         reach: 175.36
         distance: 350.72
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:27:15.96547425115Z
         gs: null
@@ -249,15 +257,13 @@ score:
         gsElapsed: 1.052579 h
         ssVelocity: 28.18 km / h
         gsVelocity: 28.18 km / h
+      penaltyReason: ''
       reach:
         extra: 34.258 km
         flown: 34.258 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 897.239
       landedMade: 34.258 km
       stoppedAlt: null
@@ -265,7 +271,17 @@ score:
       - Mick Howard
     - place: '2'
       total: 827.2
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -277,8 +293,6 @@ score:
         reach: 175.36
         distance: 350.72
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:24:02.615335829094Z
         gs: null
@@ -288,15 +302,13 @@ score:
         gsElapsed: 1.099648 h
         ssVelocity: 26.97 km / h
         gsVelocity: 26.97 km / h
+      penaltyReason: ''
       reach:
         extra: 34.258 km
         flown: 34.258 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 827.2
       landedMade: 34.258 km
       stoppedAlt: null
@@ -304,7 +316,17 @@ score:
       - Mark Bourbonnais
     - place: '3'
       total: 667.738
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -316,8 +338,6 @@ score:
         reach: 175.36
         distance: 350.72
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:25:50.46089977296Z
         gs: null
@@ -327,15 +347,13 @@ score:
         gsElapsed: 1.331767 h
         ssVelocity: 22.27 km / h
         gsVelocity: 22.27 km / h
+      penaltyReason: ''
       reach:
         extra: 34.258 km
         flown: 34.258 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 667.738
       landedMade: 34.258 km
       stoppedAlt: null
@@ -343,7 +361,17 @@ score:
       - Alan Arcos
     - place: '4'
       total: 371.177
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls:
@@ -356,8 +384,6 @@ score:
         reach: 133.954
         distance: 309.314
         leading: 0
-      demeritFrac: -61.863
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:31:50.31394732356Z
         gs: null
@@ -367,36 +393,42 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: Handicap
       reach:
         extra: 26.169 km
         flown: 26.169 km
+      demeritFrac: -61.863
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: Handicap
       subtotal: 309.314
-      landedMade: 25.780 km
+      landedMade: 26.169 km
       stoppedAlt: -10.000 m
   - - - '101'
       - Ken  Kinzie
     - place: '5'
-      total: 91.113
+      total: 92.997
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
         resets: []
       breakdown:
-        effort: 61.65
+        effort: 63.534
         arrival: 0
         time: 0
         reach: 29.463
-        distance: 91.113
+        distance: 92.997
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T18:52:12.027237520309Z
         gs: null
@@ -406,23 +438,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 5.756 km
         flown: 5.756 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 91.113
-      landedMade: 5.436 km
+      subtotal: 92.997
+      landedMade: 5.756 km
       stoppedAlt: 0.000 m
 - - - - '103'
       - Mick Howard
     - place: '1'
       total: 1000
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -434,8 +474,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:33:32.370067440058Z
         gs: null
@@ -445,15 +483,13 @@ score:
         gsElapsed: 2.159355 h
         ssVelocity: 18.56 km / h
         gsVelocity: 18.56 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 1000
       landedMade: 42.669 km
       stoppedAlt: null
@@ -461,7 +497,17 @@ score:
       - Alan Arcos
     - place: '2'
       total: 915.334
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -473,8 +519,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:24:01.04198402292Z
         gs: null
@@ -484,15 +528,13 @@ score:
         gsElapsed: 2.230227 h
         ssVelocity: 17.97 km / h
         gsVelocity: 17.97 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 915.334
       landedMade: 42.669 km
       stoppedAlt: null
@@ -500,7 +542,17 @@ score:
       - Fausto Arcos
     - place: '3'
       total: 884.386
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -512,8 +564,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:29:23.52275112387Z
         gs: null
@@ -523,15 +573,13 @@ score:
         gsElapsed: 2.272446 h
         ssVelocity: 17.63 km / h
         gsVelocity: 17.63 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 884.386
       landedMade: 42.669 km
       stoppedAlt: null
@@ -539,7 +587,17 @@ score:
       - Mark Bourbonnais
     - place: '4'
       total: 786.408
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -551,8 +609,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:25:06.879393830608Z
         gs: null
@@ -562,15 +618,13 @@ score:
         gsElapsed: 2.443336 h
         ssVelocity: 16.40 km / h
         gsVelocity: 16.40 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 786.408
       landedMade: 42.669 km
       stoppedAlt: null
@@ -578,7 +632,17 @@ score:
       - Ken  Kinzie
     - place: '5'
       total: 743.263
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -590,8 +654,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:23:26.596978848848Z
         gs: null
@@ -601,15 +663,13 @@ score:
         gsElapsed: 2.533589 h
         ssVelocity: 15.82 km / h
         gsVelocity: 15.82 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 743.263
       landedMade: 42.669 km
       stoppedAlt: null
@@ -617,7 +677,17 @@ score:
       - Fausto Arcos
     - place: '1'
       total: 1000
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -629,8 +699,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:28:54.09351301181Z
         gs: null
@@ -640,15 +708,13 @@ score:
         gsElapsed: 2.684317 h
         ssVelocity: 39.47 km / h
         gsVelocity: 39.47 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 1000
       landedMade: 110.549 km
       stoppedAlt: null
@@ -656,7 +722,17 @@ score:
       - Mick Howard
     - place: '2'
       total: 797.649
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -668,8 +744,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:10:04.213696651866Z
         gs: null
@@ -679,15 +753,13 @@ score:
         gsElapsed: 2.976278 h
         ssVelocity: 35.60 km / h
         gsVelocity: 35.60 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 797.649
       landedMade: 110.549 km
       stoppedAlt: null
@@ -695,7 +767,17 @@ score:
       - Mark Bourbonnais
     - place: '3'
       total: 783.731
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -707,8 +789,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:33:44.28713852321Z
         gs: null
@@ -718,15 +798,13 @@ score:
         gsElapsed: 3.006912 h
         ssVelocity: 35.24 km / h
         gsVelocity: 35.24 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 783.731
       landedMade: 110.549 km
       stoppedAlt: null
@@ -734,7 +812,17 @@ score:
       - Alan Arcos
     - place: '4'
       total: 767.003
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -746,8 +834,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:05:52.33035794758Z
         gs: null
@@ -757,15 +843,13 @@ score:
         gsElapsed: 3.045055 h
         ssVelocity: 34.79 km / h
         gsVelocity: 34.79 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 767.003
       landedMade: 110.549 km
       stoppedAlt: null
@@ -773,7 +857,17 @@ score:
       - Ken  Kinzie
     - place: '5'
       total: 460.018
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -785,8 +879,6 @@ score:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:56:40.08726323252Z
         gs: null
@@ -796,15 +888,13 @@ score:
         gsElapsed: 3.957042 h
         ssVelocity: 26.77 km / h
         gsVelocity: 26.77 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 460.018
       landedMade: 110.549 km
       stoppedAlt: null
@@ -812,7 +902,17 @@ score:
       - Fausto Arcos
     - place: '1'
       total: 1000
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -824,8 +924,6 @@ score:
         reach: 315.412
         distance: 630.824
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:13:29.17186749601Z
         gs: null
@@ -835,15 +933,13 @@ score:
         gsElapsed: 3.010983 h
         ssVelocity: 34.43 km / h
         gsVelocity: 34.43 km / h
+      penaltyReason: ''
       reach:
         extra: 108.269 km
         flown: 108.269 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 1000
       landedMade: 108.269 km
       stoppedAlt: null
@@ -851,7 +947,17 @@ score:
       - Mick Howard
     - place: '2'
       total: 447.905
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -863,8 +969,6 @@ score:
         reach: 132.493
         distance: 447.905
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:38:01.768626524846Z
         gs: null
@@ -874,36 +978,42 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 45.480 km
         flown: 45.480 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 447.905
-      landedMade: 45.219 km
+      landedMade: 45.480 km
       stoppedAlt: -20.000 m
   - - - '105'
       - Alan Arcos
-    - place: 3=
-      total: 298.467
+    - place: '3'
+      total: 303.088
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
         resets: []
       breakdown:
-        effort: 232.093
+        effort: 236.713
         arrival: 0
         time: 0
         reach: 66.375
-        distance: 298.467
+        distance: 303.088
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:15:08.96746386326Z
         gs: null
@@ -913,36 +1023,42 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.784 km
         flown: 22.784 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 298.467
-      landedMade: 21.733 km
+      subtotal: 303.088
+      landedMade: 22.784 km
       stoppedAlt: -40.000 m
   - - - '104'
       - Mark Bourbonnais
-    - place: 3=
-      total: 297.666
+    - place: '4'
+      total: 300.901
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
         resets: []
       breakdown:
-        effort: 232.093
+        effort: 235.327
         arrival: 0
         time: 0
         reach: 65.574
-        distance: 297.666
+        distance: 300.901
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:15:23.79753488477Z
         gs: null
@@ -952,23 +1068,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.509 km
         flown: 22.509 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 297.666
-      landedMade: 21.749 km
+      subtotal: 300.901
+      landedMade: 22.509 km
       stoppedAlt: -30.000 m
 - - - - '105'
       - Alan Arcos
     - place: '1'
       total: 919.397
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -980,8 +1104,6 @@ score:
         reach: 167.227
         distance: 334.455
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:33:41.72285373541Z
         gs: null
@@ -991,15 +1113,13 @@ score:
         gsElapsed: 1.107839 h
         ssVelocity: 32.83 km / h
         gsVelocity: 32.83 km / h
+      penaltyReason: ''
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 919.397
       landedMade: 40.966 km
       stoppedAlt: null
@@ -1007,7 +1127,17 @@ score:
       - Ken  Kinzie
     - place: '2'
       total: 905.525
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1019,8 +1149,6 @@ score:
         reach: 167.227
         distance: 334.455
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:33:44.252529523065Z
         gs: null
@@ -1030,15 +1158,13 @@ score:
         gsElapsed: 1.111683 h
         ssVelocity: 32.71 km / h
         gsVelocity: 32.71 km / h
+      penaltyReason: ''
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 905.525
       landedMade: 40.966 km
       stoppedAlt: null
@@ -1046,7 +1172,17 @@ score:
       - Mark Bourbonnais
     - place: '3'
       total: 901.094
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1058,8 +1194,6 @@ score:
         reach: 167.227
         distance: 334.455
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:33:46.84728140999Z
         gs: null
@@ -1069,15 +1203,13 @@ score:
         gsElapsed: 1.113665 h
         ssVelocity: 32.65 km / h
         gsVelocity: 32.65 km / h
+      penaltyReason: ''
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 901.094
       landedMade: 40.966 km
       stoppedAlt: null
@@ -1085,7 +1217,17 @@ score:
       - Fausto Arcos
     - place: '4'
       total: 892.517
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1097,8 +1239,6 @@ score:
         reach: 167.227
         distance: 334.455
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:33:39.62863719903Z
         gs: null
@@ -1108,15 +1248,13 @@ score:
         gsElapsed: 1.118207 h
         ssVelocity: 32.52 km / h
         gsVelocity: 32.52 km / h
+      penaltyReason: ''
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 892.517
       landedMade: 40.966 km
       stoppedAlt: null
@@ -1124,7 +1262,17 @@ score:
       - Mick Howard
     - place: '5'
       total: 308.941
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1136,8 +1284,6 @@ score:
         reach: 141.714
         distance: 308.941
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:21:50.746981431176Z
         gs: null
@@ -1147,24 +1293,32 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 34.716 km
         flown: 34.716 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 308.941
-      landedMade: 33.710 km
+      landedMade: 34.716 km
       stoppedAlt: 2.000 m
 scoreDf:
 - - - - '102'
       - Fausto Arcos
     - place: '1'
       total: 897.239
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1176,8 +1330,6 @@ scoreDf:
         reach: 175.36
         distance: 350.72
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:27:15.96547425115Z
         gs: null
@@ -1187,15 +1339,13 @@ scoreDf:
         gsElapsed: 1.052579 h
         ssVelocity: 28.18 km / h
         gsVelocity: 28.18 km / h
+      penaltyReason: ''
       reach:
         extra: 34.258 km
         flown: 34.258 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 897.239
       landedMade: 34.258 km
       stoppedAlt: null
@@ -1203,7 +1353,17 @@ scoreDf:
       - Mick Howard
     - place: '2'
       total: 827.2
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1215,8 +1375,6 @@ scoreDf:
         reach: 175.36
         distance: 350.72
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:24:02.615335829094Z
         gs: null
@@ -1226,15 +1384,13 @@ scoreDf:
         gsElapsed: 1.099648 h
         ssVelocity: 26.97 km / h
         gsVelocity: 26.97 km / h
+      penaltyReason: ''
       reach:
         extra: 34.258 km
         flown: 34.258 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 827.2
       landedMade: 34.258 km
       stoppedAlt: null
@@ -1242,7 +1398,17 @@ scoreDf:
       - Mark Bourbonnais
     - place: '3'
       total: 667.738
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1254,8 +1420,6 @@ scoreDf:
         reach: 175.36
         distance: 350.72
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:25:50.46089977296Z
         gs: null
@@ -1265,15 +1429,13 @@ scoreDf:
         gsElapsed: 1.331767 h
         ssVelocity: 22.27 km / h
         gsVelocity: 22.27 km / h
+      penaltyReason: ''
       reach:
         extra: 34.258 km
         flown: 34.258 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 667.738
       landedMade: 34.258 km
       stoppedAlt: null
@@ -1281,7 +1443,17 @@ scoreDf:
       - Alan Arcos
     - place: '4'
       total: 371.177
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls:
@@ -1294,8 +1466,6 @@ scoreDf:
         reach: 133.954
         distance: 309.314
         leading: 0
-      demeritFrac: -61.863
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T19:31:50.31394732356Z
         gs: null
@@ -1305,36 +1475,42 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: Handicap
       reach:
         extra: 26.169 km
         flown: 26.169 km
+      demeritFrac: -61.863
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: Handicap
       subtotal: 309.314
-      landedMade: 25.780 km
+      landedMade: 26.169 km
       stoppedAlt: -10.000 m
   - - - '101'
       - Ken  Kinzie
     - place: '5'
-      total: 91.113
+      total: 92.997
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
         resets: []
       breakdown:
-        effort: 61.65
+        effort: 63.534
         arrival: 0
         time: 0
         reach: 29.463
-        distance: 91.113
+        distance: 92.997
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-03T18:52:12.027237520309Z
         gs: null
@@ -1344,23 +1520,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 5.756 km
         flown: 5.756 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 91.113
-      landedMade: 5.436 km
+      subtotal: 92.997
+      landedMade: 5.756 km
       stoppedAlt: 0.000 m
 - - - - '103'
       - Mick Howard
     - place: '1'
       total: 1000
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1372,8 +1556,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:33:32.370067440058Z
         gs: null
@@ -1383,15 +1565,13 @@ scoreDf:
         gsElapsed: 2.159355 h
         ssVelocity: 18.56 km / h
         gsVelocity: 18.56 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 1000
       landedMade: 42.669 km
       stoppedAlt: null
@@ -1399,7 +1579,17 @@ scoreDf:
       - Alan Arcos
     - place: '2'
       total: 915.334
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1411,8 +1601,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:24:01.04198402292Z
         gs: null
@@ -1422,15 +1610,13 @@ scoreDf:
         gsElapsed: 2.230227 h
         ssVelocity: 17.97 km / h
         gsVelocity: 17.97 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 915.334
       landedMade: 42.669 km
       stoppedAlt: null
@@ -1438,7 +1624,17 @@ scoreDf:
       - Fausto Arcos
     - place: '3'
       total: 884.386
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1450,8 +1646,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:29:23.52275112387Z
         gs: null
@@ -1461,15 +1655,13 @@ scoreDf:
         gsElapsed: 2.272446 h
         ssVelocity: 17.63 km / h
         gsVelocity: 17.63 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 884.386
       landedMade: 42.669 km
       stoppedAlt: null
@@ -1477,7 +1669,17 @@ scoreDf:
       - Mark Bourbonnais
     - place: '4'
       total: 786.408
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1489,8 +1691,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:25:06.879393830608Z
         gs: null
@@ -1500,15 +1700,13 @@ scoreDf:
         gsElapsed: 2.443336 h
         ssVelocity: 16.40 km / h
         gsVelocity: 16.40 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 786.408
       landedMade: 42.669 km
       stoppedAlt: null
@@ -1516,7 +1714,17 @@ scoreDf:
       - Ken  Kinzie
     - place: '5'
       total: 743.263
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1528,8 +1736,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-04T18:23:26.596978848848Z
         gs: null
@@ -1539,15 +1745,13 @@ scoreDf:
         gsElapsed: 2.533589 h
         ssVelocity: 15.82 km / h
         gsVelocity: 15.82 km / h
+      penaltyReason: ''
       reach:
         extra: 42.669 km
         flown: 42.669 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 743.263
       landedMade: 42.669 km
       stoppedAlt: null
@@ -1555,7 +1759,17 @@ scoreDf:
       - Fausto Arcos
     - place: '1'
       total: 1000
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1567,8 +1781,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:28:54.09351301181Z
         gs: null
@@ -1578,15 +1790,13 @@ scoreDf:
         gsElapsed: 2.684317 h
         ssVelocity: 39.47 km / h
         gsVelocity: 39.47 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 1000
       landedMade: 110.549 km
       stoppedAlt: null
@@ -1594,7 +1804,17 @@ scoreDf:
       - Mick Howard
     - place: '2'
       total: 797.649
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1606,8 +1826,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:10:04.213696651866Z
         gs: null
@@ -1617,15 +1835,13 @@ scoreDf:
         gsElapsed: 2.976278 h
         ssVelocity: 35.60 km / h
         gsVelocity: 35.60 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 797.649
       landedMade: 110.549 km
       stoppedAlt: null
@@ -1633,7 +1849,17 @@ scoreDf:
       - Mark Bourbonnais
     - place: '3'
       total: 783.731
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1645,8 +1871,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:33:44.28713852321Z
         gs: null
@@ -1656,15 +1880,13 @@ scoreDf:
         gsElapsed: 3.006912 h
         ssVelocity: 35.24 km / h
         gsVelocity: 35.24 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 783.731
       landedMade: 110.549 km
       stoppedAlt: null
@@ -1672,7 +1894,17 @@ scoreDf:
       - Alan Arcos
     - place: '4'
       total: 767.003
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1684,8 +1916,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T18:05:52.33035794758Z
         gs: null
@@ -1695,15 +1925,13 @@ scoreDf:
         gsElapsed: 3.045055 h
         ssVelocity: 34.79 km / h
         gsVelocity: 34.79 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 767.003
       landedMade: 110.549 km
       stoppedAlt: null
@@ -1711,7 +1939,17 @@ scoreDf:
       - Ken  Kinzie
     - place: '5'
       total: 460.018
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1723,8 +1961,6 @@ scoreDf:
         reach: 180.5
         distance: 361
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-05T17:56:40.08726323252Z
         gs: null
@@ -1734,15 +1970,13 @@ scoreDf:
         gsElapsed: 3.957042 h
         ssVelocity: 26.77 km / h
         gsVelocity: 26.77 km / h
+      penaltyReason: ''
       reach:
         extra: 110.549 km
         flown: 110.549 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 460.018
       landedMade: 110.549 km
       stoppedAlt: null
@@ -1750,7 +1984,17 @@ scoreDf:
       - Fausto Arcos
     - place: '1'
       total: 1000
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1762,8 +2006,6 @@ scoreDf:
         reach: 315.412
         distance: 630.824
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:13:29.17186749601Z
         gs: null
@@ -1773,15 +2015,13 @@ scoreDf:
         gsElapsed: 3.010983 h
         ssVelocity: 34.43 km / h
         gsVelocity: 34.43 km / h
+      penaltyReason: ''
       reach:
         extra: 108.269 km
         flown: 108.269 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 1000
       landedMade: 108.269 km
       stoppedAlt: null
@@ -1789,7 +2029,17 @@ scoreDf:
       - Mick Howard
     - place: '2'
       total: 447.905
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1801,8 +2051,6 @@ scoreDf:
         reach: 132.493
         distance: 447.905
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:38:01.768626524846Z
         gs: null
@@ -1812,36 +2060,42 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 45.480 km
         flown: 45.480 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 447.905
-      landedMade: 45.219 km
+      landedMade: 45.480 km
       stoppedAlt: -20.000 m
   - - - '105'
       - Alan Arcos
-    - place: 3=
-      total: 298.467
+    - place: '3'
+      total: 303.088
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
         resets: []
       breakdown:
-        effort: 232.093
+        effort: 236.713
         arrival: 0
         time: 0
         reach: 66.375
-        distance: 298.467
+        distance: 303.088
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:15:08.96746386326Z
         gs: null
@@ -1851,36 +2105,42 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.784 km
         flown: 22.784 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 298.467
-      landedMade: 21.733 km
+      subtotal: 303.088
+      landedMade: 22.784 km
       stoppedAlt: -40.000 m
   - - - '104'
       - Mark Bourbonnais
-    - place: 3=
-      total: 297.666
+    - place: '4'
+      total: 300.901
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
         resets: []
       breakdown:
-        effort: 232.093
+        effort: 235.327
         arrival: 0
         time: 0
         reach: 65.574
-        distance: 297.666
+        distance: 300.901
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-06T18:15:23.79753488477Z
         gs: null
@@ -1890,23 +2150,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.509 km
         flown: 22.509 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 297.666
-      landedMade: 21.749 km
+      subtotal: 300.901
+      landedMade: 22.509 km
       stoppedAlt: -30.000 m
 - - - - '105'
       - Alan Arcos
     - place: '1'
       total: 919.397
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1918,8 +2186,6 @@ scoreDf:
         reach: 167.227
         distance: 334.455
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:33:41.72285373541Z
         gs: null
@@ -1929,15 +2195,13 @@ scoreDf:
         gsElapsed: 1.107839 h
         ssVelocity: 32.83 km / h
         gsVelocity: 32.83 km / h
+      penaltyReason: ''
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 919.397
       landedMade: 40.966 km
       stoppedAlt: null
@@ -1945,7 +2209,17 @@ scoreDf:
       - Ken  Kinzie
     - place: '2'
       total: 905.525
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1957,8 +2231,6 @@ scoreDf:
         reach: 167.227
         distance: 334.455
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:33:44.252529523065Z
         gs: null
@@ -1968,15 +2240,13 @@ scoreDf:
         gsElapsed: 1.111683 h
         ssVelocity: 32.71 km / h
         gsVelocity: 32.71 km / h
+      penaltyReason: ''
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 905.525
       landedMade: 40.966 km
       stoppedAlt: null
@@ -1984,7 +2254,17 @@ scoreDf:
       - Mark Bourbonnais
     - place: '3'
       total: 901.094
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1996,8 +2276,6 @@ scoreDf:
         reach: 167.227
         distance: 334.455
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:33:46.84728140999Z
         gs: null
@@ -2007,15 +2285,13 @@ scoreDf:
         gsElapsed: 1.113665 h
         ssVelocity: 32.65 km / h
         gsVelocity: 32.65 km / h
+      penaltyReason: ''
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 901.094
       landedMade: 40.966 km
       stoppedAlt: null
@@ -2023,7 +2299,17 @@ scoreDf:
       - Fausto Arcos
     - place: '4'
       total: 892.517
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2035,8 +2321,6 @@ scoreDf:
         reach: 167.227
         distance: 334.455
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T18:33:39.62863719903Z
         gs: null
@@ -2046,15 +2330,13 @@ scoreDf:
         gsElapsed: 1.118207 h
         ssVelocity: 32.52 km / h
         gsVelocity: 32.52 km / h
+      penaltyReason: ''
       reach:
         extra: 40.966 km
         flown: 40.966 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 892.517
       landedMade: 40.966 km
       stoppedAlt: null
@@ -2062,7 +2344,17 @@ scoreDf:
       - Mick Howard
     - place: '5'
       total: 308.941
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2074,8 +2366,6 @@ scoreDf:
         reach: 141.714
         distance: 308.941
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2016-04-09T19:21:50.746981431176Z
         gs: null
@@ -2085,17 +2375,15 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 34.716 km
         flown: 34.716 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 308.941
-      landedMade: 33.710 km
+      landedMade: 34.716 km
       stoppedAlt: 2.000 m
 scoreDfNoTrack:
 - []

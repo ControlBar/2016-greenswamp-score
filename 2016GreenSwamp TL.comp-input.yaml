@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: false
   arrivalTime: false
+  essNotGoalScaling: 0.8
   leadingAreaDistanceSquared: true
   leadingWeightScaling: 0
 tasks:
@@ -91,9 +92,11 @@ tasks:
     close: 2016-04-04T00:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 0
   earlyStart:
@@ -197,9 +200,11 @@ tasks:
     close: 2016-04-05T00:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 0
   earlyStart:
@@ -272,9 +277,11 @@ tasks:
     close: 2016-04-06T00:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 0
   earlyStart:
@@ -347,9 +354,11 @@ tasks:
     close: 2016-04-07T00:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 0
   earlyStart:
@@ -422,9 +431,11 @@ tasks:
     close: 2016-04-10T00:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 0
   earlyStart:
